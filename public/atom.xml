@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://localhost/atom.xml" rel="self"/>
-  <link href="http://localhost/"/>
-  <updated>2012-01-06T11:13:10-05:00</updated>
-  <id>http://localhost/</id>
+  <title><![CDATA[RB Design]]></title>
+  <link href="http://pure-samurai-7218.heroku.com/atom.xml" rel="self"/>
+  <link href="http://pure-samurai-7218.heroku.com/"/>
+  <updated>2012-01-06T18:07:04-05:00</updated>
+  <id>http://pure-samurai-7218.heroku.com/</id>
   <author>
     <name><![CDATA[R W Boyer]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Another Year]]></title>
-    <link href="http://localhost/blog/2012/01/05/Another-Year/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2012/01/05/Another-Year/"/>
     <updated>2012-01-05T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2012/01/05/Another-Year</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2012/01/05/Another-Year</id>
     <content type="html"><![CDATA[<h1>Another Year of WTF</h1>
 
 <p class="meta">5 Jan 2012 - Another Year Of Technology Disappointment</p>
@@ -70,9 +70,9 @@ end</code></pre></noscript></div>
   
   <entry>
     <title type="html"><![CDATA[NGINX and Unicorn]]></title>
-    <link href="http://localhost/blog/2011/01/19/nginx/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2011/01/19/nginx/"/>
     <updated>2011-01-19T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2011/01/19/nginx</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2011/01/19/nginx</id>
     <content type="html"><![CDATA[<h1><span class="caps">NGINX</span> and Unicorn</h1>
 <p class="meta">19 Jan 2011 &#8211; What&#8217;s all the hub-bub bub?</p>
 <p>So, we have all been reading about the wonders of new stuff to replace our old stuff. Well at least we have if we follow what is going on in the Ruby world even a little bit. Specifically there has been <em>a lot</em> of hub-bub and controversy about <span class="caps">NGINX</span> over Apache and Unicorn over Mongrel with increasing frequency in the past year or a little longer.</p>
@@ -95,9 +95,9 @@ end</code></pre></noscript></div>
   
   <entry>
     <title type="html"><![CDATA[Full Circle]]></title>
-    <link href="http://localhost/blog/2011/01/19/circle/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2011/01/19/circle/"/>
     <updated>2011-01-19T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2011/01/19/circle</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2011/01/19/circle</id>
     <content type="html"><![CDATA[<h1>Full Circle</h1>
 <p class="meta">19 Jan 2011 &#8211; If you sit back and watch, sometimes you cannot help but be amazed?</p>
 <h2>Preface</h2>
@@ -114,9 +114,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[Old Business Models Die Hard]]></title>
-    <link href="http://localhost/blog/2010/11/20/Mumps/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/11/20/Mumps/"/>
     <updated>2010-11-20T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2010/11/20/Mumps</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/11/20/Mumps</id>
     <content type="html"><![CDATA[<h1>Old Business Models Die Hard</h1>
 <p class="meta">20 Nov 2010 &#8211; A Flash Back To The 80&#8217;s &#8211; Like A Bad <span class="caps">LSD</span> Trip</p>
 <p>Some technology markets astound me. Let&#8217;s take the healthcare market. I am in the process of assisting a medical practice implement a new medical records system. To tell you the truth, this particular system is quite innovative. It&#8217;s built the way I would build it, using technology I would choose today. It&#8217;s delivered as in an <span class="caps">ASP</span> model and the client is specificly targed to run on the iPad. Very cool, easy to use, It talks &#8220;doctor&#8221; and knows all of the industry <em>diagnostic codes</em> so that the process of translating the work done to the insurance carrier is <em>automagic</em>. It&#8217;s actually the first system I have seen from a practice automation standpoint that I can really say I could jump on board with no caveats. As in &#8220;it looks okay for something in the medical industry&#8221;. The secret is the people that are behind the company don&#8217;t come from the <em>healtcare technology industry</em>. They come from the world the rest of us live in, you know the 21st century world.</p>
@@ -130,9 +130,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[Brand New MacBook Air]]></title>
-    <link href="http://localhost/blog/2010/11/18/MacBook-Air/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/11/18/MacBook-Air/"/>
     <updated>2010-11-18T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2010/11/18/MacBook-Air</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/11/18/MacBook-Air</id>
     <content type="html"><![CDATA[<h1>Brand New MacBook Air</h1>
 <p class="meta">18 Nov 2010 &#8211; My Rationale For A Really Expensive 11.6&quot; Air</p>
 <p>Normal people try to get the best quatifiable bang for their buck. Normal people that are willing to slam down $1400 in hard earned cash for a new MacBook Air no doubt end up getting the 13&quot;. I mean who the crap would spend that much on the 11.6 inch model? You would have to be out of your mind. Wouldn&#8217;t you?</p>
@@ -158,9 +158,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[How to set up new DASD (disk) for use with VM/370 under hercules]]></title>
-    <link href="http://localhost/blog/2010/11/16/VM370-new-disk/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/11/16/VM370-new-disk/"/>
     <updated>2010-11-16T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2010/11/16/VM370-new-disk</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/11/16/VM370-new-disk</id>
     <content type="html"><![CDATA[<h1>How to set up new <span class="caps">DASD</span> (disk) for use with VM/370 under hercules</h1>
 <p class="meta">16 Nov 2010 &#8211; Just incase you want to know</p>
 <p>I am a bit rusty on my CP/<span class="caps">CMS</span> commands so I tried googling the syntax of something regarding <span class="caps">DASD</span>. What I found were about 300 endless threads about setting up new <span class="caps">DASD</span> for use as Mini Disks for <span class="caps">CMS</span> users. Most of the discussion was off on wild tangents and never really answered the newbie that asked the questions. Here is the long and short of it assuming you have the ever popular starter VM/370 system up and running in hercules.</p>
@@ -171,9 +171,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[Playing With Technology]]></title>
-    <link href="http://localhost/blog/2010/11/15/playing/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/11/15/playing/"/>
     <updated>2010-11-15T00:00:00-05:00</updated>
-    <id>http://localhost/blog/2010/11/15/playing</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/11/15/playing</id>
     <content type="html"><![CDATA[<h1>Playing With Technology</h1>
 <p class="meta">15 Nov 2010 &#8211; VM/370, MySQL Cluster, Vagrant, VBox, Rails3, <span class="caps">RVM</span></p>
 <p>Been playing around a lot with tech lately. Somehow I re-embroiled myself in implementing some solutions for a couple of small businesses over the last couple years. I guess it started with a friend that needed to recover an ancient intel/unix system from a crashed drive&#8230; So guess who was the only person in a large radius that had a clue?</p>
@@ -186,9 +186,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[Fotki Amongst Others]]></title>
-    <link href="http://localhost/blog/2010/04/18/fotki/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/04/18/fotki/"/>
     <updated>2010-04-18T00:00:00-04:00</updated>
-    <id>http://localhost/blog/2010/04/18/fotki</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/04/18/fotki</id>
     <content type="html"><![CDATA[<h1>Fotki Amongst Others</h1>
 <p class="meta">18 Apr 2010 &#8211; If You Are Sick Of <span class="caps">FLICKR</span>&#8230;</p>
 <p>I am not a big fan of <span class="caps">FLICKR</span> &#8211; ever since they cancelled my paid account about a month into it and get this&#8230; I never ever even received an email about why. This made me so angry that I tried for 3 months to contact anyone at Flickr and Yahoo to no avail. I sent emails, I tried every single means in every single channel after digging and digging &#8211; Nada, nothing. Not a peep as to why. No response.</p>
@@ -199,9 +199,9 @@ Man once you get used to it this Vi thing is quite amazing. I was learning all t
   
   <entry>
     <title type="html"><![CDATA[For The Love Of Ruby]]></title>
-    <link href="http://localhost/blog/2010/04/17/for-the-love-of-ruby/"/>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2010/04/17/for-the-love-of-ruby/"/>
     <updated>2010-04-17T00:00:00-04:00</updated>
-    <id>http://localhost/blog/2010/04/17/for-the-love-of-ruby</id>
+    <id>http://pure-samurai-7218.heroku.com/blog/2010/04/17/for-the-love-of-ruby</id>
     <content type="html"><![CDATA[<h1>For The Love Of Ruby</h1>
 <p class="meta">17 Apr 2010 &#8211; Along Way From Home</p>
 <p>Well, I am sick and tired of WordPress. Really I am sick of the whole mess that is <span class="caps">PHP</span> land. A long long time ago in a galaxy far far away, I was a software developer for about 18 years &#8211; accidently. You see I went to school for Physics and Math and chucked in a CompSci major for the fun of it then accidently spent 18 years screwing around with computer crap. Then I sort of semi-retired and did the commercial photography thing &#8211; then I got sick of it when it felt just like.</p>
