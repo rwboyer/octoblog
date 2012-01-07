@@ -1,2 +1,9 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+//#content article h1.blog-index {
+
+#content .blog-index article h1.entry-title {
+  font-size: 2.0em;
+}
+
