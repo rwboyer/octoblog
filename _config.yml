@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pure-samurai-7218.heroku.com
-#url: http://code.rwboyer.com
+#url: http://pure-samurai-7218.heroku.com
+url: http://code.rwboyer.com
 title: RB Design
 subtitle: A complete reset
 author: R W Boyer
@@ -94,7 +94,7 @@ disqus_short_name: heroku-octopress
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-28176403-2
+google_analytics_tracking_id: UA-28176403-1
 
 # Facebook Like
 facebook_like: false
