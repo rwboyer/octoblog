@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-#url: http://pure-samurai-7218.heroku.com
-url: http://code.rwboyer.com
+url: http://pure-samurai-7218.heroku.com
+#url: http://code.rwboyer.com
 title: RB Design
 subtitle: A complete reset
 author: R W Boyer
