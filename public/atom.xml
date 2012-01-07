@@ -4,7 +4,7 @@
   <title><![CDATA[RB Design]]></title>
   <link href="http://pure-samurai-7218.heroku.com/atom.xml" rel="self"/>
   <link href="http://pure-samurai-7218.heroku.com/"/>
-  <updated>2012-01-06T18:13:43-05:00</updated>
+  <updated>2012-01-06T19:07:31-05:00</updated>
   <id>http://pure-samurai-7218.heroku.com/</id>
   <author>
     <name><![CDATA[R W Boyer]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WTF]]></title>
+    <link href="http://pure-samurai-7218.heroku.com/blog/2012/01/06/wtf/"/>
+    <updated>2012-01-06T19:05:00-05:00</updated>
+    <id>http://pure-samurai-7218.heroku.com/blog/2012/01/06/wtf</id>
+    <content type="html"><![CDATA[<p>WTF is a short way of saying what the fuck. And the answer is&#8230;
+{% blockquote %}
+The YAML front matter needs to have comments: true or comments will be false. Meaning no comments.</p>
+
+<p>RW
+:wq</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Year]]></title>
