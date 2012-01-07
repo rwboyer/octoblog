@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/04/17/For+The+Love+Of+Ruby/</loc>
-        <lastmod>2012-01-06T21:00:03-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2010/04/17/For+The+Love+Of+Ruby/</loc>
+        <lastmod>2012-01-07T00:45:13-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/04/18/Fotki+Amongst+Others/</loc>
-        <lastmod>2012-01-06T21:01:31-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2010/04/18/Fotki+Amongst+Others/</loc>
+        <lastmod>2012-01-07T00:46:58-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/11/15/playing/</loc>
-        <lastmod>2012-01-06T10:58:16-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2010/11/15/Playing-With-Technology/</loc>
+        <lastmod>2012-01-07T00:57:09-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/11/16/VM370-new-DASD/</loc>
+        <loc>http://code.rwboyer.com/blog/2010/11/16/VM370-new-DASD/</loc>
         <lastmod>2012-01-06T21:05:02-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/11/18/MacBook-Air/</loc>
+        <loc>http://code.rwboyer.com/blog/2010/11/18/MacBook-Air/</loc>
         <lastmod>2012-01-06T21:06:27-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2010/11/20/Mumps/</loc>
-        <lastmod>2012-01-06T21:07:30-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2010/11/20/Mumps/</loc>
+        <lastmod>2012-01-07T00:50:05-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2011/01/19/Full-Circle/</loc>
-        <lastmod>2012-01-06T21:10:57-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2011/01/19/Full-Circle/</loc>
+        <lastmod>2012-01-07T00:51:54-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2011/01/19/Nginx/</loc>
-        <lastmod>2012-01-06T21:11:46-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/2011/01/19/Nginx/</loc>
+        <lastmod>2012-01-07T00:54:21-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2012/01/05/Another-Year/</loc>
+        <loc>http://code.rwboyer.com/blog/2012/01/05/Another-Year/</loc>
         <lastmod>2012-01-06T20:04:23-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/2012/01/06/wtf/</loc>
+        <loc>http://code.rwboyer.com/blog/2012/01/06/wtf/</loc>
         <lastmod>2012-01-06T19:46:35-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/blog/archives/</loc>
-        <lastmod>2012-01-06T21:11:46-05:00</lastmod>
+        <loc>http://code.rwboyer.com/blog/archives/</loc>
+        <lastmod>2012-01-07T00:57:09-05:00</lastmod>
     </url>
     <url>
-        <loc>http://pure-samurai-7218.heroku.com/</loc>
-        <lastmod>2012-01-06T21:11:46-05:00</lastmod>
+        <loc>http://code.rwboyer.com/</loc>
+        <lastmod>2012-01-07T00:57:09-05:00</lastmod>
     </url>
 </urlset>

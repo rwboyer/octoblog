@@ -5,9 +5,9 @@ comments: true
 ---
 h2. Preface
 
-What prompted this series of random thoughts was partly a rash of _switching from Textmate to VI_ posts of late and "the funniest thing I have ever read":http://groups.google.com/group/haml/browse_thread/thread/f52b6750507b478 . That rant has nothing to do with Textmate to Vi but the context sort of brought the whole thing to a strange focus for me.
+What prompted this series of random thoughts was partly a rash of *switching from Textmate to Vi* posts of late and [the funniest thing I have ever read](http://groups.google.com/group/haml/browse_thread/thread/f52b6750507b478). That rant has nothing to do with Textmate to Vi but the context sort of brought the whole thing to a strange focus for me.
 
-In the beginning most of these young innovative web dudes and dude-ettes came up mostly from the M$ Windoze world because that is what they had at home.Upon doing stuff that actually had to work they kinda figured out that Linux/Unix was "good on the server". Then came like this Ruby stuff, really really cool. Now we all know how painful Ruby is on a Windoze box (_actually everything is painful on Windoze but you don't really know that until you see something like Ruby that doesn't have a next, next, next, next, next "wizard"_). So next comes the move to OS X for these guys/gals. Wow, this works great (shortly there is a realization that this is actually Unix with a way better couple of subsystems al la Apple) and there is this cool thingamagig that you *must* have called Textmate.
+In the beginning most of these young innovative web dudes and dude-ettes came up mostly from the M$ Windoze world because that is what they had at home.Upon doing stuff that actually had to work they kinda figured out that Linux/Unix was "good on the server". Then came like this Ruby stuff, really really cool. Now we all know how painful Ruby is on a Windoze box (*actually everything is painful on Windoze but you don't really know that until you see something like Ruby that doesn't have a next, next, next, next, next "wizard"*). So next comes the move to OS X for these guys/gals. Wow, this works great (shortly there is a realization that this is actually Unix with a way better couple of subsystems al la Apple) and there is this cool thingamagig that you *must* have called Textmate.
 
 So the word gets around that if you want to do Ruby you gotta have Textmate and that only works on OS X and a Mac. Somewhere the whole Ruby on Unix thing sorta gets subsumed in the Textmate thing.
 
@@ -16,7 +16,7 @@ Fastforward a little bit. Git. Holy crap, this git thing is friggin great. Like 
 Let's try this Vi thing (or sometimes this EMACS thing - but I am of the Vi church. What do you expect. I have been a BSD guy since the 80's).
 Man once you get used to it this Vi thing is quite amazing. I was learning all the shortcuts in Textmate anyway but this, this is really living.
 
-2011 - now we have all the Textmate'rs writing about how to make the transition to Vi. I happen to agree that there is a lot to be said for the Mac and Vi, and, and... as _the_ development environment of choice for just about anything but .Not, I mean .Net, or is that dot-net, I don't know. I just got there from another place. Here I was thinking that I was stuck on Vi because I am an old fuddy-duddy that can't seem to retrain some 20+ year old muscle memories. I guess everything that is old is new again. Or... Maybe it's just that some really great ideas are timeless.
+2011 - now we have all the Textmate'rs writing about how to make the transition to Vi. I happen to agree that there is a lot to be said for the Mac and Vi, and, and... as *the* development environment of choice for just about anything but .Not, I mean .Net, or is that dot-net, I don't know. I just got there from another place. Here I was thinking that I was stuck on Vi because I am an old fuddy-duddy that can't seem to retrain some 20+ year old muscle memories. I guess everything that is old is new again. Or... Maybe it's just that some really great ideas are timeless.
 
 RB
 :wq

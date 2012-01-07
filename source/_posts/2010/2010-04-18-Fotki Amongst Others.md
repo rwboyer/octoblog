@@ -8,6 +8,6 @@ I am not a big fan of FLICKR - ever since they cancelled my paid account about a
 
 So I guess I will try this... Pretty neat for free.
 
-!http://hotimg23.fotki.com/a/38_102/24_215/2000-034-15.jpg!
+{% img http://hotimg23.fotki.com/a/38_102/24_215/2000-034-15.jpg %}
 
 RB
