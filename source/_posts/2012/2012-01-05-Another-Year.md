@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Another Year
+comments: true
 ---
-
-# Another Year of WTF
 
 <p class="meta">5 Jan 2012 - Another Year Of Technology Disappointment</p>
 
