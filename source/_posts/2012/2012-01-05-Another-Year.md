@@ -9,6 +9,7 @@ comments: true
 Another year stuck with Liquid, me I rather use ruby but the pain of maintaining and merging branches of Jekyll into my hacked up code base that uses Haml and Ruby directly with all the wonderfull ruby constructs and varialbles available in layouts and pages. It's just too painful. So moving on to *Octopress*. We'll see how that goes.
 
 Disks vs. circles? Why am I getting disks on one server and circles as bullets with the exact same CSS?
+
 * CSS is the same
 * Code is the same
 * Develop inspector shows the same inheritance.
