@@ -1,0 +1,300 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Color Management and Other Stupid Internet Tricks - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="A few days ago I stumbled across an internet article related to color management written by a professional photographer that made me wince in pain. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2008/04/16/color-management-and-other-stupid-internet-tricks">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Color Management and Other Stupid Internet Tricks</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-04-16T00:00:00-04:00" pubdate data-updated="true">Apr 16<span>th</span>, 2008</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009srgb.jpg"><img class="alignleft size-thumbnail wp-image-243" title="dsc_9009srgb" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009srgb.jpg" alt="" width="100" height="150" /></a><a href="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009adobergb.jpg"><img class="alignleft size-thumbnail wp-image-248" title="dsc_9009adobergb" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009adobergb.jpg" alt="" width="100" height="150" /></a><a href="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009none.jpg"><img class="alignleft size-thumbnail wp-image-249" title="dsc_9009none" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009none.jpg" alt="" width="100" height="150" /></a>A few days ago I stumbled across an internet article related to color management written by a professional photographer that made me wince in pain. The article was all fine and dandy it&#8217;s purpose was to discuss the shortcomings of a certain piece of software. It really doesn&#8217;t matter what the software was or what it&#8217;s shortcomings were. The problem was that the author was doling out advice and work-arounds that are dead wrong. This prompted me to attempt to write a brief explanation of color management principles and practice that can be easily understood and hopefully provide some context when reading all of the hocus pocus, chicken bone waving non-sense out in the world. So let&#8217;s get started&#8230;<!--more--></p>
+
+<p>Input and image capture devices have a color profile, don&#8217;t worry about this, 99% of photographers use cameras and or RAW processors that produce files containing the appropriate color profile. As just mentioned image files have color profiles that describe the color data in the file. Last but not least, actually most important, output devices have color profiles. In the simplest terms these &#8220;color profiles&#8221; describe what color information is stored in image files and how color is displayed in the case of output devices. Output devices being monitors, printers, print labs, projectors, etc., etc. In a color managed application the goal is to translate the color in the image file to the output device as accurately as possible based on the color profile information contained in the file and that of the output device. Sometimes that cannot be done but that is a topic I will cover another day.</p>
+
+<p>If we assume that you have accurate color profiles for all of the ways that you output your images and we assume that the application that you are using is color managed then color management is simple, I mean really simple. No matter what the color profile of your image file happens to be there are only a couple of things that you need to know how to do. Use the correct color profile for your monitor so that you will see the color that exists in your image file as close to correct as possible. You get a good monitor profile by either creating one yourself using software that came with your OS or that may have come with your application (ie. Adobe gamma). The other and better way is to create one using one of a number of monitor calibration systems like a <a href="http://spyder.datacolor.com/index_us.php">Spyder 3</a>.</p>
+
+<p>Use the on-screen or soft proofing feature of your color managed application of choice with the correct output profile for whatever you will be using for your final output. You can get these output profiles from your lab if you are using a lab for prints, or they may come with your inkjet printer if you are using an inkjet to print, or you can make them yourself (the best way) with a calibration system from companies like <a href="http://datacolor.com/">Datacolor </a>. By doing on-screen or soft proofing using a good output profile you will be able to approximate what the final output will look like and predict any issues that may arise in outputting your image. Keep in mind that an output for a paper print (including custom labs) varies with paper type and brand as well as a specific printer so you will need one for each different paper that you or your lab uses.</p>
+
+<p>Last you need know how to setup your software and printer to use the correct color profile for output. In the case of using an inkjet printer this usually consists of telling the printer driver to do nothing and telling your software to use the color profile for the printer/paper combination that you are using. In the case of using a lab to get prints just follow the directions that the lab gives you for sending them your image file. I do mean follow it exactly sometimes it&#8217;s ok to send them an image file of any color profile that you want and they do the conversion to a specific profile for you. Sometimes they want you to do the conversion, etc. Anyway that you slice it the lab you are using will have specific instructions, everything from sending an sRGB JPG to very specific specifications on not only profile conversions, color space conversions, native file resolution, format, et al. for specialized labs.</p>
+
+<p>That&#8217;s it, that is all you have to know how to do to be color managed. The exact step by step procedure varies by operating system, application, printer, lab, etc. but conceptually if you know how to do these couple of things you are set. <a href="Entries/2008/4/16_Color_Management_and_Other_Stupid_Internet_Tricks_files/mailto%253Arwboyer%2540mac.com%253Fsubject%253DColor">Email</a> me if you are having trouble with any of them.
+So, where does all the hubbub come in? The simple answer is A - people that can&#8217;t figure this out and B - Microsoft and the Web. A few more specifics so that you can know what your doing, why things may go wrong and how to deal with them. We&#8217;ll take case Afirst. In this case you need to send someone a file that has no idea what they are doing. This could be a client or a lab that deals with people that have no idea what they are doing, etc. In this case you need to make sure that the file that you send them is converted to an sRGB profile. Why do this? Everyone knows this right just make it sRGB and everything will be fine, right? Well sort of, if you do nothing special most modern printers and labs will just assume that the image is sRGB, most monitors that are not calibrated, along with non-color managed applications are less bad with sRGB images, this does not mean that they are accurate or predictable, just that they are less bad than with wider gamut profiles like Adobe RGB. Most likely that image will not look like it did on your profiled monitor, nor will the print look like it did on either your monitor or the person you sent it to but it won&#8217;t be a disaster.</p>
+
+<p>On to case B - Once upon a time way back in the dark ages web browsers and operating systems had no idea about color management, Microsoft Windows and Internet Explorer generally still have no idea about color management. Because of this people that are looking at images on the web with Internet Explorer and other non-color managed browsers are pretty much seeing random color - namely the image no matter what the color profile of the actual file is being displayed in the native color space of whatever monitor they are using. Now if the image file on the web that they happen to be looking at with IE is Adobe RGB, ProPhotoRGB, or some other wide gamut space it will generally look horrible because no translation is being done. Even if the image is sRGB there is still no conversion done (with the exception of Apple Safari). It just so happens that if it happens to be sRGB it will be less of a disaster when no conversion is done, it still won&#8217;t be accurate or the same thing that you are looking at on your monitor. So the lowest common denominator is just to make sure that all of the images that you put on the web are converted to sRGB profile first, that way they won&#8217;t be a total disaster when they are displayed on someone else&#8217;s monitor. It has also become general practice for &#8216;people that know what they are doing&#8217; to not only convert a web image to an sRGB profile but to also strip the profile information as well. I put this in quotes because this practice is antiquated and generally stupid. I have included an example of why this is stupid but the bottom line is that even if you are looking at a web image in a color managed application and your monitor is calibrated and using the correct monitor color profile an image with no color profile (even an sRGB image) will display incorrectly.</p>
+
+<p>Now the example and where the Apple bias as well as the article that prompted me to write this blog comes in. Take a look at the three images at the top of the page (each one links to a larger version). I am using an Apple Mac with a calibrated monitor to view them. No matter what application that I use to view them Preview, Safari, Aperture, Pages, Keynote, heaven forbid - Microsoft Word, the first two look exactly the same and the third one looks different. Moreover it is the same in all those applications. If you happen to be reading this using Safari on a Mac or even on Windows you will see the same effect, if your monitor is calibrated then the first two will probably look the same as they look on my monitor. If you are on Windows using Internet Explorer or a number of other browsers you will most likely see that the first and third image look the same and the middle one looks different. Using Windows and IE, even if your monitor is calibrated, none of them are going to be the same as what I am looking at on my monitor.</p>
+
+<p>Why is this? The first image has data and a profile that is sRGB, the second image has data and a profile that is AdobeRGB, the third image has data that is sRGB but no color profile information. In applications that are color managed both of the images that have color profile information (the first two) are translated to that of the monitor color profile that is in use. The image that has no color profile is displayed in the monitor color profile space with no conversion, so even though it is exactly the same sRGB data as the first image the third image displays differently (and incorrectly) because no translation is done between the sRGB image and the monitor color profile which is NOT sRGB (if it was there would be no such thing as monitor calibration). In non-color managed applications all three images are displayed incorrectly. It just so happens that the first and the third have the same data and the second one has different data but no translation is being done to any of them to display in your monitor&#8217;s color profile.</p>
+
+<p>So in other words&#8230;
+In a color managed environment like a Mac using Safari (or Windows and Photoshop etc) and a calibrated monitor, an sRGB image that has an sRGB color profile will display very closely to what someone producing it in a color managed environment intends. An sRGB image with no color profile will display in the native monitor color space and be wrong.</p>
+
+<p>In a non-color managed environment like Windows and Internet Explorer an sRGB image with or without an sRGB profile attached will display the same exact way and they will both be wrong but the same. So let&#8217;s keep putting sRGB images on the web for the non-color managed population so they are not a disaster (like a ProPhoto RGB would be) but why not include the sRGB profile so they display as correctly as possible for the rest of us or for that matter everyone else once applications, hardware, etc catches up with the Mac from a color perspective.</p>
+
+<p>Onto the internet article that I mentioned at the begining, in a nut shell the photographer and Mac user was pretty much explaining how to solve the problem of using an external projector he/she happened to be using that was giving color renditions that were different than his/her monitor (and that he/she did not like). The advise and proposed solution was what amounts to randomly changing the color profiles of the images used in his/her presentation software of choice (Keynote which is color managed like pretty much anything on the Mac) until it looked good. The author as well as a bunch of yo-yo&#8217;s commenting were pretty much attributing the problem to the fact that the application and for that matter the OS (Mac OS X) is color managed.</p>
+
+<p>The author&#8217;s whole thought process is ridiculous and broken! Let&#8217;s see the Mac takes whatever image files you throw at it in just about every piece of software that runs on a Mac, even if you use multiple images with completely different color profiles on the same page, translates them to the monitor or projector or printer color profile that is selected and you want to complain about it because you don&#8217;t happen to have the correct color profile for the projector? If you followed along so far you may be able to guess at a better solution - you got it - how about just selecting the right output profile for the projector. Heck I&#8217;ll bet you it&#8217;s probably sRGB! Not good enough, great, just create one using the built-in calibration utility, just make sure that you do it with the screen you will be projecting it on to. The projector/screen profile combination being sort of analogous to a printer/paper profile combination. Even more ridiculous are a few commenters on that article complaining that images look great on their Mac no matter what application (even web browsers), no matter what color profile but when they put them up on the web without looking at the color profile and the profile happens to be something like Adobe RGB they look crappy on windows. Hmmm&#8230; Ok, so the Mac is really smart and you are being dumb and you want the Mac to be smarter and know when you are being dumb and temporarily act dumb so that you can see that you are being dumb. I am sure that functionality is at the top of the list for OS X 10.6</p>
+
+<p>For all of you experts out there, yeah I know I left out a lot of stuff but not much that matters. Feel free to contribute or flame.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-04-16T00:00:00-04:00" pubdate data-updated="true">Apr 16<span>th</span>, 2008</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2008/04/16/color-management-and-other-stupid-internet-tricks/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2008/04/16/color-management-and-other-stupid-internet-tricks/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2008/04/14/histograms-and-using-your-head/" title="Previous Post: Histograms and Using Your Head">&laquo; Histograms and Using Your Head</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2008/04/20/a-quick-review-of-portrait-lighting-terms/" title="next Post: A Quick Review of Portrait Lighting Terms">A Quick Review of Portrait Lighting Terms &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2008/04/16/color-management-and-other-stupid-internet-tricks/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2008/04/16/color-management-and-other-stupid-internet-tricks/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

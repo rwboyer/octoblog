@@ -1,0 +1,318 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Photoshop Lesson - Masks and Selections - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="Had a conversation with a reader the other day who asked me why I am so down on Photoshop. Hmmm&#8230; I&#8217;m not. I am down on the what passes &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2009/09/26/photoshop-lesson-masks-and-selections">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Photoshop Lesson - Masks and Selections</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-09-26T00:00:00-04:00" pubdate data-updated="true">Sep 26<span>th</span>, 2009</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Had a conversation with a reader the other day who asked me why I am so down on Photoshop. Hmmm&#8230; I&#8217;m not. I am down on the what passes for a photo today. I am down on Time magazine covers that look downright horrible, like the glamourized Glen Beck. I am down on what I will call image abuse perpetrated via Photoshop. I don&#8217;t write a lot about PS because I think that there are way too many sites about how to screw your perfectly good images up with idiotic photoshop techniques. I also think there are enough really fantastic sites that try to do a good job explaining what a wonderful piece of technology that is PS CS y through z. Enough of the explanation.</p>
+
+<p>Tell you what - as things pop up in my mind that I think may be useful and are not covered 17,000 other places in both competent and incompetent ways I will try and post an article. I will start with a subject that has been covered quite possibly more than any other subject but&#8230; I&#8217;ll do it in a way that I personally have not seen anyone do a really good job on a very powerful and useful set of techniques that are available in almost any recent version of PS. Yep, Masks and Selections. For a lot of people this is extremely painful so let me show you a really great way to deal with masks and selections of specific tonal ranges - this is fantastically useful and uses two of the most underutilized, under-promoted photoshop tools in history. Gradient Maps and Image Calculations. I am not going to show you what to use this for because the range of usefulness is infinite and to tell you the truth I really do not think the typical here is a crappy starting point and a WOW ending point is really that useful.</p>
+
+<p>Follow along if you want, start with any image with any set of adjustment layers that you would like.</p>
+
+<p>At the very top of all the layers add a new gradient map adjustment layer. Â Like so:</p>
+
+<p><a href="/wp-content/uploads/2009/09/ps1.jpg" target="_blank"><img style="margin: 10px;" title="ps1.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps1.jpg" border="0" alt="ps1.jpg" hspace="10" vspace="10" width="150" height="94" /></a></p>
+
+<p>The default gradient will be something simple like foreground to background, not terribly useful. This really comes into it&#8217;s own when you add your own color &#8220;stops&#8221; at the bottom. We&#8217;ll add two more just by clicking somewhere at the bottom of the gradient bar.</p>
+
+<p><a rel="lightbox" href="/wp-content/uploads/2009/09/ps3.jpg"><img title="ps3.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps3.jpg" border="0" alt="ps3.jpg" hspace="10" vspace="10" width="142" height="150" /></a></p>
+
+<p>Still not real useful but that will change in a second, what we are going to do now is change the color of each of these color stops by double clicking on the little squares at the bottom of each of them. We are dealing with selections and masks so we will be using black and white (000000 and ffffff).</p>
+
+<p><a rel="lightbox" href="/wp-content/uploads/2009/09/ps4.jpg"><img title="ps4.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps4.jpg" border="0" alt="ps4.jpg" hspace="10" vspace="10" width="143" height="150" /></a></p>
+
+<p>As you can see I changed the color stops on the ends to white and the color stops in the middle to black. You can do it the other way around if you want - I just prefer seeing what I am ultimately going to be &#8220;selecting&#8221; in black and gray and what I am not goinging to be selecting as white. This is exactly opposite of the way selections and masks actually work but no worries flip-flopping selections and masks it built in at every stage of the game in Photoshop as you will see. If you prefer not to flip flop just make your end points black and your middle ones white. No big deal. You may start to see where I am going with this. What I am going to do now is drag the middle sliders around to &#8220;select&#8221; Â the mid-tones or what I want to be mid-tones.</p>
+
+<p><a onclick="ps_imagemanager_popup(this.href,'ps5.jpg','1920','1200');return false" href="/wp-content/uploads/2009/09/ps5.jpg" target="_blank" onfocus="this.blur()"><img style="margin: 10px;" title="ps5.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps5.jpg" border="0" alt="ps5.jpg" hspace="10" vspace="10" width="150" height="94" /></a></p>
+
+<p>The next step is to play with the end point color stops and/or those little diamonds in the middle of the gradients to make things that you do not want selected absolutely white and to control how much of the selection is &#8220;feathered&#8221; into other tones. That is the grey part.</p>
+
+<p><a onclick="ps_imagemanager_popup(this.href,'ps6.jpg','1920','1200');return false" href="/wp-content/uploads/2009/09/ps6.jpg" target="_blank" onfocus="this.blur()"><img style="margin: 10px;" title="ps6.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps6.jpg" border="0" alt="ps6.jpg" hspace="10" vspace="10" width="150" height="94" /></a></p>
+
+<p>Okay now we have an image where all of the stuff I want to deal with, manipulate, lighten, darken, change contrast with - whatever is black and feathered in to all the stuff that I do not what to screw with. Now comes the cool part - let&#8217;s turn it into an alpha channel using the widely not used image calculations (how is that for a sort of double negative oxy-non-moron), it&#8217;s under the image menu - look for it. In the source 1 box we will choose the current document, the layer will be merged, and the channel will be grey. These should all be this way by default but if they are not make sure they are. In my case since I am screwy I will also check the invert box, if you choose your gradient opposite of mine you do not need to do this. In the source two the defaults should be fine - for this example they do nothing - source document is current document, layer is the gradient map layer, and channel is the layer mask - since the layer mask is revealing all kind it makes no difference. Now choose a normal blending mode, opacity 100%, and make sure the mask is not checked. Last but not least Â in the result channel choose new channel.</p>
+
+<p><a rel="lightbox" href="/wp-content/uploads/2009/09/ps7.jpg"><img title="ps7.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps7.jpg" border="0" alt="ps7.jpg" hspace="10" vspace="10" width="150" height="111" /></a></p>
+
+<p>Okay - now un-eyeball the gradient map layer so you can see the image again - you can leave it there, just don&#8217;t view it. Let&#8217;s say I want to bump up the brightness and contrast of all the crap that we targeted with the gradient map. If you take a look at your channels palette you will see we have a new alpha channel called &#8220;alpha-1&#8221;. Let&#8217;s use it. From the selection menu choose load selection and choose &#8220;alpha-1&#8221; from the channel drop down. After than add a new curves adjustment layer.</p>
+
+<p><a rel="lightbox" href="/wp-content/uploads/2009/09/ps8.jpg"><img title="ps8.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps8.jpg" border="0" alt="ps8.jpg" hspace="10" vspace="10" width="150" height="83" /></a></p>
+
+<p>What just happened was that since we loaded a selection prior to adding the adjustment layer, we automatically got a layer mask. You could always add it later but I will leave that as an exercise for the reader. Now you can jack around with the curves all you want and will just be affecting the mid-tone selection that we just did. Of course you can use that mask/selection for ANY layer or any photoshop action you would like - are you starting to see the POWER of this technique?</p>
+
+<p><a rel="lightbox" href="/wp-content/uploads/2009/09/ps9.jpg"><img title="ps9.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps9.jpg" border="0" alt="ps9.jpg" hspace="10" vspace="10" width="78" height="150" /></a></p>
+
+<p>Another example - this time a quick one vs. a walk-through. Let&#8217;s say I want clouds in my image instead of a blank august grey-white sky. Okay I will just do what I did above but this time I am going for just the sky pixels. I then use the brush tools to get rid of stray highlights picked up, load an image of clouds, and use my second alpha channel just created as a mask for the clouds.</p>
+
+<p><a onclick="ps_imagemanager_popup(this.href,'ps10.jpg','1920','1200');return false" href="/wp-content/uploads/2009/09/ps10.jpg" target="_blank" onfocus="this.blur()"><img class="alignnone" style="margin: 10px;" title="ps10.jpg" src="/wp-content/uploads/2009/09/.thumbs/.ps10.jpg" border="0" alt="ps10.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a></p>
+
+<p>Now this is terrible as I would not use these clouds with that image, nor would I consider this image finished, The point is with gradient map and image calculations you can make really complicated tonal based selections and fine tune them using ANY of the other photoshop tools. Yes this works on color images as well. This is by far the one of the most flexible and quick methods dealing with selecting parts of an image based on its tone (as in lightness or darkness) than any thing else out there. I have seen so many really really complicated ways of doing this that offer no benefit whatsoever. Of course there are quicker and easier tools to deal with various tonal issues globally but when you need to be able to mask/select any parts of an image for any other manipulation based on tone - this is the way.</p>
+
+<p>If you followed or understood any of these meanderings you are well on your way to becoming dangerous with Photoshop considering what else you can do with Image calculations and not necessarily white and black gradient maps. For that matter some of you may see a whole new world just guessing what else you can use image calculations for based on the blending mode options and targets other than alpha channels.</p>
+
+<p>If any of you find this type of info useful let me know and Â I will continue to shovel it forth.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-09-26T00:00:00-04:00" pubdate data-updated="true">Sep 26<span>th</span>, 2009</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2009/09/26/photoshop-lesson-masks-and-selections/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2009/09/26/photoshop-lesson-masks-and-selections/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2009/09/26/leica-m3-example-of-a-good-deal/" title="Previous Post: Leica M3 - Example of a Good Deal">&laquo; Leica M3 - Example of a Good Deal</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2009/09/26/shooting-film-sharpening-and-other-rabbit-holes/" title="next Post: Shooting Film - Sharpening and Other Rabbit Holes">Shooting Film - Sharpening and Other Rabbit Holes &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2009/09/26/photoshop-lesson-masks-and-selections/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2009/09/26/photoshop-lesson-masks-and-selections/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

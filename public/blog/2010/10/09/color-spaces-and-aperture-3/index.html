@@ -1,0 +1,310 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Color Spaces And Aperture 3 - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="I have received a ton of questions regarding Aperture 3 color spaces over the last week or so. Been busy so I haven&#8217;t posted a whole lot - &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2010/10/09/color-spaces-and-aperture-3">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Color Spaces and Aperture 3</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-10-09T00:00:00-04:00" pubdate data-updated="true">Oct 9<span>th</span>, 2010</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>I have received a ton of questions regarding Aperture 3 color spaces over the last week or so. Been busy so I haven&#8217;t posted a whole lot - sorry. Anyway&#8230; I am going to try to answer a gaggle of questions, throwing some Apple specific tidbits, and hopefully give you a healthy dose of confidence regarding color in one fell swoop of Super Simple Stuff™.</p>
+
+<p>First off - when processing RAW files Aperture uses what Apple refers to as a &#8220;internal super special wide gamut color space&#8221; for all image adjustments, manipulations, etc. They do not tell you what color space it is but from my experience it is perfectly fine to handle the native gamut of whatever RAW files I have ever thrown at it based on comparisons to testing in other software using ProPhoto color space. Bottom line - don&#8217;t worry about it. The only time a specific color space comes into play is when you export the image to a JPG or TIFF file and of course when you shoot it to an external editing program or plug-in. For those of you that need to make absolutely sure you are not &#8220;losing&#8221; color information on that export just setup up your export presets etc. to use something like ProPhoto. In reality Adobe RBG if usually bigger than required anyway.</p>
+
+<p>Okay so for all of you that have no idea what I am talking about, I am going to give you a tool that may help you visualize why some people go nuts with this stuff. It is a visual tool that comes free with all Apple computers and is pretty amazing. I continue to forget that a lot of you are not long time Apple folk like me. The magic tool is called  &#8221;ColorSync Utility&#8221;. Just use spotlight to open it. Here is what it looks like.</p>
+
+<p>[image title=&#8221;cs1&#8221; size=&#8221;med&#8221; id=&#8221;2635&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Now here is how to use it. First let&#8217;s look at our monitors space, just find the profile your display is  using at the left. If you calibrated your display use that profile instead of the generic one. You can drag the mouse around over the 3D graph to see all the sides of it.</p>
+
+<p>[image title=&#8221;cs2&#8221; size=&#8221;med&#8221; id=&#8221;2636&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Next lets have some fun by comparing a simple little profile we all know and love like sRGB to our monitor. In the upper left of the 3D graph click the arrow and choose &#8220;hold for comparison&#8221;. Then find sRGB on the left and click on it  like so.</p>
+
+<p>[image title=&#8221;cs3&#8221; size=&#8221;med&#8221; id=&#8221;2637&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Hmmmm. look at the overlay. I thought sRGB was &#8220;narrow&#8221;. Well it is my monitor can show more oranges, yellows, and greens than sRGB but less blues and purples. So what does this tell me? It tells me that my monitor cannot show all the colors even in sRGB. Let&#8217;s compare it to Adobe RGB by clicking on that. Remember - the display is the one that is &#8220;held for comparison&#8221;. Holy crap - my monitor doesn&#8217;t show anything. Well it&#8217;s a little better in the orange and yellow but man you gotta be kidding me.</p>
+
+<p>[image title=&#8221;cs4&#8221; size=&#8221;med&#8221; id=&#8221;2638&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Next lets take a look at Adobe RGB vs. let&#8217;s say the blurb.com printing profile.</p>
+
+<p>[image title=&#8221;cs5&#8221; size=&#8221;med&#8221; id=&#8221;2639&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Man - the printing gamut of those Indigo printers is REALLY SMALL, except for that turquoise area there. Maybe we should compare sRGB to the Indigo.</p>
+
+<p>[image title=&#8221;cs6&#8221; size=&#8221;med&#8221; id=&#8221;2640&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Holy crap the indigo still can do that turquoise stuff better than either profile but sRGB is still way way way more color info everywhere else. Amazing. One last comparison, maybe our monitor to the Indigo.</p>
+
+<p>[image title=&#8221;cs7&#8221; size=&#8221;med&#8221; id=&#8221;2641&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>So&#8230; What does all this tell you. Well for one it tells you that adobe RGB is way bigger than my screen in representing color. sRGB is pretty close - weaker in some areas and bigger in others.  But more importantly my screen, sRGB, and Adobe RGB all have way more color info capability than can possibly be represented on Blurb.com Indigo printers, EXCEPT for the blue/green/turquoise area in which none of those three represent that well. Do I care? Sure I do if I actually have an image that has a lot of information and subtile tone differentiation in that hue/color area. Remember that the graph is representative NOT the actual colors - your monitor cannot even show them. In practice this kind of stuff is good to know but this should give you a good feel for understanding why I tell non-color-professionals to send files to printers in sRGB.</p>
+
+<p>If you can&#8217;t see why let me lay it out. YOU CAN SEE sRGB for the most part, it is wider in most areas than a lot of commercial printers with some exceptions, and you don&#8217;t have to guess. Now that you can see how to know what is going on and what might happen with image color profile conversions in the output process and WHAT YOU CANNOT SEE with your own eyes on your own monitor this should give you a guide on when to worry about it and what you may want to do.</p>
+
+<p>Trust me there is no magic bullet here yet. You actually have to KNOW THINGS. Just using the widest gamut possible is not a great idea. Especially if you don&#8217;t have a lot of experience at guessing results. It can actually be detrimental to you seeing issues with your own eyes on your monitor. Soft proofing using Aperture 3 or PS can give you a good idea for all the colors except where the printer is stronger in color representation than your monitor. You should know this to know what you are looking at. Where the blues and the greens are concerned in this case you have to think about the image that you are looking at to make an appropriate profile decision as well as what to do about areas that are not represented well.</p>
+
+<p>I hope this actually helps you folks out with making progress on your digital color work. If it confused the crap out of you even more let me know, either way.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-10-09T00:00:00-04:00" pubdate data-updated="true">Oct 9<span>th</span>, 2010</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2010/10/09/color-spaces-and-aperture-3/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2010/10/09/color-spaces-and-aperture-3/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2010/10/03/aperture-3-living-in-full-screen-mode/" title="Previous Post: Aperture 3 - Living In Full Screen Mode">&laquo; Aperture 3 - Living In Full Screen Mode</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2010/10/10/its-been-a-while-since-my-last-rant/" title="next Post: It's Been A While Since My Last Rant.">It's Been A While Since My Last Rant. &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2010/10/09/color-spaces-and-aperture-3/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2010/10/09/color-spaces-and-aperture-3/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

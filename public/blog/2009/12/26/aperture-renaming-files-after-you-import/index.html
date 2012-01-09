@@ -1,0 +1,295 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Aperture - Renaming Files After You Import - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="A lot of photographers out there depend on a file naming convention for their work-flow. They also depend on version names in Aperture tying back to &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2009/12/26/aperture-renaming-files-after-you-import">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Aperture - Renaming Files After You Import</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-26T00:00:00-05:00" pubdate data-updated="true">Dec 26<span>th</span>, 2009</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a rel="lightbox" href="/wp-content/uploads/2009/12/name_counter.jpg"><img title="name_counter.jpg" src="/wp-content/uploads/2009/12/.thumbs/.name_counter.jpg" border="0" alt="name_counter.jpg" hspace="10" vspace="10" width="150" height="90" align="left" /></a>A lot of photographers out there depend on a file naming convention for their work-flow. They also depend on version names in Aperture tying back to that unique file name of the master image. Don&#8217;t ask me why this is such a big big deal for some photographers work-flow. I don&#8217;t really get it but accept it as necessary for some Aperture users. Some Aperture users have this all figured out and they have their work-flow down and wrapped up. Others don&#8217;t and have a &#8220;big issue&#8221; with Aperture and file naming/version naming, fighting with it every step of the way.</p>
+
+<p>One thing that comes up over and over is renaming files AFTER importing them. I cover all this stuff in e<a href="http://photo.rwboyer.com/aperture-ebooks/">xcruciating detail in the Aperture File Management eBook</a> but here is the secret - no matter weather you use referenced masters, managed masters or a combination of both. If for some reason you need to rename your masters such that they have a name of your specification and your Aperture versions need to match that - or at least the base part of it, this is at least a two step process if you forget to do it when you import your files.</p>
+
+<p>Most of the confusion comes in when people try to use the Metadata-&gt;Batch Change&#8230; menu to deal with the issue and find that the master file names stay exactly what they were. Like a lot of functionality in Aperture - just about anything is possible - you need to be a little bit creative in applying Aperture&#8217;s capabilities. You do need to use Metadata-&gt;Batch Change&#8230; but you do that last. What you do first is use File-&gt;Relocate Master&#8230; to change the actual master file names. Yep - use relocate - even if your masters are managed - you can always just use consolidate to put them all back in the library if you want. If they are already referenced this is really a piece of cake.</p>
+
+<p>Let&#8217;s say you have a file name that is something goofy like CameraUsedDate6digitCounter and that naming preset happens to be at 005900. So your file names usually look like &#8220;NikonD3x-12262009-0058999.NEF&#8221;. For some reason you imported 100 images into a new project and did not use your name preset so all of the masters are still named DSC7654.NEF and so are all the versions that you see in Aperture. To put them all back into your nice fascist naming scheme here is what you do.</p>
+
+<p>One - use File-&gt;Relocate master with all of those 100 files selected.  Make sure that the Name Format option is the exact one that you use during your usual import so that the &#8220;counter field&#8221; is the right &#8220;counter field&#8221;.</p>
+
+<p><img title="relocate.jpg" src="/wp-content/uploads/2009/12/relocate.jpg" border="0" alt="relocate.jpg" hspace="10" vspace="10" width="601" height="566" /></p>
+
+<p>Two - When that is done select all the images that you just &#8220;relocated&#8221; even if they did not go anywhere and choose the &#8220;Metadata-&gt;Batch Change&#8230;&#8221; function.</p>
+
+<p><img title="batch_change.jpg" src="/wp-content/uploads/2009/12/batch_change.jpg" border="0" alt="batch_change.jpg" hspace="10" vspace="10" width="346" height="579" /></p>
+
+<p>Here is the real tricky part. Pick the Name Format that you just used again but this time use the drop down &#8220;edit&#8230;&#8221; to edit that preset so that you can reset the counter to what it stated at when you renamed the master files. The whole goal here is to make the master and version names the same - right? Or at least sort of the same.</p>
+
+<p><img title="name_counter.jpg" src="/wp-content/uploads/2009/12/name_counter.jpg" border="0" alt="name_counter.jpg" hspace="10" vspace="10" width="644" height="388" />
+Okay so I know what you might be thinking - well that will screw up everything because I have like 900 versions that I created of various black and white, crops, etc. Well here is where we get creative. If you create albums for everything new version you make and those albums have stack picks that are the new versions. It shouldn&#8217;t be too hard to figure out that you just need to use the batch change thing over and over and keep setting the counter appropriately along with a custom piece of stuff at the end that is to your liking. If your versions and version names are all over the place It will be much more work so try to deal with this at import or as early as possible.</p>
+
+<p>One last thing to think about - if you are a little bit creative the you can use similar approaches to make various version sets in albums anything you want if you don&#8217;t like the default &#8220;XXXXXX - Version 3&#8221; type think Aperture does. You can do it without individually typing the version name for each and every image you make a new version of. Here is the secret - use batch change creatively.</p>
+
+<p>Hope this clears up some confusion for those out there that this linkage is really really import for their work-flow. I still don&#8217;t really get why this is so critical for photographers but that is another conversation.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-26T00:00:00-05:00" pubdate data-updated="true">Dec 26<span>th</span>, 2009</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2009/12/26/aperture-renaming-files-after-you-import/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2009/12/26/aperture-renaming-files-after-you-import/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2009/12/24/new-series-photographers-for-inspiration/" title="Previous Post: New Series - Photographers For Inspiration">&laquo; New Series - Photographers For Inspiration</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2009/12/27/photographic-aesthetics-be-careful-what-you-ask-for/" title="next Post: Photographic Aesthetics - Be Careful What You Ask For">Photographic Aesthetics - Be Careful What You Ask For &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2009/12/26/aperture-renaming-files-after-you-import/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2009/12/26/aperture-renaming-files-after-you-import/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

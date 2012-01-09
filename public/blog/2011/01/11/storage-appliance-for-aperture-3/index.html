@@ -1,0 +1,299 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Storage Appliance For Aperture 3 - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="It&#8217;s alivvvveeeee. Hey guys and gals. Hope you had a great bunch-0-holidays. Didn&#8217;t want you to think I fell of the earth or anything. I &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2011/01/11/storage-appliance-for-aperture-3">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Storage Appliance for Aperture 3</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-11T00:00:00-05:00" pubdate data-updated="true">Jan 11<span>th</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>It&#8217;s alivvvveeeee. Hey guys and gals. Hope you had a great bunch-0-holidays. Didn&#8217;t want you to think I fell of the earth or anything. I have been running myself ragged. Let&#8217;s see now what have the last few weeks entailed&#8230;</p>
+
+<ol>
+    <li>Crazy busy - agreed to take over a buddies tech business while he was away for a month. Holy crap, that was an overcommitment.</li>
+    <li>Sick - very very bad case of the flu for like the last week, while still having a bunch of real work to do.</li>
+    <li>Oh and three. Spent a tiny little bit of time on that el-cheapo storage appliance for Aperture - you know - this <a href="http://photo.rwboyer.com/2010/12/18/aperture-3-alien-technology-pt-ii/">alien technology™</a> one.</li>
+</ol>
+
+
+<p>Anyhow, it sort of works, and it&#8217;s really really simple. I have a bunch of work to do before it&#8217;s ready for primetime but I have made a bunch of major decisions about it&#8217;s build and it&#8217;s functions. Actually it has been harder to eliminate stuff than to enable stuff. Beta #000001 goes out and will be functional on a real honest to goodness human being&#8217;s work-flow this month.</p>
+
+<p>I have chucked together a quick preview for anyone that wants to get a clue as to what the heck I am talking about. You can try it live - sort of. Of course it&#8217;s as ugly as sin and it&#8217;s not the &#8220;real&#8221; one but it will give you a bit of an idea of where my heads at and what is on my mind. Hey gimme a break I chucked together the UI in like half an hour in my delirium while in and out of bed. It&#8217;s butt-ugly but is a reasonable test bed before I go make it all pretty.</p>
+
+<p>I actually cut out a bunch of stuff that it does in order to reduce the craziness that will go on as a publicly available preview. You cannot get rid of devices or filesystems. It doesn&#8217;t clog-up my real infrastructure or risk panic-ing the kernel so the behind the scenes iSCSI target shifting around does not actually happen in the preview as I have no iSCSI initiators hooked to this thing. It&#8217;s small - really small and resource constrained. It&#8217;s a virtual slice running on file backed disk on my real storage network - so if it goes kaaaaaabooom - it has a snapshot of itself that I will just fire up&#8230;.. Okay enough, so what does it do?</p>
+
+<ul>
+    <li>On the home page of the UI you will see an ugly list of all the ZFS file systems that exist. If you click on the name you get a bunch of ugly unformatted details. If you click on &#8220;snapshot&#8221; it will make a snapshot in real time.</li>
+    <li>Down at the bottom if you click on &#8220;snapshots&#8221; you can see all the snapshots that exist. On that page you can clone a snapshot into a new and semi-independent file system. You can roll a snapshot back, meaning put the original file system back to where that snapshot was taken, or you can destroy the snapshot.</li>
+    <li>To get to the home page just click on the ZFS label in the top right of the page.</li>
+    <li>Keep in mind the only file system that has permissions for you to read and write is the one labeled &#8220;zp-0/ftp&#8221; if you want to play around with uploading files snapshoting - blasting them and rolling-back that is the one you can use with the below info.</li>
+</ul>
+
+
+<p>A couple of points to note - there is more stuff that the prototype does but is not on the preview. Most of it actually is about adding and removing devices. All the good stuff happens in the background automagically and uses a set of conventions like the snapshots vs specifying every detail. My aim is to keep the actual functionality very very very simple but not exclude anyone from doing anything that the underlying tech actually can do. There is no database of config that needs to be kept in sync with the real-world all of the stuff that happens is parsed from the source so&#8230; it&#8217;s stateless, if you want to go in and manually change things at a very low level - you can without &#8220;hurting&#8221; or affecting function of the simple UI.</p>
+
+<p>Okay <a href="http://38.102.24.43/" target="_blank">here is the UI</a>. You can use your favorite ftp interface to put files up there and delete them or whatever at the address 38.102.24.43 with a login of public/public - hey go to town. Let me know what you think and definitely ask any questions. I hope you guys blow the thing up. It&#8217;s definitely not got enough kmem allocated for ZFS so it probably will with a bunch of people snapshotting and rolling back. We&#8217;ll see.</p>
+
+<p>On another note one of the tool chains that I love and use for a bunch of stuff unrelated to this (ruby-&gt;haml-&gt;sinatra) made me laugh today as I was googling for some default Rack:: value for sinatra. <a href="http://groups.google.com/group/haml/browse_thread/thread/f52b6750507b478">I some how came across this post on the Haml forum</a>. It has to be one of the funniest things I have ever read. Hilarious.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-11T00:00:00-05:00" pubdate data-updated="true">Jan 11<span>th</span>, 2011</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2011/01/11/storage-appliance-for-aperture-3/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2011/01/11/storage-appliance-for-aperture-3/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2010/12/21/ready-for-the-holidays/" title="Previous Post: Ready For The Holidays?">&laquo; Ready For The Holidays?</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/01/19/Full-Circle/" title="next Post: Full Circle">Full Circle &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2011/01/11/storage-appliance-for-aperture-3/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2011/01/11/storage-appliance-for-aperture-3/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

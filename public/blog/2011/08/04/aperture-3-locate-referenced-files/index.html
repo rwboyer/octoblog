@@ -1,0 +1,310 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Aperture 3 - Locate Referenced Files - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="Part of the Aperture 3 - SuperSimpleStuff™ series. If you have referenced files on one or more drives there is a good chance that sooner or later you &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://code.rwboyer.com/blog/2011/08/04/aperture-3-locate-referenced-files">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:code.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Aperture 3 - Locate Referenced Files</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-08-04T00:00:00-04:00" pubdate data-updated="true">Aug 4<span>th</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Part of the Aperture 3 - SuperSimpleStuff™ series.</p>
+
+<p>If you have referenced files on one or more drives there is a good chance that sooner or later you will need to use Aperture 3&#8217;s <em>locate referenced files</em> function. A reader contacted me a few days ago with a very common scenario. He had a drive full of referenced master files that was starting to fail. Thankfully he had an exact copy of that drive as a backup - as we all <em>should</em> have.</p>
+
+<p>It had a intricate folder hierarchy that he had created over time that was also reproduced on his backup drive. His question was how to <em>make</em> Aperture 3 use the backup drive instead of the failing drive. He was having some trouble so I gave him a few suggestions. I hope everything turned out well for him and he is back up and running. I thought it might be a good time to review how to &#8220;reconnect&#8221; referenced master image files in Aperture 3.</p>
+
+<p>For demonstration purposes let&#8217;s assume you have a drive with a folder structure such as this conatining your referenced masterfiles.</p>
+
+<p>[image title=&#8221;HD&#8221; size=&#8221;full&#8221; id=&#8221;3261&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Everything is humming along, you, Aperture 3, and your photos are doing just fine Then one day you see something like this. Uh-oh - s%@t. Now what?</p>
+
+<p>[image title=&#8221;Ap3-missing&#8221; size=&#8221;full&#8221; id=&#8221;3258&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Assuming you have a copy of that drive, let&#8217;s call it &#8220;HD-bck&#8221; for this example. The first thing you may want to do is unmount or eject that drive using <em>disk utility</em> if it still shows up in the finder, just so that you can sort the wheat from that chaf. This is especially true if you have multiple drives of referenced images in which case you will want to focus on just the images that have masters on the failing drive. If the drive is quesiton is wholy off-line then obviously this will be sorted for you.</p>
+
+<p>The next thing you want to do is go to the <em>photos</em> view in the browser and open up the <em>search HUD</em>. Add a new <em>file status</em> criteria from the <em>add rule</em> drop down menu. Make sure you set the criteria for that new rule to <em>off-line</em> and that the rule is checked. You may also want to make sure that there are no other criteria restricting the search.</p>
+
+<p>You should end up with all of the images that have off-line referenced master files showing up in the browser like this.</p>
+
+<p>[image title=&#8221;Ap3-search&#8221; size=&#8221;full&#8221; id=&#8221;3260&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>Using the <em>edit</em> menu or Cmd+A select all of the images. Open up the <em>Locate referenced files</em> dialog from the file menu. At this point your screen should look something like this.</p>
+
+<p>[image title=&#8221;Ap3-locate1&#8221; size=&#8221;full&#8221; id=&#8221;3256&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>On the top half of the locate dialog you will see all of the images that were selected when the dialoag was activatied. These should be the images that now have off-line master files. On the bottom half of the dialog you should see a list of devices and folders. The goal is to navigate to the appropriate image file on the bottom of that dialog that matches the image selected at the top of the dialog.</p>
+
+<p>Assuming that your backup drive has the same folder structure as the failed drive this should be easy as the folder structure you are looking for is listed in the top half of the dialog. There is also the image itself as well as some important metadata for you to compare and verify against the image that you navigate to. When you have navigated to the corresponding master file on the bottom this is what you should see.</p>
+
+<p>[image title=&#8221;Ap3-locate2&#8221; size=&#8221;full&#8221; id=&#8221;3257&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>The <em>reconnect all</em> button should become active as long as you matched up the one image with what Aperture believes is the correct master file associate with this image. Now just use that <em>reconnect all</em> button. Aperture should reconnect every image that was selected when you opened the <em>locate referenced files</em> dialog. There are many cases where it will not reconnect every file but many of them. If this is the case the files that are still off-line will still show up in the browser search that is active. Make sure you click somewhere to de-select the images that were selected so that Aperture will refresh the search and show only the images remaining off-line. Repeat the select all / locate steps described until all of the files are reconnected. This may take a few iterations but the number of off-line files will be less every iteration. When you are finished there will be no files that still show up in the search.</p>
+
+<p>[image title=&#8221;Ap3-after&#8221; size=&#8221;full&#8221; id=&#8221;3255&#8221; align=&#8221;none&#8221; linkto=&#8221;viewer&#8221; ]</p>
+
+<p>This kind of thing and much more is covered from soup to nuts in my <em><a href="http://photo.rwboyer.com/aperture-ebooks/">Aperture 3 File Management eBook</a></em>. If you run into a situattion that is more complicated than this I may be able to help you get things set strait again as I offer one-on-one assistance via phone and screensharing.</p>
+
+<p>I hope this helps some of you that have not really understood how <em>locate referenced files</em> works in Aperture 3</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-08-04T00:00:00-04:00" pubdate data-updated="true">Aug 4<span>th</span>, 2011</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://code.rwboyer.com/blog/2011/08/04/aperture-3-locate-referenced-files/" data-via="rwboyer" data-counturl="http://code.rwboyer.com/blog/2011/08/04/aperture-3-locate-referenced-files/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/07/27/sorry/" title="Previous Post: Sorry...">&laquo; Sorry...</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/08/05/summer-update/" title="next Post: Summer Update">Summer Update &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/06/wtf/">WTF</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/Another-Year/">Another Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'heroku-octopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://code.rwboyer.com/blog/2011/08/04/aperture-3-locate-referenced-files/';
+        var disqus_url = 'http://code.rwboyer.com/blog/2011/08/04/aperture-3-locate-referenced-files/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
