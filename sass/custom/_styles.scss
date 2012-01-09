@@ -1,9 +1,66 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-//#content article h1.blog-index {
+body > header {
+  height: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  z-index: 10000;
+  background: rgba( 0, 0, 0, 0.5);
+  overflow: visible;
+}
+
+body > header hgroup {
+  height: 40px;
+  position: absolute;
+}
+
+body > header h1 {
+  display: inline;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  vertical-align: bottom; 
+}
+
+body > header hgroup ul.main-navigation {
+  display: inline;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+body header hgroup li {
+  display: inline;
+  padding-left: 10px;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  vertical-align: bottom;
+  list-style: none;
+}
+
+body header hgroup a {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  text-decoration: none;
+  vertical-align: bottom;
+}
+body header hgroup a:link { color: #DEDEDE; }
+body header hgroup a:visited { color: #DEDEDE; }
+body header hgroup a:hover { color: $link-color-hover; }
+body header hgroup a { @include transition(color .3s); }
+
+body > nav{
+  background: #FFFFFF;
+  visibility: hidden;
+}
 
 #content .blog-index article h1.entry-title {
-  font-size: 2.0em;
+  font-size: 1.2em;
 }
+
 
