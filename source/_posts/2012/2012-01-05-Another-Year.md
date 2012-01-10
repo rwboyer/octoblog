@@ -8,6 +8,8 @@ comments: true
 
 Another year stuck with Liquid, me I rather use ruby but the pain of maintaining and merging branches of Jekyll into my hacked up code base that uses Haml and Ruby directly with all the wonderfull ruby constructs and varialbles available in layouts and pages. It's just too painful. So moving on to *Octopress*. We'll see how that goes.
 
+Maybe Liquid is not so bad. I am starting to like it with custom Liquid plug-ins. Just maybe I can live with it… Some work on the Octopress Rakefile, a couple of custom Liquid plug-ins. Life is not so so bad. Now if Marked works out...
+
 Disks vs. circles? Why am I getting disks on one server and circles as bullets with the exact same CSS?
 
 * CSS is the same
