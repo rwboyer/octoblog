@@ -3,7 +3,7 @@
 # ----------------------- #
 
 #url: http://pure-samurai-7218.heroku.com
-url: http://code.rwboyer.com
+url: http://s3.rwboyer.com
 title: RB Design
 subtitle: 
 author: R W Boyer
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: heroku-octopress
+disqus_short_name: s3octopress
 disqus_show_comment_count: true
 
 # Google Analytics
