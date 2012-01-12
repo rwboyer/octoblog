@@ -9,7 +9,7 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = true
 deploy_default = "s3"
-s3_bucket ="s3.rwboyer.com"
+s3_bucket ="cf.rwboyer.com"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -380,5 +380,5 @@ end
 desc "Deploy website via s3cmd"
 task :s3 do
   puts "## Deploying website via s3cmd"
-    ok_failed system("s3cmd sync --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
+    ok_failed system("s3cmd sync --acl-public --reduced-redundancy --cf-invalidate public/* s3://#{s3_bucket}/")
 end
