@@ -12,7 +12,7 @@ This question comes up all the time. "Can I upsize the pixel dimensions of an im
 </ul>
 Here is what you are looking for...
 
-[image title="Ap3Upsize" size="full" id="3377" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/Ap3Upsize.jpg %}
 
 The "DPI" setting is not really a whole lot more than allowing other software to understand what the physical target size of the image should be, don't worry about it too much. It doesn't really alter the actual image dimensions in pixels. Some software does use it to understand the intent of the target display size.
 

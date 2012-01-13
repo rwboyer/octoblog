@@ -5,7 +5,7 @@ comments: true
 ---
 I wrote yesterday about having a strange nagging desire for another Foveon based camera due to my attraction to the couple images that I shot with that dog of a camera, the DP1s prior to returning it. I knew I would not be getting another one of the DP series cameras as they are <a href="http://photo.rwboyer.com/2011/01/31/cameras-i-wanted-to-love-but-couldnt/">horrible devices to actually use</a> in more ways than I can articulate. So I was thinking of an SD15, those cameras are below a 1000 bucks new at this point.
 
-[image title="sd14-sl-002" size="full" id="3087" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/sd14-sl-002.jpg %}
 
 As I happen to have about that much laying around that was earmarked for a <a href="http://www.amazon.com/gp/product/B0042X9LC4/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B0042X9LC4">Nikon D7000</a>. I was thinking hey why not the Sigma? Well better judgement got the better of me and I didn't spend the bucks on a camera that I know will be slow, have no high ISO, etc, etc. Instead I found a new in box factory refurbished SD14. Same sensor, just slower, and even less high ISO capability. So instead of spending a thousand bucks, I spent $400.  Hey if I know all of the SD series cameras are slow, low ISO machines why bother putting out the money for a truly inconsequential  bump in speed and ISO/noise capability.
 

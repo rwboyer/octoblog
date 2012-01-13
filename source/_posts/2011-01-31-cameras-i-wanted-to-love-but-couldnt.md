@@ -44,6 +44,6 @@ Now imagine that with the unique qualities of the Foveon X3 that will be in the 
 
 Here is a crop out of the edge of an image from a Foveon at 100% with NO sharpening or color adjustment - all RAW settings flat/flat/flat/flat.
 
-[image title="SDIM0030" size="full" id="2763" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/SDIM0030.jpg %}
 
 RB

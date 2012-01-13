@@ -9,11 +9,11 @@ The one thing that I have to mention is that the <a href="http://www.amazon.com/
 
 I was wrong, not about the JPEG engine being any good but about the impression of image quality being mostly due to a highly tuned JPEG process. The fact is that those first impressions seem almost entirely due to the fantastic lens that happens to be attached to the front of the LX5. Here is a casual shot that was hand held and shot using full auto. I choose the focus point to be the bottom foliage of the flower.
 
-[image title="P1000080-full" size="med" id="2496" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P1000080-full.jpg %}
 
 Let's look a little closer, namely at all the pixels. Something we will never see in a print. Here is a crop with NO sharpening, post processing, nothing. Make sure you click on it and use the icon in the light box to see the whole thing.
 
-[image title="P1000080-crop" size="med" id="2495" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P1000080-crop.jpg %}
 
 Is the lens pretty good? I would say so. Almost wide open, great flare performance, no decreeable CA, no horrendous distortion at 24mm. Remember the crop is from the edge of the frame. Great contrast, great color rendition, nice tonal separation/gradation.
 

@@ -5,7 +5,7 @@ comments: true
 ---
 My apologies for keeping away for so so very long. I guess it's been about two weeks, that is like centuries in internet time. I do have a very good excuse. My oldest daughter gave birth to her very first child and my very first grandchild. Yes - I am a grandfather.
 
-[image title="DSC_6733 as Smart Object-1" size="full" id="3531" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/12/DSC_6733-as-Smart-Object-1.jpg %}
 
 The new addition to the family is a 22 3/4" 8lb 10oz baby girl named Leela Andreyevna Khlistunova. Think she might have a tough time writing that in Kindergarden? Needless to say I have been a bit busy at the hospital, visits, etc. etc.
 

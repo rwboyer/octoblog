@@ -19,6 +19,6 @@ You can see a couple of themes here - why bother with deciding stuff when the ca
 
 I will leave you with this. An image made by a friend <a href="http://blog.lesterpickerphoto.com/">Les Picker</a> - a long long time ago. It was made using very simple equipment and to tell you the truth it was a random image picked out of a batch without a light table just when I was over at his office a few days ago. I just wanted an old slide to see if my crappy scanner could do better than his crappy scanner that he used years ago to digitize a few images. Most of those images he doesn't use because the scans are so bad. I think that is a mistake and am trying to convince him to invest some time in going through his old images and see what potential there is. In any case here is a strait scan and resize from a Kodachrome slide. No fuss - no choice - no HDR - no digital fill light - no curves - no messing with the color - no "WB" adjustments. Just a freaking picture.
 
-[image title="Les1" size="full" id="2770" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/Les1.jpg %}
 
 RB

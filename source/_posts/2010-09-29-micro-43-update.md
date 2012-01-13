@@ -14,4 +14,4 @@ RB
 
 Quick snap from the E-P1
 
-[image title="OLYMPUS DIGITAL CAMERA" size="med" id="2588" align="none" linkto="viewer" ] 
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P9120469untitled.jpg %} 

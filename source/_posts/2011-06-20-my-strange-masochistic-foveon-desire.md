@@ -15,6 +15,6 @@ RB
 
 Just a quick compare... The Foveon had a much smaller pixel dimension but was up-resed to mach the magnification.
 
-[image title="P1000405-compare" size="full" id="3075" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/P1000405-compare.jpg %}
 
-[image title="SDIM0030-SPP-double" size="full" id="3074" align="none" linkto="viewer" ] 
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0030-SPP-double.jpg %} 

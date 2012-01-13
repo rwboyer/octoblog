@@ -14,23 +14,23 @@ Back on point - as most of you know I almost always shoot RAW+JPEG - storage spa
 	<li>Aperture 3 noise reduction control is useless. We all know this and if you are adverse to any image noise you will absolutely need a third party plug in for high ISO LX5 RAW files. Me... I don't care most of my shots are 400 ISO and below and the noise doesn't show up in the print. For the odd shot at 1600 It doesn't really bother me all that much - they aren't supposed to look crisp and clean and bright and sunny in my way of thinking. Bottom line is that LR3's new noise reduction is amazingly effective on the LX5 RAW files - Aperture 3 not so much.</li>
 	<li>Distortion correction... I have spent no time figuring out or researching if and how any lens distortions are corrected on the LX5 but I have made assumptions that some sort of distortion correction happens in the camera firmware considering how great the lens looks at all focusing distances at the 24mm wide setting. There is a tiny bit of pin-cushion but not much compared to other wide angles. In any case pin-cushion looks way better than barrel distortion for wide angles. For the most part strait likes are pretty darn strait. Guess what - the RAW files are identical processed in Aperture 3. My guess is that any distortion correction etc happens in the camera to the RAW files as well. Same probably goes for CA based on how good the files look and how closely these lens defects appear (or don't appear) in both the RAW and JPEGs. Hooray for Venus FHD or whatever it's called. Check it yourself - top image is JPEG bottom is Aperture 3 processed. These were shot at the widest setting very close up.</li>
 </ul>
-[image title="P1010372" size="large" id="2936" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/P1010372.jpg %}
 
-[image title="P1010372 - Version 2" size="large" id="2934" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/P1010372-Version-2.jpg %}
 <ul>
 	<li>The LX5 has an interesting aspect ratio control that allows you to shoot square, 4:3, 3:2, and 16:9. These aspect ratios show up in the RAW file as well. Very cool. The biggest reason this is cool is these are not merely crops from the "native 4:3" sensor. They actually seem to preserve the angle of view - well at least they do in anything "skinnier than 4:3". The square aspect ratio is identical to making a crop of the 4:3 in post production. The first image below is a camera produced 16:9 vs a crop from the 4:3 - subtle but significant. You get more pixels and a wider view from the in camera produced 16:9.</li>
 </ul>
-[image title="P1010375" size="large" id="2938" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/P1010375.jpg %}
 
-[image title="P1010373 - Version 5" size="large" id="2937" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/P1010373-Version-5.jpg %}
 <ul>
 	<li>The LX5 has much more aggressive sharpening on every JPEG mode than Aperture 3 does on the RAW. There is also a local contrast enhancement that occurs on JPEG files if you are using the LX5's "intelligent resolution" setting. The closest thing to this in terms of an Aperture 3 adjustment is the definition control combined with edge sharpen. Without this the JPEG's look far and away better than the default RAW conversion. Here is a sample RAW on the left JPEG on the right.</li>
 </ul>
-[image title="screenshot" size="large" id="2942" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/screenshot.jpg %}
 <ul>
 	<li>Of course you can add that with definition and edge sharpen like so...</li>
 </ul>
-[image title="screenshot2" size="large" id="2943" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/screenshot2.jpg %}
 
 There are a couple of things I would like to change on the LX5 but none of them are a deal killer. Believe it or not the biggest thing is that there seems to be no way to turn off the "pre-flash" metering pulse from the built in flash. This makes it useless as a trigger for off-camera flash as the slaved units will trigger too soon. The other thing that is very closely related is the ability to manually dial down the flash from full to 1/128 power vs the 2 stops of compensation provided from "automatic".
 

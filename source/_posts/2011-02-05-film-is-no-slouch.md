@@ -15,6 +15,6 @@ Want to really do landscape - try competing with the same scan of a 4x5 negative
 
 Just some food for thought. I am not going to bother posting the traditional "100%" bullshit. If you can't surmise the level of detail TMAX100 or similar color film can capture with a modern Zeiss 40mm CFi FLE  or similar quality lens on medium format from the small one than there is nothing I am going to do that will convince you to trust me on this.
 
-[image title="2010-002-07" size="large" id="2785" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/2010-002-07.jpg %}
 
 RB

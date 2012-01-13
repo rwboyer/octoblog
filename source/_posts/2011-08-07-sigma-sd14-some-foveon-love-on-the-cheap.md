@@ -17,13 +17,13 @@ In this case I processed the RAW using SPP 5.0 - the one released for the SD1. I
 
 Up first we have the latest ACR 6.
 
-[image title="SDIM0554ACR6" size="full" id="3279" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/SDIM0554ACR6.jpg %}
 
 Yes the color is idioticlly bold - at least the primary colors are with muted colors staying muted. This is characteristic of Foveons in general to varying degrees. If you think the primary colors are over the top in this version - you should see the default conversion. This one is using a passport color checker profile for the SD14. As for other manipulations in ACR, I put in some recovery as the default ACR gamma was blowing out the white shirt in the upper middle of the frame. I put in just enough recovery to bring that shirt back and just enough black point to make the very darkest areas true black. Everything else is default.
 
 Mext up is SPP 5.
 
-[image title="SDIM0554SPP" size="full" id="3280" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/SDIM0554SPP.jpg %}
 
 I cannot remember ever using any of the defaults in SPP - ever. This one had no blown highlights but I did a very similar adjustment to get a tiny bit of true black in the darkest area of the image. I also used the color balance tool to approximate the neutral rendering and skin tone hues in the ACR version.
 

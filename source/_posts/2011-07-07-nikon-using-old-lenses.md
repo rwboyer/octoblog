@@ -7,29 +7,29 @@ I have received a couple of emails from new-ish Nikon users that had some questi
 
 So, what's this AI/Non-AI thing all about anyway???
 
-[image title="P1010898" size="full" id="3184" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010898.jpg %}
 
 Take a look at the ring right behind the lens mount/body cap. See the little finger or prong sticking up?  This is the AI prong. This one happens to be flipped up and out of the way so that you can mount a "Non-AI" old lens on the body. When flipped down it's for mounting AI lenses and serves tells the in-camera meter what Aperture the lens is set to. When flipped down it's in the way so you cannot mount a Non-AI lens. See the small silver button to the right of the finger/lever/prong - press it down to flip up the prong. If your camera has an AI ring that looks like this it can pretty much mount any lens. Too bad all digital bodies that have an AI ring/prong at all cannot flip them out of the way so you <a href="http://www.aiconversions.com/compatibilitytable.htm">MUST get your lens converted to AI - this guy does it for like 20 bucks or something cheap.</a>
 
 Moving on to lenses, If your lens looks like this - even the all black ones - it is a Non-AI lens unless it's already been converted.
 
-[image title="P1010902" size="full" id="3183" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010902.jpg %}
 
 Here is what the Aperture ring looks like - it's a solid piece that extends all the way back.
 
-[image title="P1010903" size="full" id="3187" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010903.jpg %}
 
 If you have a lens that looks like the next image...
 
-[image title="P1010907" size="full" id="3188" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010907.jpg %}
 
 or this...
 
-[image title="P1010912" size="full" id="3191" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010912.jpg %}
 
 It could be either an AI or a Non-AI.... The difference is the Aperture ring. You have already seen the way a Non-AI looks. This is what an AI lens' Aperture ring looks like...
 
-[image title="P1010918" size="full" id="3194" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P1010918.jpg %}
 
 The little second set of aperture numbers are a dead giveaway but more important is the cutout and the ridge that engages the AI prong on the camera body. AF lenses have these as well except for the newer G type lenses that have NO aperture ring.
 

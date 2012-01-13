@@ -7,7 +7,7 @@ Sorry for leaving all of you Aperture users hanging for so long without a peep f
 
 On to some other thoughts. As some of you know I am a huge fan of printing your photographs. One of the reasons that I have not disclosed is that I am actually a huge fan of paper. I love the visceral experience of it. In fact even though I have all of the modern devices that most of us have, I continue to use paper notebooks for most things. I go through them at a clip you probably wouldn't believe. Part of it is just what I like and the other part of it actually has some practical side effects. I will describe those some other day. I pretty much jot everything that crosses my mind down, including just about every thing I think of to post here on this site. Of course I never get to most of them - that would take 4 lifetimes. Just like the reading list I accumulate in those same books. I write down project ideas, random aesthetic and political thoughts. Quotations I hear or read, news headlines that I find amusing. Everything.
 
-[image title="P1000761" size="full" id="2665" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/P1000761.jpg %}
 
 Be reassured that even though I have not posted on the site there are plenty of things that are on my "Blog posts' list. Today I just wanted to share a couple of quotes that I ran across in a book from about 2 years ago (yes I had to look something up). For your enjoyment here are a few I totally forgot...
 <blockquote><em>Avoid adjectives of scale. You will love the world more and desire it less.</em></blockquote>
@@ -25,4 +25,4 @@ Have a great weekend.
 
 RB
 
-[image title="P1000764" size="full" id="2666" align="none" linkto="viewer" ] 
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/P1000764.jpg %} 

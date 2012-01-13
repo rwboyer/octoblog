@@ -13,19 +13,19 @@ But we all know that we are all far too lazy and too cheap to shoot it all the t
 
 Here is an old random PKR (Kodachrome 64) shot that was laying around of nothing special - strait scan with no hocus-pocus. Not even a filter.
 
-[image title="1997004-04" size="full" id="2726" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1997004-04.jpg %}
 
 or maybe this one that was laying here
 
-[image title="000000101" size="full" id="2730" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/0000001011.jpg %}
 
 Here is a strait image and then a processed version using Alien Skin's Exposure's rendition of Kodachrome 64.
 
-[image title="DSC0008" size="full" id="2729" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/DSC0008.jpg %}
 
 And the processed version
 
-[image title="DSC0008-K64" size="full" id="2727" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/DSC0008-K64.jpg %}
 
 Enjoy.
 

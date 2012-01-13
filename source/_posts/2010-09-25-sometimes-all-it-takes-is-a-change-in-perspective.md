@@ -9,11 +9,11 @@ This is a really stupid example but it happened to be an occasion where I was ou
 
 Here is a ho-hum subject - doesn't really matter, it's not important it's an illustration, from the WRONG side.
 
-[image title="OLYMPUS DIGITAL CAMERA" size="med" id="2548" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P9130564-full.jpg %}
 
 Now let's step 2 and a half feet to the right - oh, is that the same thing at the same time of day in the same light? Yep.
 
-[image title="OLYMPUS DIGITAL CAMERA" size="med" id="2549" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P9130565-full.jpg %}
 
 The light and the subject can be exactly the same but standing 3 feet one way or three feet the other is make or break, do or die. This is true no matter what you shoot. The three feet in this case of where I was standing might not be the deal breaker it may be a 5 minute difference if you are a landscape shooter, it may be a fraction of an inch if you are a people shooter. The point is that a tiny change in perspective, point of view, or lighting angle is the difference between blah and KABOOM.
 

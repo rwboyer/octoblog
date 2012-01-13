@@ -11,7 +11,7 @@ Back to the story of Aperture 3 RAW interpretation being WAY different than Niko
 
 For all you non Nikon shooters here is what us Nikon guys are talking about up close and personal for you to see what all the hub-bub is about....
 
-[image title="ap3" size="full" id="3385" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/ap3.jpg %}
 
 See the image on the left - that is an OOC JPEG (NX2 will render the RAW file EXACTLY the same) the image on the right is the Aperture 3 RAW decode. See the difference? This is only showing a few of the colors on a color checker, the rest are whacked out as well. The good news is WB doesn't seem to be off the way it was for older cameras. The bad news - wellllll looks like a nice healthy dose of yellow green crossover and a case of too much green in the powder blues - typical.
 

@@ -9,11 +9,11 @@ Any how - I was right, there is a difference in color rendition. Unless you are 
 
 Frist the Olympus 14-42
 
-[image title="OLYMPUS DIGITAL CAMERA" size="med" id="2470" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P9160621.jpg %}
 
 Next the Panasonic 20mm
 
-[image title="OLYMPUS DIGITAL CAMERA" size="med" id="2475" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P9160627.jpg %}
 
 Yea, yea - I know the focus is different, and I know there is a slightly different exposure but that is not what I am looking at. These were both shot at a fixed daylight WB with seconds of each other in very consistent lighting color. The hue (not saturation and luminance) the actual hue value is almost identical for the more neutral tones in the straw hat. The difference is in the blues and greens in the ribbons. The hue is massively different to my eyes. As measured it's about 8-10 points more toward blue - in other words cooler.
 

@@ -5,7 +5,7 @@ comments: true
 ---
 If you do you probably know what the picture in this post is. If not you might have a hard time figuring it out without the suggestive title. It is a shot of the swarms of migrating birds that seem to be about a mile long and a half mile wide that are so thick with birds it is hard to even estimate how many there might be. Ten thousand? I don't know. In any case this image doesn't at all do justice to what it looks like. When you first see it during spring and fall seasons it is so surreal that you have to ask yourself if it's real.
 
-[image title="birdpano" size="large" id="2997" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/birdpano.jpg %}
 
 As you know I am not the "outdoorsy type". A real nature photographer would have setup in the right spot and waited and waited and waited with all the right gear etc etc. You see that I could not even be bothered to walk across the street in order to get rid of the roof tops and overhead wires.
 

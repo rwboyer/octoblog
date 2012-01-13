@@ -11,23 +11,23 @@ So here is what I did:
 	<li>I picked a random shot that I thought would look good after post processing and switched the master to RAW via the Photo-&gt;Set RAW as Master menu. Actually I use a shortcut key I set up but that doesn't matter.</li>
 	<li>Hmmm. This image sucks. Too flat, too dark, and no color. On top of that is it is crooked. It is way different than the scene I shot. The huge difference is in the color. The reason is that the in camera auto white balance tried it's best to make it "neutral" - who the heck want's neutral, neutral sucks. So the first step is straiten.</li>
 </ul>
-[image title="post1" size="med" id="2600" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/post1.jpg %}
 <ul>
 	<li>The second step is to set a daylight WB via the handy dandy WB presets provided by Apple.</li>
 </ul>
-[image title="post2wb" size="full" id="2601" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/post2wb.jpg %}
 <ul>
 	<li>Okay now we have some color back. In normal circumstances I might increase the exposure and via the exposure controls but in this case I know that I will be screwing around with a lot of contrast and tonal stuff so I will skip that. I also know that I don't want to mess with the end points (black and white points) so I am going to skip the tone related sliders altogether as I know I want to mess around in the middle of the tones. I do want to pretend I used a really high saturation film like Velvia so I am going to amp up the vibrancy a bit. I used a value around +20. A little goes a long way. Esp when combined with increased mid-tone contrast. Even in a quiet image like this. Don't go too far, especially with images that already have bright bold colors.</li>
 </ul>
-[image title="post3vib" size="full" id="2602" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/post3vib.jpg %}
 <ul>
 	<li>Next we move on to dealing with the contrast and tones. This time I am going to use a curves control because for this image it is the most direct way to get to where I want to go. It is twilight so I don't want to make the darks darker and I don't really want to make the lights a whole lot lighter - maybe a little. I want to bring up the lower mid-tones and increase the mid-tone contrast. So lets put a control point in the darks and leave it be just to keep them nailed. Then let's put a control point somewhere around the top end of the lights and drag it up to get the mid-tones looking the way we want.</li>
 </ul>
-[image title="post4curve" size="full" id="2604" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/post4curve.jpg %}
 
 Okay, I'm done. It looks like I remember it. Twilight and really nice color. You could go wild and make all the shadows visible or whatever. I just made it look like I would have in camera with film or digital and a little more care.
 
-[image title="post4curve_1" size="med" id="2603" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/post4curve_1.jpg %}
 
 RB
 

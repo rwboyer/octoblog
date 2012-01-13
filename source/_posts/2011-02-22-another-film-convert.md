@@ -19,8 +19,8 @@ RB
 
 Ps. All it takes is l<a href="http://www.flickr.com/search/?q=4x5+velvia&amp;m=&amp;s=int">ooking through a few pages of this</a> to KNOW I am pushing him in the right direction for what he does. My very first test shot with my 1930's funky-o-matic™ lens with a chip out of the front wide open with not particularly careful focus or handling....
 
-[image title="2009-0003-1200dpi_7" size="large" id="2861" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/2009-0003-1200dpi_7.jpg %}
 
 and of course you know the drill - here is "100%" from a 1200 dpi scan or approx 12x magnification, or 5 foot wide print if you open it on your screen.
 
-[image title="2009-0003-1200dpi_7-100" size="large" id="2859" align="none" linkto="viewer" ] 
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/2009-0003-1200dpi_7-100.jpg %} 

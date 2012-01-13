@@ -3,7 +3,7 @@ layout: post
 title: Available Light Workshop - Brain Dump
 comments: true
 ---
-[image title="1999-021-08small" size="full" id="3477" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/1999-021-08small.jpg %}
 
 So a couple of dozen people from all over the map have mentioned that they might be interested in an available light workshop and there were a few inquisitive souls that just had to know what that might be like. I guess the answer is really up to what people would be interested in as my agenda might last a week or a month or longer. That might be a little inconvenient and just a bit grueling for most non-fanatics.
 

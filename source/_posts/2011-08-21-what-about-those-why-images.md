@@ -17,7 +17,7 @@ In the interest of potentially interesting conversation, or at least causing you
 
 Here is one that I shot that I have kept around for more than a month. I guess that's my criteria, that gives me lots of ideas but not just that - I cannot for the life of me figure out why I like it.
 
-[image title="SDIM0421" size="full" id="3342" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/SDIM0421.jpg %}
 
 Obviously feel free to discus and share some of your "why" images as well.
 

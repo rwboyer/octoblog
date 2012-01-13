@@ -14,7 +14,7 @@ Yes I still feel the same way about the Nikon D2H. It was and is a great camera.
 </ul>
 Every time I revisit the old D2H files I am surprised how good they are. Here is a 100% crop of a D2H file that was a full length shot. Strait out of the camera except for the crop. No crap. I shoot with all settings flat for image controls with the exception of using color mode III every once in a while. If your stuff doesn't look at least this good - you probably don't really need a new camera.
 
-[image title="DSC0059" size="full" id="2722" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/DSC0059.jpg %}
 
 Two lights for the subject and one for the background that you can't see in this shot.
 

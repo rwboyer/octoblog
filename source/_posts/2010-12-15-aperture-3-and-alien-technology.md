@@ -3,7 +3,7 @@ layout: post
 title: Aperture 3 And Alien Technology
 comments: true
 ---
-[image title="P1000845" size="full" id="2684" align="left" linkto="viewer" ]I have received about seven hundred and 2 thousand e-mails and one-on-one requests for help with Aperture 3. A lot of them have a two common themes. The first one is -" help my Aperture 3 has fallen and it can't get up". The second is - "How comes you never have no Aperture 3 problems?".
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/12/P1000845.jpg %}I have received about seven hundred and 2 thousand e-mails and one-on-one requests for help with Aperture 3. A lot of them have a two common themes. The first one is -" help my Aperture 3 has fallen and it can't get up". The second is - "How comes you never have no Aperture 3 problems?".
 
 With respect to the first theme - of course I will try to help you out if I can. Time goes to one-on-one people on a first come first serve basis. I do have a life - sort of. With respect to the second questions I never really answer that, instead I focus on the way that other people actually operate their own little data-center instead and offer what I consider appropriate suggestions based on a lot of factors.
 

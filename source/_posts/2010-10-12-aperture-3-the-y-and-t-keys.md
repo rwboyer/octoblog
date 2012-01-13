@@ -7,7 +7,7 @@ Just want to connect a couple of dots for a few readers out there. I know all of
 
 As you know I love fullscreen mode for all of the reasons I already mentioned. I also love the on-the-fly UI adaptability of Aperture to suit the task at hand. The two go together so well when you use shortcut keys it is hard to explain except through examples. If mine don't work out for you the point is find the ones that do.
 
-[image title="Ap3meta" size="med" id="2650" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/Ap3meta.jpg %}
 
 So... when I am in fullscreen mode I like to see my images in all their glory (or not) undecorated with badges and metadata but in a lot of cases I like to know certain things about them as well. So what is one to do? Well for me I use both the view metadata overlays and the tooltips. I do this because I don't like flipping back and forth between the inspector metadata tab and the adjustment tab. Too much wasted motion. Instead I turn on the extended view metadata overlays for some things and tool tips for others. To toggle between basic and extended view metadata use Shift-Y to show or hide whatever set is active use the Y key. Simple, fast, and effective.
 

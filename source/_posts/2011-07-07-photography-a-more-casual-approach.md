@@ -14,31 +14,31 @@ I shot most of the shots on a Nikon FE in manual using an ancient single coated 
 
 . A few of them on the Sigma SD14 with 28mm f1.8. Here are a smattering of random images that I found interesting. There are a bunch more - maybe better - maybe not. I have about 30 images flagged as interesting that I will probably live with for a while before I decide if I want to spend time doing a better scan and fixing the color and tone. These are the default crappy scans from Walgreens.
 
-[image title="21910019" size="full" id="3153" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/21910019.jpg %}
 
 Something about this image intrigues me. In fact it continues to suggest a few different project ideas to me and even informs me on an approach to more controlled environmental fashion or lifestyle work.
 
-[image title="21910004" size="full" id="3152" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/21910004.jpg %}
 
 I have a few different shots that generally have this same point of view and compositional elements throughout the day. Not sure why I find it interesting but I can tell you I would have never made this composition if I had a zoom lens. I know exactly what I would have shot with a longer focal length and it would not have interested me in the least but may have been technically more acceptable.
 
-[image title="21930001" size="full" id="3157" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/21930001.jpg %}
 
 Love the bike at the beach. Love the way film deals with the 6 stop difference between the grass in the foreground and sunlit background. I massively overexposed the background as I metered off the grass that was under a shade tree. Shot at f2.8 if memory serves. Would have shot even shallower but was limited to 1/1000s with the 200 speed film.
 
-[image title="SDIM0514" size="full" id="3162" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/SDIM0514.jpg %}
 
 Ya gotta love the looks of these bikers - don't think the boys club was expecting a girl to show up in their front line.
 
-[image title="21940014" size="full" id="3161" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/21940014.jpg %}
 
 Love the curiosity of the little people
 
-[image title="21940011" size="full" id="3160" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/21940011.jpg %}
 
 Even without proper color balance I cannot ever stop loving the way Kodak Portra renders skin.
 
-[image title="SDIM0554" size="full" id="3164" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/SDIM0554.jpg %}
 
 This little girl was amazing - she changed moods from this to jubilant so quickly you wouldn't believe it. All day, either this or joy. Is this some sort of early training program that males don't seem to receive?
 

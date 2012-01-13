@@ -5,7 +5,7 @@ comments: true
 ---
 The mailman came today and it was like christmas. I love this stuff, all for $100 from an eBay auction. If you want to learn a lot about photography, be capable of making extremely good looking images once you do, and you have very very little money this kind of thing is the ticket. Look what $100 buys you...
 
-[image title="P1010896" size="full" id="3180" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/P10108961.jpg %}
 
 I won't give the complete list but here are some highlights to give you an idea...
 <ul>

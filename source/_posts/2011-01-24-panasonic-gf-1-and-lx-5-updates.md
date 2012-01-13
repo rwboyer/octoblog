@@ -3,7 +3,7 @@ layout: post
 title: Panasonic GF-1 And LX-5 Updates
 comments: true
 ---
-[image title="P1070224web" size="full" id="2717" align="none" linkto="viewer" ]It's been a while since I started down the road with my small camera quest. First it was the Olympus E-P1, next came the Panasonic GF-1, the latest acquisition was the Panasonic LX-5. I like all of these cameras. Of course 3 is way way too many little cameras. On second thought maybe it's not but more on that another day.
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/P1070224web.jpg %}It's been a while since I started down the road with my small camera quest. First it was the Olympus E-P1, next came the Panasonic GF-1, the latest acquisition was the Panasonic LX-5. I like all of these cameras. Of course 3 is way way too many little cameras. On second thought maybe it's not but more on that another day.
 
 I figured that it was time to reassess now that the GF-2 is sort of here, or at least on it's way to general availability. Based on everything I know about the new GF-2, I don't want it. I'll stick with the GF-1 but that's not the whole story. I really really do like the GF-1 and I also like the one and only lens I own for that camera as well. The 20mm f1.7. The real story is that I do not use it nearly as often as I originally envisioned.
 

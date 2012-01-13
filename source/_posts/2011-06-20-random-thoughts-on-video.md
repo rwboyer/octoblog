@@ -3,7 +3,7 @@ layout: post
 title: Random Thoughts On Video
 comments: true
 ---
-[image title="P1000219" size="full" id="3081" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/P1000219.jpg %}
 
 I haven't had a lot to say on the rapid march toward video capabilities in what would be considered still cameras. That doesn't mean that I haven't thought about it. For my own purposes I really haven't cared a whole lot. On one hand - why not, I don't care, it's free. On the other hand - WTF, I still have too many gripes about what is <em>wrong</em> with a lot of still cameras for manufacturers to be playing around with this crap before fixing obvious flaws in the core competency of their products.
 

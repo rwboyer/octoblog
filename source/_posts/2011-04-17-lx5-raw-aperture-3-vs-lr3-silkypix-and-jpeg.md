@@ -7,15 +7,15 @@ A quick follow up on my original comments about <a href="http://www.amazon.com/g
 
 Here is a full frame comparison of all four. Going from left to right and top to bottom the images are from Silkypix,ACR5 (LR3/ACR), in camera produced JPEG, and finally the <a href="http://">Aperture 3 RAW conversion</a>. Note that these are as imported into Aperture with NO adjustments, the same applies to both Silkypix and ACR as well - strait defaults. The in camera produced JPEG was on the "standard" setting.
 
-[image title="sc3-ico" size="large" id="2963" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/sc3-ico.jpg %}
 
 Next in the same order we have the obligatory 100%view...
 
-[image title="sc1-ico" size="large" id="2961" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/sc1-ico1.jpg %}
 
 Finally we have the same view but with a minor color and sharpening adjustment quickly applied to more closely mimic the in camera produced JPEG. I could get a little closer but couldn't help myself to back off the "range" adjustment a bit when shifting the greens in order to differentiate the yellows a bit more.
 
-[image title="sc2-ico" size="large" id="2962" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/sc2-ico.jpg %}
 
 All three RAW processors use far less aggressive sharpening than the in camera produced JPEG, all three seem to show a slight increase in tonal gradation or color differentiation between similar hues, and surprisingly all three have almost identical color treatments by default. As is obvious the greens are probably closer to reality and more yellow than the JPEG but who wants reality. All of the RAW processors are also almost identical in their treatment of lens distortion and other lens defects like CA which leads me to believe that the info to do those corrections is probably embedded in the RAW file versus a guess.
 

@@ -15,7 +15,7 @@ The bottom line is that photogenic is not only the subject, there is some degree
 
 For your consideration here is an image that I randomly jammed up on my Hasselblad online portfolio. It has been wildly popular and caused me to receive quite a few emails from fellow photographers with questions about it. I chose this image at random - I happened to have a jpeg already, it was square, I shot it with my Hasselblad, and I have been intrigued with this image for years. Intrigued because there are so many technical and aesthetic flaws that they have stopped me from ever making a final print of this negative but... I still like it. In fact it is one of those images that makes me think about what photogenic is. Despite the flaws and the distortions caused by the haphazard way her hands are twisting her face, and her eyes being semi-closed, and an unflattering angle, and countless other issues - I cannot seem to make an unattractive image of this subject.
 
-[image title="2001-019-05" size="full" id="3045" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/2001-019-051.jpg %}
 
 What is photogenic? Why are some people photogenic in front of your camera? If you are not a native english speaker - do you have a word for this effect?
 

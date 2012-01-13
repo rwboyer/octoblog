@@ -9,7 +9,7 @@ We are going back tomorrow but I did want to post a short blurb on setting up sh
 
 Here is my starting point from guess work - quite literally my second shot and the point at which we transitioned to a tripod mounted D700 with 24 tilt-shift Nikkor for the real deal.
 
-[image title="P1010202" size="large" id="2918" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/P1010202.jpg %}
 
 Our starting point consisted of one light in the room behind the glass that reads Carsins'. It was pretty much in a bare-bulb configuration sans reflector that we ultimately re-engineered to reduce the brightness in the doorway and make the gradient on the window frosting more controllable   by putting a 10" narrow beam reflector on the light and shooting that into a 48 inch white disk across the room. We had very little location flexibility with that light because we were short one radio slave and it had to be optically triggered.
 

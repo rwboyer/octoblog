@@ -17,7 +17,7 @@ I accidently aquired two of them. One of each major variety. One of them I bough
 
 Here are the two. The first one is the newer, more familiar Nikkor variety. It's multi-coated and has fantastic ergonomics. A perfect balance of damping and focus lightness that makes it a joy to use. The other one has the more dated orginial look of Nikkons first SLR lenses. It's single coated and has a more damped feel to the focus but still impecable. The older one is actually in mint condition. Not a mark on any of the paint, like it was never used.
 
-[image title="P1020222" size="full" id="3336" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/P1020222.jpg %}
 
 Both of them are surpisingly good picture makers. In most circumstances you cannot tell them apart on film. These are nothing like budget lenses of today. They came from an era in Nikon where there was no difference in the mechanics, workmanship, or handling of Nikkors. A Nikkor was a Nikkor. Built to last a lifetime and a work of art in and of itself. I swear both of these has the workmanship, fit and finish, and materials that in some ways are <em>better</em> than the newer Leica lenses I have used. All the markings are engraved. No play. Amazing.
 
@@ -25,11 +25,11 @@ I was never interested in these lenses - or any 28mm - when I was buying new Nik
 
 Here is a quick snap shot on one or the other of them - don't remember which, just to see if it worked.
 
-[image title="2011-007-18cn" size="full" id="3334" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-007-18cn.jpg %}
 
 Here is another - again don't remember now which was which.
 
-[image title="2011-001-13cn2" size="full" id="3337" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-001-13cn2.jpg %}
 
 If you really want the convenience of AI you can try to find one that has been factory converted, or even buy the AI version - still a good deal, just not quite as good. I am sure that you can find one like either of these for less than 50 bucks. Maybe even an AI version but you will have to put a little more time and patience into it. Will it <em>ever</em> be worth less? Doubt it.
 

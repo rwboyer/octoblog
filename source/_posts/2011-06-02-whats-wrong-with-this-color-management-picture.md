@@ -5,7 +5,7 @@ comments: true
 ---
 Okay so I could just use words to express what is going on here but I will let this speak for itself.
 
-[image title="P1010837-WTF" size="full" id="3059" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/P1010837-WTF.jpg %}
 
 Now time for some words...
 

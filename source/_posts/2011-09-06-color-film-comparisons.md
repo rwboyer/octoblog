@@ -5,7 +5,7 @@ comments: true
 ---
 You guys/gals know I like film right? Of course you do - probably too much for you digital only people. I know I know boring but I am telling you digital only shooters - I swear you may actually pick up a thing or two embedded in some of my film non-sense that I post. Just not from this post - this is just somewhere to stick this...
 
-[image title="2011-001-30cn" size="full" id="3402" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/09/2011-001-30cn.jpg %}
 
 An illustration to my probably over the top rant in response to a <a href="http://www.flickr.com/photos/rosscova/3637127435/">"film comparison" over on flickr</a>. I hope the Op doesn't take me wrong - I am glad he shoots some film - really I am. I am always trying to be helpful but sometimes I come off a little, ummm, let's say over-enthusiastic, no, too critical? The heck with it I don't know, in any case, I am sorry if I hurt anyone's feelings along the way - it is never my intent.
 

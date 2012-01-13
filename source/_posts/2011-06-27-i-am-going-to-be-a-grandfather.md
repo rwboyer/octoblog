@@ -7,7 +7,7 @@ Yep, No crap. As most parents would be, I am excited and worried all at the same
 
 Here is an image I recently scanned. It came out of a box of print packs and film envelopes that have been mistreated in major ways. This was one of my reject piles. One of many. With film I never throw anything away - prints or negatives. Especially negatives. My reject boxes are not even remotely organized but at least they exist with contact sheets and occasionally a package of 4x6 prints. I remember why this was a reject. I shot it on Kodak Royal Gold 400. My films of choice were the Kodak Portra family of films but for some reason or another I was always acquiring some sort of promotional film packs from both Fuji and Kodak. I shot them but never really like the way they looked compared to Portra. I happened to shoot some Portra 160NC of this occasion that looked great so I these shots got relegated to the reject pile.
 
-[image title="200000211cn-v2" size="full" id="3127" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/200000211cn-v2.jpg %}
 
 A dozen years later I certainly like the look of even this film (too too warm for my tastes) better than most digital. Especially most digicam images. I was one of the few photographers that I know that shot as much of his kids as I did. You would be surprised at how that gets neglected. I probably have 30,000 or more images of my three daughters on film - both color and black and white. Even after the digital revolution I continued to shoot film when I made images that were important to me and I am glad I did.
 
@@ -17,7 +17,7 @@ I know from my own experience that upon reflection a lot of the wiz bang wears o
 
 For those that gotta know - the attached image was shot on the way to my daughter's dance recital in hand held, using available light with a Nikon F2 and 85 1.4 wide open or at f 2. For you pixel mongers here is the 100% pixel view of a 4000dpi scan (approx. a 6 foot high print). Click to see all the pixels - note there is only a tiny plane that is actually in focus at this large of an Aperture....
 
-[image title="200000211cn-v2-full1" size="full" id="3125" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/200000211cn-v2-full1.jpg %}
 
 Please wish my daughters new and growing family luck.
 

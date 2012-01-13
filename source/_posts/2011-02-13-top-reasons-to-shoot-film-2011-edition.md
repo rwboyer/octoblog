@@ -16,6 +16,6 @@ In the spirit of the Nikon F3 give-away I compiled my own little list of the top
 	<li>Never ever having to say "I wish I shot this on film" or "I wish I had a D3x or a D4 or whatever".</li>
 	<li>Most importantly - sustain the small but very important film market that exists. Even if you only shoot with your iPhone - do you really want to see film go away. The Kodachrome thing was a real shame and for the first time in a very long time it is now completely impossible to use it at all. You cannot do it yourself - K14 processing is not something you could EVER do yourself. You can make a tin-type or a wet plate but you cannot do Kodachrome even if you have a lifetime supply of it. Personally I don't know anyone that would want that to continue to happen to film products as a whole. Shoot even a little bit and if lives. I personally plan to shoot E100G, Velvia, and for the first time this year Ektar 100 in multiple formats. I have not personally shot color for way too long because I don't care as much about color for my personal work. For too long it has been digital color for me because I don't care. I do care about black and white. This year, 2011, I am going to shoot at least half of my color "don't care" work on the mentioned color films. You see , I don't care now but I know I will care later.</li>
 </ol>
-[image title="P1010039" size="full" id="2825" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/P1010039.jpg %}
 
 RB

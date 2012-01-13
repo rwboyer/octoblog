@@ -21,6 +21,6 @@ A lot of work-flow advice covers things very broadly like import fix backup. Her
 </ul>
 I will leave you with that food for thought - pretty much some clarifications of the post referenced at the top. If you have no idea what any of this means take a look at my <a href="http://photo.rwboyer.com/2010/08/15/aperture-organization/">Organization eBook</a> or at least my <a href="http://photo.rwboyer.com/2010/08/25/aperture-3-stacks-and-albums/">Stacks and Albums</a> screencast.
 
-[image title="DSC0049" size="medium" id="2807" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/DSC0049.jpg %}
 
 RB

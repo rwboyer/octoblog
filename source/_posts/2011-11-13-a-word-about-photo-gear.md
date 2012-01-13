@@ -5,11 +5,11 @@ comments: true
 ---
 Look at the state of that...
 
-[image title="DSC_5047 - Version 2" size="full" id="3517" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5047-Version-2.jpg %}
 
-[image title="DSC_5048 - Version 2" size="full" id="3519" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg %}
 
-[image title="DSC_5048 - Version 2" size="full" id="3519" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg %}
 
 What we have here is a Photoflex light disk - I am sure along the way you have all seen these. They fold down to about 1/4 the full size. I went to use this particular one this morning and this is what I found. My vague recollection is that I used it about 3 months ago and nothing really bad happened to it while I was shooting. there may have been a tiny bit of light mist that day. It definitely was cloudy. I was shooting indoors that day and the exposure to the elements consisted of a trip from my trunk and back. I can tell you that none of my other gear suffered and it definitely was not soaking wet when I put it back with all my other crap.
 

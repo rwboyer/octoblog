@@ -13,15 +13,15 @@ Let's take an example - the black point control. This slider does two things if 
 
 The other thing the black point slider does is makes extreme precision easier because the amount of movement of the slider vs the change is not a whole lot. If you are using curves in the "normal" range the tiny bit you have to move the black end is hard to do with the same precision. Hence that is sort of what the "shadows" range in the curves control does. Here is an image that get's to the same place using both controls. The version on the right using black point at about "10" and the image on the right using a curves control.
 
-[image title="FS-adj" size="med" id="2625" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/FS-adj.jpg %}
 
 Here is what the curves control looks like in the "shadows" range.
 
-[image title="FS-curve-1" size="full" id="2626" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/FS-curve-1.jpg %}
 
 Here is what it looks like in the "normal" range. Note the anchor I stuck in the mid-tones.
 
-[image title="FS-curve-2" size="full" id="2627" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/FS-curve-2.jpg %}
 
 The same is pretty much true for the rest of the exposure control block as well as the contrast slider in the enhance block. Think of them as shortcuts to doing things another way. Same goes for the recovery slider. It's almost the reverse of black point. It sticks and anchor point in the lower mid tones and drags the right hand end point in curves further right in "extended" range. Contrast manipulates the end points in one direction or the other. You get it.
 

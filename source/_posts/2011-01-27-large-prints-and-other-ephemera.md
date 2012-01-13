@@ -13,11 +13,11 @@ Before investing in this epic print (extremely expensive depending on materials 
 
 Here is <a href="http://blog.lesterpickerphoto.com/">Les</a> assembling the mockup so that we can get a sense of scale in the actual location as well as assess the possibility that we can get the art to hold up at that size.
 
-[image title="P1000958" size="full" id="2735" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/P1000958.jpg %}
 
 Here is a really crappy image in the darkness that shows you kind how big it will be.
 
-[image title="P1000963 - Version 2" size="full" id="2737" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/P1000963-Version-2.jpg %}
 
 Les and I decide that the giant print is a go. We are making some final decisions on the material, the presentation, and of course the actual image to be used as there are a few candidates. I have no doubt that this is doable from a really good 12 Megapixel image - by really good I mean perfect. There are a few aesthetic decisions that I am wrestling with, the biggest one is grain simulation as these are digital RAW files as source images.
 

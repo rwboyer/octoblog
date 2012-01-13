@@ -11,11 +11,11 @@ This one is easy - just use the EXIF data. You don't even need to type it in, it
 
 Create a top level folder and call it focal length.
 
-[image title="folder" size="med" id="2555" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/folder.jpg %}
 
 Inside that folder a create a bunch of smart albums that look for the 35mm equivalent in ranges. Like this. I happen to use super-wide, wide, normalish, and tele for my own purposes. Since I have done this more than once I make smart albums. Jamming them in a folder is nice to keep them out of the way. Make sure you click on the "Library" at the top of the search criteria so that your search will be in the context of all of your photos.
 
-[image title="search" size="med" id="2557" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/search1.jpg %}
 
 This kind of stuff is not only fun to understand your shooting habits but it's practical as well. Say you are wondering if you should by the kit zoom or the normal 20mm prime on your GF1. Understanding your shooting history on all your other zooms in the normalish range can help. Wanna see some stuff you NEVER do just do a search inside your wide smart album for other stuff like keywords for portrait or something. Wow, there are none, nice exercise you need to go shoot some wide angle environmental portraits. This can help in more creative ways than I can explain.
 

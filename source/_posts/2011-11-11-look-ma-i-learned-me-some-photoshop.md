@@ -17,7 +17,7 @@ Commercial image making can be fantastic - I have seen it. I swear, back just a 
 
 I swear there was good commercial imaging - I know that some of you will say that the image did it's job because I payed attention to it. Trust me - I will forget it ever existed by about noon tomorrow or sooner. Where as something like this....
 
-[image title="scorpions-lovefrontje" size="full" id="3505" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/scorpions-lovefrontje.jpg %}
 
 I can remember for decades.
 

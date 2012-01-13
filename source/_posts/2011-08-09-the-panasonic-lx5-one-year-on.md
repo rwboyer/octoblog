@@ -13,8 +13,8 @@ I know there are a few worth competitors out there now. I actually have a Canon 
 
 Here are two snaps I made right before dinner of a female red throated humming bird out on the porch.
 
-[image title="P1020002 - Version 2" size="full" id="3290" align="none" linkto="viewer"]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/P1020002-Version-2.jpg %}
 
-[image title="P1020004 - Version 2" size="full" id="3291" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/P1020004-Version-2.jpg %}
 
 RB

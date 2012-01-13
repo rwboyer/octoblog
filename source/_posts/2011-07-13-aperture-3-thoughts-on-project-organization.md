@@ -13,7 +13,7 @@ In many ways the way you organize projects and folders of projects in Aperture i
 
 Aperture 3 makes it easy to look at your images organized by date in numerous different ways no matter how you choose to name and organize your projects. If you Go to the all projects view you have a couple of controls and options at the top of the browser window that will do this....
 
-[image title="ss1-full" size="full" id="3216" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/ss1-full.jpg %}
 
 The first drop down menu controls ordering the view by name, date, or like the library in the inspector is ordered. That's pretty self explanatory but a lot of people I have talked to never really noticed or used these controls before. They set them one way and leave it that way. The best way to use Aperture is to change the UI to suit what you are trying to do at the moment. The next group of icons to the right are much more interesting. They change the way the browser works completely for the all projects view.  The first one is the boring default view. The second one is great if you want a quick view partitioned by year. No matter what you choose in the drop down for ordering the second icon groups your projectsby year when you choose this the drop down controls the ordering inside the year grouping of projects. Last will group your projects by the folders you created.
 

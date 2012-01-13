@@ -15,23 +15,23 @@ Metering seems fine in evaluative but for my style shooting I will probably end 
 
 So here are the very first few shots from my walk down the street yesterday - most of them shot at F1.4 using AF in aperture priority mode. Maybe one or two at F 2 or F4. Random thoughts on camera performance and more importantly sensor performance accompany the StupidCrap™ test images. For the most part I just changed the WB of the images in Sigma Photo Pro. I have no idea yet what my work flow is going to be and the best way to process these files so please excuse the shoddy work. The files are pretty amazing.
 
-[image title="SDIM0207_1" size="full" id="3122" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0207_1.jpg %}
 
 Check out the color - fantastic. I shot them all on auto white balance. I probably won't do that again as most of them were wrong and random. The differentiation of the yellows is fantastic performance for a digital camera. Highlight rendering is great - pay attention to the whites in the upper left of the image above. This kind of stuff is a real pain in the ass with most digital capture involving a lot of fiddling around. With the Foveon it looks great out of the box.
 
-[image title="SDIM0218" size="full" id="3098" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0218.jpg %}
 
 This old dingy is almost buried and mostly grown over. No focus issues at all at F1.4. I focused on the top of the M in MD... Again the color and gradation is pretty fantastic. This is cliche at this point but it is really a whole lot like film rendering.
 
-[image title="SDIM0213" size="full" id="3097" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0213.jpg %}
 
 Some kayaks  and canoes at F1.4. Reds are good and great differentiation of greens.
 
-[image title="SDIM0288" size="full" id="3118" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0288.jpg %}
 
 Focus on the center leaf is great wide open. I don't think I will bother with fiddling around with formal focus test charts. As of right now I have confidence that focus issues will probably be my fault and not the camera/lens' fault. In real life calibrate all you want but unless you are shooting on a tripod taking great care when focusing close up at F1.4 any <em>mis-calibration</em> is just as likely to save the shot vs ruin it if making images handheld with live subjects.
 
-[image title="SDIM0285" size="full" id="3116" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0285.jpg %}
 
 Just wanted to see what varying degrees of fine texture looked like in varying degrees of focus. Looks pretty good to me. Awful image - good camera. This is the kind of thing that drives me insane with digital. Leaves and such at various spacial frequencies at various degrees of in/out of focus that look like dog-doo on digital seem to look good on the Foveon. Again - very film like. I am going to shoot this against some of that new Kodak Portra to compare. Maybe next week.
 
@@ -41,6 +41,6 @@ Here is one more image for consideration - again crappy image but shows me what 
 
 Click on the image to see it full size - any artifacts are due to Worpress re-re-re-re-re-compressing the original JPEG.
 
-[image title="SDIM0242-full" size="full" id="3104" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/SDIM0242-full.jpg %}
 
 RB

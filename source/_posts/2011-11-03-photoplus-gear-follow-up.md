@@ -17,7 +17,7 @@ Where a camera similar to a <a href="http://photo.rwboyer.com/2011/06/28/new-nik
 
 My reaction to PhotoPlus was to immediately purchase these as soon as I got home. One of them was actually purchased while I was still in NYC.
 
-[image title="P1020241" size="full" id="3468" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/P1020241.jpg %}
 
 A silver OM-1, a silver OM-1n, a black OM-1, two black OM-2's - on an "n" the other a bit older. All of them work fine, the 28mm, 50mm f1.8, 50mm f1.4, and 135mm all came with the cameras and included the little Olympus lens cases as a bonus. I spent about $150 for the lot of them. Why Olympus? Well I already have enough Nikon gear to last me 3 lifetimes, same goes for Hasselblad and I have always love the OM system for it's tiny dimensions and giant (not so much with the OM3/4) uncluttered viewfinders and figured I would corner the market before everyone else figured out the digital tread mill blows and the promised land sucks.
 

@@ -7,17 +7,17 @@ I didn't know whether to call this Apertre 3 and film part 0.5 or something else
 
 If you look under Aperture 3's file menu you will see a sub-menu under import called "Folders as projects...". There is a lot of functionality rolled up into the dialog invoked with this menu option.
 
-[image title="dialog2" size="full" id="3347" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/dialog2.jpg %}
 
 The first option drop down in the above dialog "Import folders as: Projects and albums" will produce a project named the same thing as the folder that is actually selected and then albums within that project for each sub-folder like this..
 
-[image title="proj-album1" size="full" id="3348" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/proj-album1.jpg %}
 
 One thing that is not completely obvious here is that the folder that turns into an Aperture poject is whatever folder happens to be selected or highlighted in this dialog. It does not have to be only one folder. You can select multiple folders using the usual tools of shift-clicking for ranges or command-clicking for  multiple, discontiguous folders. Each and every folder that is selected/highlighted in the finder part of the import dialog will become projects. Any subfolders within those selected folders will become albums. The bottom line is that the behavior is depended on what is actually selected in the finder part of the dialog.
 
 Here is what happens when multiple folders are selected in the dialog to give you a clear picture of what happens to the various subfolders within each top level folder. Remember that the projects are the folders actually highlighted/selected in the dialog. The rest of the stuff under those projects are sub-folders.
 
-[image title="proj-album2" size="full" id="3350" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/proj-album2.jpg %}
 
 Now to the film part. I described my fairly draconian but conventional way of physically storing and indexing my film once it is processed. I typically create a folder that corresponds to a roll number for my scans to be loaded into. Just to keep image scans on the same roll in some sort of logical connectedness. I usually will shoot a couple of rolls for a <em>project</em> so I have a project folder that is appropriately named along with sub-folders that are named the same thing as my roll numbers in my physical film files. This method of importing is farily convenient to create a project with albums for each roll of images. Not required but just something I like to have.
 

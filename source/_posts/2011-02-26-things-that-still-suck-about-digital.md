@@ -20,6 +20,6 @@ For those that don't quite get my humor - this list is interspersed with absolut
 
 Here is some food for thought - this image (yes it is just stupid crap) was shot on that roll of 10 year out of date Kodak 160 Portra VC in my 50 year old Leica just to see what would happen and how "bad it was" It was then processed and scanned at the local drugstore for six bucks at 8bit low res by an untrained glue sniffing teen that has NO idea what film should look like, nor cares. You will have to believe me when I say that the Highlights don't suck, the skin tones don't suck, and the color don't suck right out of the box. I may actually scan these negs myself and show you in painstaking detail why all of the above do not suck with NO screwing around.
 
-[image title="03700034" size="full" id="2866" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/03700034.jpg %}
 
 RB

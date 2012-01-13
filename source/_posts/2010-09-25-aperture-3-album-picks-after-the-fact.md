@@ -9,16 +9,16 @@ With some of Aperture 3's new search features it's really easy to make an album 
 <ul>
 	<li>Do a quick search in the image browser with all the stacks open and add a search criteria for adjustment.</li>
 </ul>
-[image title="search" size="full" id="2543" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/search.jpg %}
 <ul>
 	<li>Now that you are looking at just the black and white versions, select all of them via the edit menu or command+A.</li>
 	<li>Next use command+L or right click new album to create a new album. Call it "Black and White" and make sure the include selected images is checked.</li>
 </ul>
-[image title="album" size="full" id="2541" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/album.jpg %}
 <ul>
 	<li>Note that in the new album all of the black and white images that were selected have a little check mark on them at the top. These are the album picks even though they are most likely located further down in the stack. This is because they were the actual images selected when the album was created. This also happens automatically when you create a new version while looking at an image via an album. Very powerful.</li>
 </ul>
-[image title="albumpicks" size="full" id="2542" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/albumpicks.jpg %}
 <ul>
 	<li>Close all the stacks via the stack menu or or Option+; Stacks are the most powerful when the are CLOSED. They are a mess when they are open unless you happen to be searching.</li>
 </ul>

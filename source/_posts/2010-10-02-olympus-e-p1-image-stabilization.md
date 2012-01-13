@@ -15,15 +15,15 @@ In any case here are some <a href="http://www.amazon.com/gp/redirect.html?ie=UTF
 </ul>
 Here is the screen capture at 1/20, no real practical difference accounting for variations in us humanbeans.
 
-[image title="ep-20" size="med" id="2594" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/ep-20.jpg %}
 
 Next we have the test at 1/6,
 
-[image title="ep-6" size="med" id="2593" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/ep-6.jpg %}
 
 Last but certainly not least we have 1/2. At this point we are definitely in the realm of needing some technological help as you can clearly ascertain.
 
-[image title="ep-2" size="med" id="2592" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/ep-2.jpg %}
 
 The bottom line is the E-P1 internal IS works. The more important thing to note is that what shutter speed you can hand hold a camera at for a given image magnification is highly personal. I expected to see a huge difference in every single shot. I don't. At 1/20s and 28e there is no visible difference in any of the 6 shots I made. At 1/6 s the difference is a little more clear, not in my best of the bunch but in the consistency. My non-image-stablized shots at 1/6 are one out of three is good, one is bad, and one is not-so-good but acceptable. The story completely changes at 1/2 s, none of my non-stabilized shots are useable, all of the stabilized shots are.
 

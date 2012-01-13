@@ -9,7 +9,7 @@ Some items on this list have come from nowhere as I am drinking a cup of coffee.
 
 Over the weekend I ventured out into the local woods with a photographer friend of mine. The primary purpose was to help / coach him on his 4x5 view camera endeavors. Of course I brought my camera with me - mostly to make a couple images of him using his 4x5 camera. When we arrived at a suitable location I was intrigued at the number and diversity of people sprinkled around this spot in the middle of nowhere. He was of course annoyed as he like is landscape scenes sans people. When I saw this image I just had to take it. The scene only lasted about 30 seconds, I was way way too far away even with a 135mm lens that was in my bag. I was perched on a rock and had a hard time keeping steady. Even worse I had no room to move or recompose. I shot two of the frames and then it was gone.
 
-[image title="2011-006-17cn-as-Smart-Object-1" size="full" id="3212" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/2011-006-17cn-as-Smart-Object-1.jpg %}
 
 The image is okay but the trip into the woods, my interest in the diversity of people there, and this image suggested two projects that I feel compelled to do. The first one is a lifestyle/fashion shoot in the many similar locations like this around the area. Grab a couple of models - someone to hold reflectors - and shoot. The location in combination with the heavy, humid air suggests summer as well as the vegetation and offers something way off the beaten track as compared to beachy type fashion but suggests a similar feeling. A great project right up my ally for the summer.
 

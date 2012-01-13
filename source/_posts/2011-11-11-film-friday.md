@@ -7,19 +7,19 @@ Just got around to looking at some shots testing my first roll of Ektar 100 from
 
 So here is the Ektar 100 with NOTHING done to it. I scanned it myself at a stupidly high resolution and can assure you that this is a neutral scan. Heck I didn't even sharpen it. Nothing. Well I did set the black point in the scanner software to something reasonable. Shot with a Nikon FE and 60's vintage Nikkor 50mm f1.4.
 
-[image title="2011-008-27cn" size="full" id="3510" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/2011-008-27cn.jpg %}
 
 Ta....Daaaaaa. Here is the D7000 version with a similar contrast curve and black point (you should see it before that).
 
-[image title="DSC_3434-as-Smart-Object-1" size="full" id="3512" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-as-Smart-Object-1.jpg %}
 
 What the hell happened to my color - why the heck did I point my camera over here in the first place. Maybe If I use NX2 and set the WB to daylight and the picture control to vivid it might help things a bit. Why not.
 
-[image title="DSC_3434-nx2" size="full" id="3513" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-nx2.jpg %}
 
 No dice. Maybe if I use ACR6 and jack up the contrast and vibrance like everyone does on every single image. And also use a vivid camera profile. Maybe it will get better. Here we go, hold on to your hats - this will make it look good.
 
-[image title="DSC_3434-ACR" size="full" id="3511" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-ACR.jpg %}
 
 Hmmmm. Maybe film does look good - sometimes.  I know there are a few of you that somehow are think that this is some sort of trick or that I have somehow not done what I "should" have to the D7000 image. Addressing the first - No tricks, no there was no filter on the film camera - NONE, not even a UV or 1A - Nothin'. I wish I were patient enough to actually shoot these on different days with the EXACT same light and water/wind conditions with the EXACT same boats. If I were I would put that patience to far far more nefarious purposes that hoodwinking a couple of people that film actually looks great. Or maybe I am not telling the truth about what I did in Photoshop to the film image - hmmmmm - I cross my heart - no tricky-ness. If I were going to resort to that - I would be a whole lot more tricky.
 

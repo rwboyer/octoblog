@@ -15,19 +15,19 @@ I felt compelled to shoot this short series based on my observation through 9 ba
 
 The focus plane - my fault not the lens' - is a bit off as you can see in this one but I don't really care the look is classic. Click on the image for a larger view...
 
-[image title="23650017" size="full" id="3200" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/23650017.jpg %}
 
 Skin is easy with film. One complaint I have always had with digital is skin.
 
-[image title="23650018" size="full" id="3202" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/23650018.jpg %}
 
 You have to respect the determination here. The funny thing is she can actually run full speed in these things for the last year or so...
 
-[image title="23650019" size="full" id="3203" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/23650019.jpg %}
 
 Check out the wrong feet action - no worries.
 
-[image title="23650020" size="full" id="3204" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/07/23650020.jpg %}
 
 I really need to spend a full day or so with my brother's girls and a camera - I spend maybe a minute or two every few months pointing the camera at them. I am definitely putting it on my list of things that must be done before the summer is out.
 

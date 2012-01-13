@@ -5,7 +5,7 @@ comments: true
 ---
 My holiday traditions have changed radically over my lifetime. I thought I would share some real world holiday trials and tribulations with my photographically inclined readers. I have three daughters as some of you might know. They are all teenagers now but I have as you would expect a bit of experience making photographs of children. If it's my children on my schedule, it's a labor of love but I know what it takes to do "good" photographs of children and it's not an exercise that can really be scheduled and forced.
 
-[image title="P1000772" size="full" id="2701" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/12/P1000772.jpg %}
 
 My advice to all of the people that want me to "do pictures" of their children after seeing some of my triumphs of sheer tenacity is to do it themselves - they will be better than the hour or so that they schedule me to do them. It's just how it works. Parents that spend time with their kids can make way better images than a guy/girl that shows up and tries to do it on demand.
 
@@ -31,6 +31,6 @@ As usual my favorite images (the ones that depict the actual reality of the situ
 
 Just thought I would let you people know - if  you are the camera guy/gal this will happen sooner or later. Relax and just soak it in.
 
-[image title="P1000845" size="full" id="2702" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/12/P10008451.jpg %}
 
 RB

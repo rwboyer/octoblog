@@ -11,15 +11,15 @@ Here is where HSL color numbers come in very useful. Each one is completely inde
 
 Step one, make sure that the loupe tool is setup to display color information.
 
-[image title="color3" size="full" id="2582" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/color3.jpg %}
 
 Step two, using the gear menu in the adjustment inspector set the color information display to HSL and use a medium or broad sample point
 
-[image title="color1" size="full" id="2580" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/color1.jpg %}
 
 Step there, use the back quote key to toggle the loupe on or off like this and enjoy easy to reference, easy to comprehend color information that correlates directly to the color adjustment block sliders.
 
-[image title="color2" size="full" id="2581" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/09/color2.jpg %}
 
 Enjoy
 

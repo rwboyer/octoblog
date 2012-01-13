@@ -7,7 +7,7 @@ Here is one for the Aperture 3 SuperSimpleStuff™ series based on a question th
 
 First off make sure you are looking at your all photos view near the top of the project inspector and clear out any old search criteria. Then open up the search HUD and add criteria that looks something like this.
 
-[image title="findRAW" size="full" id="2957" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/04/findRAW.jpg %}
 
 You know what to do from here... Just select them all with command+A then choose reprocess master from the photo menu.
 

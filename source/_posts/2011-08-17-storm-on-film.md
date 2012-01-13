@@ -11,15 +11,15 @@ These were shot with a Nikon FE,  10+ year old Kodak Portra 160VC, and an antiq
 
 This one was done using aperture priority AE so it wanted to make it look like it was day time... That strange looking stuff lighting up the center of the clouds is lighting blasting away behind them.
 
-[image title="2011-007-24cn" size="full" id="3325" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-007-24cn.jpg %}
 
 These I just guessed an appropriate aperture (probably too small), opened the shutter using 'B', waited for a lightning strike and closed the shutter again.
 
-[image title="2011-007-26cn" size="full" id="3326" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-007-26cn.jpg %}
 
 Same as above butt this one you can see where the lightning hits the ground - if you look close you can see where it splits in two and also all the little crackly things in the lower portion of the lightning. Click on the images for bigger versions.
 
-[image title="2011-007-35cn" size="full" id="3328" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-007-35cn.jpg %}
 
 In all cases the center and upper portions of the frame are the sky above the storm the lightning strikes are under those flashes.
 

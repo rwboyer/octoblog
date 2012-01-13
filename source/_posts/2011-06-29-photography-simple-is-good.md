@@ -18,15 +18,15 @@ I think there are a couple of things to think about regarding the current offeri
 </ul>
 Just some things to chew on. Simple is good. It's good for your state of mind, it's good for your pictures. Here is a casual shot from last summer. <a href="http://www.amazon.com/gp/product/B000LM6UJC/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B000LM6UJC">Portra 160VC</a> with my Leica M6 and 50 Summicron. This is fairly decent skin tones right out of the box on my uncalibrated scanner. Would the D3 be better? No way - in fact it would be a lot worse for a number of reasons. Is it somehow inferior I don't think so. Could you make the same image that looks as good using a digicam? No way. How about a $100 Nikon FM or FE - absolutely.
 
-[image title="201000125cn-as-Smart-Object-1" size="full" id="3137" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/201000125cn-as-Smart-Object-1.jpg %}
 
 Would this image be better if there was no film grain/noise when looking at it at "100%"? No. Would the color be "better" No. Would there be some wonderful detail that somehow isn't there? No. The skin tone would probably be nuclear, the hair would be some strange noisy digital mess, The out of focus trees would be really funky, distracting, artificial looking, harsh, and probably more yellow, The sky would have no tone without lots of screwing around,  Would AF somehow figured out how to focus at f 2.0 better and sharper? No. For that matter none of my shots on this roll were in anyway out of focus and better yet - the focus was exactly where I wanted it. Could I somehow screw around with a digital capture in ways I can't screw around with this? No - in fact I have way more data to play with should I want to.
 
-[image title="201000115cn-as-Smart-Object-1" size="full" id="3136" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/201000115cn-as-Smart-Object-1.jpg %}
 
 Would this one be better on digital? Would Auto WB some how save this shot? Doubt it. If I wanted to play with the color balance I sure as well could just as easily as digital capture. If I had a lab scan it they would do it for me to my taste all included in the process/scan price. That's a lot of labor for a great price. The color of the light was changing really fast here as it was going into twilight and I did want to demonstrate  Portra's almost magical ability to render skin in a pleasing and wonderful way almost no matter what the color balance of the light and overall image. Did I need ISO 1600 at twilight - nope.
 
-[image title="201000114" size="full" id="3140" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/201000114.jpg %}
 
 Are these AMAZING shots - no. Just my typical family snapshots Are they important? To you - no. To me - very. Would they somehow be better with a complicated, heavy, expensive DSLR last year, this year, or next year even? No, if they would be please let me know how. I would LOVE to hear it. If somehow your answer is in post processing - forget it. I can do that if I want but don;t have to or want to. For the same price as processing, I can have someone else do it for me to my liking very consistently. Based on 200,000+ shots on digital over the last 12 years I can guess at some ways digital capture would possibly and probably be worse.
 

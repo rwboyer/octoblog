@@ -7,7 +7,7 @@ My email in-box continues to astound me. Some of the questions and inquiries tha
 
 The icon in question was for <a href="http://photo.rwboyer.com/2011/07/16/old-camera-new-film-new-camera/">this post</a>. Nothing special but here it is... I aim to please, click for larger version.
 
-[image title="2011-006-24cn" size="full" id="3300" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/08/2011-006-24cn.jpg %}
 
 Probably more interesting as an icon to tell you the truth. I am not much of a landscape guy. This just happens to be a snap I took while out doing a mini-workshop of film behavior and spot metering here locally. Not a bad image but it was at the end of a very hot, humid, steamy, hazy, soupy day we had here a while ago. This translates into low contrast in the distance (sometimes good but hard to pull off without the right scene) and blah colorless, cloudless skies. I guess the horsey-s are nice.
 

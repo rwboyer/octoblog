@@ -9,7 +9,7 @@ Actually my buddy Les Picker had his camera rig attacked by a bear when he was o
 
 Here is an image of Les that I snapped a few weeks ago while we were out playing around with his large format camera in a stream.
 
-[image title="2011-011-11" size="full" id="3411" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/09/2011-011-11.jpg %}
 
 Shot with a Nikon FE, 18mm Nikkor AIS, and crappy consumer grade Fuji 200 for any one that cares. Just as a note - there were no bear during this outing, just poison ivy and some shady looking "gangstas" with pants that didn't fit correctly.
 

@@ -11,22 +11,22 @@ Enjoy (or not) I love how juicy Kodachrome is right out of the camera (the actua
 
 Nikon 55 micro with idiotically small aperture
 
-[image title="1999002-11" size="medium" id="2743" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1999002-11.jpg %}
 
 Really crappy Nikon zoom that I hated
 
-[image title="1999013-03" size="medium" id="2748" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1999013-03.jpg %}
 
 Nikon normal lens in the almost dark
 
-[image title="1999002-20" size="medium" id="2744" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1999002-20.jpg %}
 
 Same crappy Nikon zoom that I hated
 
-[image title="1999010-20" size="medium" id="2745" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1999010-20.jpg %}
 
 Awesome Nikon 85 1.4 one of my favorite lenses ever.
 
-[image title="1999011-02" size="medium" id="2746" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/01/1999011-02.jpg %}
 
 Cameras Nikon F2's or F3's that I had at the time.

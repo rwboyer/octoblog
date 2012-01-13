@@ -24,6 +24,6 @@ Oh it has a 7 day return policy so I will shoot it as soon as it gets here. What
 </ul>
 Here is my new beauty of a 50mm - nice huh? Ob it came with a Nikon hood as well.
 
-[image title="445822027_o-main" size="full" id="2775" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/445822027_o-main.jpg %}
 
 RB

@@ -5,7 +5,7 @@ comments: true
 ---
 I am making an announcement today on behalf of Nikon. You will get the info exclusively here as I am actually pre-announcing their new mid-range full-frame FX camera before they have even planned it. Below is an image of the prototype I have been testing as well as a list of the features and controls.
 
-[image title="FE" size="full" id="3133" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/06/FE.jpg %}
 <ol>
 	<li>Full frame FX sensor format with a gorgeous viewfinder perfect for super fast and accurate manual focus at apertures up to f 1.0.</li>
 	<li>Interchangeable camera backs that contain the latest greatest full frame sensor or use any old back from an FE/FM/FM2/FE2 to shoot film.</li>

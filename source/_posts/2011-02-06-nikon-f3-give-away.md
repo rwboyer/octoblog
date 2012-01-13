@@ -19,4 +19,4 @@ RB
 
 Ps. Shot this with my F3 at some point. Plus-x developed in D76.
 
-[image title="2000-034-15" size="large" id="2790" align="none" linkto="viewer" ] 
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/2000-034-15.jpg %} 

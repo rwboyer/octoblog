@@ -5,7 +5,7 @@ comments: true
 ---
 Just so you guys think I am not totally off my rocker here I did want to tell you that I do still think "digital" is great to. For instance - the following shot is an illustration I cranked out in about 2 seconds without even thinking about it using my lovely <a href="http://www.amazon.com/gp/product/B003WJR69E?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003WJR69E">Panasoic LX5</a> (aka Leica DLUX-5). As I have said before this little guy is AMAZING.
 
-[image title="P1010059" size="full" id="2851" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/P1010059.jpg %}
 
 I shot this off the cuff and had it ready to go in less than a minute from capture to publish. I absolutely love that about digital. It certainly has it's place in the world of photography. I mean come on - This is truly amazing - the shot sucks but look at how easy it was and from a technical standpoint it's sharp and well exposed with not a lot of noise at ISO 500 f 2.0 handheld without a lot of care at 1/8 second. I didn't do a thing - the camera set the ISO, along with everything else including choosing the focus point to use. The only thing I did was to hold the camera near the floor tilt it a little, choose the focal length of 24mm and press the button. Tell me that isn't fantastic image stabilization built right in.
 

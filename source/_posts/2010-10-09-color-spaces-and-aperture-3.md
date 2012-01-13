@@ -9,31 +9,31 @@ First off - when processing RAW files Aperture uses what Apple refers to as a "i
 
 Okay so for all of you that have no idea what I am talking about, I am going to give you a tool that may help you visualize why some people go nuts with this stuff. It is a visual tool that comes free with all Apple computers and is pretty amazing. I continue to forget that a lot of you are not long time Apple folk like me. The magic tool is called  "ColorSync Utility". Just use spotlight to open it. Here is what it looks like.
 
-[image title="cs1" size="med" id="2635" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs1.jpg %}
 
 Now here is how to use it. First let's look at our monitors space, just find the profile your display is  using at the left. If you calibrated your display use that profile instead of the generic one. You can drag the mouse around over the 3D graph to see all the sides of it.
 
-[image title="cs2" size="med" id="2636" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs2.jpg %}
 
 Next lets have some fun by comparing a simple little profile we all know and love like sRGB to our monitor. In the upper left of the 3D graph click the arrow and choose "hold for comparison". Then find sRGB on the left and click on it  like so.
 
-[image title="cs3" size="med" id="2637" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs3.jpg %}
 
 Hmmmm. look at the overlay. I thought sRGB was "narrow". Well it is my monitor can show more oranges, yellows, and greens than sRGB but less blues and purples. So what does this tell me? It tells me that my monitor cannot show all the colors even in sRGB. Let's compare it to Adobe RGB by clicking on that. Remember - the display is the one that is "held for comparison". Holy crap - my monitor doesn't show anything. Well it's a little better in the orange and yellow but man you gotta be kidding me.
 
-[image title="cs4" size="med" id="2638" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs4.jpg %}
 
 Next lets take a look at Adobe RGB vs. let's say the blurb.com printing profile.
 
-[image title="cs5" size="med" id="2639" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs5.jpg %}
 
 Man - the printing gamut of those Indigo printers is REALLY SMALL, except for that turquoise area there. Maybe we should compare sRGB to the Indigo.
 
-[image title="cs6" size="med" id="2640" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs6.jpg %}
 
 Holy crap the indigo still can do that turquoise stuff better than either profile but sRGB is still way way way more color info everywhere else. Amazing. One last comparison, maybe our monitor to the Indigo.
 
-[image title="cs7" size="med" id="2641" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2010/10/cs7.jpg %}
 
 So... What does all this tell you. Well for one it tells you that adobe RGB is way bigger than my screen in representing color. sRGB is pretty close - weaker in some areas and bigger in others.  But more importantly my screen, sRGB, and Adobe RGB all have way more color info capability than can possibly be represented on Blurb.com Indigo printers, EXCEPT for the blue/green/turquoise area in which none of those three represent that well. Do I care? Sure I do if I actually have an image that has a lot of information and subtile tone differentiation in that hue/color area. Remember that the graph is representative NOT the actual colors - your monitor cannot even show them. In practice this kind of stuff is good to know but this should give you a good feel for understanding why I tell non-color-professionals to send files to printers in sRGB.
 

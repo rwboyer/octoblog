@@ -9,7 +9,7 @@ Even if you are not interested in ever using a pyro film developer there might b
 
 First off here is a CrappyScan™ of the CrappyWorkPrint™ of my StupidCrap™
 
-[image title="Delta100-print" size="large" id="2837" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/02/Delta100-print1.jpg %}
 
 I shot this when testing one of the 9 or 10 year out of date Ilford Delta 100 in a box I unearthed from a long ago move. I knew it would make pictures but needed to understand it's particular characteristics acquired after my very carefully uncontrolled aging process. Here is what I did.
 <ul>

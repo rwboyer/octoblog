@@ -15,23 +15,23 @@ My first choice for my film camera was a Nikon F100.  This only made sense as I
 
 When my wife and I welcomed our daughter into this world last month, naturally, I brought my new toy.  (On a side note, those days in the hospital were rough!)
 
-[image title="blogpost1" size="full" id="2983" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost1.jpg %}
 
-[image title="blogpost2" size="full" id="2984" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost2.jpg %}
 
-[image title="blogpost3" size="full" id="2985" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost3.jpg %}
 
-[image title="blogpost4" size="full" id="2986" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost4.jpg %}
 
-[image title="blogpost5" size="full" id="2987" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost6.jpg %}
 
 While my F100 is a fantastic camera, I have always wanted a Hasselblad.  The allure of the name itself has always pulled at me.  So, after a good little hunt, I picked up a body, 2 lenses, and 3 backs on Craigslist for $500.  I mean, this stuff is basically free today!  After dropping about that much more in getting it cleaned, lubed, and adjusted I was all set to play with film some more.  But, man, learning to deal with a reversed viewfinder is rough!!  Additionally, the quality of the lens construction is simply out of this world.  Both of my lenses are 40 years old, but they feel so much more solid than my high dollar Nikon glass.  Just the focus rings themselves feel so sturdy and true, as opposed to the plastic-like feeling of the current generation of gear.
 
-[image title="blogpost6" size="full" id="2988" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost7.jpg %}
 
-[image title="blogpost7" size="full" id="2989" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost8.jpg %}
 
-[image title="blogpost8" size="full" id="2990" align="none" linkto="viewer" ]
+{% img http://photo.rwboyer.com/wp-content/uploads/2011/05/blogpost10.jpg %}
 
 love how real the skin looks in all these photographs.  And guess what, I spent zero time on post processing.  Digital always needs something to make it look decent (usually a contrast/curves adjustment and white balancing, at a minimum).
 
