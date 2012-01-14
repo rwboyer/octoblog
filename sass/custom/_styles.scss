@@ -54,6 +54,21 @@ body header hgroup a:visited { color: #DEDEDE; }
 body header hgroup a:hover { color: $link-color-hover; }
 body header hgroup a { @include transition(color .3s); }
 
+body > header hgroup form {
+  display: inline;
+  vertical-align: bottom; 
+}
+
+body > header hgroup fieldset {
+  display: inline;
+  vertical-align: bottom; 
+}
+
+body > header hgroup input {
+  display: inline;
+  vertical-align: bottom; 
+}
+
 body > nav{
   background: #FFFFFF;
   visibility: hidden;
