@@ -4,7 +4,7 @@
   <title><![CDATA[RB Design]]></title>
   <link href="http://aperture.rwboyer.com/atom.xml" rel="self"/>
   <link href="http://aperture.rwboyer.com/"/>
-  <updated>2012-01-12T22:06:23-05:00</updated>
+  <updated>2012-01-14T12:39:21-05:00</updated>
   <id>http://aperture.rwboyer.com/</id>
   <author>
     <name><![CDATA[R W Boyer]]></name>
@@ -15,12 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[I Am Officially A Grandfather]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/12/12/i-am-officially-a-grandfather/"/>
+    <link href="http://aperture.rwboyer.com/2011/12/12/i-am-officially-a-grandfather/"/>
     <updated>2011-12-12T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/12/12/i-am-officially-a-grandfather</id>
+    <id>http://aperture.rwboyer.com/2011/12/12/i-am-officially-a-grandfather</id>
     <content type="html"><![CDATA[<p>My apologies for keeping away for so so very long. I guess it&#8217;s been about two weeks, that is like centuries in internet time. I do have a very good excuse. My oldest daughter gave birth to her very first child and my very first grandchild. Yes - I am a grandfather.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/12/DSC_6733-as-Smart-Object-1.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/12/DSC_6733-as-Smart-Object-1.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/12/DSC_6733-as-Smart-Object-1.jpg">
+</a></p>
 
 <p>The new addition to the family is a 22 3/4&#8221; 8lb 10oz baby girl named Leela Andreyevna Khlistunova. Think she might have a tough time writing that in Kindergarden? Needless to say I have been a bit busy at the hospital, visits, etc. etc.</p>
 
@@ -44,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Little Down On Digital Lately]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/19/a-little-down-on-digital-lately/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/19/a-little-down-on-digital-lately/"/>
     <updated>2011-11-19T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/19/a-little-down-on-digital-lately</id>
+    <id>http://aperture.rwboyer.com/2011/11/19/a-little-down-on-digital-lately</id>
     <content type="html"><![CDATA[<p>I have been a tad hard on digital imaging lately. I wanted to put that into context. The context is that I am a photographer and image maker first and foremost. For better or for worse we photographers are married to our tools and the people that make them. The reason I have been a little down on digital lately is because I am a heavy user of digital. I don&#8217;t sit away in my little corner of the universe isolated from all things digital - obviously. Not only am I a heavy user of digital capture devices and digital imaging processing software. I am a customer. Yes I have spent huge sums of money on digital imaging gear and post processing software and all that goes with it.</p>
 
 <p>I consider it a right and a duty to point out the flaws and shortcomings of products I invest my money and more importantly my time and my images into. It is in that spirt that I cast dispersions on software and image capture devices that I use. The reason I choose film as a medium to compare it with is that happens to be the only other photographic medium out there with it&#8217;s own set of qualities, processes and procedures that are quickly being forgotten. Not all of those qualities, processes, and procedures are bad - a lot of them were very very good. I want my cake and I want to eat it to. I still use film where I feel it is appropriate. I use digital as well and want to see it become as refined as some of the things I have experienced with film.</p>
@@ -63,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nikon D7000 Preset News and Updates]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/17/nikon-d7000-preset-news-and-updates/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/17/nikon-d7000-preset-news-and-updates/"/>
     <updated>2011-11-17T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/17/nikon-d7000-preset-news-and-updates</id>
+    <id>http://aperture.rwboyer.com/2011/11/17/nikon-d7000-preset-news-and-updates</id>
     <content type="html"><![CDATA[<p>There have been quite a few people that have been participating in the beta version of my <a href="http://photo.rwboyer.com/2011/11/09/nikon-d7000-presets-for-aperture-3/">D7000 Picture Control Presets for Aperture 3</a>. More than I expected with all the caveats that I put out there. A few of them have written me with comments and critique - I plan on incorporating that critique into updates if possible and if it does not conflict with other peoples results&#8230;</p>
 
 <p>What is surprising is that a bunch of people that shoot other Nikon cameras have asked me if the work with those models - like the D3, the D700, etc. The short answer is maybe. The long answer is that most Nikons that have &#8220;Picture Control&#8221; share similar characteristics in terms of their Aperture 3 RAW process so in general the D7000 presets provide  something more in the neighborhood of Nikon NX2 picture control settings than the default Aperture 3 processing. Having said that I have been working on and off with a Nikon D3s shooter to get a little more precise as to what is different. The presets are definitely not as close as the D7000 but do get it closer. If there is interest I may also offer a D3s version of the presets. Please let me know.</p>
@@ -86,16 +88,22 @@
   
   <entry>
     <title type="html"><![CDATA[A Word About Photo Gear]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/13/a-word-about-photo-gear/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/13/a-word-about-photo-gear/"/>
     <updated>2011-11-13T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/13/a-word-about-photo-gear</id>
+    <id>http://aperture.rwboyer.com/2011/11/13/a-word-about-photo-gear</id>
     <content type="html"><![CDATA[<p>Look at the state of that&#8230;</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5047-Version-2.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5047-Version-2.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5047-Version-2.jpg">
+</a></p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg">
+</a></p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_5048-Version-2.jpg">
+</a></p>
 
 <p>What we have here is a Photoflex light disk - I am sure along the way you have all seen these. They fold down to about 1/4 the full size. I went to use this particular one this morning and this is what I found. My vague recollection is that I used it about 3 months ago and nothing really bad happened to it while I was shooting. there may have been a tiny bit of light mist that day. It definitely was cloudy. I was shooting indoors that day and the exposure to the elements consisted of a trip from my trunk and back. I can tell you that none of my other gear suffered and it definitely was not soaking wet when I put it back with all my other crap.</p>
 
@@ -111,9 +119,9 @@
   
   <entry>
     <title type="html"><![CDATA[Really Funny Stuff - Must Read]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/11/really-funny-stuff-must-read/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/11/really-funny-stuff-must-read/"/>
     <updated>2011-11-11T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/11/really-funny-stuff-must-read</id>
+    <id>http://aperture.rwboyer.com/2011/11/11/really-funny-stuff-must-read</id>
     <content type="html"><![CDATA[<p>Sorry for the foul mood and negativity of my last two posts - that is what dealing with the government does to me. On a lighter note but still on topic relative to not only the last two posts but a lot of the subtext in more than a few of my posts. Here are a few posts that you have to read, if these don&#8217;t make you chuckle, I don&#8217;t know what would. File this under funny because you know it&#8217;s true.</p>
 
 <p>On this post you can skip the mildly pedantic preface where the author (whom I really like) tries to explain how he has <em>never</em> been affected by biases of <em>his</em> generation. Go directly to the end where you will find a faux forum discussion on one of HCB&#8217;s famous photographs. Hilarious.</p>
@@ -132,12 +140,12 @@
   
   <entry>
     <title type="html"><![CDATA[Look Ma - I Learned Me Some Photoshop]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/11/look-ma-i-learned-me-some-photoshop/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/11/look-ma-i-learned-me-some-photoshop/"/>
     <updated>2011-11-11T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/11/look-ma-i-learned-me-some-photoshop</id>
+    <id>http://aperture.rwboyer.com/2011/11/11/look-ma-i-learned-me-some-photoshop</id>
     <content type="html"><![CDATA[<p>Shoot me now. I have to comment on this. I have no self-control at all. Forgive me. Continuing the train of thought regarding the state of commercial photography, I submit for your evaluation <a href="http://www.featureshoot.com/2009/09/john-short-london/">this steaming pile of meaninglessness</a>. Again - I am not in anyway attacking the individual that produced these. He is a <em>commercial</em> photographer and I have to assume that he must make a living - hence he is producing this dog-doo with a targeted purpose in mind in order to sell his services and pay his rent, etc. I am attacking the consumers - not the purveyors of the non-sense.</p>
 
-<p>Let me limit the conversation to the first image. Hmmmm, hmmmmmmmmmmm, hmmmmmmmmmmmmmmmmmmmmmm. Okay then - I don&#8217;t even know where to start. I only have questions - not questions of the good kind. Only questions of the bad kind. Don&#8217;t get me wrong I LOVE photographs that actually cause me to question things - especially question myself. That is NOT the kind of questions that this provokes. More like&#8230;</p>
+<p>Let me limit the conversation to the first image. Hmmmm, hmmmmmmmmmmm, hmmmmmmmmmmmmmmmmmmmmm. Okay then - I don&#8217;t even know where to start. I only have questions - not questions of the good kind. Only questions of the bad kind. Don&#8217;t get me wrong I LOVE photographs that actually cause me to question things - especially question myself. That is NOT the kind of questions that this provokes. More like&#8230;</p>
 
 <ol>
     <li>Yes we all know how to make composites. It seems that this image is some sort of statement about making really really bad composites while demonstrating the skill to make decent composites at the same time. Sort of like using techniques gleaned from PhotoShopDisasters in a <em>creative</em> way. Fantastic. Forking great. I really hope this doesn&#8217;t become tooooo popular.</li>
@@ -152,7 +160,9 @@
 
 <p>I swear there was good commercial imaging - I know that some of you will say that the image did it&#8217;s job because I payed attention to it. Trust me - I will forget it ever existed by about noon tomorrow or sooner. Where as something like this&#8230;.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/scorpions-lovefrontje.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/scorpions-lovefrontje.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/scorpions-lovefrontje.jpg">
+</a></p>
 
 <p>I can remember for decades.</p>
 
@@ -162,26 +172,34 @@
   
   <entry>
     <title type="html"><![CDATA[Film Friday]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/11/film-friday/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/11/film-friday/"/>
     <updated>2011-11-11T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/11/film-friday</id>
+    <id>http://aperture.rwboyer.com/2011/11/11/film-friday</id>
     <content type="html"><![CDATA[<p>Just got around to looking at some shots testing my first roll of Ektar 100 from a while back - yes yes I am slow and loose track of things easily. Thought I would leave you with this for the weekend. Just happened to be shooting my D7000 as a &#8220;known quantity&#8221; while seeing what stupid things I can do with Ektar 100 in 35mm. Like most of you I have this strange sort of anxiety about shooting &#8220;important&#8221; things with something you never used before. Like usual I just shot some stupid stuff about 3 feet from my front door. Hey at least I gathered the energy to go outside.</p>
 
 <p>So here is the Ektar 100 with NOTHING done to it. I scanned it myself at a stupidly high resolution and can assure you that this is a neutral scan. Heck I didn&#8217;t even sharpen it. Nothing. Well I did set the black point in the scanner software to something reasonable. Shot with a Nikon FE and 60&#8217;s vintage Nikkor 50mm f1.4.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/2011-008-27cn.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/2011-008-27cn.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/2011-008-27cn.jpg">
+</a></p>
 
 <p>Ta&#8230;.Daaaaaa. Here is the D7000 version with a similar contrast curve and black point (you should see it before that).</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-as-Smart-Object-1.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-as-Smart-Object-1.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-as-Smart-Object-1.jpg">
+</a></p>
 
 <p>What the hell happened to my color - why the heck did I point my camera over here in the first place. Maybe If I use NX2 and set the WB to daylight and the picture control to vivid it might help things a bit. Why not.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-nx2.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-nx2.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-nx2.jpg">
+</a></p>
 
 <p>No dice. Maybe if I use ACR6 and jack up the contrast and vibrance like everyone does on every single image. And also use a vivid camera profile. Maybe it will get better. Here we go, hold on to your hats - this will make it look good.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-ACR.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-ACR.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_3434-ACR.jpg">
+</a></p>
 
 <p>Hmmmm. Maybe film does look good - sometimes.  I know there are a few of you that somehow are think that this is some sort of trick or that I have somehow not done what I &#8220;should&#8221; have to the D7000 image. Addressing the first - No tricks, no there was no filter on the film camera - NONE, not even a UV or 1A - Nothin&#8217;. I wish I were patient enough to actually shoot these on different days with the EXACT same light and water/wind conditions with the EXACT same boats. If I were I would put that patience to far far more nefarious purposes that hoodwinking a couple of people that film actually looks great. Or maybe I am not telling the truth about what I did in Photoshop to the film image - hmmmmm - I cross my heart - no tricky-ness. If I were going to resort to that - I would be a whole lot more tricky.</p>
 
@@ -193,9 +211,9 @@
   
   <entry>
     <title type="html"><![CDATA[Photography - The (Depressing) State of the Union]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/10/photography-the-depressing-state-of-the-union/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/10/photography-the-depressing-state-of-the-union/"/>
     <updated>2011-11-10T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/10/photography-the-depressing-state-of-the-union</id>
+    <id>http://aperture.rwboyer.com/2011/11/10/photography-the-depressing-state-of-the-union</id>
     <content type="html"><![CDATA[<p>It&#8217;s a bit chilly here in Maryland today. Leaves are falling off the trees, meaning winter is coming. I hate the winter. Oh, I also had to go to the DMV today. I guess that this particular combination of things has me in a rather foul mood so please take the following ramble understanding that I mean no harm or ill will towards any particular individual. Take it more as a bad mood fueled take on things I find baffling as a whole.</p>
 
 <p>Case #1 - Randomly chosen bunch of images from a randomly chosen &#8220;fashion&#8221; photographer but fairly representative of poppycock crapped out as a matter of course. <a href="http://www.featureshoot.com/2011/10/laetitia-bicas-amusing-fashion-photography/">Take a look here</a>.</p>
@@ -217,22 +235,28 @@
   
   <entry>
     <title type="html"><![CDATA[Fine Art Photography - Pah, Really]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/10/fine-art-photography-pah-really/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/10/fine-art-photography-pah-really/"/>
     <updated>2011-11-10T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/10/fine-art-photography-pah-really</id>
+    <id>http://aperture.rwboyer.com/2011/11/10/fine-art-photography-pah-really</id>
     <content type="html"><![CDATA[<p>Every wonder why I am so brutal when mentioning the contemporary &#8220;art&#8221; community? Here it the reason. It&#8217;s also why I hold suspect anyone that likes to use the meaningless term &#8220;fine art&#8221; prefixed to photography. This is not to say that anyone who does sucks - I know plenty of people that use that prefix that are really really good. I still make fun of them - mostly my friends. I do this in truth to illuminate myself as to their particular thought process and the best answer I can come up with is that some a$$hole did it and now people feel that they have to use it to somehow make sure everyone knows that they don&#8217;t have somehow inferior photography in contrast to &#8220;fine art&#8221;. Nobody said these words to me but that is my own para-meaning-phrase of what explanations I have been given in nicer words during quite sober conversations.</p>
 
 <p>Okay so here is exhibit A:</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8087.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8087.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8087.jpg">
+</a></p>
 
 <p>Oooops, sorry that was some out of focus trees I shot to see what the out of focus rendition was for an old lens I grabbed on eBay. Here is exhibit A:</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8078.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8078.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/DSC_8078.jpg">
+</a></p>
 
 <p>Sorry - that was a bush in my front yard while testing focus calibration for a camera&#8230; Here it is - here is the really really fine fine art of all arts.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/rhine_mini.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/rhine_mini.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/rhine_mini.jpg">
+</a></p>
 
 <p>You see that last one is <a href="http://www.petapixel.com/2011/11/09/gurksy-photo-of-rhine-sells-for-4-3m-becomes-worlds-most-expensive-pic/">so damn fine art that it just sold for $4,338,500</a>. Yep, I praise the photographer, he is freaking amazing. For him and his circle jerk of art buddies to be so full of shit in order to convince someone that this is somehow so rarefied - so insightful - so&#8230; valuable as to be worth north of FOUR MILLION DOLLARS. Now that is art. I am talking about the full of shit part not the image. In fact this group of art that gets to define what is art and how more better it is than say the previous two images is actually performance art of sorts - either that or they have become so very full of shit that they actually believe that somehow their vision and ability are so so amazing that this crock of nonsense is actually worth many many many many times what people that actually make stuff earn in a year.</p>
 
@@ -244,9 +268,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nikon D7000 Presets For Aperture 3]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/09/nikon-d7000-presets-for-aperture-3/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/09/nikon-d7000-presets-for-aperture-3/"/>
     <updated>2011-11-09T00:00:00-05:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/09/nikon-d7000-presets-for-aperture-3</id>
+    <id>http://aperture.rwboyer.com/2011/11/09/nikon-d7000-presets-for-aperture-3</id>
     <content type="html"><![CDATA[<p>Okay, okay - I changed my mind again. I took a new and different approach that will probably make nobody happy but here goes. Consider this a beta test with updates most likely to follow. For now I am not going to promote these presets anywhere but on this post. They are far far far from perfect as <a href="http://photo.rwboyer.com/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues/">I explained here</a>. There are too many variables to make a one size fits all set of presets and to make them perfect they are too hard and complicated to use - hence why bother with a preset in the first place.</p>
 
 <p>Here is what I decided on for this beta - Closely match the contrast/gamma of the Nikon Picture Controls AND add just a couple of color adjustments that are designed to give the overall impression of Nikon color rather than match each and every hue in every lighting condition.  To that end the color adjustments I chose to deal with are rather asymmetric - some picture are different than others in terms of what color adjustments they are designed to deal with. Specifically Landscape and Vivid do things that may cause issues on images that really are not appropriate for Landscape and Vivid while Neutral, Portrait, and standard omit the potentially problematic adjustments.</p>
@@ -270,10 +294,12 @@
   
   <entry>
     <title type="html"><![CDATA[Available Light Workshop - Brain Dump]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/04/available-light-workshop-brain-dump/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/04/available-light-workshop-brain-dump/"/>
     <updated>2011-11-04T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/04/available-light-workshop-brain-dump</id>
-    <content type="html"><![CDATA[<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/1999-021-08small.jpg"></p>
+    <id>http://aperture.rwboyer.com/2011/11/04/available-light-workshop-brain-dump</id>
+    <content type="html"><![CDATA[<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/1999-021-08small.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/1999-021-08small.jpg">
+</a></p>
 
 <p>So a couple of dozen people from all over the map have mentioned that they might be interested in an available light workshop and there were a few inquisitive souls that just had to know what that might be like. I guess the answer is really up to what people would be interested in as my agenda might last a week or a month or longer. That might be a little inconvenient and just a bit grueling for most non-fanatics.</p>
 
@@ -304,9 +330,9 @@
   
   <entry>
     <title type="html"><![CDATA[Aperture 3 Nikon D7000 Presets - The Saga Continues]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues/"/>
     <updated>2011-11-04T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues</id>
+    <id>http://aperture.rwboyer.com/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues</id>
     <content type="html"><![CDATA[<p>Okay - so I have been screwing around with the presets that I envisioned releasing to all of you Aperture 3 users for months. In case you think that I have been slacking off here - think different. I have come to the conclusion that I cannot release a product that I feel comfortable with. Namely a product that I would find acceptable as a consumer if I was expecting a quick and easy way to duplicate Nikon NX2 or OOC JPEG Picture Control settings.</p>
 
 <p>It has nothing to do with me not understanding the differences in gamma/contrast - saturation - or more importantly color (HSL values) rendered by Nikon NX2 vs Aperture 2 - I have been messing with this since Aperture V1 when the differences were HUGE on the Nikon D2 series of cameras. Since then it has gotten a lot &#8220;better&#8221; but with smaller degrees of the same nagging issues. The problem with packaging a canned solution is that there are too many variables to make a product that is easy to use, makes any sense, saves time and produces results that are close enough for me to be comfortable with.</p>
@@ -325,9 +351,9 @@
   
   <entry>
     <title type="html"><![CDATA[PhotoPlus Gear - Follow Up]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/03/photoplus-gear-follow-up/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/03/photoplus-gear-follow-up/"/>
     <updated>2011-11-03T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/03/photoplus-gear-follow-up</id>
+    <id>http://aperture.rwboyer.com/2011/11/03/photoplus-gear-follow-up</id>
     <content type="html"><![CDATA[<p>My <a href="http://photo.rwboyer.com/2011/11/02/photoplus-expo-whatever/">little rant yesterday</a> on the state of affairs at PhotoPlus may have been a little over the top and a little too anti-gear. Let me clarify just a bit of my thoughts briefly. As photographers we all share a special relationships with the tools that allow us to make images. I admit this freely. If your camera doesn&#8217;t feel good you will not be at your best when using it. If you don&#8217;t get along with it very well, it is not going to be a productive relationship. Using different cameras causes you to make different images. It really does. You have no choice in many many cases. In other cases this might be a bit more subliminal but there none the less.</p>
 
 <p>In this context I was not at all critisizing the denizens of the show. I was just amazed that the conversation always went towards gear. Gear that in my mind did nothing to help me in 99%  of the images that I desire to make. There was nobody talking about how anything at the show related at all to their endeavors as a photographer. They were talking about the gear in isolation. As something to be discussed as an ends in and of itself, without context.</p>
@@ -342,7 +368,9 @@
 
 <p>My reaction to PhotoPlus was to immediately purchase these as soon as I got home. One of them was actually purchased while I was still in NYC.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/P1020241.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/11/P1020241.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/11/P1020241.jpg">
+</a></p>
 
 <p>A silver OM-1, a silver OM-1n, a black OM-1, two black OM-2&#8217;s - on an &#8220;n&#8221; the other a bit older. All of them work fine, the 28mm, 50mm f1.8, 50mm f1.4, and 135mm all came with the cameras and included the little Olympus lens cases as a bonus. I spent about $150 for the lot of them. Why Olympus? Well I already have enough Nikon gear to last me 3 lifetimes, same goes for Hasselblad and I have always love the OM system for it&#8217;s tiny dimensions and giant (not so much with the OM3/4) uncluttered viewfinders and figured I would corner the market before everyone else figured out the digital tread mill blows and the promised land sucks.</p>
 
@@ -358,9 +386,9 @@
   
   <entry>
     <title type="html"><![CDATA[PhotoPlus Expo = Whatever]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/11/02/photoplus-expo-whatever/"/>
+    <link href="http://aperture.rwboyer.com/2011/11/02/photoplus-expo-whatever/"/>
     <updated>2011-11-02T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/11/02/photoplus-expo-whatever</id>
+    <id>http://aperture.rwboyer.com/2011/11/02/photoplus-expo-whatever</id>
     <content type="html"><![CDATA[<p>So, here is my report from NYC PhotoPlus. I know, I am a terrible reporter as this is old news considering that the event was at the end of last week and anyone that gives a rat&#8217;s a<em></em> was probably being updated via 18 real time feeds. In any case I figured I would give my quite jaded 2 cents.</p>
 
 <p>Overall I was bored. Bored bored BORED. The most exciting thing that I saw was a couple of new papers - actually I didn&#8217;t see them, my buddy did and he told me about them. They sounded really exciting. I know that you think I am nuts getting excited about something like paper but at least that means a couple of us still produce real tangible prints from photos that we bother to make.</p>
@@ -381,9 +409,9 @@
   
   <entry>
     <title type="html"><![CDATA[NYC - Color - D7000 - Etc]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/10/26/nyc-color-d7000-etc/"/>
+    <link href="http://aperture.rwboyer.com/2011/10/26/nyc-color-d7000-etc/"/>
     <updated>2011-10-26T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/10/26/nyc-color-d7000-etc</id>
+    <id>http://aperture.rwboyer.com/2011/10/26/nyc-color-d7000-etc</id>
     <content type="html"><![CDATA[<p>Long time no see.</p>
 
 <p>I have been crazy busy over the last few weeks. Daughter No. 1 is having her first baby, My friend and colleague just acquired $50K worth of Hasselblad 50 megapixel goodness he needed some help sorting out. A little work on some other projects. Getting ready for a new workshop promotion (not mine - I am helping with the media production for someone else). Tearing my hair out over the D7000 presets, etc, etc. Wrapping things up so that I can take two days off to play around in NYC for photoplusexpo or whatever it&#8217;s called this week.</p>
@@ -396,11 +424,15 @@
 
 <p>Case in point. Here is a D7000 RAW processed and neutralized - the grays at least via the latest greatest version of Adobe ACR&#8230;</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/DSC_3063.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/10/DSC_3063.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/DSC_3063.jpg">
+</a></p>
 
 <p>And here is the wildest color neg film available, Kodak Ektar 100.</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/2011-008-28cn.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/10/2011-008-28cn.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/2011-008-28cn.jpg">
+</a></p>
 
 <p>Yea, yea, yea, I didn&#8217;t focus the film perfectly, I didn&#8217;t even bother to blow the dust of the negative prior to scanning so it&#8217;s gritty and grimy. Yea the digital looks clean and smoooooooooooooooth. Both images have a very similar overall and mid-tone contrast curve. If at all possible try to just look at the color. Some of you may prefer the digital color - my bet if you do is because that is what you are so accustomed to seeing at this point. Now look closer - see the lack of differentiation in the yellow and the green patch above and to the left? Look at the purple patch - now the red - now the blue that is close to a primary. I am sitting here looking at the images as well as the actual color target - forget accuracy, let&#8217;s talk &#8220;real&#8221;. The D7000 version looks sort of like a cartoon compared to the film. In fact that is the real issue - it&#8217;s very much like a cartoon. Deep colors are not &#8220;deep&#8221; - they are thin and just build up saturation. The deeper and more saturated the patch on the chart the more apparent it is. Look at the darkest/deepest/most saturated of all the colors in each image and this should be amazingly evident.</p>
 
@@ -414,18 +446,22 @@
   
   <entry>
     <title type="html"><![CDATA[Aperture 3 Nikon D7000 Presets - The Story]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/10/07/aperture-3-nikon-d7000-presets-the-story/"/>
+    <link href="http://aperture.rwboyer.com/2011/10/07/aperture-3-nikon-d7000-presets-the-story/"/>
     <updated>2011-10-07T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/10/07/aperture-3-nikon-d7000-presets-the-story</id>
+    <id>http://aperture.rwboyer.com/2011/10/07/aperture-3-nikon-d7000-presets-the-story</id>
     <content type="html"><![CDATA[<p>Nope, not another excuse or explanation about my bogus post the other day&#8230; Just some answers to a bunch of questions that I received via email over the last week regarding the, how, what, why, where, on the D7000 presets for Aperture 3. So not in any order here we go&#8230;</p>
 
 <p>What is the issue here, why the need for presets, and what do you mean when you talk about the color being &#8220;off&#8221;. Answer &#8230; hmmm. Let&#8217;s take the color being &#8220;off&#8221; first and I will get you the others as I move through this a in a bit. Take a look at the image below&#8230;</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-AP30170.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-AP30170.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-AP30170.jpg">
+</a></p>
 
 <p>This color chart which is a default Aperture 3 RAW conversion with no other settings applied showcases a few things. The first bugaboo is what I call the yellow-green crossover issue. Find the patch on the right side of the colorchecker that is clearly yellow (third row from the top and three over). Now look at the patch up and to the left of that. These two patches are soooooo close in hue that they are hard to separate that is because most greens are too yellow in the default conversion. Now the big problem is that if you shift this color to green - the yellows also go green, if you don&#8217;t all your greens look yellow. Big problem and one that is almost impossible to develop a preset that will render all scenes in a reasonable and attractive way. My presets will not deal with this completely for all scenes - you pretty much have to choose - optimal Nikon yellow (which are great) or better greens. Next look at the cyan patch in the top row. Also take note of the diagonal line of blue patches with the most saturated blue ending up at the bottom. Compare them to this next image which is NX2 color (standard picture control)</p>
 
-<p><img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-NX20171.jpg"></p>
+<p><a href="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-NX20171.jpg" rel="lightbox">
+<img src="http://photo.rwboyer.com/wp-content/uploads/2011/10/D7000-color-NX20171.jpg">
+</a></p>
 
 <p>Notice how different the blues are. Nikon blues are way more towards purple where Aperture 3&#8217;s are more towards green. Notice how the &#8220;cyan&#8221; patch up at the top is completely different - different hue - different everything. Neither of them are &#8220;correct&#8221; as I compare them to my color targets but here is the deal. If you match the Aperture 3 blues at the bottom other blues that shouldn&#8217;t be that purple go too purple in real world photographs. A good example is the sky. The sky is different hues depending on time of day, different days, time of year. Not just saturation - the actual hue - the color number. If you shift Aperture blues in general towards purple sometimes the sky goes tooo purple if it was in the range of blues that Aperture 3 doesn&#8217;t shift too much. Other times since Aperture 3 has a tendency more towards green it goes cyan if not shifted toward blue. Nikon NX2 doesn&#8217;t do this.The reset of the colors are not a big issue but these should be pretty clear to anyone that is not blind.</p>
 
@@ -443,9 +479,9 @@
   
   <entry>
     <title type="html"><![CDATA[Aperture 3 and the Nikon D7000 - Correction]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/10/07/aperture-3-and-the-nikon-d7000-correction/"/>
+    <link href="http://aperture.rwboyer.com/2011/10/07/aperture-3-and-the-nikon-d7000-correction/"/>
     <updated>2011-10-07T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/10/07/aperture-3-and-the-nikon-d7000-correction</id>
+    <id>http://aperture.rwboyer.com/2011/10/07/aperture-3-and-the-nikon-d7000-correction</id>
     <content type="html"><![CDATA[<p>Okay - so you read my long drawn out bunch of stuff the other day regarding how all of a sudden the Nikon D7000 NEF RAW processing was somehow magically fixed in Aperture 3. Well this is an official retraction of that statement. I was having a very very strange day when I posted that and somehow got a few of my 300 million versions of files that I am working on for the D7000 picture control presets mixed up and re-named.</p>
 
 <p>Long story short - I screwed up. Nothing is fixed in Aperture 3. Same old, same old. That&#8217;s the bad news. The good news is that I don&#8217;t have to completely re-do all of my preset work and stand a good chance on getting version 1 of the D7000 Aperture 3 presets out the door this weekend.</p>
@@ -460,9 +496,9 @@
   
   <entry>
     <title type="html"><![CDATA[Aperture 3 and the Nikon D7000]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/10/05/aperture-3-and-the-nikon-d7000-2/"/>
+    <link href="http://aperture.rwboyer.com/2011/10/05/aperture-3-and-the-nikon-d7000-2/"/>
     <updated>2011-10-05T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/10/05/aperture-3-and-the-nikon-d7000-2</id>
+    <id>http://aperture.rwboyer.com/2011/10/05/aperture-3-and-the-nikon-d7000-2</id>
     <content type="html"><![CDATA[<p>Once upon a time somebody complained about how far off Aperture 3&#8217;s NEF processing was. That was me. Actually I complained about it incesantly since Aperture V1. My very very very first post to the Apple Aperture community forum way way back years ago was about how far off Aperture&#8217;s RAW decode was in terms of color from that of Nikon&#8217;s.</p>
 
 <p>Fast forward. I get a brand new Nikon D7000 and no surprise, Aperture 3&#8217;s color is still way off. The blue&#8217;s are too cyan, the greens are too yellow, the yellows are too green, etc, etc. Pretty much the same formula that has been NEF processing in Aperture since the dawn of time. Yes the amount they are off, the degree to which they render in terms of saturation and density are again different but they are still the same general recipe.</p>
@@ -483,9 +519,9 @@
   
   <entry>
     <title type="html"><![CDATA[Flash Player Issues On OS X?]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/10/01/flash-player-issues-on-os-x/"/>
+    <link href="http://aperture.rwboyer.com/2011/10/01/flash-player-issues-on-os-x/"/>
     <updated>2011-10-01T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/10/01/flash-player-issues-on-os-x</id>
+    <id>http://aperture.rwboyer.com/2011/10/01/flash-player-issues-on-os-x</id>
     <content type="html"><![CDATA[<p>As you might have noticed, I have been doing a lot of work with Final Cut Pro X and talking about video. In the past I have not give the time of day to video on my blog. Why all of a sudden all the FCP X and video posts? Well really two reasons. First I actually rather present still photos that are part of some project or story as a video when presenting it on the web or even to a group of people. Second I have some projects coming up where I will need to do quite a bit of this type of work. Third - Some of those projects will actually require me to make actual video footage. I have a bit of experience doing this way way back on both film and video cams as well as a bit of experience with non-linear editing. These requirements were actually a big part of my Nikon D7000 purchase decision. More about the DSLR video decision and why I choose the D7000 soon.</p>
 
 <p>How does this relate to Flash Player? Ummm&#8230; tangentially. One way or another if you produce video for web consumption you it will probably touch Flash Player sooner or later. I hate Flash and cannot wait for it to die a horrible death. Until then unless you want to set up your own streaming infrastructure - you are stuck with your video being played via flash. In messing around with YouTube and Vimeo (both using flash players for the vast majority of people in the universe unless the consumer jumps through hoops NOT to have it use flash) I realized that the current version of Flash was dropping frames like crazy on some test videos - actually all videos played in flash. My machine is a way overconfigured iMac core i7 sandy bridge that takes a lot of effort to make it even break a sweat. So why with nothing going on is Flash dropping 10-20% of the frames in any video? Answer = Flash sucks.</p>
@@ -513,9 +549,9 @@
   
   <entry>
     <title type="html"><![CDATA[More On Final Cut Pro X]]></title>
-    <link href="http://aperture.rwboyer.com/blog/2011/09/27/more-on-final-cut-pro-x/"/>
+    <link href="http://aperture.rwboyer.com/2011/09/27/more-on-final-cut-pro-x/"/>
     <updated>2011-09-27T00:00:00-04:00</updated>
-    <id>http://aperture.rwboyer.com/blog/2011/09/27/more-on-final-cut-pro-x</id>
+    <id>http://aperture.rwboyer.com/2011/09/27/more-on-final-cut-pro-x</id>
     <content type="html"><![CDATA[<p>So I have been beating my head in learning the new FCP. I am not doing this just for fun and games. I actually have a couple of projects coming up where I must decide what software to use to put them together. It has been 2 or 3 years since I did anything serious with video that &#8220;counted&#8221;.  I had to make a decision to go down the FCP X road which is brand new. Go down the FCP 7 route which I know has some limited lifetime but could definitely accomplish what I needed to do, or use this as a spring board to something else. Anyway you sliced it it was going to be a fairly big job for me.</p>
 
 <p>After doing dozens of small, StupidCrap™ made up projects and chucking everything at FCP X that I could think I might have to do from a video, audio, key framing, and even some custom Motion 5 stuff. My verdict is that while I believe that FCP X still needs some additional features and fine-tuning, I am going to do my upcoming projects with it. At least the ones that are on my plate right now. I have no need for tape and the multi-cam stuff that I may need is work-around-able in FCP X. As for the software itself - it is very deep - way more than meets the eye. Every single time I spend more than an hour using it I find a new and previously hidden gem. Mark my words - this thing is very slick and if Apple does a couple of things that I expect them to do as slick as the what they have delivered so far this thing will be killer in a year or so.</p>

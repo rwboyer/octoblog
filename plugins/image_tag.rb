@@ -39,7 +39,10 @@ module Jekyll
 
     def render(context)
       if @img
-        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
+        #Lightbox kludge
+        "<a href=\"#{@img['src']}\" rel=\"lightbox\">\n" +
+        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n" +
+        "</a>"
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
       end

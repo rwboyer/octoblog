@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Aperture 2 Quick Tip - Custom Fonts In Book Themes - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="WARNING - This tip is not for the feint of heart, it&#8217;s more for those that like to tinker with things and are not satisfied with the state of &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://aperture.rwboyer.com/2008/11/30/aperture-2-quick-tip-custom-fonts-in-book-themes">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+<!--Lightbox Includes--!>
+<link href="/lightbox/css/lightbox.css?body=1" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="/lightbox/js/prototype.js"></script>
+<script type="text/javascript" src="/lightbox/js/scriptaculous.js"></script>
+<script type="text/javascript" src="/lightbox/js/lightbox.js"></script>
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:aperture.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Aperture 2 Quick Tip - Custom Fonts in Book Themes</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-11-30T00:00:00-05:00" pubdate data-updated="true">Nov 30<span>th</span>, 2008</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="/wp-content/uploads/2008/AQT___books___fonts.jpg"><img title="AQT___books___fonts.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT___books___fonts.jpg" border="0" alt="AQT___books___fonts.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>WARNING - This tip is not for the feint of heart, it&#8217;s more for those that like to tinker with things and are not satisfied with the state of affairs with the Aperture Books feature. I have received so many emails regarding a couple of the Aperture book articles that I have posted recently that I decided to publish a work-around for changing the fonts that I use all the time. I actually like some of the predefined book themes that Aperture ships with but&#8230; hate the default fonts. Instead of monkeying around with manually changing the font styles for every freaking text box in a book there is a fairly simple way to change the fonts with Apertures book themes so that they are completely reusable. You just need to get you hands a little dirty with a few of Aperture&#8217;s inner gears.</p>
+
+<!--more-->
+
+
+<p>I know that most readers out there are not techno-geek developers nor do they want to be so I am going to keep this more what to do to change some of the book theme defaults than how it works. For the curious you should be able to figure out how it works with a little experimentation. Don&#8217;t worry - the way that I am going to explain this will not break any of the original book themes and if you screw it up there will be no harm done.</p>
+
+<p><a href="/wp-content/uploads/2008/AQT__books___finder.jpg"><img title="AQT__books___finder.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT__books___finder.jpg" border="0" alt="AQT__books___finder.jpg" hspace="10" vspace="10" width="196" height="150" align="left" /></a>Part One - Making a copy of a book theme so that you can screw around with it until the cows come home without messing up Aperture&#8217;s default book themes. Using the finder navigate to your Applications folder and click on Aperture. &#8220;Right click and choose show package contents&#8221;. In the Finder window that pops up navigate to &#8220;Contents-&gt;Resources-&gt;Book Themes&#8221;. Here you will see a list of folders that named exactly the same as all of the default book themes that Aperture ships with. Choose one (or a few) that you want to change and copy it to your desktop. DO NOT MOVE IT. For safety&#8217;s sake close the finder window that is the guts of the Aperture package. Now create a new folder under &#8221;<em>your user name</em>-&gt;Library-&gt;Application Support-&gt;Aperture-&gt;Book Themes&#8221;. Copy or move the book theme folder on your desktop into this newly created folder. Rename the folder something new like &#8220;My <em>whatever the name was</em>&#8221;. If you fire up Aperture now and choose new book you should see this the name show up in the list of available themes with a preview that looks exactly like the default that Aperture ships with. Now on to the good part.</p>
+
+<p><a href="/wp-content/uploads/2008/AQT___books___xml.jpg"><img title="AQT___books___xml.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT___books___xml.jpg" border="0" alt="AQT___books___xml.jpg" hspace="10" vspace="10" width="150" height="138" align="left" /></a>Part Two - Customizing the fonts. Just for reference bring up font book to get the exact names of the fonts that you would like to use in your customized theme. This is also to make sure that variants like &#8220;semi bold&#8221;, etc. are available. In finder navigate to &#8221;<em>your user name</em>-&gt;Library-&gt;Application Support-&gt;Aperture-&gt;Book Themes-&gt;<em>whatever you named the folder</em>&#8221; and choose the file named TextSyles.plist. Right click and choose open with other&#8230; TextEdit. What you will be looking at is an XML file defining all the fonts and font sizes that are used in the book theme. The easiest way to do this is just find replace all of the names of the font styles that you don&#8217;t want with the names of the font style that you do want. For example - I hate Baskerville so I would just replace all of the references of Baskerville to Copper Plate Gothic with no regard whatsoever to what they do or how they work. If there were two different typefaces in the theme I would maybe change one of them to X and the other to Y or maybe change both to X. This is what most people want to accomplish - changing one typeface to another. If you want to monkey around with sizes and colors I will leave that as an exercise for the reader, it&#8217;s not too difficult to figure that out. To make it easy on yourself use the edit-&gt;find window to search and replace to substitute one font name with another.</p>
+
+<p>A couple of caveats to mention. If there are typeface variations that are used like &#8220;Semi Bold&#8221; or &#8220;Light&#8221; make sure that you account for that buy either using a typeface that has all the variations required or changing references to a non existent variation like &#8220;Semi Bold&#8221; to just plain old &#8220;Bold&#8221;, etc. Some typefaces are massively different in the actual display size vs. the specified point size. You may run into a few oddities if this happens but they are easy to fix, workaround, etc. Last but not least feel free to ask any questions if you run into specific issues but be prepared for the &#8220;I have no idea&#8221; answer. Even though I do this a lot because I am addicted to Apple books, I will only know the answer to issues that I have actually solved off the top of my head but will be glad to give you some educated speculation if it helps. If anyone finds this at all useful to their endeavors I will be glad to post some other articles on how to beat Aperture Books into submission using similar methods.</p>
+
+<p>RB</p>
+
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Zemified by Zemanta" href="http://reblog.zemanta.com/zemified/304cce08-d493-4f9e-957f-26cf655261d4/"><img class="zemanta-pixie-img" style="border: medium none ; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=304cce08-d493-4f9e-957f-26cf655261d4" alt="Reblog this post [with Zemanta]" /></a></div>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-11-30T00:00:00-05:00" pubdate data-updated="true">Nov 30<span>th</span>, 2008</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://aperture.rwboyer.com/2008/11/30/aperture-2-quick-tip-custom-fonts-in-book-themes/" data-via="rwboyer" data-counturl="http://aperture.rwboyer.com/2008/11/30/aperture-2-quick-tip-custom-fonts-in-book-themes/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2008/11/27/aspect-ratio-insanity/" title="Previous Post: Aspect Ratio Insanity">&laquo; Aspect Ratio Insanity</a>
+      
+      
+        <a class="basic-alignment right" href="/2008/12/06/podcast-rant-follow-up/" title="next Post: Podcast Rant Follow-up">Podcast Rant Follow-up &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/13/a-word-about-photo-gear/">A Word About Photo Gear</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/11/really-funny-stuff-must-read/">Really Funny Stuff - Must Read</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'aperture-rwboyer-com';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://aperture.rwboyer.com/2008/11/30/aperture-2-quick-tip-custom-fonts-in-book-themes/';
+        var disqus_url = 'http://aperture.rwboyer.com/2008/11/30/aperture-2-quick-tip-custom-fonts-in-book-themes/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

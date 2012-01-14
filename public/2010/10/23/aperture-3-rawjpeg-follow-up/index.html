@@ -1,0 +1,308 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Aperture 3 RAW+JPEG Follow Up - RB Design</title>
+  <meta name="author" content="R W Boyer">
+
+  
+  <meta name="description" content="My posts on how Aperture 3 RAW+JPEG works and how you can use it to speed up your work-flow sure generated a lot of feedback and questions via email &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://aperture.rwboyer.com/2010/10/23/aperture-3-rawjpeg-follow-up">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="RB Design" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Bitter:400italic,400,700' rel='stylesheet' type='text/css'>
+
+<!--Lightbox Includes--!>
+<link href="/lightbox/css/lightbox.css?body=1" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="/lightbox/js/prototype.js"></script>
+<script type="text/javascript" src="/lightbox/js/scriptaculous.js"></script>
+<script type="text/javascript" src="/lightbox/js/lightbox.js"></script>
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28176403-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">RB Design</a></h1>
+  <ul class="main-navigation">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+  </ul>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:aperture.rwboyer.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<!--
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+-->
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Aperture 3 RAW+JPEG Follow Up</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-10-23T00:00:00-04:00" pubdate data-updated="true">Oct 23<span>rd</span>, 2010</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>My posts on how Aperture 3 RAW+JPEG works and how you can use it to speed up your work-flow sure generated a lot of feedback and questions via email. One question that I didn&#8217;t expect was how to get rid of your RAW files and keep just the JPEG after importing them as RAW+JPEG master pairs. I almost never do this, in fact I don&#8217;t import RAW files I don&#8217;t want. I did think that the question deserved a follow up post so here it is.</p>
+
+<p>The short answer is that Aperture 3 provides no direct way of getting rid of either the RAW or JPEG individually if they were imported as a RAW+JPEG pair. That doesn&#8217;t mean that it can&#8217;t be done. I will walk you through how to do it real quick. One word of warning - this is probably not supported and not expected by Aperture but I can see no horrible side effects in my extensive testing while researching my file management eBook.</p>
+
+<p>Assuming that you have RAW+JPEG pairs already imported and assuming you know a little bit about how Aperture file management works, I am going to start with managed files, get rid of just the raws and then end up with managed files again. Adjust to suit your needs. Here goes&#8230;</p>
+
+<ol>
+    <li>Mark the images that you want to get rid of the RAW component for the RAW+JPEG pair. You can use any method you like. Flags, create an album, ratings whatever. As long as it is easy to view just the target selection.</li>
+    <li>View just those targeted images.</li>
+    <li>Select all the images and use file-&gt;relocate masters to put all of the RAW and JPEG master files somewhere together and easy to find. Let&#8217;s pretend it is a folder called Desktop/blast RAW</li>
+    <li>Use the finder to navigate to that folder. Search for all the RAW files, say .CR2 just in that folder via the finder search options.</li>
+    <li>Drag the files to the trash. Empty the trash.</li>
+    <li>Go back to Aperture, Select all the images again and use file-&gt;consolidate masters</li>
+</ol>
+
+
+<p>Done. Of course you can adjust the precise moving of masters around to suit your needs and organization but this works handily. You could of course use it to get rid of just the JPEG&#8217;s as well. After you do this if you did not have the master set properly to the file left behind (Photo-&gt;set JPEG master), this option still works but you obviously cannot set the master back to the file you got rid of. After doing this you can search till your heart is content and none of the files show up as missing or offline. In fact the only side effects seem to be that the &#8220;J&#8221; badge remains if you have it turned on indicating that there is also an &#8220;R&#8221; master but none of the master switching options are available. Second if you get rid of any of those JPEG image versions and empty the Aperture trash, Aperture will complain that there are missing master files. That&#8217;s it.</p>
+
+<p>Hope this was helpful to those that asked the question.</p>
+
+<p>RB</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">R W Boyer</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-10-23T00:00:00-04:00" pubdate data-updated="true">Oct 23<span>rd</span>, 2010</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://aperture.rwboyer.com/2010/10/23/aperture-3-rawjpeg-follow-up/" data-via="rwboyer" data-counturl="http://aperture.rwboyer.com/2010/10/23/aperture-3-rawjpeg-follow-up/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2010/10/12/aperture-3-the-y-and-t-keys/" title="Previous Post: Aperture 3 - The Y and T Keys">&laquo; Aperture 3 - The Y and T Keys</a>
+      
+      
+        <a class="basic-alignment right" href="/2010/10/29/friday-thoughts/" title="next Post: Friday Thoughts">Friday Thoughts &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2011/12/12/i-am-officially-a-grandfather/">I Am Officially A Grandfather</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/19/a-little-down-on-digital-lately/">A Little Down On Digital Lately</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/17/nikon-d7000-preset-news-and-updates/">Nikon D7000 Preset News and Updates</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/13/a-word-about-photo-gear/">A Word About Photo Gear</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2011/11/11/really-funny-stuff-must-read/">Really Funny Stuff - Must Read</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("rwboyer", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/rwboyer" class="twitter-follow-button" data-show-count="false">Follow @rwboyer</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - R W Boyer -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'aperture-rwboyer-com';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://aperture.rwboyer.com/2010/10/23/aperture-3-rawjpeg-follow-up/';
+        var disqus_url = 'http://aperture.rwboyer.com/2010/10/23/aperture-3-rawjpeg-follow-up/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
