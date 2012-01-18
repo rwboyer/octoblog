@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - Micro 4:3
-tags:
 - M43
 - Micro 4:3
 - Panasonic 20mm

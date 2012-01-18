@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Micro 4:3
-tags:
 - Aperture 3
 - M43
 - Micro 4:3

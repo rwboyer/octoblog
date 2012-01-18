@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/1999_024_04.jpg"><img title="1999_024_04.jpg" src="/wp-content/uploads/2010/01/.thumbs/.1999_024_04.jpg" border="0" alt="1999_024_04.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I have said it before and I will say it again - the most important pictures you will ever make are the ones of your family and those people that are close to you. They may not be important to anyone else. They may not even be "good" but they will be the most important. The reason that I continue to beat everyone that will listen over the head with this is because of my own experience and the number of photographers that I have interacted with over the years that do not shoot people that are close to them. Okay - so you are a landscape photographer, or a sports photographer, or a fashion photographer. That might be an important part of earning a livelihood or an important part of your artistic expression but the images are not nearly as important as those of people that are close to you.
 

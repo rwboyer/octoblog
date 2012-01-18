@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - D200
 - dead fish
 - lot of water

@@ -4,7 +4,6 @@ title: EMERGENCY - Nikon F3 Giveaway NEED HELP
 comments: true
 categories:
 - Site News
-tags:
 - contest
 - Earthquake
 - film

@@ -4,7 +4,6 @@ title: RAW and Aperture - Anyone Care To Help Me Out Here?
 comments: true
 categories:
 - Apple Aperture
-tags:
 - Apple Aperture
 - Nikon
 - nikon d2x

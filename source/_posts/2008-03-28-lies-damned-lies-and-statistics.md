@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 <a href="http://photo.rwboyer.com/wp-content/uploads/2008/09/1999009-09.jpg"><img class="alignleft size-thumbnail wp-image-254" title="1999009-09" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/1999009-09.jpg" alt="" width="100" height="150" /></a>What an odd title for an article on photography. I struggled a little bit with the topic of the first article on photography that I would post. I mean where do you start? Such a broad topic with so many things to discuss, big things, little things, basics, advanced techniques - so here is where I landed - an article on how to read articles. More precisely, some of my thoughts on human communication, context, and the frame of reference of the transmitter vs. that of the receiver. In this case the transmitter being me and the receiver being you. What I find obvious may not be so obvious to you and vice versa. When communicating people have a tendency to subconsciously skip or not spend much time talking about the things that are obvious to them even thought they may not be so obvious to others.<!--more-->
 I suggest that you try to envision the context and frame of reference of the writer or speaker on any topic, photography or otherwise. Doing so will help you discover what they mean not just what they say and that is usually more important. Letâ€™s consider a couple of examples.

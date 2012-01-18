@@ -4,7 +4,6 @@ title: Nik HDR Efex Pro - Check It Out
 comments: true
 categories:
 - Site News
-tags:
 - Nik HDR Efex Pro
 - Nik Software
 ---

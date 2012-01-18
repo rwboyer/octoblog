@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - family photo albums
 - lenswork
 - photo magazine

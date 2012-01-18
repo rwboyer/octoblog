@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Adox MCC 110
 - Black and White
 - kodak tmax 100

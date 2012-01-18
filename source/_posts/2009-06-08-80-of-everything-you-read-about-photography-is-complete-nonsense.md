@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - 6x6
 - Agfa APX 100
 - Kodak PXP

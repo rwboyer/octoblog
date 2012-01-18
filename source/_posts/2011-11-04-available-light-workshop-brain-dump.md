@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Site News
-tags:
 - available light
 - Lighting
 - window light

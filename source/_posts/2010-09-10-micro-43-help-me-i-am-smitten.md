@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Micro 4:3
-tags:
 - M43
 - Micro 4:3
 - Olympus E-P1

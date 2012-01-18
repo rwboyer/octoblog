@@ -85,7 +85,8 @@ module Jekyll
         name, weight = tag
         size = size_min + ((size_max - size_min) * weight).to_f
         size = sprintf("%.#{@precision}f", size)
-        html << "<a style='font-size: #{size}#{unit}' href='#{dir}/#{name.downcase}/'>#{name}</a>\n"
+        link_nospace = ((name.to_s).downcase).tr(' :', '-')
+        html << "<a style='font-size: #{size}#{unit}' href='#{dir}/#{link_nospace}/'>#{name}</a>\n"
       end
     end
 

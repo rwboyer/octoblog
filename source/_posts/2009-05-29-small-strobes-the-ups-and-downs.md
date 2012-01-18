@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-tags:
 - CLS
 - Lighting
 - Nikon

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - albums
 - Aperture
 - Aperture 2

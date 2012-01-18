@@ -6,7 +6,6 @@ categories:
 - Aperture PDF Guides
 - Apple Aperture
 - Articles
-tags:
 - Aperture 2
 - Aperture PDF Guides
 - Apple

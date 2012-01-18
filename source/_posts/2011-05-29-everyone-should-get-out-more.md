@@ -4,7 +4,6 @@ title: Everyone Should Get Out More
 comments: true
 categories:
 - General Photography
-tags:
 - Treme
 ---
 On two other occasions I have written posts about the crossover or art - about feeding yourself with material other than photography or even visual to inform and guide your creative process. Both of those posts went over like a cement blimp. I expect this one will as well.

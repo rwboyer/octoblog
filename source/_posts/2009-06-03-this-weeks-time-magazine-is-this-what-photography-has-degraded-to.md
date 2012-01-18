@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - aweful
 - Bad portraits
 - bad taste

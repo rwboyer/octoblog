@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - Apple Aperture
 - broken thumbnails
 - file management

@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - analog photography
 - Black and White
 - Developer

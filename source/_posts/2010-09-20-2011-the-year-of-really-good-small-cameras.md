@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Micro 4:3
-tags:
 - Fuji X100
 - Leica
 - Olympus E-P1

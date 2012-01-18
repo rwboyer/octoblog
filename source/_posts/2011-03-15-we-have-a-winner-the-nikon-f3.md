@@ -4,7 +4,6 @@ title: We Have A Winner - The Nikon F3
 comments: true
 categories:
 - Site News
-tags:
 - give-away
 - Nikon F3
 ---

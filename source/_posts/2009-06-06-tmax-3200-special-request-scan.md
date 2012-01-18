@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - film scan
 - TMax 3200
 - TMZ

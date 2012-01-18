@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Site News
-tags:
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/faces1.jpg"><img class="alignleft size-medium wp-image-2248" title="faces" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/faces1-300x136.jpg" alt="" width="300" height="136" /></a>Well it may be a day late and a dollar short but the <a href="http://photo.rwboyer.com/2010/08/15/aperture-organization/">Aperture 3 update to the Organization eBook</a> is finally done and ready for download. I wish it didn't take me so stinking long. I swear I started it the week after Aperture 3 was release. I wanted to do a good job, I wanted to rephrase some of the things in the old eBook, and I guess I got distracted by numerous other of life's little obstacles. After all this is more a labor of love.
 

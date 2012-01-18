@@ -4,7 +4,6 @@ title: Nikon F3 - I think I Am Cornering The Market
 comments: true
 categories:
 - Site News
-tags:
 - film
 - Nikon
 - Nikon F3

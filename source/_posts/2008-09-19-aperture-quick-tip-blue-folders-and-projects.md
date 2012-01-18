@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - Add new tag
 - Aperture 2
 - Aperture Blue Folder

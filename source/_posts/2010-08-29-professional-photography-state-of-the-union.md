@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 I don't know how many of you track with matters on professional photography, be it art, photojournalism, wedding, portrait, commercial, fashion, event, whatever. I certainly do you see I am interested because I used to produce images for commercial purposes. I am glad I decided to get out when I did. I got out for all the right reasons, meaning I got in for all the wrong reasons. The biggest thing that I did not understand is that I loved photographing things I was interested in and passionate about - not just anything. I really didn't understand this because I never worked at making images of things I wasn't interested in or passionate about. In other words I loved making images of things that I would do even if I weren't getting paid. How different can making images of things you don't give a hoot about be?
 

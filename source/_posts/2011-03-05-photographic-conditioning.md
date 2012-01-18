@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 No doubt about it, we humans tend to become "conditioned", "trained", and downright programmed in certain ways no matter if we try not to or not. You can do mental exercises all you want to gain a fresh perspective but no matter what there will be remnants of whatever you used to do built in to your "new" way. Those remnants can be subtle or not so subtle but they will be there. They will probably never go away even if you concentrate hard of making them do so. Of course you can develop new stuff as well but some of the old stuff will still be there flavoring the new stuff for better or worse.
 

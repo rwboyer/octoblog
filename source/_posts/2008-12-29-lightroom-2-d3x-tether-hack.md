@@ -5,7 +5,6 @@ comments: true
 categories:
 - Adobe Lightroom
 - Articles
-tags:
 - Apple
 - Automator
 - Camera Control Pro

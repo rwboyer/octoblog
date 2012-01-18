@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Site News
-tags:
 - Apple Aperture
 - quiz
 - screencast

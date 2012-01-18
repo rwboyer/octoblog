@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - Site News
-tags:
 - Aperture
 - Aperture 2
 - Aperture Book Tool

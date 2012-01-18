@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - General Photography
 - Lighting
-tags:
 - announcement
 - Aperture
 - Apple

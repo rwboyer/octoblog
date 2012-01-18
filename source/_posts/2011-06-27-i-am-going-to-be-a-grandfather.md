@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Site News
-tags:
 - 50mm
 - film
 - Kodak Portra 400

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - adjustment
 - Aperture
 - Aperture 2

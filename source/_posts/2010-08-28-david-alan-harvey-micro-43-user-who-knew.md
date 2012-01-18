@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 I have been a big big fan of David Alan Harvey's work ever since I saw it in NatGeo when I was a kid. To tell you the truth he is sort of a long time hero of mine. His images speak to me a whole lot more than most. Never met him - we travel in way different circles, even when I was doing commercial work we were so far apart in the work we did it's not funny. To be very candid he has always been sort of a hero of mine.  I guess it's because he is one of the very few people where I say to myself that I would love to do what he does throughout his career this has been true.
 

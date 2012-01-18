@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - 35mm f1.8 G
 - APS-C
 - Fuji X100

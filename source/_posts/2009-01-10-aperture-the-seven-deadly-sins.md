@@ -7,7 +7,6 @@ categories:
 - Articles
 - Lighting
 - Site News
-tags:
 - adjustment
 - Aperture 2
 - Apple Aperture

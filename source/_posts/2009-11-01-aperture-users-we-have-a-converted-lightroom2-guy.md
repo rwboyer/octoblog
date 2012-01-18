@@ -5,7 +5,6 @@ comments: true
 categories:
 - Aperture vs Lightroom
 - Articles
-tags:
 ---
 In case you have not seen this before, I wanted to share some links to a pair of professional wedding photographers that switched from Lightroom 2 to Aperture 2. Now here is the punch line - THEY ARE NIKON SHOOTERS. Yep, that is right Nikon wedding photographers that switched from Lightroom 2 to Aperture 2.
 

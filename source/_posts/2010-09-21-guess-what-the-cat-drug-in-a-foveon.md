@@ -4,7 +4,6 @@ title: Guess What The Cat Drug In - A Foveon
 comments: true
 categories:
 - General Photography
-tags:
 - Foveon
 - Sigma DP1s
 - small cameras

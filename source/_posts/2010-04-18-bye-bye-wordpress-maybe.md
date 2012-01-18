@@ -4,7 +4,6 @@ title: Bye Bye Wordpress - Maybe?
 comments: true
 categories:
 - Site News
-tags:
 ---
 Remember the other day when my site was down for say oh..... most of the day. Yep it was freakin' Wordpress again. It only took me about an hour to debug and fix but considering I do this for free and had somewhere else that I had to be when I discovered the hacking... I left and fixed it later.
 

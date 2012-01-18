@@ -7,7 +7,6 @@ categories:
 - Aperture vs Lightroom
 - Articles
 - General Photography
-tags:
 - Image noise
 - Kodachrome
 - National Geograpic

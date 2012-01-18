@@ -4,7 +4,6 @@ title: Top Reasons To Shoot Film 2011 Edition
 comments: true
 categories:
 - General Photography
-tags:
 - film
 - Kodachrome
 - kodak ektar 100

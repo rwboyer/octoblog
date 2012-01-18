@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Micro 4:3
-tags:
 - Panasonic GF-1
 - Panasonic LX5
 ---

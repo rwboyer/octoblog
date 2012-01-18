@@ -6,7 +6,6 @@ categories:
 - Adobe Lightroom
 - Apple Aperture
 - General Photography
-tags:
 - old boats
 - photography
 - railroad station

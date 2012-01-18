@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - Japan
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2010-006-06-880.jpg"><img class="alignleft size-medium wp-image-2175" title="2010-006-06-880" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2010-006-06-880-300x136.jpg" alt="" width="300" height="136" /></a>I know that most readers here are way way more interested in digital work-flow, and gear, and stuff like that but I thought I would share a blog I stumbled onto about 2 months ago and that I find a great read. Not just a one timer but this is one of the very few that are in my RSS feeds. There is a ton of great stuff here and the publisher continues to add new things constantly.

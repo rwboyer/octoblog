@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Site News
-tags:
 - annoucement
 - Aperture
 - Apple

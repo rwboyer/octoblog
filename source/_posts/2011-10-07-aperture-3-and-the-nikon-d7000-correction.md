@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - Site News
-tags:
 - Aperture 3
 - Apple Aperture
 - Nikon NEF

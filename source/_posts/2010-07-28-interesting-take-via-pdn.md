@@ -4,7 +4,6 @@ title: Interesting Take Via PDN
 comments: true
 categories:
 - General Photography
-tags:
 - art
 - Creativity
 - photojournalism

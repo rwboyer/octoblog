@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Micro 4:3
 - Olympus E-P1
 ---

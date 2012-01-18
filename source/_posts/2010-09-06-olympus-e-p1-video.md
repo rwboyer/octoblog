@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Micro 4:3
-tags:
 - HD
 - Olympus E-P1
 - Video

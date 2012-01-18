@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - Micro 4:3
-tags:
 - Aperture 3
 - Apple Aperture
 - MacBook Air

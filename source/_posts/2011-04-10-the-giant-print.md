@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Lighting
-tags:
 - Lighting
 - Panasonic LX5
 ---

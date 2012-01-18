@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Nikon FE
 ---
 I am making an announcement today on behalf of Nikon. You will get the info exclusively here as I am actually pre-announcing their new mid-range full-frame FX camera before they have even planned it. Below is an image of the prototype I have been testing as well as a list of the features and controls.

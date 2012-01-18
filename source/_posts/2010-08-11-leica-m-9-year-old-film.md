@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Kodak Portra 160VC
 - leica m6
 - Olympus E-PL1

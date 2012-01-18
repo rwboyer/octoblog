@@ -4,7 +4,6 @@ title: Random Photography Thoughts of The Week
 comments: true
 categories:
 - General Photography
-tags:
 - Aperture
 - Aperture 3
 - Apple

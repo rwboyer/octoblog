@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/FromIweb/DSC_2877.jpg"><img title="DSC_2877.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.DSC_2877.jpg" border="0" alt="DSC_2877.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Now I am not claiming to listening to everything out there but I have had the opportunity to hear a ton of them.By a ton I mean dozens, not dozens of episodes but dozens of podcasts. For the most part I listened to all of the episodes, no matter how inane, inaccurate, or downright intellectually insulting weekly sales pitches masquerading as instructional materials.
 <!--more-->

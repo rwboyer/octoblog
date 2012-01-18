@@ -4,7 +4,6 @@ title: Random Thoughts On Video
 comments: true
 categories:
 - General Photography
-tags:
 - Panasonic LX5
 - Video
 ---

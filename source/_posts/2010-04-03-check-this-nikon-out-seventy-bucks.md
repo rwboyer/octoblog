@@ -4,7 +4,6 @@ title: Check This Nikon Out - Seventy Bucks
 comments: true
 categories:
 - General Photography
-tags:
 - film
 - manual focus
 - Nikon

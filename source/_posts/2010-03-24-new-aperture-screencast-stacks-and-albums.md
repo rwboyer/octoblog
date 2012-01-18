@@ -4,7 +4,6 @@ title: New Aperture Screencast - Stacks and Albums
 comments: true
 categories:
 - Site News
-tags:
 - Aperture 3
 - Apple Aperture
 - screencast

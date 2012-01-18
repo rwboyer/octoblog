@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/LAP3736-cool2.jpg"><img class="alignleft size-medium wp-image-2099" title="_LAP3736-cool" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/LAP3736-cool2-199x300.jpg" alt="" width="199" height="300" /></a>If you like nature and travel photography <a href="http://blog.lesterpickerphoto.com/">check Les Picker out</a> - I just set up a blog/site for him about a week ago. It's brand new so don't expect a ton of past content but he has started regularly posting on the kind of stuff he is interested in. I helped him with batch uploading some old content just for testing and he has started putting new posts up. Right now he is traveling by plane, train, and automobile to remote areas of the Canadian Rockies, or the Yukon, or some such place that the temperature dips below 80 sometimes - In other words you will not find me there anytime before global warming does it's work up there.
 

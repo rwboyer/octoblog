@@ -6,7 +6,6 @@ categories:
 - Aperture PDF Guides
 - Apple Aperture
 - Site News
-tags:
 - Aperture organization
 - Aperture PDF Guides
 - Apple Aperture

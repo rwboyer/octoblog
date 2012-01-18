@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - Lighting
-tags:
 - gradation
 - great portraits
 - Lighting

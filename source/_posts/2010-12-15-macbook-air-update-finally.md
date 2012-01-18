@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - 11.6
 - Aperture 3
 - Apple Aperture

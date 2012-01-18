@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - Aperture
 - Apple Ap
 - Nik

@@ -4,7 +4,6 @@ title: Spring Fever
 comments: true
 categories:
 - Site News
-tags:
 - artistic process
 - inspiration
 - journal keeping

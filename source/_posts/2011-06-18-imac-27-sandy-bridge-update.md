@@ -4,7 +4,6 @@ title: iMac 27 Sandy Bridge Update
 comments: true
 categories:
 - Site News
-tags:
 - Aperture 3
 - Apple
 - iMac

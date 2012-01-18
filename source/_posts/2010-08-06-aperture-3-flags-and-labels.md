@@ -4,7 +4,6 @@ title: Aperture 3 - Flags and Labels
 comments: true
 categories:
 - Apple Aperture
-tags:
 - Aperture 3
 - Apple Aperture
 - color labels

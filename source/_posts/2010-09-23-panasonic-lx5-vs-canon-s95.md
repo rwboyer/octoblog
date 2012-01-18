@@ -4,7 +4,6 @@ title: Panasonic LX5 vs Canon S95
 comments: true
 categories:
 - General Photography
-tags:
 - Canon S95
 - Panasonic LX5
 ---

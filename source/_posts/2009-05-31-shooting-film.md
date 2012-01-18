@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Agfa APX 100
 - agfa rodinal
 - Black and White

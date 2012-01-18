@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - Lighting
-tags:
 ---
 <a href="/wp-content/uploads/FromIweb/DSC_9109.jpg" rel="lightbox"  ><img src="/wp-content/uploads/FromIweb/.thumbs/.DSC_9109.jpg" alt="DSC_9109.jpg" title="DSC_9109.jpg" align="left" width="101" height="150" hspace="10" vspace="10" border="0" /></a>White backgrounds are very popular for just about every kind of studio shot that might come along. Fashion, beauty, headshots, etc, etc, etc. So knowing how to do a white background properly is pretty basic stuff. So how did I screw that up you might ask. Iâ€™ll give you the answer in a second.
 

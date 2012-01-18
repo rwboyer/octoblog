@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Site News
-tags:
 - Aperture 3
 - Apple Aperture
 - apple support forum

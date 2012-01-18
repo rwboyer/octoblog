@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - General Photography
 - Site News
-tags:
 - color management
 ---
 Okay - this is going to be a quick one considering I am really annoyed and quite pissed off. <a href="http://photo.rwboyer.com/2011/06/02/whats-wrong-with-this-color-management-picture/">Remember this post about monitor calibration?</a> Well, I got exactly nowhere - I put down my money, I put in the time, I have been extremely patient (not one of my strong points) and here is what I got as the last update... THREE F'ING WEEKS AGO. And yes I followed up.

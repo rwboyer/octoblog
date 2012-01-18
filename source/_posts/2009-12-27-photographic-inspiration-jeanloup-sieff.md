@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-tags:
 - Black and White
 - fashion
 - figure study

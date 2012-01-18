@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-tags:
 - aesthetic
 - beauty dish
 - detail

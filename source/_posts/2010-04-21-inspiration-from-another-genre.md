@@ -4,7 +4,6 @@ title: Inspiration From Another Genre
 comments: true
 categories:
 - Site News
-tags:
 - Andy Timmons
 - Guitar Amps
 ---

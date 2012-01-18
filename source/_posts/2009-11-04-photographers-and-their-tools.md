@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - camera rig
 - Nikon D2h
 - phographer tools

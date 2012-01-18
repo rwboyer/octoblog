@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Screencasts
-tags:
 ---
 <h1>Aperture 3 - Faces</h1>
 Everything you need to know about using the new Faces features in Aperture 3.

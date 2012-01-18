@@ -4,7 +4,6 @@ title: Odds And Ends - Thoughts On Camera Companies, etc.
 comments: true
 categories:
 - General Photography
-tags:
 - film
 - Hasselblad
 - medium format

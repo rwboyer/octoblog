@@ -4,7 +4,6 @@ title: Adox MCC 110 Print Sample Update
 comments: true
 categories:
 - Site News
-tags:
 - Adox MCC 110
 - Black and White
 - prints

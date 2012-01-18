@@ -4,7 +4,6 @@ title: LX5 First Shots
 comments: true
 categories:
 - General Photography
-tags:
 - Panasonic LX5
 ---
 As usual I didn't go more than a few feet from my desk today. Grrrr. I just had to shot a few test shots with the baby camera while going back and forth between the phone, my desk, the coffee pot, and outside for a quick smoke.

@@ -4,7 +4,6 @@ title: Summer Update
 comments: true
 categories:
 - Site News
-tags:
 - book printing
 - eBook
 - film

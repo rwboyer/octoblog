@@ -4,7 +4,6 @@ title: Revisiting Image Magnification
 comments: true
 categories:
 - General Photography
-tags:
 - film
 - image magnification
 - medium format

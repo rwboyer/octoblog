@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Canon
 - Leica S2
 - Nikon D300s

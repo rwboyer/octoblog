@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - adjustments
 - Apple Aperture
 - conversions

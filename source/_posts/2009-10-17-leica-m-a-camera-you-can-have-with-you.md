@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Black and White
 - delta 100
 - film
@@ -14,7 +13,7 @@ tags:
 - m6
 - XTOL
 ---
-{% img left /wp-content/uploads/2009/10/2000_030_23.jpg 200 %} Wanted to follow up on shooting people close to you and having a camera with you. The Leica M is a fantastic camera to carry around with you. Be it M9 or M3. I always had mine with me and have some pretty amazing shots to prove it. A point and shoot digicam is better than nothing but it does a completely different job than the Lieca - really.
+<a rel="lightbox" href="/wp-content/uploads/2009/10/2000_030_23.jpg"><img title="2000_030_23.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2000_030_23.jpg" border="0" alt="2000_030_23.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Wanted to follow up on shooting people close to you and having a camera with you. The Leica M is a fantastic camera to carry around with you. Be it M9 or M3. I always had mine with me and have some pretty amazing shots to prove it. A point and shoot digicam is better than nothing but it does a completely different job than the Lieca - really.
 
 This shot is not fantastic and I wished the focus was on the close eye instead of the far eye, etc, etc. but I wanted to use it as an example of real world grab shots - just one in sub optimum conditions. This was in a Friendly's restaurant and yes I had my Leica M6. It happened to be loaded with Ilford Delta 100 (actually more like 80 ISO) because I was shooting one of my final calibration rolls that day while walking around. Okay so ISO 80, indoors, what do you think the shutter speed was? I will tell you it was probably like 1/15 at f 2.8. Have you seen your shutter speed indoors at ISO 80 lately?
 

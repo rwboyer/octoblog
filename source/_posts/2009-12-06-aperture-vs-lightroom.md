@@ -6,7 +6,6 @@ categories:
 - Aperture vs Lightroom
 - Apple Aperture
 - Articles
-tags:
 - Adobe
 - Adobe Lightroom
 - Aperture

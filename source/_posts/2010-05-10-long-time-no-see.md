@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - General Photography
-tags:
 - Aperture 3
 - Apple Aperture
 - Guitars

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - lenses
 - Nikon F3
 - prime lenses

@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Site News
-tags:
 - ansel adams
 - lightroom presets
 - zone system

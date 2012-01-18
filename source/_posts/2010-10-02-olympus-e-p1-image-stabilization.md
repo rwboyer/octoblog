@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Micro 4:3
-tags:
 - image stabilization
 - M43
 - Micro 4:3

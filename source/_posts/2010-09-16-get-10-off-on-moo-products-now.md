@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - Moo
 ---
 I am using mine discount code right now so I don't forget. The promo ends at the end of the month hurry up. Gather up some of your images, click on the Moo banner over on the right side, and use this code 8J9XYK . Yep 10% off a great product that is already as cheap as dirt. Very cool.

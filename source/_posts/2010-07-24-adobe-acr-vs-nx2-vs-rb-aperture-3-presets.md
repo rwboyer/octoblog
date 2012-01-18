@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - Adobe ACR
 - Aperture
 - Apple Aperture 3

@@ -4,7 +4,6 @@ title: The GF1 And LX5 Are Here!
 comments: true
 categories:
 - General Photography
-tags:
 - ACR
 - Adobe Lightroom
 - Aperture 3

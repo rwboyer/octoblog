@@ -7,7 +7,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - ACDSee
 - Adobe Lightroom
 - Aperture

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Final Cut Pro X
 - flash
 - Nikon D7000

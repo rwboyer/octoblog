@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - film
 - Fuji X100
 - Panasonic LX5

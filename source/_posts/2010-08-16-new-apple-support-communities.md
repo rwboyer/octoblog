@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - Site News
-tags:
 - Apple
 - humor
 - support forums

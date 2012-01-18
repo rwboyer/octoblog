@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - 35mm summicron
 - 50mm summicron
 - film

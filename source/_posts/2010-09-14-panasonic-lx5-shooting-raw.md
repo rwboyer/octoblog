@@ -4,7 +4,6 @@ title: Panasonic LX5 - Shooting RAW
 comments: true
 categories:
 - General Photography
-tags:
 - Panasonic LX5
 - RAW
 - RAW+JPEG

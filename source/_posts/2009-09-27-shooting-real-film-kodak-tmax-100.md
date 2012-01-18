@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - agfa apx 25
 - Black and White
 - contrast manipulation

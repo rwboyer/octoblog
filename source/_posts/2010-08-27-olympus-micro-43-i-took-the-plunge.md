@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/EP-1.jpg"><img class="alignleft size-medium wp-image-2260" title="EP-1" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/EP-1-300x225.jpg" alt="" width="300" height="225" /></a>Remember I was looking for a small camera to jamb in the bag with my Leica M kit? I was thinking of a D5000, an Olympus 4:3, etc. Well after a few weeks of vacillating and fence sitting. I decided to get on with it and bought a Olympus E-P1. Yea I know I was gravitating towards the E-PL1 because as we all know that newer equals better in the digital world. I will tell you how I decided on the E-P1 and how it holds up in reality once I have some time with it under my belt.
 

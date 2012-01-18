@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - film
 ---
 I have mused, explained, communicated - or tried to many times a thought process that I completely understand at a very instinctual level but find it hard to articulate in words with any kind of coherence. Since I know that I am incapable at this point of any kind of clear holistic dissertation on the subject I try my best to infuse a lot of my posts with the <em>feeling</em> of this thought process that I referred to. Let's call it a philosophy of the photographic endeavor.

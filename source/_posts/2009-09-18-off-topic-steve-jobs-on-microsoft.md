@@ -4,7 +4,6 @@ title: Off Topic - Steve Jobs On Microsoft
 comments: true
 categories:
 - Site News
-tags:
 - Apple
 - microsoft
 - steve jobs

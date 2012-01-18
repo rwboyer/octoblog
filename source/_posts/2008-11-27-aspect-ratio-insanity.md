@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - 4x6 print
 - Aspect Ratio
 - consumer cameras

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - ansel adams
 - Leica M9
 - rangefinder

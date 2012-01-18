@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - Site News
-tags:
 - iMac
 - MacBook Air
 - MacBook Pro

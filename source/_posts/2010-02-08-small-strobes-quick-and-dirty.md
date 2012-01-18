@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-tags:
 - ambient
 - flash
 - Lighting

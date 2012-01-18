@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/DSC_0282v3.jpg"><img title="DSC_0282v3.jpg" src="/wp-content/uploads/2010/07/.thumbs/.DSC_0282v3.jpg" border="0" alt="DSC_0282v3.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Warning - this is a philosophical post, not a technical post. It is not about right or wrong, not a value judgement, and certainly not a rant. Most of my rants are meant to be semi-sarcastic - I am old enough to know that that type of presentation is not widely received in a positive manner. This is my first and possibly only seriously post regarding the rarified subject of art and photography at the same time. I have spent a long time thinking about this subject and wrestling with it as so many others have in the past. You may know my taste at this point in time gravitates heavily toward photojournalistic images that bring every element that I consider to be the essential elements of still photographs together in a way that transcends the merely documentary with out any pretense, artifice, in their most pure and un-adulterated form. Obviously my thought process is flavored and biased by this - I will not argue that it is not. Now that the warning label is over let's get to the thoughts - spurred via an email conversation I had with a photographer that ran across some of my film/prints/art lesson posts.
 

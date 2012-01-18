@@ -6,7 +6,6 @@ categories:
 - Adobe Lightroom
 - Apple Aperture
 - Articles
-tags:
 - Adobe Lightroom
 - Aperture 2
 - Apple

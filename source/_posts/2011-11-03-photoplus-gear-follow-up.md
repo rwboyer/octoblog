@@ -5,7 +5,7 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
+- Uncategorized
 - film
 - olympus OM
 ---

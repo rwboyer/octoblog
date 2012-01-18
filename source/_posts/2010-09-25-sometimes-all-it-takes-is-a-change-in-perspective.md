@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Lighting
-tags:
 - Lighting
 - M43
 - Micro 4:3

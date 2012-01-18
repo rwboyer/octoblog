@@ -4,7 +4,6 @@ title: The Archetype of My Last Post - Aperture-holes
 comments: true
 categories:
 - Apple Aperture
-tags:
 - Aperture 3
 - Apple Aperture
 - apple support forum

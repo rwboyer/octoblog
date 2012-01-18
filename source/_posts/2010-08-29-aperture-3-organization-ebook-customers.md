@@ -4,7 +4,6 @@ title: Aperture 3 Organization eBook Customers
 comments: true
 categories:
 - Site News
-tags:
 ---
 First - I wanted to thank all of you that have upgraded to the new version of the Aperture 3 eBook but this post is really for any new Aperture 3 Organization eBook customers since it's release a few days ago. That means anyone that purchased the new version at the full price for the first time.
 

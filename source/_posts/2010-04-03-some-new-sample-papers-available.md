@@ -4,7 +4,6 @@ title: Some New Sample Papers Available
 comments: true
 categories:
 - Site News
-tags:
 - agfa
 - Black and White
 - film

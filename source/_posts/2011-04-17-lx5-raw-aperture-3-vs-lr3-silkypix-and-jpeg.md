@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - Adobe ACR
 - Adobe Lightroom
 - Aperture 3

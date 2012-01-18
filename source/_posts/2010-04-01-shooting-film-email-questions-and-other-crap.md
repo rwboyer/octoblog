@@ -4,7 +4,6 @@ title: Shooting Film - Email Questions and Other Crap
 comments: true
 categories:
 - Site News
-tags:
 - Adox MCC 110
 - Black and White
 - Efke IR820

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Aperture 2
 - Apple Aperture
 - NEF RAW

@@ -4,7 +4,6 @@ title: Printer Deal of the Century
 comments: true
 categories:
 - Site News
-tags:
 - Canon
 - ink cartridges
 - printer deal

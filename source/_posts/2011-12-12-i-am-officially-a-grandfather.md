@@ -4,7 +4,6 @@ title: I Am Officially A Grandfather
 comments: true
 categories:
 - Site News
-tags:
 - matrix metering
 - Nikon D7000
 - Portable Flash

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Panasonic LX5
 ---
 Most of you know that I have never owned a point and shoot digicam. The big reason was not image quality but that was an obstacle as well. The big reason was handling and responsiveness. I checked out the G9 Canon and the S90 and... and... I really thought the LX3 that was released about two years ago but alas the handling and responsiveness feel short of me ever wanting to use it.

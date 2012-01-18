@@ -4,7 +4,6 @@ title: My Strange Masochistic Foveon Desire
 comments: true
 categories:
 - General Photography
-tags:
 - Foveon
 - Sigma DP1s
 ---

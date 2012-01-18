@@ -4,7 +4,6 @@ title: Seeker of Truth
 comments: true
 categories:
 - Site News
-tags:
 ---
 I received an extremely hateful email today. I am usually conditioned to that, given that I actually put some kind of thought and position out there for the whole world to see, judge, and respond. I have responded to those both personally and privately that are seeking help. I have also mentioned a few where I thought it might be useful for other's questions.
 

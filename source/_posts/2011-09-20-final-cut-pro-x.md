@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - final cut
 - Final Cut Pro
 - Final Cut Pro X

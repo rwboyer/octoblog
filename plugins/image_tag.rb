@@ -39,8 +39,8 @@ module Jekyll
 
     def render(context)
       if @img
-        #Lightbox kludge
-        "<a href=\"#{@img['src']}\" rel=\"lightbox\">\n" +
+        "<a href=\"#{@img['src']}\" class=\"lightview\" data-lightview-options=\"skin: \'mac\'\">\n" +
+        #"<a href=\"#{@img['src']}\" class=\"lightview\">\n" +
         "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>\n" +
         "</a>"
       else

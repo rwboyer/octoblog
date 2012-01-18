@@ -4,7 +4,6 @@ title: ADOX MCC 110 - What Does A Sample Print "Look" Like
 comments: true
 categories:
 - Site News
-tags:
 - Adox MCC 110
 - Black and White
 - print

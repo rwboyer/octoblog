@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - 64-bit
 - Aperture 3
 - Apple Aperture

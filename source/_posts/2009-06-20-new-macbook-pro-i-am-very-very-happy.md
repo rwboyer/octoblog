@@ -4,7 +4,6 @@ title: New MacBook Pro - I Am Very Very Happy
 comments: true
 categories:
 - Site News
-tags:
 - Aperture
 - MacBook Pro 15
 ---

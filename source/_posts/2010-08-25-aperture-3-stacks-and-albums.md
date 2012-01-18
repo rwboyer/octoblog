@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Screencasts
-tags:
 ---
 <h1>Aperture 3 - Stacks and Albums</h1>
 A straitforward visual guide to using Aperture 3 stacks and albums together to organize your photos and streamline your work-flow.

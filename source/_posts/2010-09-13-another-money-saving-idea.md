@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Micro 4:3
-tags:
 - Camera Bag
 - Domke F-5XB
 - Micro 4:3

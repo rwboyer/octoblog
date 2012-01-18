@@ -4,7 +4,6 @@ title: Oh No! It's That Time of Year Again. Family Portraits
 comments: true
 categories:
 - Site News
-tags:
 - christmas
 - holidays
 - portraits

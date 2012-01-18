@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Micro 4:3
-tags:
 - Micro 4:3
 - Panasonic GF-1
 - Panasonic LX5

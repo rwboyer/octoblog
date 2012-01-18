@@ -4,7 +4,6 @@ title: The Verdict Is In - I Am Completely Mad - Another Bag
 comments: true
 categories:
 - Site News
-tags:
 - camera bags
 - laptop bags
 - MacBook Air

@@ -4,7 +4,6 @@ title: Leica Rangefinder Work - Fantastic Example
 comments: true
 categories:
 - Site News
-tags:
 - Leica
 - m6
 - M9

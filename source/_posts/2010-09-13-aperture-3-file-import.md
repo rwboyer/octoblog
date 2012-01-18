@@ -26,6 +26,6 @@ Here is my "normal" work-flow:
 3. Blast through the JPEGS and reject the ones I don't want. This is really really fast since you don't have to wait for the import of your huge RAW files and subsequent Aperture processing of them to render thumbnails or previews. It's faster to zip through them as well.
 4. After my reject pass I open up the import interface again and use the "Matching RAW files" option in the RAW+JPEG pairs control block.
 {% img right http://photo.rwboyer.com/wp-content/uploads/2010/09/matching.jpg %}
-What I end up with is only importing the RAW files for the images I actually give a crap about and the RAW+JPEG's managed together as a "dual master" with the JPEG's active by default. If you want to know how to change this around (http://photo.rwboyer.com/2010/02/11/aperture-3-rawjpg-part-deuxs)[take a look at this post]. There are all kinds of options for telling Aperture 3 what "matching RAW files" you actually want imported or are talking about. If you have any questions just ask.
+What I end up with is only importing the RAW files for the images I actually give a crap about and the RAW+JPEG's managed together as a "dual master" with the JPEG's active by default. If you want to know how to change this around [take a look at this post](http://photo.rwboyer.com/2010/02/11/aperture-3-rawjpg-part-deuxs). There are all kinds of options for telling Aperture 3 what "matching RAW files" you actually want imported or are talking about. If you have any questions just ask.
 
 RB

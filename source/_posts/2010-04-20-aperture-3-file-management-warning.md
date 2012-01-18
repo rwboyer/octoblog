@@ -4,7 +4,6 @@ title: Aperture 3 - File Management Warning
 comments: true
 categories:
 - Apple Aperture
-tags:
 - Aperture 3
 - Apple Aperture
 - backup

@@ -4,7 +4,6 @@ title: Lions and Tigers and Bears
 comments: true
 categories:
 - Site News
-tags:
 - Organization
 - Podcast
 - Video

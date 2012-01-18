@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 - Fuji X100
 ---
 I don't do a lot of - "<a href="http://photo.rwboyer.com/2011/08/12/your-desert-island-lens/">What's your favorite</a>"  kinds of posts like the one on Friday. I did have a secret evil ulterior motive though. That motive was to gage how many of you photographer folk out there think they could actually live with a 35mm angle of view as a <em>one and only</em> lens. I have a bunch of 35mm lenses, heck I have the best - a Leica 35mm Summicron ASPH. Problem is I tend to live in 50mm land given the choice and I always have the choice with all of my cameras at the moment.

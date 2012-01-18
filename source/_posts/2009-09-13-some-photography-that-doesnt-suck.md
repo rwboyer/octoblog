@@ -4,7 +4,6 @@ title: Some Photography That Doesn't Suck
 comments: true
 categories:
 - General Photography
-tags:
 - fantastic photography
 - fashion show
 - marcus bleasdale

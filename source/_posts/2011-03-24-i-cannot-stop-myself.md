@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - Site News
-tags:
 - Rant
 ---
 I have had a hell of a week - or maybe it was the week from hell. At this point I don't even know I just know that for about a week there has been some sort of hell. Anyway... you don't think that I can see something like #onedaywithjeshinstead and not comment.

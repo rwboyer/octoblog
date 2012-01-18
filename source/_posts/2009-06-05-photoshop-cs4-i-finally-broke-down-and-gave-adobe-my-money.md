@@ -4,7 +4,6 @@ title: Photoshop CS4 - I Finally Broke Down and Gave Adobe My Money
 comments: true
 categories:
 - Site News
-tags:
 - Adobe
 - Photoshop CS4
 ---

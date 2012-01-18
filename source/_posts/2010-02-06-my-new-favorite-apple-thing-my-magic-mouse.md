@@ -4,7 +4,6 @@ title: My New Favorite Apple Thing - My Magic Mouse
 comments: true
 categories:
 - Site News
-tags:
 - Apple
 - magic mouse
 - scrolling

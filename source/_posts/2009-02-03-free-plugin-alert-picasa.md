@@ -4,7 +4,6 @@ title: Free Plugin Alert - Picasa
 comments: true
 categories:
 - Site News
-tags:
 - Aperture
 - Aperture 2
 - Apple

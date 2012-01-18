@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Site News
-tags:
 ---
 Okay, so I am not the fastest news source on the block. Here it is anyway. OS 10.5.7 is out as you probably know from every other Apple news source including your upgrade icon bouncing around in the dock. What you may not have heard is there are reports coming in from all over the place on the effects of upgrading.
 

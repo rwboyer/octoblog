@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Site News
-tags:
 - film
 - Fuji
 - Kodak Portra 160VC

@@ -4,7 +4,6 @@ title: Flickr Group
 comments: true
 categories:
 - Site News
-tags:
 - critique
 - flickr
 - photography

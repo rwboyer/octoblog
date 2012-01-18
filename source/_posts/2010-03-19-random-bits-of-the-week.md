@@ -4,7 +4,6 @@ title: Random Bits Of The Week
 comments: true
 categories:
 - Site News
-tags:
 - Aperture 3
 - Cinema Displays
 - eBook

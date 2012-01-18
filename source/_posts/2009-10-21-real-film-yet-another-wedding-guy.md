@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-tags:
 ---
 Leo Patrone looks like he gets a bunch of work. I can see why, he has a great style for weddings. You really should check his work out. If you shoot family pictures just for yourself or professionally you owe it to yourself to get some ideas from this guy. Timeless and classic - meaning not tricky, it's all about the people in the pictures. The pictures just get out of the way.
 

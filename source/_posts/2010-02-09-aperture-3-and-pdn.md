@@ -4,7 +4,6 @@ title: Aperture 3 And PDN
 comments: true
 categories:
 - Site News
-tags:
 - Aperture 3
 - Apple Aperture
 - PDN

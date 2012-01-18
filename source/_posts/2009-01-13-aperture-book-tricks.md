@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-tags:
 - Aperture 2
 - Aperture Book Tool
 - Apple Aperture

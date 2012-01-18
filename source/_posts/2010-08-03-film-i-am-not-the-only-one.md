@@ -4,7 +4,6 @@ title: Film - I Am NOT The Only One
 comments: true
 categories:
 - General Photography
-tags:
 - film
 - Leica M
 ---

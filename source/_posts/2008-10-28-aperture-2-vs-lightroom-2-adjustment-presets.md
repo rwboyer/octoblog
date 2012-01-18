@@ -5,7 +5,6 @@ comments: true
 categories:
 - Adobe Lightroom
 - Aperture vs Lightroom
-tags:
 - Aperture
 - Aperture 2
 - Aperture vs Lightroom

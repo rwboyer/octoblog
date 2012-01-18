@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Site News
-tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/2010_001_10.jpg"><img title="2010_001_10.jpg" src="/wp-content/uploads/2010/01/.thumbs/.2010_001_10.jpg" border="0" alt="2010_001_10.jpg" hspace="10" vspace="10" width="150" height="120" align="left" /></a>I have been doing this "sample print" thing for about two weeks now and it is not driving me nuts yet. It seems to be just about right in terms of my regular darkroom schedule. That is not the real topic of this post but sort of tangential. I have had a couple of inquires along the lines of "do you sell prints of your images". The query has come up when I post a random image that someone happens to like and wants to buy "art". It has also come up from readers that want to know what format, what prices, etc, etc. that I use to price "art work". Last but certainly not least it has come up in reference to my $9 sample prints.
 

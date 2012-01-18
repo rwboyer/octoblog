@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - General Photography
 - Site News
-tags:
 - Aperture
 - Apple
 - Apple Aperture

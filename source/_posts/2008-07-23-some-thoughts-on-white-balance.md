@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-tags:
 ---
 <a rel="lightbox" href="http://photo.rwboyer.com/wp-content/uploads/2008/09/glmedia-436.jpg"><img class="alignleft size-thumbnail wp-image-234" title="glmedia-436" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/glmedia-436.jpg" alt="" width="99" height="150" /></a>Ahhhh, white balance. Where should I start? There are so many millions of how to technical info-mercials out there I will dispense with starting at the beginning and just jump right into the thick of it.
 

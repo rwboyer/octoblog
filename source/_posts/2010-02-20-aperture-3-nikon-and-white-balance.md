@@ -6,7 +6,6 @@ categories:
 - Apple Aperture
 - Articles
 - General Photography
-tags:
 - Aperture 3
 - Apple Aperture
 - NEF

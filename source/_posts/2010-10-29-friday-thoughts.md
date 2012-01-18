@@ -4,7 +4,6 @@ title: Friday Thoughts
 comments: true
 categories:
 - Site News
-tags:
 - Notebooks
 - quotes
 ---
