@@ -4,7 +4,6 @@ title: Aperture 3 RAW+JPEG Workflow
 comments: true
 categories:
 - Apple Aperture
-- Featured
 - General Photography
 tags:
 - Aperture 3

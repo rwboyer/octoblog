@@ -3,7 +3,6 @@ layout: post
 title: I Am American
 comments: true
 categories:
-- Uncategorized
 tags:
 ---
 Yes, you probably know that.

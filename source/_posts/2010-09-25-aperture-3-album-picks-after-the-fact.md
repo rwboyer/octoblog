@@ -4,7 +4,6 @@ title: Aperture 3 - Album Picks After The Fact
 comments: true
 categories:
 - Apple Aperture
-- Featured
 tags:
 - album pick
 - albums

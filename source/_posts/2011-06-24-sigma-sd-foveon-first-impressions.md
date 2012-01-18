@@ -4,7 +4,6 @@ title: Sigma SD Foveon First Impressions
 comments: true
 categories:
 - Articles
-- Featured
 - General Photography
 tags:
 - Foveon

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-- Featured
 tags:
 - Aperture 3
 - Appe Aperture

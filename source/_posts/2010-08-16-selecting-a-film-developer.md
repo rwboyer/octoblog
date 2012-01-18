@@ -4,7 +4,6 @@ title: Selecting A Film Developer
 comments: true
 categories:
 - Articles
-- Featured
 - General Photography
 tags:
 ---

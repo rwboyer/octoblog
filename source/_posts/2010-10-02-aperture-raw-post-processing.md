@@ -10,6 +10,7 @@ tags:
 - Apple Aperture
 - post processing
 - work-flow
+featured: /wp-content/uploads/2010/10/post880-260x100.jpg
 ---
 So, you people know I am a big fan of shooting RAW+JPEG. I have stated many times that by and large I use the JPEG out of camera. So that begs the question - why do I shoot RAW? Well every once in a while I actually do a lot of post processing. Either planned from the get go or unplanned. Today's post is a really super simple stuff Aperture 3 walk through of a semi-planned use of RAW files in a RAW+JPEG workflow. Semi-planned meaning that I was just shooting one of my new micro 4/3 cameras in full auto and letting it do it's thing. I probably could have planned a bit better and made the JPEG look about 90% "right" out of the camera with manual exposure, manual WB, and setting the saturation and contrast differently but I was lazy and I wanted to play with the E-P1 RAW files anyway.
 

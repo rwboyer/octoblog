@@ -1,0 +1,10 @@
+<section>
+  <h1>Featured Articles</h1>
+  <p></p>
+  {% for post in site.categories['Featured'] %}
+    <a class="side" href="{{ root_url }}{{ post.url }}">
+      <img class="side" src="{{ post.featured }}"></img>
+    </a>
+    <p>{{ post.title }}</p>
+  {% endfor %}
+</section>

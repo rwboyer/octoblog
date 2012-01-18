@@ -4,7 +4,6 @@ title: More On Moo
 comments: true
 categories:
 - Articles
-- Featured
 - General Photography
 tags:
 - Creativity

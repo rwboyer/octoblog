@@ -4,7 +4,6 @@ title: Wedding Photography - Some Thoughts
 comments: true
 categories:
 - Articles
-- Featured
 - General Photography
 tags:
 ---

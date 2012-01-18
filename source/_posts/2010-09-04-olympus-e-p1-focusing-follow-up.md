@@ -3,7 +3,6 @@ layout: post
 title: Olympus E-P1 Focusing Follow Up
 comments: true
 categories:
-- Featured
 - General Photography
 - Micro 4:3
 tags:

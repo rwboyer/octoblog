@@ -4,7 +4,6 @@ title: Shooting Film Follies - 2010 Edition
 comments: true
 categories:
 - Articles
-- Featured
 - General Photography
 tags:
 - Black and White

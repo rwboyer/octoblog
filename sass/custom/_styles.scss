@@ -85,3 +85,12 @@ body > nav{
 #blog-archives h1{
   font-size: 1.2em;
 }
+
+aside.sidebar img.side{
+  border-style: none;
+}
+
+aside.sidebar a.side{
+  text-decoration: none;
+  white-space: nowrap;
+}
