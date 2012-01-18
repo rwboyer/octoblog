@@ -2,6 +2,11 @@
 layout: post
 title: Selecting A Film Developer
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2010-006-23.jpg"><img class="alignleft size-medium wp-image-2121" title="2010-006-23" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2010-006-23-300x200.jpg" alt="" width="300" height="200" /></a>I know I drone on and on about this film stuff but I figured all of you digital only photographers out there could stand a little more. There are still a few of us out there that shoot both. You might remember my hyperbole a while ago when I called the Massive Development Chart "the most useless thing on the web". I did receive some hate mail about that from a few people that thought it was a great resource. We chatted via email and kissed and made up. They didn't have an issue with my meaning - they took issue with the big "H" word.
 

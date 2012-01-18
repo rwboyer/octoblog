@@ -2,6 +2,15 @@
 layout: post
 title: Another Film Convert
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- efke pl100
+- film
+- large format
+- pyro
+- Pyrocat HD
 ---
 I have this photographer buddy. He travels to the ends of the earth to make really nice landscape photographs. He gets up way way before sunrise, treks to a remote location on foot. He carries 53.2 metric tons of DSLR gear, lenses, and "really wrong stuff" gadgets to cover any eventuality. He sets up on the tripod, carefullllllllly composes the shot. Carefullllly meters the scene. He tilts, he shifts, examines focus with a focusing magnifier. He has an arsenal of the finest filters to properly filter the scene to make sure the sky isn't too brignt. Then he waits, and waits, and waits some more.
 

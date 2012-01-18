@@ -2,6 +2,13 @@
 layout: post
 title: Nik Silver EFX Pro Revisited Again
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- Nik Silver EFX Pro
+- photoshop
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/1999_009_09_flatten_4x6.jpg"><img title="1999_009_09_flatten_4x6.jpg" src="/wp-content/uploads/2010/07/.thumbs/.1999_009_09_flatten_4x6.jpg" border="0" alt="1999_009_09_flatten_4x6.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I have written about Nik's wonderful Silver EFX Pro on numerous occasions, including one of my very rare non-review reviews. In a word it is the only black and white simulation software I would bother with. It is really really good in a lot of ways. In my review I did complain about the film simulations not being quite right - sort of like over the top cartoon versions of the represented films - of course you can fine tune them to your liking. My main point was that if you are going to simulate a bunch of different classic B+W films why not do it "right" - I guess that is in the eye of the beholder.
 

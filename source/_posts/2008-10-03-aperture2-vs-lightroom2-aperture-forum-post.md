@@ -2,6 +2,16 @@
 layout: post
 title: Aperture2 vs. Lightroom2 - Aperture Forum Post
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Adobe Lightroom
+- Aperture
+- Aperture 2
+- Aperture vs Lightroom
+- Apple
+- Lightroom 2
 ---
 <span class="jive-quote-header">Thought some readers here would find my sarcastic but true response to a name redacted poster in the Aperture forum's post regarding his switch to Lightroom. The really funny part was his response to this sadly Apple deleted it before I could grab it. Knew that would happen that is how you are able to enjoy this part. Original author in normal text - my caviler response in grey italic.</span>
 

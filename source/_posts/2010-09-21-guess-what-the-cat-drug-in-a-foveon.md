@@ -2,6 +2,12 @@
 layout: post
 title: Guess What The Cat Drug In - A Foveon
 comments: true
+categories:
+- General Photography
+tags:
+- Foveon
+- Sigma DP1s
+- small cameras
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P1000377-full.jpg %}Actually a <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002RARGOO%3Fie%3DUTF8%26ref_%3Dsr_1_1_olp%26qid%3D1284830338%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Foveon sensor with a DP1s camera wrapped around it</a>. I have been playing with these Stigma, no Enigma, no Sigma cameras with strange and wonderful cameras for years. I have never actually been nuts enough to buy them. I have played with them through other photographer friends that are the lunatic fringe types.
 

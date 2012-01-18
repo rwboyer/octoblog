@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 Nikon NEF Presets
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon
+- nx2
+- Presets
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/Ap3D2H.jpg"><img title="Ap3D2H.jpg" src="/wp-content/uploads/2010/03/.thumbs/.Ap3D2H.jpg" border="0" alt="Ap3D2H.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Believe it or not the most popular topic on this site has been NEF presets for the last two weeks. Who would have ever guessed? Hey maybe I will start charging for them and get rich. Actually most of them are quick and dirty versions for cameras that I do not own. I am still working on my own presets for cameras that I do own. Nikon cameras. Treat these as starting points that will probably need to be tweaked in order to match NX2 colors and picture control contrast curves.
 

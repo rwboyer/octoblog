@@ -2,6 +2,16 @@
 layout: post
 title: Nikon D7000 Presets For Aperture 3
 comments: true
+categories:
+- Apple Aperture
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon D7000
+- Presets
+- RAW
 ---
 Okay, okay - I changed my mind again. I took a new and different approach that will probably make nobody happy but here goes. Consider this a beta test with updates most likely to follow. For now I am not going to promote these presets anywhere but on this post. They are far far far from perfect as <a href="http://photo.rwboyer.com/2011/11/04/aperture-3-nikon-d7000-presets-the-saga-continues/">I explained here</a>. There are too many variables to make a one size fits all set of presets and to make them perfect they are too hard and complicated to use - hence why bother with a preset in the first place.
 

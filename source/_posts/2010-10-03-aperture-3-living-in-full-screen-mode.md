@@ -2,6 +2,21 @@
 layout: post
 title: Aperture 3 - Living In Full Screen Mode
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Featured
+tags:
+- adjustments
+- Aperture 3
+- Apple Aperture
+- browser
+- fullscreen
+- hud
+- inspector
+- search
+- work-flow
+- Workflow
 ---
 I have always loved Aperture's full screen mode. Clean, clear, uncluttered, easy to activate with the "F" key. What's not to like. One of the best things about the new features introduced in Aperture 3 has not gotten a lot of press and that is all the new full screen functionality. The best of which happens to be the new full screen mode browser functionality. In the past full screen mode was a single image or couple of image affair. Now you can just about live inside Aperture full screen mode. You can do just about anything as long as you don't need to access a menu item or fire up something that pops up a dialog. For me using shortcut keys, including some I added myself there is almost no need to ever leave the gorgeous luscious full screen interface with your photo library.
 

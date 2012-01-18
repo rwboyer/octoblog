@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 And The Freedom Of The JPEG
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- RAW+JPG
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020210-880.jpg"><img class="alignleft size-medium wp-image-2312" title="OLYMPUS DIGITAL CAMERA" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020210-880-300x136.jpg" alt="" width="300" height="136" /></a>I was having a conversation with a Photographer buddy of mine and fellow Aperture users a few days ago and something hit me. I spend a lot of time criticizing Aperture 's RAW processing specifically related to NEF files. To be blunt I haven't criticized other RAW formats because by and large they don't suffer the same fate as NEF's. So I guess what I don't discuss a lot is why the NEF processing doesn't cause me to jump ship back to NX2 or Lightroom.
 

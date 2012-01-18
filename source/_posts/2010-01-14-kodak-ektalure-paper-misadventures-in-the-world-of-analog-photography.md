@@ -2,6 +2,15 @@
 layout: post
 title: Kodak Ektalure Paper - Misadventures In Analog Photography 
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- kodak ektalure
+- lith developer
+- paper
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/Ektalure.jpg"><img title="Ektalure.jpg" src="/wp-content/uploads/2010/01/.thumbs/.Ektalure.jpg" border="0" alt="Ektalure.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>Not all things go as planned with shooting film and printing on "real" silver paper. That's okay though because sometimes they lead somewhere else. I wish I was the kind of person that was a "lemonade from lemons" kind of attitude - I am probably too much of a control freak for that but when it does happen I like to share it.
 

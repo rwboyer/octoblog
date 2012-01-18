@@ -2,6 +2,19 @@
 layout: post
 title: Great Portraits - Simple Lighting
 comments: true
+categories:
+- Articles
+- Lighting
+tags:
+- gradation
+- great portraits
+- Lighting
+- lighting technique
+- National Geograpic
+- natural light
+- Portrait Lighting
+- portraits
+- self portrait
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/kamil_portrait.jpg"><img title="kamil_portrait.jpg" src="/wp-content/uploads/2009/04/.thumbs/.kamil_portrait.jpg" border="0" alt="kamil_portrait.jpg" hspace="10" vspace="10" width="113" height="150" align="left" /></a>A while back I published a short article about a portrait lighting technique that I use a lot to one degree or another when making a portrait. To make a long story short the technique uses a corner as a background. The surface facing the light source will be light and happens to be on the shadow side of the subject. The opposite surface will be darker and on the highlight side of the subject. <!--more-->This creates contrast and depth in the portrait, setting the subject off nicely. As long as the subject is far enough away from the background it will be a nice gradation in the opposite direction the light is falling on the subject. Cool. Well a reader (Kamil) inspired by the article decided to make a self-portrait using this little tidbit and was generous enough to share it. You guessed it, the image posted at the beginning of the post.
 

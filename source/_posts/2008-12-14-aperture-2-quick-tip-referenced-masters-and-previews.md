@@ -2,6 +2,19 @@
 layout: post
 title: Aperture 2 Quick Tip - Referenced Masters and Previews
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Add new tag
+- Aperture
+- Aperture 2
+- Metadata
+- Organization
+- previews
+- referenced master
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/AQT___Previews.jpg"><img title="AQT___Previews.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT___Previews.jpg" border="0" alt="AQT___Previews.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>If you have been using Aperture for more than a little while, especially on a laptop you may be struggling with storage space issues. Referenced masters to the rescue - sort of. For the readers not familiar with referenced masters a brief review is in order. With Aperture there are two options for storing the image files that you import. Option one - the default - is called managed masters. Using managed masters Aperture copies your precious original image files into it's mysterious secret abyss never to be seen or heard from again (according to some people). In reality they just get copied as regular old files, into regular old folders, inside a special folder with a flag that doesn't let you so easily navigate into it - in other words your Aperture library. <!--more-->People using laptops or with huge libraries and smallish hard drives this can become a constraint sooner rather than later. Enter option two - referenced masters - using referenced masters Aperture allows you to store the files anywhere you want, on more than one hard drive, on externals, on DVD's (yuck!) wherever. You can choose the location of your master images as you import them or later down the road. In the Aperture import window you have three options to manage storage of your master images as you import them. In the Aperture library (managed masters), in the current location (referenced), or somewhere else (referenced but Aperture moves them to the location for you). The way that you deal with this down the road after importing is using File-&gt;relocate master... This function allows you to move managed masters out of the library to the location of your choice or to move referenced masters from one place to another. Aperture allows you to bring them back into the library as managed masters as will with File-&gt;Consolidate master... There is one other Aperture funciton that screws around with master image location, I'll cover this later as it deserves a it's own discussion, that function is - File-&gt;Manage referenced files. The common thread with all of these functions under the File menu is that you must select the images that you want to manipulate in the browser window before using the functions, I know that seems obvious but I see a lot of people get tripped up and confused with this one tiny little thing when trying to change over from 100% managed masters to referenced masters.
 

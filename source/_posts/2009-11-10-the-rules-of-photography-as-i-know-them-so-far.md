@@ -2,6 +2,10 @@
 layout: post
 title: The Rules of Photography - As I Know Them So Far
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 Yep, There are some rules that I have figured out. You may not like them but they are so far true as far as I can see. Here they are as plain as day.
 <ol>

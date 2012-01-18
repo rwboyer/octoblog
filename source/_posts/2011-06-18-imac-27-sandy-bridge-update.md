@@ -2,6 +2,12 @@
 layout: post
 title: iMac 27 Sandy Bridge Update
 comments: true
+categories:
+- Site News
+tags:
+- Aperture 3
+- Apple
+- iMac
 ---
 A few weeks have passed since the big iMac's unboxing. I believe that it's time for an update. I didn't want to post my <em>initial</em> impressions too soon as they may be flavored with a bit too much of the infamous new Apple RDF. Yes, even I am swayed by the smell of a new Apple product and it's new car smell perfection. Having logged full time hours on this new beast for a few weeks I can safely say that that my initial enthusiasm has not diminished.
 

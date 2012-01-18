@@ -2,6 +2,13 @@
 layout: post
 title: Nikon D300 and 200-400 Survives Bear Attack
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Nikon D300
+- Nikon FE
 ---
 And this is why I don't go to Canada.
 

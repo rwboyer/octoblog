@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - Nikon NEF Files
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Capture NX2
+- Collor
+- NEF
+- Nikon
+- RAW
 ---
 I have had about 9 dozen conversations with Nikon shooters over the past week regarding Aperture 3 and Nikon NEF RAW file rendering. Most of them are extremely frustrated with Apple and Aperture and "CoreImage" - I just wanted to go on record stating my feelings on this.
 

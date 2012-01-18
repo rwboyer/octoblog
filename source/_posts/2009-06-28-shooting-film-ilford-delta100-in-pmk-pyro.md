@@ -2,6 +2,19 @@
 layout: post
 title: Shooting Film - Ilford Delta100 In PMK Pyro
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm
+- Black and White
+- Delta100
+- film
+- film scan
+- Ilford
+- Leica
+- PMK
+- pyro
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2001_034_11.jpg"><img title="2001_034_11.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2001_034_11.jpg" border="0" alt="2001_034_11.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>I spent about a week calibrating Ilford Delta100 in a couple different developers. I have only ever shot it on 35mm on a few rare occasions. I ultimately decided to stay with Kodak TMAX 100 for both 35mm as well as medium format applications. The Delta 100 was a fantastic film and a worthy competitor to TMAX 100. My decision to stay with TMAX 100 over the Ilford film was purely subjective, I had no technical issues with TMAX 100 as so many others do and I happened to like way TMAX 100 spectral sensitivity rendered caucasian skin tones a little bit better when shooting it unfiltered. In PMK there is virtually no grain, for those of you shooting detailed subjects on 35mm it is fabulous. In medium format it would easily fool you into thinking it was on 4x5 large format blown up to 11x14.
 

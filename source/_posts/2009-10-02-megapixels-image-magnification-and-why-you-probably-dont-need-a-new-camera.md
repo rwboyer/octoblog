@@ -2,6 +2,16 @@
 layout: post
 title: Megapixels and Image Magnification
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- HP5 plus
+- medium format
+- megapixels
+- PMK
+- pyro
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/sc1.jpg"><img title="sc1.jpg" src="/wp-content/uploads/2009/10/.thumbs/.sc1.jpg" border="0" alt="sc1.jpg" hspace="10" vspace="10" width="146" height="150" align="left" /></a>This image is about 6" wide. It was shot on 120 medium format film. That's a magnification factor of 2.7 give or take. It's fantastically detailed and reasonably sharp. It looks even better on paper because on paper it will be 3 to 6 times the resolution that you can see on your monitor at 100 dpi or so. So how many megapixels is that? It really doesn't matter as long as you can get about 250 - 300 dpi on paper. Your magnification may be greater because you probably have a sensor that is DX or FX sized (Nikon speak for APS-C and Full frame 35mm) so your magnification would be like a factor of 6 shooting full frame 35mm.
 

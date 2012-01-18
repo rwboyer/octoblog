@@ -2,6 +2,18 @@
 layout: post
 title: Photographer's Secret Subjects - That Other Thing You Shoot
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- apug
+- Kodak
+- leica m6
+- pyro
+- Pyrocat HD
+- secret obsession
+- stairs
+- TRI-X
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2009_005_16.jpg"><img title="2009_005_16.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2009_005_16.jpg" border="0" alt="2009_005_16.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>I had a very interesting conversation on a discussion board over at APUG this week. I chucked up a couple of images that I shot while walking around. The shots were of stairs. Yep you heard that right - stairs. You see I for reasons unknown to me have some really strange compulsion to shoot stairs of all shapes and sizes. I have never made a "real" project out of it and am usually ill equipped to shoot them. Even without making it a concerted effort I have about 70 prints that I have made over the years of these images.
 

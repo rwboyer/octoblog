@@ -2,6 +2,13 @@
 layout: post
 title: Managing Aperture 2 on Multiple Computers
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 2
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/ghostships_book.jpg"><img title="ghostships_book.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.ghostships_book.jpg" border="0" alt="ghostships_book.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>In the effort to keep this overview an actual over view I will discuss two basic approaches. Of course there are endless variations, and permutations, and combinations of each of these so feel free to mix and match until you find the right way for your workflow. The first approach being based on the concept that each Aperture library is separate and distinct. One on the â€œmainâ€ computer back at home base, the other being a portable library on your laptop computer. The second approach is based on the concept of a replicated library that is pretty much the same library on both machines.<!--more-->
 

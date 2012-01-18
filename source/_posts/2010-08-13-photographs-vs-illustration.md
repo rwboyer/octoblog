@@ -2,6 +2,14 @@
 layout: post
 title: Photographs vs. Illustration
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- bad taste
+- photojournalism
+- photoshop
+- post-production
 ---
 As many of you probably know I have "seen the light" and much prefer strait from camera photographs. It is probably in my nature and my aesthetic that I feel that way but I needed a long stint as a commercial shooter to really jar me into the disdain that I have for most images that deluge us every day. For commercial purposes only - I say have at it, you must produce what your paying clients want to pay for but that is where it ends for me. I have no ill will for photographers that need to make a living with "illustrations". That is what I consider most images today that claim to be photographs.
 

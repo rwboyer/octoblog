@@ -2,6 +2,15 @@
 layout: post
 title: I Am An Image Pack-Rat - Why I Almost Never Get Rid of Images
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak
+- Plus-X
+- PMK
+- pyro
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2001_042_05.jpg"><img title="2001_042_05.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2001_042_05.jpg" border="0" alt="2001_042_05.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>When I was shooting film for everything I almost never got rid of any negatives. A combination of both irrational reasons as well as rational reasons combined to make me keep everything I shot. From a rational point of view if I was shooting roll film It was more trouble to cut individual negatives out of the strip rather than just filing the whole thing. For sheet film if there were technical faults or aesthetic faults I would make notes on what went wrong for educational purposes - mine mostly.
 

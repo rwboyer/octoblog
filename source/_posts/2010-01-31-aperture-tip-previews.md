@@ -2,6 +2,20 @@
 layout: post
 title: Aperture Tip - Previews
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- albums
+- Aperture
+- Apple
+- Blurb
+- booksmart
+- media browser
+- previews
+- smart albums
+- work-flow
+- Workflow
 ---
 I am extremely selective in the previews that I have Aperture generate. For the most part it consists of my top rated images and maybe some other stuff that I use regularly. If you have read some of my work-flow posts or file management eBooks you should know how to control Aperture previews in a lot of different ways. I thought I would share something that I found obvious but surprised a friend of mine the other day when he saw me doing it.
 

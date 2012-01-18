@@ -2,6 +2,10 @@
 layout: post
 title: The Joy Of Photography - Limiting Your Options
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/04/2001_042_10.jpg"><img title="2001_042_10.jpg" src="/wp-content/uploads/2010/04/.thumbs/.2001_042_10.jpg" border="0" alt="2001_042_10.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Take it from somebody that has been shooting images for 40 years. I have had my prolific years and my lean years. I am saying that in an overall photographic sense - not just a commercial sense. I have taken breaks that have lasted from 6 months to 3 years. When I say break I mean a total break, no camera, no images - none. I have self assessed as most of us do in all endeavors. I have searched my soul to figure out why I make pictures. I have gone from one end of the photographic universe to the other and back again in terms of formats, medium, and far more importantly, subject matter. Here are a couple of really simple things that I have found to be true - for everyone - at least to a degree.
 

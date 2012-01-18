@@ -2,6 +2,14 @@
 layout: post
 title: Olympus E-P1 Video
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- HD
+- Olympus E-P1
+- Video
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9050341.jpg"><img class="alignleft size-medium wp-image-2353" title="P9050341" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9050341-300x239.jpg" alt="" width="300" height="239" /></a>I know you people are sick of my E-P1 crap by now but someone did ask me about video via email. I really am not prepared to answer that question. I bought this thing for stills, I honestly don't know when I will use the video recording. My hard drives fill up with crap quickly enough. I did take a grand total of one handheld video and I was impressed with the "quality". I will try to get up the energy to actually make a serious effort on the HD video for this little guy soon.
 

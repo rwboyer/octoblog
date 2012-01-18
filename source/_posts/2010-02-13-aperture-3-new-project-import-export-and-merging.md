@@ -2,6 +2,21 @@
 layout: post
 title: Aperture 3 - New Project Import Export And Merging
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- export
+- file management
+- Import
+- library
+- merge
+- project
+- sync
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3Merge.jpg"><img title="Ap3Merge.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3Merge.jpg" border="0" alt="Ap3Merge.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>I am going to assume people that need this can find the menu items themselves so I am not going to repeat the documentation. I am also not going to walk through every combination of possible work-flow and connect all the dots that can be connected. I will leave that for the Aperture 3 File Management eBook update. Instead I am going to give a couple observations that maybe helpful after beating Aperture 3 over the head with some of my work-flows.
 

@@ -2,6 +2,10 @@
 layout: post
 title: Notes and Some Other Odds and Ends
 comments: true
+categories:
+- Articles
+- Site News
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/DSC_4398.jpg"><img title="DSC_4398.jpg" src="/wp-content/uploads/2009/01/.thumbs/.DSC_4398.jpg" border="0" alt="DSC_4398.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>The economy is terrible. So we hear, all day, everyday. my family and friends have been impacted in some minor and some significant ways. Not to be a downer but I did want to mention some sorry news that I happened to read over the weekend while catching up on my slash dot reading (yes I am that much of a geek in some ways). I may be way behind here but I just wanted readers to know that a bunch of people over at O'Reilly Publishing in the Digital Media Group got their walking papers last week. I don't know all of their involvement in the "Inside Aperture" site but I know that some of them have been involved since that site's inception. I hope that all of them are okay and wanted them to know that the rest of us in the Aperture community wish them the best and to let them know that they are appreciated.<!--more-->
 

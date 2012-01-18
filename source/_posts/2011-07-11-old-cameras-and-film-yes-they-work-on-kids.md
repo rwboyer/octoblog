@@ -2,6 +2,14 @@
 layout: post
 title: Old Cameras And Film - Yes They Work On Kids
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 50mm
+- film
+- kids
+- Nikon FE
 ---
 I had a conversation with my oldest daughter on Saturday (she's expecting) about taking pictures of the new addition. I am going to supply her with film as well as take care of the processing, scanning, and printing. Se already has all the equipment she needs - An old manual focus Nikon and a couple of large aperture prime lenses. She was concerned about focusing and not having AF...
 

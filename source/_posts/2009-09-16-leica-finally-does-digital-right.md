@@ -2,6 +2,18 @@
 layout: post
 title: Leica Finally Does Digital Right
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Kodak
+- Leica
+- leica m6
+- M9
+- portrait
+- rangefinder
+- small cameras
+- TRI-X
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2000_064_07.jpg"><img title="2000_064_07.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2000_064_07.jpg" border="0" alt="2000_064_07.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>Remember my ill fated new camera scheme back at the beginning of the summer? If you don't here it is in a nutshell. Sell my relatively new stuff while the resale value is still high and buy a D700 and a D3x. Well I sold my stuff and in the short time that I was without it I realized my old stuff, my really old stuff like my D2 series stuff was just fine. There was no way I was now going to drop $10,000, even if most of it was subsidized by my recent sale of newer bodies.
 

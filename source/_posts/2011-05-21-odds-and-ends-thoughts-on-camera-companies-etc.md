@@ -2,6 +2,16 @@
 layout: post
 title: Odds And Ends - Thoughts On Camera Companies, etc.
 comments: true
+categories:
+- General Photography
+tags:
+- film
+- Hasselblad
+- medium format
+- Micro 4:3
+- Nikon
+- Panasonic 20mm
+- Panasonic GF-1
 ---
 Man when I go on a buying spree I do it right. You know about the iMac 27" right? Well seems I can not just stop clicking that "buy now button"... So I bought a <a href="http://www.amazon.com/gp/product/B0042X9LC4/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=B0042X9LC4">Nikon D7000</a>. I have no idea why I did this, really I don't. It's not my usual top notch rationalization skills. It was purely a reflex of clicking on stuff that might be interesting. I guess it is curiosity. There are so many people saying how wonderful this thing is I guess I had to get one and compare it to say a D3, D700, and D300s.
 

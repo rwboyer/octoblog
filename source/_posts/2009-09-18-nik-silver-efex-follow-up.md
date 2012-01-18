@@ -2,6 +2,17 @@
 layout: post
 title: Nik Silver EFEX Follow-up
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Aperture
+- Black and White
+- contrast ratio
+- fantastic light
+- Nik
+- prints
+- sliver efex
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/DSC_0282_v2.jpg"><img title="DSC_0282_v2.jpg" src="/wp-content/uploads/2009/09/.thumbs/.DSC_0282_v2.jpg" border="0" alt="DSC_0282_v2.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have had a lot of interest in the mini-review that I posted on Nik Silver EFEX Pro 3.0 that I posted a while back. The vast majority of readers have asked if I have ever used it to produce work for public consumption vs. crappy test images posted in the review. More so readers wanted some practical advise on getting decent prints on paper.
 

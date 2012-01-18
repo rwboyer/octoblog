@@ -2,6 +2,15 @@
 layout: post
 title: Aperture And Nikon NEF
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Leica M9. color
+- NEF
+- Nikon
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_9596-Land-Version-2.jpg"><img class="alignleft size-medium wp-image-2263" title="DSC_9596 Land - Version 2" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_9596-Land-Version-2-300x136.jpg" alt="" width="300" height="136" /></a>I know I drone on and on about this but I thought a few of you Aperture/Nikon shooters out there and maybe even some Leica M9 shooters may find it interesting there seems to be a strange connection in the way that Aperture renders NEF color and the way the Leica M9 renders color in it's JPG's. Well not really a connection but an interesting similarity of "issues". This is going to take some leaps of faith on your part to follow along. This is a code word for (warning long diatribe)
 

@@ -2,6 +2,13 @@
 layout: post
 title: Leica M9 Lessons
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- ansel adams
+- Leica M9
+- rangefinder
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2001_033_05.jpg"><img title="2001_033_05.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2001_033_05.jpg" border="0" alt="2001_033_05.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>Remember the couple of semi-sarcastic posts I made a while ago? If you don't they were meant in jest to educate and amuse. I was shocked that people were finding their way to this site with google keywords "Ansel Adams Lightroom presets" - sort of the epitome of missing the whole point of Ansel Adam's entire philosophy of making a photograph. Anyway here is the deal, guess how many visits the site has from people that are searching for "Leica M9 autofocus lens". Don't bother - let's just say a lot. Instead of being sarcastic I thought it may be better to share a couple of rangefinder lessons that I learned along the way and set up a couple of expectations for the uninitiated.
 

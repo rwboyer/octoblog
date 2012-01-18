@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Tip Search By Album Name
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- search
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3searchalbum.jpg"><img title="Ap3searchalbum.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3searchalbum.jpg" border="0" alt="Ap3searchalbum.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>While taking in all of the new Aperture 3 juicy goodness - and there is a lot of it - there are a few things that some of you might be scratching your heads about. Not in confusion of how it works - that is easy - but more like "why bother".
 

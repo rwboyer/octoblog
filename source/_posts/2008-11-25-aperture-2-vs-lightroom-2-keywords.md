@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 2 vs. Lightroom 2 - Keywords
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Adobe Lightroom
+- Aperture
+- Aperture 2
+- Apple
+- hierarchy
+- keyword
+- Keyword Synonym
+- Metadata
 ---
 <a href="/wp-content/uploads/2008/A2vLR2_Keywords.jpg"><img title="A2vLR2_Keywords.jpg" src="/wp-content/uploads/2008/.thumbs/.A2vLR2_Keywords.jpg" border="0" alt="A2vLR2_Keywords.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>After much clamoring from loyal readers here is another installment of Aperture v. Lightroom round 9.7. I will try to tackle key-wording (is that a word now?) as quickly and painlessly as possible. First off some quick bottom line kinds of things and then some details. Both applications are so far and away better than older tools that we won't even bother to compare them. If you are using either of these and not tagging your images with keywords you should be ashamed of yourself or something. Aperture introduced some ground breaking features with it's release way back before Lightroom was around. <!--more-->The problem with Aperture is a "what have you done for me lately" kind of problem. Aperture hasn't really added, fixed, or refined a whole lot in the keyword department since version 1. Lightroom on the other hand has taken all the really cool things that Aperture had and added a bunch of really useful goodies of it's own. So the bottom line here is that Lightroom wins this one hand's down at the moment. I know you were not expecting that to come from me if you have been reading along with this series, maybe I am just so enraged because after 354,891 requests by myself and other photographers Apple can't seem to give us one little tiny freaking check-forking-box to include the entire keyword hierarchy when exporting image versions. Enough of that, here are some more details for those that may not use these every day.
 

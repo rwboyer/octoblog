@@ -2,6 +2,12 @@
 layout: post
 title: Things That Still Suck About Digital
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak Portra 160VC
 ---
 In response to an email I am writing a fairly objective post regarding things that still suck about digital capture here today in 2011. First of all let me say that a lot of my love affair with film is completely biased, emotional, and somewhat irrational. I know that - so what.
 <ol>

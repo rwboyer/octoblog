@@ -2,6 +2,13 @@
 layout: post
 title: Aperture 3 - Endless "Processing" Observations
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- library conversion
 ---
 Most of you may be through the Aperture 2 to Aperture 3 conversion but for anybody still waiting or still facing difficulties here are a couple observations and some hypothesis regarding one of the big bugaboos - Endless Processing after conversion that hangs up other things you want to do behind it.
 

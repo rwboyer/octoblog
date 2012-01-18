@@ -2,6 +2,22 @@
 layout: post
 title: Apple Aperture 2.1 Organization
 comments: true
+categories:
+- Aperture PDF Guides
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Album
+- Aperture Blue Folder
+- Apple
+- folders
+- Organization
+- PDF Articles
+- project boxes
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/screen_capture.jpg"><img title="screen_capture.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.screen_capture.jpg" border="0" alt="screen_capture.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Update - This post was the original post from a discussion I had in the Apple support forum a long long time ago. I did put a free PDF together that was downloaded about 10,000 times. I had so many suggestions and questions that I decided to make a much larger more comprehensive version. It covers far far more and provides a ton of useful work-flow tips and examples on how to be extremely efficient. Even if you have been using Aperture for years you will probably find a lot of things in the new Organization eBook that you might not have even thought about. Sadly the new version is not free but I can tell you that I surveyed everything else out there and you will not find a better or more advanced discussion of Aperture's organizational capabilities. Here is the link to the new illustrated more comprehensive Guide to Aperture 2 Organization eBook PDF:
 

@@ -2,6 +2,13 @@
 layout: post
 title: What Lens Should I Get???
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- lenses
+- Nikon F3
+- prime lenses
 ---
 Of course this is in the context of the Nikon F3 giveaway. I got a couple of question regarding lenses I like to use on Nikon manual focus cameras. What the heck, I'll answer that with a post. Please understand that this is more for non-Nikon, non-film people more than it is for Nikon aficionados. It's not an objective list, it's more of a personal gut feel list with a couple of variations chucked in.
 

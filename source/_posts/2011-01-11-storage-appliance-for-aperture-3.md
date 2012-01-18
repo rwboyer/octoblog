@@ -2,6 +2,14 @@
 layout: post
 title: Storage Appliance For Aperture 3
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- file management
+- storage
 ---
 It's alivvvveeeee. Hey guys and gals. Hope you had a great bunch-0-holidays. Didn't want you to think I fell of the earth or anything. I have been running myself ragged. Let's see now what have the last few weeks entailed...
 <ol>

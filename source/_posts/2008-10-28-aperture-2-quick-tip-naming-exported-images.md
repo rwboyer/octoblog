@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 Quick Tip - Naming Exported Images
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- file naming conventions
+- image versions
+- images sequences
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/Aperture_QT_Naming.jpg"><img title="Aperture_QT_Naming.jpg" src="/wp-content/uploads/2008/.thumbs/.Aperture_QT_Naming.jpg" border="0" alt="Aperture_QT_Naming.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>This one is a really quick tip. File this one under the "No Crap, Who Doesn't Know that.." file if you already know this but I was surprised that I got a few emails asking what I was talking about when I mentioned creating custom file naming conventions and how that can be used to save time when using custom images sequences that I discussed in the last Aperture Quick Tip. So here it is... When exporting image versions from Aperture if you take a look at the dialog that pops up you will see a drop down menu tiled "Name Format" as one of the dialog options. <!--more-->There are a couple of predefined things to choose from. If you have never tried it try the last option "Edit..". As with the format drop down, the "Edit..." option allows you to modify existing or create new presets, these are just for the naming conventions. This is pretty cool because if you need a bunch of different formats and sizes and just one naming scheme you can use that custom naming scheme for as many different formats and sizes as you want.
 

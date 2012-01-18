@@ -2,6 +2,16 @@
 layout: post
 title: Shooting Film - Kodak Plus-X and Reader Curiosity
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- Kodak
+- Plus-X
+- PMK
+- pyro
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2002_010_01.jpg"><img title="2002_010_01.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2002_010_01.jpg" border="0" alt="2002_010_01.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Way way way back I wrote a blurb that had a digital photograph of a medium format negative on a light table. You may remember it, I think it was called Photographers and Their tools or something like that. Anyway, after posting that I decided to ask a question over at APUG.com about not that specific negative but why Kodak Plus-X pan had a blue base.
 

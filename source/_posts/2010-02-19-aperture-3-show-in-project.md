@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - Show In Project
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Booktool.jpg"><img title="Booktool.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Booktool.jpg" border="0" alt="Booktool.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>It's a little thing but a big time saver for me. If you haven't used it yet you should definitely check out the new "Show In Project" function that Aperture 3 has added. It shows up in the right click context menu and the File menu when you are looking at an image anywhere but in the project where it lives.
 

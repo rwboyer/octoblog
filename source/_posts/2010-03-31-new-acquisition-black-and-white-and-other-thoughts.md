@@ -2,6 +2,16 @@
 layout: post
 title: New Acquisition - Black And White And Other Thoughts
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm
+- Black and White
+- film
+- HC110
+- Kodak TRI-X
+- Nikon FM2
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/2010_003_36.jpg"><img title="2010_003_36.jpg" src="/wp-content/uploads/2010/03/.thumbs/.2010_003_36.jpg" border="0" alt="2010_003_36.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Well that Nikon FM2 that came the other day works great. The meter agrees 100% with my D3 center-weighted meter at the same ISO. I also shot it against a known good quantity (my electronically controlled Nikon F100) with the same film and same development and guess what - the rolls are identical from an exposure stand point. It is a keeper.
 

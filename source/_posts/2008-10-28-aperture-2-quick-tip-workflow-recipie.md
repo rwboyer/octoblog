@@ -2,6 +2,20 @@
 layout: post
 title: Aperture 2 Quick Tip - Workflow Recipie
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- folders
+- Metadata
+- Organization
+- shortcut keys
+- stacks
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/ApertureQT_Work_Flow.jpg"><img title="ApertureQT_Work_Flow.jpg" src="/wp-content/uploads/2008/.thumbs/.ApertureQT_Work_Flow.jpg" border="0" alt="ApertureQT_Work_Flow.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>A quick description of my personal work-flow using Apple Aperture 2. One of the great things about Aperture is it's flexibility, also a liability when learning how to use it effectively and efficiently. Aperture's do anything, anywhere, anytime philosophy can also allow you to make a big mess real quick. Here is the front end of my work-flow for every single thing I shoot. The back end is a whole lot different.
 <!--more-->

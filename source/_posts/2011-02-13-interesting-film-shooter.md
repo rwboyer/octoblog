@@ -2,6 +2,13 @@
 layout: post
 title: Interesting Film Shooter
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- Leica M
 ---
 That publishes on Blurb.com - sounds like a great combo.
 

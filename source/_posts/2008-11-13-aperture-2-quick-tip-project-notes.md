@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 Quick Tip - Project Notes
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Blue Folder
+- Aperture Book Tool
+- folders
+- Organization
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/Aperture_QT___Project_Notes.jpg"><img style="border: 0pt none; margin: 10px;" title="Aperture_QT___Project_Notes.jpg" src="/wp-content/uploads/2008/.thumbs/.Aperture_QT___Project_Notes.jpg" border="0" alt="Aperture_QT___Project_Notes.jpg" width="150" height="94" align="left" /></a>A few weeks ago a question from a new Aperture users came up on the Apple Aperture Support forums. The question - "Is there any way to keep notes for a project as a whole" - sort of like meta data for the whole project. My instant reaction was no but another user posted an idea to use a web journal as a way to keep notes about the project. This is a great idea and I refined it a little bit and posted another response - How about using an aperture book as project notes. This is one of the things I really like about Aperture. No matter how much you use it there is always another way to use it that you may not have thought of. On that note I thought I would share a the book as project notes tip with you.<!--more-->
 

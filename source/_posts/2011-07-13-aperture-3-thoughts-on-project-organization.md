@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Thoughts On Project Organization
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Organization
+- work-flow
+- Workflow
 ---
 A lot of my one on one help sessions are for photographers that are migrating their library to Aperture for the first time. They are typically migrating either from iPhoto or from a self organized library of file system folders. The thing that they all have in common is the primary organization has been by date. Something along the lines of folder for year, folder for month, folder for date, etc. This makes sense in a lot of ways. In fact it most likely mirrors what they did in the old days of physical filing of negatives.
 

@@ -2,6 +2,15 @@
 layout: post
 title: Jeanloup Sieff - Follow-up #2
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- fashion
+- inspiration
+- Jeanloup Sieff
+- portrait
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/JeanLoupSieff_HarpersBazaar1964_contact.jpg"><img title="JeanLoupSieff_HarpersBazaar1964_contact.jpg" src="/wp-content/uploads/2010/01/.thumbs/.JeanLoupSieff_HarpersBazaar1964_contact.jpg" border="0" alt="JeanLoupSieff_HarpersBazaar1964_contact.jpg" hspace="10" vspace="10" width="114" height="150" align="left" /></a>Yes I am obsessing on Sieff - got a couple of more emails either thanking me for turning people onto him that have never seen his work or thanking me for reminding them of this fantastic photographer. I also got a couple requests to recommend the "best" book of Sieff's work. Well I have a few and have no idea if there are newer better books than my favorite. My favorite book that I happen to own on Sieff is titled "Jeanloup Sieff 40 Years of Photography". This book is fantastic, it is printed well, has a diverse selection of his work on the various genres and formats he used. It also has a great biography that is interesting and engaging. As soon as I read this book I instantly got where this guy was coming from and found that I shared similar aesthetic sensibilities as well as similar attitudes towards things in life (not always positive).
 

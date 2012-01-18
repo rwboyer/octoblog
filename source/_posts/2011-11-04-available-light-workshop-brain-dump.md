@@ -2,6 +2,15 @@
 layout: post
 title: Available Light Workshop - Brain Dump
 comments: true
+categories:
+- Articles
+- General Photography
+- Site News
+tags:
+- available light
+- Lighting
+- window light
+- workshop
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2011/11/1999-021-08small.jpg %}
 

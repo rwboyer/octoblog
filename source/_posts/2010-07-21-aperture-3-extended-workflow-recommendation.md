@@ -2,6 +2,24 @@
 layout: post
 title: Aperture 3 - Extended Workflow Recommendation
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Adobe
+- Aperture
+- Aperture 3
+- Apple
+- Color EFX Pro
+- CS4
+- CS5
+- DFine
+- Nik Software
+- photoshop
+- Sharpener Pro
+- Silver EFX Pro
+- Viveza
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/DSC_7945.jpg"><img title="DSC_7945.jpg" src="/wp-content/uploads/2010/07/.thumbs/.DSC_7945.jpg" border="0" alt="DSC_7945.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>As most of you already know but some may not, I am an avid Nikon shooter, black and white photographer, ex-commercial/fashion photographer, and film shooter. So what does this have to do with Aperture 3 and digital photography? Believe it or not a whole lot but you need to know how I arrived where I am and also get some context about what I am about to recommend.
 

@@ -2,6 +2,10 @@
 layout: post
 title: Aperture 3 - Yet Another Rumor
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
 ---
 All sorts of excited activity over on a Dutch website regarding a couple of different book sellers in the EU allegedly offering a book for sale with Aperture 3 as the title. I know that this is the same kind of thing that happened with the Amazon book Aperture X a few months ago but get this - multiple sites have the same book by the same author all stating the availability date is mid February.
 

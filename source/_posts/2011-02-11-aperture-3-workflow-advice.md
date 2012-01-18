@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 Workflow Advice
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- albums
+- Aperture 3
+- Apple Aperture
+- image stack
+- stacks
+- work-flow
+- Workflow
 ---
 Part of the Aperture 3 SuperSimpleStuff™ series.
 Every once in a while I look at my site statistics and usually scratch my head in wonder regarding posts that get traffic all of a sudden that I haven't seen in a year or more. I usually read them to see how off I was, how my thinking has changed, how many typos there are, etc. One consistent fact is that I am not a good proof-reader. Occasionally I find something that I forgot about entirely that still has some degree of relevance. If it makes sense I even bring it up again like now.

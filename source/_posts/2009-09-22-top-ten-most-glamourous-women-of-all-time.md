@@ -2,6 +2,10 @@
 layout: post
 title: Top Ten Most Glamourous Women of All Time
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/Sophia_Loren.jpg"><img title="Sophia_Loren.jpg" src="/wp-content/uploads/2009/09/.thumbs/.Sophia_Loren.jpg" border="0" alt="Sophia_Loren.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Okay - so what is a post like this doing on a photography site. Answer = nothing, except it is an amusing conversation that I had with a few participants and a couple of models during an after hours review of work during one of the workshops I hosted. Of course there was absolutely no agreement or consensus for this particular list as a whole. How could there be, so much is based on individual taste, recollections, the minds eye of assembled images, voices, and portrayal, etc, etc. This was my list, heavily flavored by women I was exposed to during my formative years, or at least my impressions of them. Maybe the word glamourous is not even the right word - but I guess it is the only one word that means way more than "pretty" and wraps up a whole lot more. I think the french have a specific expression that does not translate well - I forget what it is.
 

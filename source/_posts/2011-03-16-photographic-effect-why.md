@@ -2,6 +2,12 @@
 layout: post
 title: Photographic Effect - Why
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- photoshop
+- post processing
 ---
 This morning our buddy <a href="http://www.mconnorsphotos.com/blog/after-the-picture/">Matthew Connors posted some thoughts on post processing</a>. I wanted to cross post my response here as sort of a book mark for some future thoughts and discussion down the road when I have a bit time to gather my words on this subject. Please take this as food for thought not an absolute as it is in no way meant to be. Take this in the context of a contrast between photojournalism, documentary, and personal images made by ANYONE using film just a short time ago vs today.
 

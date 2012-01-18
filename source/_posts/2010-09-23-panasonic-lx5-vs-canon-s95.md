@@ -2,6 +2,11 @@
 layout: post
 title: Panasonic LX5 vs Canon S95
 comments: true
+categories:
+- General Photography
+tags:
+- Canon S95
+- Panasonic LX5
 ---
 About 3000 people have shot me an email asking me "why did you decide on the LX5 vs the S95". To tell the truth, it was a tough call. Both of these cameras are really nice and both the S95 and LX5 will do pretty much the same job. I cannot definitively say which one is better. I can say the factors that shoved me towards the LX5, so here goes. I am not reading off of spec sheets here, I rarely do that. If you want, do it yourself.
 <ul>

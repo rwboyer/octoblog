@@ -2,6 +2,11 @@
 layout: post
 title: Random Thoughts On Video
 comments: true
+categories:
+- General Photography
+tags:
+- Panasonic LX5
+- Video
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2011/06/P1000219.jpg %}
 

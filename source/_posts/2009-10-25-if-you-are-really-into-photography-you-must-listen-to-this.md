@@ -2,6 +2,14 @@
 layout: post
 title: If You Are Really Into Photography You Must Listen To This
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- History
+- John Reuter
+- Polaroid
+- Polaroid Type 55
 ---
 A couple of times I have lamented the passing of Polaroid Corp. Sure I really miss the materials that I shot, especially Polaroid Type 55 P/N in large format. I even miss the color materials that I of course tried but never really used in any quantities or as an artistic medium. The one thing that never came through in those passing mentions of how sad I was that some of the materials itself are gone was how sad I was that the Polaroid company itself was gone.
 

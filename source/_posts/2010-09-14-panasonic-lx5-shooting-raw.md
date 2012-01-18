@@ -2,6 +2,12 @@
 layout: post
 title: Panasonic LX5 - Shooting RAW
 comments: true
+categories:
+- General Photography
+tags:
+- Panasonic LX5
+- RAW
+- RAW+JPEG
 ---
 You can tell I am enamored with this little camera. Too bad I didn't get to shoot it all that much today. I did shoot my StupidCrap™ test targets though. If I was being careful I probably would have manually exposed this one or at least exposure compensated it a bit. My guesstimate was that it is a stop off.
 

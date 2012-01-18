@@ -2,6 +2,13 @@
 layout: post
 title: Summer Update
 comments: true
+categories:
+- Site News
+tags:
+- book printing
+- eBook
+- film
+- printing
 ---
 I know the updates have been a little sparse lately. You do know it's summertime right? I do get a little distracted during the summer months. Not that I am not a little busy as well. I have been up to all kind of photo related endeavor. Here is a brief rundown:
 <ul>

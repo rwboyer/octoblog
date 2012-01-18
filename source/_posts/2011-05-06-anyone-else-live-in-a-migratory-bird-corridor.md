@@ -2,6 +2,13 @@
 layout: post
 title: Anyone Else Live In A Migratory Bird Corridor?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Adobe
+- Panasonic LX5
+- photoshop
 ---
 If you do you probably know what the picture in this post is. If not you might have a hard time figuring it out without the suggestive title. It is a shot of the swarms of migrating birds that seem to be about a mile long and a half mile wide that are so thick with birds it is hard to even estimate how many there might be. Ten thousand? I don't know. In any case this image doesn't at all do justice to what it looks like. When you first see it during spring and fall seasons it is so surreal that you have to ask yourself if it's real.
 

@@ -2,6 +2,14 @@
 layout: post
 title: Olympus E-P1 Image Stabilization
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- image stabilization
+- M43
+- Micro 4:3
+- Olympus E-P1
 ---
 Wanted to share some quick results of my not so scientific testing of the built-in <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002CGSYKS%3Fie%3DUTF8%26ref_%3Ddp_olp_new%26qid%3D1286031290%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">image stabilization of the E-P1</a>. Some of the results I was seeing with it left on at higher shutter speeds made me curious to see if it was adversely impacting image quality. To tell you the truth - I still don't have a definitive answer on that but I will get there. In all likelihood it is pilot error and not the actual image stabilization.
 

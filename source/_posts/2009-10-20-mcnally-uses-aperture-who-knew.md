@@ -2,6 +2,20 @@
 layout: post
 title: McNally Uses Aperture - Who Knew?
 comments: true
+categories:
+- Aperture vs Lightroom
+- Articles
+tags:
+- Adobe
+- Adobe Lightroom
+- Aperture
+- Apple
+- Capture NX2
+- McNally
+- NEF
+- Nik
+- Nikon
+- RAW
 ---
 Maybe this is not news you all of you but McNally's assistant just posted something about his workflow. Seems like he uses Aperture for all the organization amongst other things. Guess what the hitch is - he is a Nikon shooter and he does all of his RAW processing in Capture NX2. Given the pain in the ass factor this has to be a giant endorsement for some of Aperture's wonderfulness vs. Lightroom and at the same time a giant indictment about Aperture's RAW processing on NEF files.
 

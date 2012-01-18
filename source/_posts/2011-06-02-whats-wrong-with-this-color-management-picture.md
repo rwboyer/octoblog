@@ -2,6 +2,13 @@
 layout: post
 title: What's Wrong With This Color Management Picture? 
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Apple
+- color management
+- iMac
 ---
 Okay so I could just use words to express what is going on here but I will let this speak for itself.
 

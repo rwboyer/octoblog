@@ -2,6 +2,10 @@
 layout: post
 title: HDR Versus Plain Old RAW
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 <a href="/wp-content/uploads/FromIweb/DSC_9631_30_29_28_27_tonemapped.jpg" rel="lightbox"  ><img src="/wp-content/uploads/FromIweb/.thumbs/.DSC_9631_30_29_28_27_tonemapped.jpg" alt="DSC_9631_30_29_28_27_tonemapped.jpg" title="DSC_9631_30_29_28_27_tonemapped.jpg" align="left" width="150" height="100" hspace="10" vspace="10" border="0" /></a>Keep in mind this was a quick and dirty test with some quick and dirty results but just playing around with it has given me reason to explore HDR a bit more than I have done to date. The first image was about 2 stops under what the good old matrix metering in the Nikon suggested. The 2 stop under image held the highlights and color that is the sun way better than the â€œnormalâ€ exposure did. So that was my starting RAW file for the 30 seconds worth of adjustments that I did using Appleâ€™s Aperture highlight and shadow adjustments. My goal was not aesthetic but more to try to match the results of the HDR image at the top of the page. If you donâ€™t know aperture, the highlight and shadow adjustment in that software is an almost magically easy way to do exactly what the name of the tool suggests. There are equivalent ways of doing the same thing in Photoshop and Lightroom. So here is what about 30 seconds of messing with the highlight and shadow sliders can do in terms of matching an HDR. Not bad except for the halos both dark and light and the noise.
 <!--more-->

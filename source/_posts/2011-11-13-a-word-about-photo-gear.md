@@ -2,6 +2,13 @@
 layout: post
 title: A Word About Photo Gear
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Gear
+- Lighting
+- reflectors
 ---
 Look at the state of that...
 

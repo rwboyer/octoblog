@@ -2,6 +2,21 @@
 layout: post
 title: Alternatives To The Mainstream
 comments: true
+categories:
+- Adobe Lightroom
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- ACDSee
+- Adobe Lightroom
+- Aperture
+- Aperture 2
+- Apple
+- Lightroom 2
+- Photo Mechanic
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/Ex1.jpg"><img title="Ex1.jpg" src="/wp-content/uploads/2009/04/.thumbs/.Ex1.jpg" border="0" alt="Ex1.jpg" hspace="10" vspace="10" width="175" height="150" align="left" /></a>
 

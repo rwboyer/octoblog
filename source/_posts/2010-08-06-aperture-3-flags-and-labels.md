@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Flags and Labels
 comments: true
+categories:
+- Apple Aperture
+tags:
+- Aperture 3
+- Apple Aperture
+- color labels
+- flags
+- IPTC
+- Metadata
 ---
 One of the features introduced with Aperture 3 that I pretty much ignored was flags and labels. I ignored them because I've been there and done that with a pile of other software since the beginning of time. Not that there is anything inherently bad or wrong with these two devices, it's just that I developed better ways of doing things since I started using Aperture - way way back in ancient times. By and large I "flag" and "label" things in my work-flow by grouping them together in albums that represent anything I want them to represent depending on the project - and I name the album appropriately.
 

@@ -2,6 +2,16 @@
 layout: post
 title: Aperture Quick Tip - Stack Mode
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Project
+- stacks
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/Aperture_QT_stack_mode.jpg"><img title="Aperture_QT_stack_mode.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.Aperture_QT_stack_mode.jpg" border="0" alt="Aperture_QT_stack_mode.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>As I have mentioned in a couple of my PDF's on Aperture, I make extensive use of stacks. Not just for Album picks or multiple takes on the same image as discussed in my previous quick tip but to help get to my â€œselectsâ€ when I have shot many variations of  the same subject. Here is how Apertures stack mode helps me do that.
 <!--more-->

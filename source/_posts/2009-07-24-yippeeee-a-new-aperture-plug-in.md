@@ -2,6 +2,16 @@
 layout: post
 title: Yippeeee - A New Aperture Plug-In
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture
+- Apple
+- Apple Aperture
+- free crap
+- Plug-in
+- twitter
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_0173.jpg"><img title="DSC_0173.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_0173.jpg" border="0" alt="DSC_0173.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Okay, this one is definitely not for everyone but if you any of you actually have found a practical use for Twitter for your business or personal life then this one may be just what you are looking for. I actually tried it out and it works great.
 

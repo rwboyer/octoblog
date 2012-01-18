@@ -2,6 +2,15 @@
 layout: post
 title: Misadventures In Photography
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 4x5
+- Black and White
+- film
+- large format
+- Wollensak
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/04/2010_0002_700.jpg"><img title="2010_0002_700.jpg" src="/wp-content/uploads/2010/04/.thumbs/.2010_0002_700.jpg" border="0" alt="2010_0002_700.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>Here is what happens when I get frustrated in the dark - those marks on the top of the frame are fingernail marks from me saying "F THIS"  after 10 minutes of screwing around with a 4x5 film holder that I thought I had "fixed" a year ago. No big deal it was just me screwing around with negatives for a new print process I am experimenting with. Since I had five other negatives I was developing at the same time I just chucked it in with the rest.
 

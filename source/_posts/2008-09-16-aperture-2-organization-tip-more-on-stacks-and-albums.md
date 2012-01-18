@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 2 Organization Tip - More On Stacks and Albums
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 2
+- Aperture Album
+- Aperture Project
+- Stack Mode
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/Aperture_QT_1.jpg"><img title="Aperture_QT_1.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.Aperture_QT_1.jpg" border="0" alt="Aperture_QT_1.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>One of the concepts that I emphasize in the organization eBook is how useful the simple album is in combination with stacks due to the capability of each and every album to have it's very own album pick that behaves as the only image version in the stack when the stack is closed. I gave two quick examples of creating an album for 8x10 crops and another for black and white conversions. In my Aperture workflow I almost always group similar images into a stack, then make the best one the overall stack pick at the Aperture project level. I never change the stack pick. By that I don't mean that I don't make adjustments to the image version, I mean I don't create new versions for specific purposes such as aspect ratio, etc and them make them the overall stack pick. Having that consistent from project to project is a huge time saver for me.
 <!--more-->

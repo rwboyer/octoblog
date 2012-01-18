@@ -2,6 +2,15 @@
 layout: post
 title: New Nikon Specific Aperture 3 - Product Quiz
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture 3
+- Apple Aperture
+- Nikon Capture NX2
+- Nikon D7000
+- Presets
 ---
 I have about 300 requests for Aperture 3 presets that are camera specific for Aperture 3. I get these in my emails all the time. I have released a few free ones as well as put up a really crappy screencast explaining a general approach to emulating the Nikon out of camera look with picture controls using Aperture 3.
 

@@ -2,6 +2,15 @@
 layout: post
 title: Where's Waldo Update
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- Nikon F3
+- printing
+- work-flow
+- Workflow
+- workshop
 ---
 I have been a little sparse lately but I'm still alive. Just wanted to take a few seconds to update all of you on a few topics near and dear. First off - The Nikon F3 give-away is about a week away and on track. I finally have selected which of my Nikon F3's will be sent out to a somewhat lucky photographer that posted a comment on <a href="http://photo.rwboyer.com/2011/02/06/nikon-f3-give-away/">the give-away thread</a>. As mentioned I was going to select one that I don't use but no too too pretty. I have landed on one that is free of major cosmetic damage (not that it matters much to the function), has an HP finder so it's not too ancient, and appears to have NO impairments or quirks in function at all.
 

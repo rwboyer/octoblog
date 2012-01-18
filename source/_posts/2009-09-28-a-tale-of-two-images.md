@@ -2,6 +2,16 @@
 layout: post
 title: A Tale of Two Images
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- ACR
+- landscape
+- NEF
+- Nikon D200
+- Photoshop CS4
+- RAW
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/DSC_0393_1.jpg"><img title="DSC_0393_1.jpg" src="/wp-content/uploads/2009/09/.thumbs/.DSC_0393_1.jpg" border="0" alt="DSC_0393_1.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>As most of you know I am not a landscape guy. Don't have the patience for it but If I happen to be there, sure I'll give it a shot. That happens very rarely, especially where I live. Don't get me wrong, the bay and surrounding area are quite beautiful but if there is nothing in the sky it is kind of flat and very difficult to get a good landscape image that represents the feeling of the place. I have been working on a super secret project this summer - eventually it will be a book about the area. Not just the landscape but of the people, etc. in and around the area. I am going to try to get this done by next year. Hey I live here so why not.
 

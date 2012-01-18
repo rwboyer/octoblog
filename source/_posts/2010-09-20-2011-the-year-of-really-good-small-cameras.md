@@ -2,6 +2,14 @@
 layout: post
 title: 2011 The Year Of Really Good Small Cameras?
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- Fuji X100
+- Leica
+- Olympus E-P1
+- Panasoic GF1
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2010/09/P1010082-full.jpg %}2010 has seen, in my opinion, some really nice small cameras. Heck I bought into them for the first time this year. 2011 Is shaping up to be the year of the great small camera. The three small high quality image making devices that I just purchased are very much useable, fun, reasonably fast, and make great images. Next year looks to turn up the juice substantially. I still believe that the micro 4:3 system is a great compromise and will continue to buy into it.
 

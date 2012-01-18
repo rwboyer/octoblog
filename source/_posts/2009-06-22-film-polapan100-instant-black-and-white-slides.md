@@ -2,6 +2,12 @@
 layout: post
 title: Film - Polapan100 Instant Black and White Slides
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Polapan black and white slide film
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_7985.jpg"><img title="DSC_7985.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_7985.jpg" border="0" alt="DSC_7985.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Here is a fun one. Way out of production Polapan black and white slide film. As far as I know this was only available as an instant 35mm film that you shot and then processed "instantly" in a little machine that you could by from Polaroid. The little machine was pretty cool and could process all of the other Polaroid 35mm slide films as well. You had to crank a little handle at a specific speed, not to fast, not too slow.
 

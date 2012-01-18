@@ -2,6 +2,13 @@
 layout: post
 title: Aperture 3 - The Blind Leading The Blind
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- support forums
 ---
 A little humor for today so please take this as it is intended - a light hearted comment on human nature, mine include. So... as many of you know I try to participate on the Apple Support Forum for Aperture. I am not one of those people that signed up there the very first day I started using Apple products. I signed up specifically to ask a question to other users since my pro-care support contact (the old really good pro-care - not the new one that is worthless) had not a freaking clue on a problem I was having using Aperture way back in the day when I was shooting commercial work. Long story short - I stuck around because it became apparent that there were not a lot of people that used the crap out of Aperture like I did. I figured I would help if I could - hence this website a few years ago.
 

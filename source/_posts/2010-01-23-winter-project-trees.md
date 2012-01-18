@@ -2,6 +2,18 @@
 layout: post
 title: Winter Project - Trees
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Adox MCC 110
+- Black and White
+- kodak tmax 100
+- prints
+- project
+- TMX
+- tree
+- winter
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/2010_001_10.jpg"><img title="2010_001_10.jpg" src="/wp-content/uploads/2010/01/.thumbs/.2010_001_10.jpg" border="0" alt="2010_001_10.jpg" hspace="10" vspace="10" width="150" height="120" align="left" /></a>A reader that stumbled across my site specifically looking for black and white prints was interested one of my Adox MCC 110  sample prints but wanted something shot with a super fine grain film. Honestly with my eyes you cannot see the grain in an 8x10 of any of the medium format negatives that I offer as a selection but at the end of the day we settled on the image that you see with the post.
 

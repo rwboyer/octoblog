@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - OS X Lion 
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Nik
+- OS X Lion
 ---
 So far I have upgraded one of my Apple Macs to Lion. Aperture and Photoshop and the rest of my software appear to function as they should. By no means have I done any extensive testing but the initial toe in the water has been favorable.
 

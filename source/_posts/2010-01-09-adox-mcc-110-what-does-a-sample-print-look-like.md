@@ -2,6 +2,12 @@
 layout: post
 title: ADOX MCC 110 - What Does A Sample Print "Look" Like 
 comments: true
+categories:
+- Site News
+tags:
+- Adox MCC 110
+- Black and White
+- print
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/AdoxMCC110_1.jpg"><img title="AdoxMCC110_1.jpg" src="/wp-content/uploads/2010/01/.thumbs/.AdoxMCC110_1.jpg" border="0" alt="AdoxMCC110_1.jpg" hspace="10" vspace="10" width="150" height="181" align="left" /></a>Wrapped up my first batch of sample prints last night and they are now being "flattened". They will ship Monday before noon. I got a few questions on "what they look like". Well it's kind of hard to put into words but I will try briefly. They look a whole lot like my contact sheets but bigger and on typical air dried fiber black and white paper. They may curl a bit due to the changing environment and not being final mounted art work. They are meant to be educational and provide a reasonable evaluation of the actual material.
 

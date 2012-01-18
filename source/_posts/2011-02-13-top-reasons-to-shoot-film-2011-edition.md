@@ -2,6 +2,15 @@
 layout: post
 title: Top Reasons To Shoot Film 2011 Edition
 comments: true
+categories:
+- General Photography
+tags:
+- film
+- Kodachrome
+- kodak ektar 100
+- large format
+- medium format
+- Velvia
 ---
 In the spirit of the Nikon F3 give-away I compiled my own little list of the top reasons I shoot film in 2011 and will shoot more of it than I did in 2010, which was more than 2009. Here goes, feel free to contribute or debate...
 <ol>

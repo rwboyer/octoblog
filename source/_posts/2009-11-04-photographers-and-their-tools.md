@@ -2,6 +2,14 @@
 layout: post
 title: Photographers and Their Tools
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- camera rig
+- Nikon D2h
+- phographer tools
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/11/DSC_7994.jpg"><img title="DSC_7994.jpg" src="/wp-content/uploads/2009/11/.thumbs/.DSC_7994.jpg" border="0" alt="DSC_7994.jpg" hspace="10" vspace="10" width="150" height="118" align="left" /></a>Every photographer out there that has a lot of experience will tell you that you can make great photographs with just about any camera, any lens, any software, any film, any paper, etc. etc. I tell people this all the time. I have for years, especially in workshops that I have held where the focus was never what tool is required to get some desired set of results. Way back when I got my very first Hasselblad digital system I used it in a grand total of one workshop. Ever since then I use whatever the crappiest digital camera I happen to own at the time.
 

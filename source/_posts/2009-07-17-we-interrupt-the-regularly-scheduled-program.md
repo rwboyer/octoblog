@@ -2,6 +2,10 @@
 layout: post
 title: We Interrupt the Regularly Scheduled Program
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 For a tiny little self-promotional break. If any one is interested I will be doing another summer series lighting workshop in or around North Carolina this summer. Here is the idiotically bad web version of the intro meet and greet from last years series of lighting workshops. I hate to make excuses but my laziness + nasty web sharing output from final cut + not loud = not good. Trust me this looks fantastic in HD on a 54 inch + sound + alcohol + models + setting in real life.
 

@@ -2,6 +2,20 @@
 layout: post
 title: Massive Film Development Chart - The Most Useless Thing On The Web
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- development
+- film
+- Kodak
+- Plus-X
+- PXP
+- TMAX 100
+- TMX
+- TRI-X
+- TXP
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2001_034_04.jpg"><img title="2001_034_04.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2001_034_04.jpg" border="0" alt="2001_034_04.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I had a reader ask me a question about film development. Specifically what my development times were for a particular film/developer combination. The reason he asked was he "liked" the way one of my images looked but he had issues with a development time/temp he got from "The Massive Development Chart".
 

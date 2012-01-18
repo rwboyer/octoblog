@@ -2,6 +2,15 @@
 layout: post
 title: Rethinking Nikon's 50mm f1.4
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 50mm
+- Equipment
+- manual focus
+- Nikon
+- prime lenses
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/1999010_20.jpg"><img title="1999010_20.jpg" src="/wp-content/uploads/2009/04/.thumbs/.1999010_20.jpg" border="0" alt="1999010_20.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>Nikon's "new" 50 f1.4 is not so new news. It was released quite a while ago in digital camera equipment years - like dog years or something. What's new are my thoughts on it after having played with one for a few minutes. I am not going to say playing with it for a few minutes revealed anything super duper spectacular interms of what I expected. I am definitely not going to say something rediculous like "I was looking at the shots on the back of the camera and this has to be the best lens ever". <!--more-->What happend is my realization of what lenses I actually use verses what lenses I own, and what would actually be really useful to me.
 

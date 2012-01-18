@@ -2,6 +2,13 @@
 layout: post
 title: The Most Important Images You Will Ever Make
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- images of people
+- moment in time
+- portrait
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/1999_009_09.jpg"><img title="1999_009_09.jpg" src="/wp-content/uploads/2009/10/.thumbs/.1999_009_09.jpg" border="0" alt="1999_009_09.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>A while ago I mentioned the concept of "important" images. My thoughts are that the pictures you make of people that are close to you are the most important ones that you will ever make. Not the abstract that win you third prize in the local art show. Not the ones that you make for advertisements that may pay the bills, etc. etc. Paying the bills is important but the images themselves are really not that important.
 

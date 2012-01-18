@@ -2,6 +2,13 @@
 layout: post
 title: PDN Is Offering A Reward For Pictures Of Aperture 3
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture 3
+- Apple
+- PDN
 ---
 Our good friend Michael just sent me a note that PDN is offering a reward for any pictures of Aperture 3. They are offering one dollar. It is sort of a spoof on another site's giant reward for a picture of an iTablet but I am a little annoyed that they go on to say that no one is really clamoring for an Aperture 3 release.
 

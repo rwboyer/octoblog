@@ -2,6 +2,12 @@
 layout: post
 title: Blake Ricks Gets A Hasselblad
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Hasselblad
 ---
 Blake is a fellow reader that has not really had a whole lot to do with film in his photographic endeavors. He has been looking into shooting some for a bit and we have exchanged a few emails about it and he finally took the plunge when he added a new member to his family. I asked him if he would share a few thoughts on the subject and he replied with what follows. Not too bad for only shooting this kit for a short time so far...
 

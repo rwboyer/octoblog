@@ -2,6 +2,13 @@
 layout: post
 title: Shooting Square - Singing Praises of The Forgotten Format
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Hasselblad
+- square aspect ratio
+- square images
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2002_016_06.jpg"><img title="2002_016_06.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2002_016_06.jpg" border="0" alt="2002_016_06.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>I think I may be one of like 3 or 4 people that really like shooting square images. Like most photographers alive I started out with 3;2 aspect ratio cameras and learned how to use ever square millimeter of film. Then I got a 4:3 aspect ratio camera and things were pretty much the same. Then I acquired a square format camera that shot 6x6 film.
 

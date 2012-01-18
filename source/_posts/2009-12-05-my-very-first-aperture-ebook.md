@@ -2,6 +2,18 @@
 layout: post
 title: My Very First Aperture eBook
 comments: true
+categories:
+- Aperture PDF Guides
+- Apple Aperture
+- Site News
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- eBook
+- file management
+- work-flow
+- Workflow
 ---
 Well, I told you that I have been busy. Actually it is not an eBook, it's an Aperture mini-eBook with a mini-price to match. This Aperture eBook happens to be about file management. Why file management you ask? Well because based on my non-clinical research that is what I happen to get the most questions on. As soon as people graduate from an entirely managed library they have a bunch of questions.
 

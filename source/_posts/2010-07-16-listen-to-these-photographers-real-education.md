@@ -2,6 +2,13 @@
 layout: post
 title: Listen To These Photographers - Real Education
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- inspiration
+- Photographers
+- photojournalism
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/DSC_1172___Version_2.jpg"><img title="DSC_1172___Version_2.jpg" src="/wp-content/uploads/2010/07/.thumbs/.DSC_1172___Version_2.jpg" border="0" alt="DSC_1172___Version_2.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>I urge you to take a few moments, moments when you are not distracted by anything else, not tempted to click somewhere else, not distracted by your email and - watch these few short videos from photojournalists brought to use by the Sydney Morning Herald. You can learn a lot from listening to these people - more than you can by reading about lenses, the latest digital non-sense, or noise tests. Look at their photographs while they are speaking.
 

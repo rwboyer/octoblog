@@ -2,6 +2,10 @@
 layout: post
 title: Quick Tip - Using a Beauty Dish
 comments: true
+categories:
+- Articles
+- Lighting
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/FromIweb/DSC_8922___Version_2___Version_2.jpg"><img title="DSC_8922___Version_2___Version_2.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.DSC_8922___Version_2___Version_2.jpg" border="0" alt="DSC_8922___Version_2___Version_2.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>First off, never ever ever use a beauty dish on someone that is not beautiful, go with something bigger. Second beauty dishes produce more contrast and zip than boxes do, they have a more specular quality to highlights they produce. Third they have a very different falloff pattern than soft boxes or umbrellas do. Fourth, the good ones that have a glass or plastic translucent center diffuser have a hot spot in the center portion of the light pattern that they throw. In my opinion these are the reasons that you want a beauty dish in the first place, not just because they are sort of big. If it is just the size of light that you are after soft boxes are way easier to carry around  especially the smaller ones that are the same size as a dish. If you want just a round catch light a circular mask on your box will do the trick, also easy to carry around. If you want less spill, nylon grids are great on a box.<!--more-->
 

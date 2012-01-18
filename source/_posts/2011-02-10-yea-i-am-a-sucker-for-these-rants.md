@@ -2,6 +2,13 @@
 layout: post
 title: Yea - I Am A Sucker For These Rants
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak Portra 160VC
+- Rant
 ---
 I tried but just cannot help myself, I resisted for a while but just can't hold out any more. I love these rants...
 

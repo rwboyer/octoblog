@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 Quick Tip - Deleting Versions In A Stack
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Featured
+tags:
+- Aperture 3
+- Appe Aperture
+- stacks
+- Stacks and Albums
+- work-flow
+- Workflow
 ---
 Wanted to pass on something about the behavior of Aperture 3 stacks that all of you may not be aware of. If you have been taking advantage of Aperture's albums and album-pick features for organizing your images (the key to good work-flow and organization) you can take advantage of a subtlety in the behavior of stacks when you need to delete all of the versions that happen to show up as an album pick in any particular album.
 

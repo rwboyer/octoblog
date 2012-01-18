@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 and NEF RAW Recipies
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- d2h
+- NEF RAW
+- Nikon
+- Nikon Capture NX2
+- white balance
 ---
 <a href="/wp-content/uploads/2008/ApertureNEFrecipie.jpg"><img title="ApertureNEFrecipie.jpg" src="/wp-content/uploads/2008/.thumbs/.ApertureNEFrecipie.jpg" border="0" alt="ApertureNEFrecipie.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>A quick follow up to the NEF matching post from a few days ago. Even though there were about 700 (exaggeration) downloads of the NEF files that I posted only one person shared their recipe and it was pretty close. As promised here is my recipe for the D2H/s. The recipe that follows will vary a little based on the light temperature that you shoot with, your camera's white balace setting and obviously the specific Nikon that you shoot with as well as your in camera settings/picture control settings. Having said that I have found that a couple of things seem to be generally true for every Nikon NEF I have processed in Aperture 2. I specifically say Aperture 2 because it is way different (better) than Aperture 1 and 1.5.
 

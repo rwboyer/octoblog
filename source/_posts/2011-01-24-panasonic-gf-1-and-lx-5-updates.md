@@ -2,6 +2,13 @@
 layout: post
 title: Panasonic GF-1 And LX-5 Updates
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- Panasonic GF-1
+- Panasonic LX5
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2011/01/P1070224web.jpg %}It's been a while since I started down the road with my small camera quest. First it was the Olympus E-P1, next came the Panasonic GF-1, the latest acquisition was the Panasonic LX-5. I like all of these cameras. Of course 3 is way way too many little cameras. On second thought maybe it's not but more on that another day.
 

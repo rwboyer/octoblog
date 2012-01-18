@@ -2,6 +2,17 @@
 layout: post
 title: Photographic Aesthetics - Be Careful What You Ask For
 comments: true
+categories:
+- Articles
+- General Photography
+- Lighting
+tags:
+- aesthetic
+- beauty dish
+- detail
+- lighting ratio
+- resolution
+- tonal differentiation
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2002_919_06.jpg"><img title="2002_919_06.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2002_919_06.jpg" border="0" alt="2002_919_06.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>What do I mean " be careful what you ask for"? Well it maybe exactly opposite of what you want. I teach this concept at my workshops in a variety of different ways but decided that today I would be very direct about it instead taking the long way around it. I have thought about this a lot because I have found that the words and concepts that are sought after by countless photographers in many many cases are exactly opposite of what they are trying to achieve aesthetically. Obviously experience will eventually reconcile these things but still a lot of words persist and continue to be the holy grails of photography even once that experience and reconciliation takes place.
 

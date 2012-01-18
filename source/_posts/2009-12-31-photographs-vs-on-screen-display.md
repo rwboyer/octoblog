@@ -2,6 +2,14 @@
 layout: post
 title: Photographs vs. On-Screen Display
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- aesthetic
+- film
+- post processing
+- printing
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/GLMedia_189.jpg"><img title="GLMedia_189.jpg" src="/wp-content/uploads/2009/12/.thumbs/.GLMedia_189.jpg" border="0" alt="GLMedia_189.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>Some random end of year thoughts on the aesthetics of a photographic print vs. looking at an image on a monitor. It is probably obvious that my preferred medium for the presentation of an image is print. For whatever reason this is how I like to see photographs and because of that I tend to believe that it is the best medium for a still image. I also believe that a print vs a transmitted light image are two completely different mediums that have nothing to do with each other.
 

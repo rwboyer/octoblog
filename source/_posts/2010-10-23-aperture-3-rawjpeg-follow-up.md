@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 RAW+JPEG Follow Up
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- file management
+- RAW+JPEG
+- work-flow
+- Workflow
 ---
 My posts on how Aperture 3 RAW+JPEG works and how you can use it to speed up your work-flow sure generated a lot of feedback and questions via email. One question that I didn't expect was how to get rid of your RAW files and keep just the JPEG after importing them as RAW+JPEG master pairs. I almost never do this, in fact I don't import RAW files I don't want. I did think that the question deserved a follow up post so here it is.
 

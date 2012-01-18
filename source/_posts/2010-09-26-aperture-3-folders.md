@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 Folders
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- folders
+- work-flow
+- Workflow
 ---
 Here is a quick Aperture 3 super simple stuff post for a slow Sunday. Aperture 3 folders, not just for breakfast anymore. Actually I wanted to talk about folders that contain projects and other folders, not folders inside of projects. Of course they are handy for removing visual clutter from the project inspector but if that's all you are using them for you are shortchanging yourself.
 

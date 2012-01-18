@@ -2,6 +2,15 @@
 layout: post
 title: Nikon Cheap Thrills
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak Portra 160VC
+- lenses
+- Nikon
+- Nikon FE
 ---
 More than a couple of you here have decided to shoot just a little bit of film, either with some of your dusty old 35mm gear or with some new found bargain gem from eBay. <a href="http://photo.rwboyer.com/2011/03/15/we-have-a-winner-the-nikon-f3/">One lucky person is shooting one of my old Nikon F3's</a>.
 

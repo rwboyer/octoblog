@@ -2,6 +2,16 @@
 layout: post
 title: Apple Pro App Annoucement
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- annoucement
+- Aperture
+- Apple
+- final cut
+- logic studio
+- version updates
 ---
 Hmmmm. Let me see. How do I fell about the Apple Pro App announcement today. We get Logic Studio and Final Cut version updates with hundreds and hundreds of new features, probably some Snow Leopard tuning yet to be talked about but probably in there. Wait a second, WTF, what happened to Aperture 3 or 2.5 or 2.2? 
 

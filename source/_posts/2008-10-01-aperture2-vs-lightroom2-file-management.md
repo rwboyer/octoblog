@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 2 vs. Lightroom 2 - File Management
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Adobe Lightroom
+- Aperture vs Lightroom
+- Apple
+- Apple Aperture
+- master image
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/Lr2_File_Mgt.jpg"><img title="Lr2_File_Mgt.jpg" src="/wp-content/uploads/2008/.thumbs/.Lr2_File_Mgt.jpg" border="0" alt="Lr2_File_Mgt.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Due to popular demand I will provide some additional detail to my previous Adobe Lightroom 2 versus Apple Aperture 2 article. Both of these applications are so rich in both functionality and the multitude of ways they can used to support a photographic work-flow it will take a serious of articles to even scratch the surface. So, no better place to start than the image file management capabilities. Most photographers adopting either one of these applications will not delve into this subject until way down the road and when they do they usually have about 1,000 questions that they NEED answers to right now.
 

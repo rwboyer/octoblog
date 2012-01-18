@@ -2,6 +2,17 @@
 layout: post
 title: Leica M9 and First Time Rangefinder Users
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Leica M9
+- M2
+- M3
+- M4
+- m6
+- Summicron
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2000_050_29.jpg"><img title="2000_050_29.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2000_050_29.jpg" border="0" alt="2000_050_29.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>I have had so many conversations with people interested in the Leica M9 I have lost count. Surprising to me is that over half of those people have never shot, owned, or touched any rangefinder camera before. I wanted to offer my advise for those that may be thinking about investing in the Leica M9. It will be short and to the point. There are probably a couple of things in the comments for another post that you may want to take a look at as well.
 

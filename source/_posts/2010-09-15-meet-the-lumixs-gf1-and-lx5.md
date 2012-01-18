@@ -2,6 +2,16 @@
 layout: post
 title: Meet The Lumix's- GF1 And LX5
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic GF1
+- Panasonic LX5
 ---
 I really like these little guys if you couldn't tell. Handling on the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002MUAEX4%3Fie%3DUTF8%26ref_%3Ddp_olp_new_map%26qid%3D1284592102%26sr%3D1-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">GF1</a> and <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB003WJR69E%3Fie%3DUTF8%26ref_%3Ddp_olp_new%26qid%3D1284592151%26sr%3D1-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">LX5</a> are very very similar. I do wish they were exactly the same but they are close enough. I wanted to provide a couple of images so you could all see how big they are and how similar they are. I also wanted to provide a little additional commentary on the GF1 since I got the new one the other day.
 

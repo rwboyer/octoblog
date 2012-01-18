@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 And Micro 4/3
 comments: true
+categories:
+- Apple Aperture
+- Micro 4:3
+tags:
+- Aperture 3
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic GF1
+- RAW
 ---
 Of course I am using Aperture with my new toy cameras the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3DOlympus%2520E-P1%26url%3Dsearch-alias%253Daps&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">Olympus E-P1</a> and the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002MUAEX4%3Fie%3DUTF8%26ref_%3Ddp_olp_new_map%26qid%3D1284312038%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">Panasonic GF1</a>. I wanted to give you Aperture users who are thinking about these cameras or camera users who are thinking about <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002I0JKSS%3Fie%3DUTF8%26ref_%3Dsr_1_1_olp%26s%3Delectronics%26qid%3D1284312275%26sr%3D1-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">Aperture 3</a> a quick and dirty report on RAW file performance for these two little cameras. The bottom line is that I doubt anyone will be unhappy with Aperture 3's default RAW processing.
 

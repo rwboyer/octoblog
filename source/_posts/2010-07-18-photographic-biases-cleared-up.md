@@ -2,6 +2,14 @@
 layout: post
 title: Photographic Biases - Cleared Up
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- digital
+- film
+- HDR
+- Portable Flash
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/2000_064_07.jpg"><img title="2000_064_07.jpg" src="/wp-content/uploads/2010/07/.thumbs/.2000_064_07.jpg" border="0" alt="2000_064_07.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I had an interesting conversation with a reader of this site that wanted to know about some of my photographic biases. Her words - not mine, note that she has never commented on any of the posts in question that display those biases and I doubt she will comment on this one so I hope I represent things fairly and accurately. My intent is to clarify some undertones that have obviously crept in over the years.
 

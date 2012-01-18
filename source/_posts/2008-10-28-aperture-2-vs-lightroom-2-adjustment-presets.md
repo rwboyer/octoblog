@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 vs. Lightroom 2 - Adjustment Presets
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Aperture
+- Aperture 2
+- Aperture vs Lightroom
+- Apple
+- image adjustments
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/A2vLR2_AdjPresets.jpg"><img title="A2vLR2_AdjPresets.jpg" src="/wp-content/uploads/2008/.thumbs/.A2vLR2_AdjPresets.jpg" border="0" alt="A2vLR2_AdjPresets.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>I have time for a quick article in the ever popular Aperture 2 versus Lightroom 2 series of comparisons, so I will tackle the simple but thorny subject of image adjustment presets. Both of the applications give you the ability to take a combination of adjustments and apply them to one or more images quickly and efficiently but they do it in different ways. I will give you my best objective view of how both applications work and you decide weather this is an important distinction for you or not. The reason that I say the subject is a thorny one to tackle is that if you get a couple of Aperture users and a couple of Lightroom users in a room together this is the one thing that both groups will never ever see eye to eye on.<!--more--> If fact the debate over the preset issue could rage for centuries (which is why I wish Apple would just implement the damn things and get it over with).
 

@@ -2,6 +2,13 @@
 layout: post
 title: Another Example Of Why I Am Not A Landscape Guy
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Hasselblad
+- landscape photography
+- XPAN
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/04/DSC_1054___Version_2.jpg"><img title="DSC_1054___Version_2.jpg" src="/wp-content/uploads/2010/04/.thumbs/.DSC_1054___Version_2.jpg" border="0" alt="DSC_1054___Version_2.jpg" hspace="10" vspace="10" width="150" height="50" align="left" /></a>This is the morning to which I woke today. I shot this from my upstairs balcony while smoking my first cigarette of the day - for you non-smokers that is the only one that counts and is probably the sole reason why us smokers do not just quit. When I say I shot this while smoking I mean that literally - cigarette in same hand as lens hand. You would be surprised at some of the things us guys that smoke can do while smoking that have had 30 years experience.
 

@@ -2,6 +2,12 @@
 layout: post
 title: Nikon F3 Give Away
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- give-away
+- Nikon F3
 ---
 Okay, the game is on. I am giving away a Nikon F3. It's not going to be one of the two "mint" condition F3's. It's not going to be my beater either. Nothing too pretty. It doesn't really matter they all work the same. I guess it's going to be one of the middle of the road F3's I have. It's better that way. The one I use all the time is my beater - the really ugly one. Why? because I don't care if it looks different when I am done shooting. Truth be told - it looks the same as when I got it. I think getting one in "definitely been used, probably by a PJ at some point" will be a bit of psychological freedom for people that are too worried about getting a mark on their too too pretty camera. That and an F3 actually looks okay sans paint - you see it's black paint on brass so used = good.
 

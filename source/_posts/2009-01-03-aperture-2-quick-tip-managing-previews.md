@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 2 Quick Tip - Managing Previews
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2009/01/AQT___Previews_Top.jpg"><img title="AQT___Previews_Top.jpg" src="/wp-content/uploads/2009/01/.thumbs/.AQT___Previews_Top.jpg" border="0" alt="AQT___Previews_Top.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Previews are one of the most misunderstood and notoriously undocumented things in Aperture. A couple of weeks ago I wrote a post about what you can and cannot do when you have referenced masters that are off-line, as in all of your masters are on external drives and your library with previews happens to be on your laptop while you are away. Previews make some of the functionality that I mentioned possible. Understanding how to manage previews within Aperture is essential to effectively managing storage, performance, and functionality. Unfortunately most of the documentation supplied with Aperture focuses on Aperture preferences and really does not connect the dots on the rest of the preview picture.<!--more-->
 

@@ -2,6 +2,14 @@
 layout: post
 title: Friday Photo Thoughts
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- film
+- Fuji X10
+- Fuji X100
+- Nikon D7000
 ---
 A couple of photo related thoughts for Friday of the holiday weekend and the unofficial end of summer. Hope all  of you out there have some fantastic plans for the long weekend. Me, I am just going to take it easy and try to get over this summertime flu that I have had for going on a week. So here is the round up of random stuff...
 <ul>

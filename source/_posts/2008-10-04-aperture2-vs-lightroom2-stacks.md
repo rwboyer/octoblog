@@ -2,6 +2,19 @@
 layout: post
 title: Aperture2 vs. Lightroom2 - Stacks
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Adobe Lightroom
+- Aperture
+- Aperture vs Lightroom
+- Apple
+- Apple Aperture
+- collections
+- image stack
+- stacks
+- virtual copies
 ---
 <a href="/wp-content/uploads/2008/A2vLR2_Stacks.jpg"><img title="A2vLR2_Stacks.jpg" src="/wp-content/uploads/2008/.thumbs/.A2vLR2_Stacks.jpg" border="0" alt="A2vLR2_Stacks.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Stacks in Aperture2 and Lightroom2 are about the only feature that share some functionality and have the same name. Stacks are a way of grouping similar images together. The images can be various versions of the same image taken in the camera, virtual copies (as termed in LR), versions (same thing but Aperture term), or versions that were modified with an external editor/plug-in. Stacks have the same basic functionality in both applications and can more or less do similar jobs. The magic of stacks comes from their interaction with albums (Aperture) or collections (Lightroom). I will touch a little bit on albums/collections just because the function of images stacks are so closely related to these other features. I will also compare a bit of compare mode functionality as well mostly due to Apertures excellent "stack mode".<!--more-->
 

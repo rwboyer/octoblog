@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Adjustment Brushes
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adjustment brushes
+- adjustments
+- Aperture 3
+- Apple Aperture
+- Presets
 ---
 The good news is so far the local adjustments are proving extremely useable. I have been testing a lot of creative local adjustments and ways of going about doing things given the combination of tools Aperture has available for my upcoming Adjustment eBook.
 

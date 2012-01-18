@@ -2,6 +2,10 @@
 layout: post
 title: Photography On The Web - Minor Annoyances 
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2009_010_17.jpg"><img title="2009_010_17.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2009_010_17.jpg" border="0" alt="2009_010_17.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Remember when I wrote a post way back about 80% of all photography stuff you read is bullcrap? Whether it be on the web or in print or wherever. I really wasn't trying to blast any particular person or photographer - some that will remain nameless deserve it but I really wasn't. I believe most photographic bullcrap are lies of omission although some are despicable deception to feed individuals own ego. Like a bunch of numb-nuts spouting the virtues and their apparent god like abilities of using one light and their entire portfolio consists of images made with 4 or 5 lights used in very very obvious ways.
 

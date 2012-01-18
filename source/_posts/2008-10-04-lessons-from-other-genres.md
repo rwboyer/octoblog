@@ -2,6 +2,15 @@
 layout: post
 title: Lessons From Other Genres
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Add new tag
+- genres
+- inspiration
+- photographic workshop
+- photography
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/DSC_9534__2_.jpg"><img title="DSC_9534__2_.jpg" src="/wp-content/uploads/2008/.thumbs/.DSC_9534__2_.jpg" border="0" alt="DSC_9534__2_.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Way back in the 1990's I took the plunge and attended a workshop. Not just any workshop, I had this thing in my head that I was going to take a workshop that had nothing to do with commercial photography. After looking through the Woodstock Photographic workshop catalog I settled on one. Unfortunately I had no idea they were impossible to get into if you didn't sign up and get accepted within the first week that enrollment opened up, March or something like that. Cutting to the chase, I being the determined tenacious being that I am, got the catalog for the next workshop season - sent my project prints in - and got one of the 10 spots in Keith Carter's workshop. Now this was a foreign land for me. I had a great time even though I was apprehensive and felt like the odd ball in a group of artsy fartsies. I learned a lot - nothing that I expected to learn which made it even more enlightening. If I could do it over I would not have held back and been so conservative with the project that I took with me, more on that some other time. One of the things that was introduced in the workshop that I really didn't pay much attention to, sort of a yea yea yea, I get it, let's move on kind of thing was Keith mentioning numerous times how he is inspired by work in other completely different genres. He was not talking about landscape versus portraits. He was talking about genres not photographic, in fact not even graphic. His thing was poetry.
 

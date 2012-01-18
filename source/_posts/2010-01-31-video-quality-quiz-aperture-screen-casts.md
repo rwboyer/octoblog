@@ -2,6 +2,14 @@
 layout: post
 title: Video Quality Quiz - Aperture Screen Casts?
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Apple Aperture
+- quiz
+- screencast
+- tutorials
 ---
 Anybody that cares to offer an opinion or vote please do so. i just put up another test on YouTube. The question I have is if the 720p quality at full screen is "good enough" to see what is going on in the screen cast video for mini Aperture tutorials?
 

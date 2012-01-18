@@ -2,6 +2,16 @@
 layout: post
 title: The GF1 And LX5 Are Here!
 comments: true
+categories:
+- General Photography
+tags:
+- ACR
+- Adobe Lightroom
+- Aperture 3
+- Apple Aperture
+- Panasonic LX5
+- RAW
+- RAW+JPEG
 ---
 Yep - UPS guy just came. Not a whole lot to report here but...
 

@@ -2,6 +2,13 @@
 layout: post
 title: Lighting Tip - The Power of Accent Lights
 comments: true
+categories:
+- Articles
+- Lighting
+tags:
+- background light
+- Lighting
+- softbox
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/09/glmedia-911.jpg"><img title="glmedia-911.jpg" src="/wp-content/uploads/2008/09/.thumbs/.glmedia-911.jpg" border="0" alt="glmedia-911.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>A few loyal readers have sent me emails asking how I lit this image. Originally posted in an article about interpretation of histograms, this kind of lighting set up is typical in lighting workshops that I host. Although I feel that this kind of thing is best seen and experienced hands-on, here is my best quick and to the point description of how this particular image was lit.
 

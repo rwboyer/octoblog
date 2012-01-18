@@ -2,6 +2,23 @@
 layout: post
 title: Shooting Film Follies 2009
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- Efke R100
+- film
+- Kodak
+- leica m6
+- pyro
+- Pyrocat HD
+- TMAX 100
+- TMY
+- TMZ
+- TRI-X
+- TX
+- TXP
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2009_003_05.jpg"><img title="2009_003_05.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2009_003_05.jpg" border="0" alt="2009_003_05.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>A quick update on my commitment to shoot film with my M6 prior to springing for an M9. Well, I finally got the kinks worked out of my development process and tools, so I am ready to go. Remember the first two rolls I sent through? Almost decade old TMZ and TRI-X? I found the answer of what was going wrong - it wasn't me. The tank I was using had developed a crack that was invisible for the most part but not invisible to the film. I did the latest roll with a larger different tank and no more giant fog and "opened the camera back" look.
 

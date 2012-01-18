@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 Free HDR Preset
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- HDR
+- preset
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_9534HDR.jpg"><img class="alignleft size-medium wp-image-2207" title="DSC_9534HDR" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_9534HDR-300x200.jpg" alt="" width="300" height="200" /></a>I thought I would follow up the Nik HDR Efex Pro announcement with a free preset for all of you Aperture 3 people. If you haven't been reading for a while you probably don't know that I am not a big fan of HDR but I thought that this preset might be a fun way to introduce you to the power and the glory of Aperture's Highlights and Shadows adjustment.
 

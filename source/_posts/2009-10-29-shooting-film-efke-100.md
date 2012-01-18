@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Film - Efke 100
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 120
+- 8x10
+- Black and White
+- Efke R100
+- film
+- medium format
+- Pyrocat HD
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2009_006_02.jpg"><img title="2009_006_02.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2009_006_02.jpg" border="0" alt="2009_006_02.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Well I finally took the plunge, I have searched out inexpensive film and decided to try Efke 100. Not just try it but calibrate it and get to know it. As you may have gathered I am a Kodak film shooter for the most part. The reason I am searching for cheaper film is that I am working on a few projects that are requiring quite a bit of 8x10 film. If you haven't checked lately Kodak 8x10 is hideously expensive, not a big deal if I shoot a couple of sheets a month but I am planning on shooting a lot. I happened to search for low priced 8x10 film and can get Efke 100 at about half the cost of Kodak. Still not cheap but half of ridiculous is less than full ridiculous.
 

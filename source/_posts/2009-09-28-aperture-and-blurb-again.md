@@ -2,6 +2,17 @@
 layout: post
 title: Aperture and Blurb - Again
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adobe rgb
+- Aperture
+- Apple
+- book tool
+- cmyk
+- rgb
+- srgb
 ---
 A long long time ago I put up a couple of posts about a couple of ways to use Aperture's easy to use but completely undocumented book layout tool for just about any book printing service. I guess all of a sudden these services have become far more popular and hence I have receive a bunch of questions specifically related to blurb.com and Aperture. Instead of trying to recap all of the information exchanged I am just going to give a couple of guidelines to help point people interested in this the right way.
 

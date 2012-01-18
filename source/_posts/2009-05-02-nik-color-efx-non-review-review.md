@@ -2,6 +2,18 @@
 layout: post
 title: Nik Color EFX Non-Review Review
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- adjustment
+- Apple Aperture
+- enhancements
+- Nik
+- Nikon Capture NX2
+- photoshop
+- plugin
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/05/DSC_8470_IR_BW.jpg"><img title="DSC_8470_IR_BW.jpg" src="/wp-content/uploads/2009/05/.thumbs/.DSC_8470_IR_BW.jpg" border="0" alt="DSC_8470_IR_BW.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>After some pestering and cajoling from persistent readers and iBuddysâ„¢ about doing some Aperture related product reviews I finally will give it a whirl. I thought why not start with the hardest, Nik Color EFX Pro. It's not hard to use, hard to understand, or hard to copy and paste a list of all of the stuff it does from another source. Heck it's not even hard to make example images for each and every one of its filters. I guess the hard thing for me is to figure out what I can contribute that would be helpful that I have not seen at a thousand review sites, on Nik software's own site, or a gazillion forum sites.<!--more-->
 

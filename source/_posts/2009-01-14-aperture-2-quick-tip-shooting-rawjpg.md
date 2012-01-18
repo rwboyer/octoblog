@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 2 Quick Tip - Shooting RAW+JPG
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- RAW
+- RAW+JPG
+- stacks
 ---
 <a href="/wp-content/uploads/2009/01/AQT___RAWJPG.jpg"><img title="AQT___RAWJPG.jpg" src="/wp-content/uploads/2009/01/.thumbs/.AQT___RAWJPG.jpg" border="0" alt="AQT___RAWJPG.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>This little tidbit is probably available in a bunch of different places but I thought I would post it here because it comes up in the Apple support forums so often, I get asked about it a bunch, and as someone highlighted the Apple Aperture documentation is extremely esoteric on the matter. If you have a Canon or Nikon DSLR you probably have the option to shoot RAW+JPG. This is pretty cool given that you can have your cake and eat it to. RAWs for post processing and a pretty good representation that you can email or distribute immediately with all of the in-camera goodness of the manufacturers latest greatest secret sauce. I use it for a couple of purposes, especially now that CF cards are really really cheap.<!--more-->
 

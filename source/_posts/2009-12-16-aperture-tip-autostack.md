@@ -2,6 +2,18 @@
 layout: post
 title: Aperture Tip - Autostack
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- autostack
+- Stack Mode
+- stacks
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/autostack.jpg"><img title="autostack.jpg" src="/wp-content/uploads/2009/12/.thumbs/.autostack.jpg" border="0" alt="autostack.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Autostack is probably one of the least used features but one that can save you an immense amount of time. If you happen to shoot digital and have the image capture date embedded in all your images for you autostack is an extremely precise tool that you can use at the beginning of your workflow.
 

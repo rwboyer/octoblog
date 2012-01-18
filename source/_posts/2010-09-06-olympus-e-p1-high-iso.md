@@ -2,6 +2,11 @@
 layout: post
 title: Olympus E-P1 High ISO
 comments: true
+categories:
+- Featured
+- General Photography
+- Micro 4:3
+tags:
 ---
 Just wanted to post a quick update on the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002CGSYKS%3Fie%3DUTF8%26coliid%3D%26startIndex%3D0%26ref_%3Dolp_pg_refurbished%26me%3D%26qid%3D1283800919%26qid%3D1283800919%26sr%3D8-1-catcorr%26sr%3D8-1-catcorr%26seller%3D%26colid%3D%26condition%3Drefurbished&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">little E-P1</a> and it's high ISO performance. As some of you might know I am not the worlds biggest fan of super "perfect" images shot at astronomical ISO speeds. As long as 400 is workable I usually fine. In other words it is not my number one criteria in evaluating a camera. I know that most of the internet photographic community get's it's knickers in a bunch if even the slightest bit of noise can be detected when shooting a black featureless surface in the dark so take this assessment with that in mind.
 

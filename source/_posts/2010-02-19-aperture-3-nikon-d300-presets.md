@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 - Nikon D300 Presets
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Capture NX2
+- NEF
+- Nikon
+- Picture Control
 ---
 Many of you have been sending me NEF files for cameras I do not own - Thank You. I am sure that people that download the presets will thank you as well. I have been working on them here and there. The ones I have posted so far are rough drafts. These are rough drafts as well. For cameras that I do own it takes me a while to home in on what I ultimately use and with some NEF files I have a couple of different ones depending on the scene.
 

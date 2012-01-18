@@ -2,10 +2,16 @@
 layout: post
 title: Look Ma - I Learned Me Some Photoshop
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- humor
+- inspiration
 ---
 Shoot me now. I have to comment on this. I have no self-control at all. Forgive me. Continuing the train of thought regarding the state of commercial photography, I submit for your evaluation <a href="http://www.featureshoot.com/2009/09/john-short-london/">this steaming pile of meaninglessness</a>. Again - I am not in anyway attacking the individual that produced these. He is a <em>commercial</em> photographer and I have to assume that he must make a living - hence he is producing this dog-doo with a targeted purpose in mind in order to sell his services and pay his rent, etc. I am attacking the consumers - not the purveyors of the non-sense.
 
-Let me limit the conversation to the first image. Hmmmm, hmmmmmmmmmmm, hmmmmmmmmmmmmmmmmmmmmm. Okay then - I don't even know where to start. I only have questions - not questions of the good kind. Only questions of the bad kind. Don't get me wrong I LOVE photographs that actually cause me to question things - especially question myself. That is NOT the kind of questions that this provokes. More like...
+Let me limit the conversation to the first image. Hmmmm, hmmmmmmmmmmm, hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm. Okay then - I don't even know where to start. I only have questions - not questions of the good kind. Only questions of the bad kind. Don't get me wrong I LOVE photographs that actually cause me to question things - especially question myself. That is NOT the kind of questions that this provokes. More like...
 <ol>
 	<li>Yes we all know how to make composites. It seems that this image is some sort of statement about making really really bad composites while demonstrating the skill to make decent composites at the same time. Sort of like using techniques gleaned from PhotoShopDisasters in a <em>creative</em> way. Fantastic. Forking great. I really hope this doesn't become tooooo popular.</li>
 	<li>Is this for the purpose of some sort of children's book? You know like the "where's Waldo" type or the "what's different between these two pictures" type. Only this one you have to pick out the really bad composites and then the reasonable parts of the bad composite like some sort of game?</li>

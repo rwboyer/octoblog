@@ -2,6 +2,14 @@
 layout: post
 title: Nice Take On Aperture 3 Post Processing
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- post processing
+- Presets
 ---
 I try to follow the blogs of everyone that I know of or had contact with through this little site of mine. Not just to be nice but there are some DAMN fine photographers out there that actually "get me" surprisingly enough. Some of them "Pro's" some of them just DAMN fine photographers that happen to make money in other ways (probably more profitable). In any case if you haven't ever taken the time to checkout some of the links to readers blogs that they provide - be sure to do so. I am pretty sure you will find someone that you will learn something from, be inspired by, or even make friends with - they might be close by.
 

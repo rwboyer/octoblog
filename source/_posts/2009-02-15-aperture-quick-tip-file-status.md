@@ -2,6 +2,21 @@
 layout: post
 title: Aperture Quick Tip - File Status
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- Apple Aperture
+- hud
+- masters
+- Metadata
+- Organization
+- organization hierarchy
+- powerful file management
+- search tools
 ---
 <a href="/wp-content/uploads/2009/02/AQT___Search.jpg"><img title="AQT___Search.jpg" src="/wp-content/uploads/2009/02/.thumbs/.AQT___Search.jpg" border="0" alt="AQT___Search.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>In response to a couple of questions that I received regarding the <a href="http://photo.rwboyer.com/2009/01/aperture-2-file-management/">Aperture File Management</a> post from a week or so back I thought that I would share a quick tip for those struggling to get their Aperture libraries beaten into submission. If you have more than a couple of images Aperture's search tools are a god send. One of the concepts that I mentioned briefly in the File Management post was that you could use any criteria that you would like to create a selection to subsequently use to "relocate masters". One of the things that I did not mention is some searchable metadata buried in Aperture's search HUD that comes in very handy when organizing a complex storage scheme.<!--more-->
 

@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - Modifying A Batch Of Images
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- lift and stamp
+- multiple images
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/000000101.jpg"><img title="000000101.jpg" src="/wp-content/uploads/2010/03/.thumbs/.000000101.jpg" border="0" alt="000000101.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Got some feedback on the first screencast already - some good and some bad. The good was that a viewer learned something that was not even on the topic of stacks and albums. The bad was that I should buy a better microphone. I will - I promise but first let's see if these things prove to be helpful.
 

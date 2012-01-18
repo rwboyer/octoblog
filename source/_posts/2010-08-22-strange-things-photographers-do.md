@@ -2,6 +2,14 @@
 layout: post
 title: Strange Things Photographers Do
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- delta 100
+- film
+- Ilford
 ---
 Except for the occasional emotional outburst and associated ranting I do here you probably thing I am a fairly rational photographer. No voodoo or chicken bone waving kind of stuff - I like to know how things work including the materials and devices I use to make images with. Of course I am not all logic and ration, heck I use Leicas and some lenses that are not considered "the best" and film because I like the way it looks, and in some cases feels. I am sure that I could "rationalize" just about any of my choices but here is one that I thought you might get a kick out of that is completely indefensible from a rational point of view.
 

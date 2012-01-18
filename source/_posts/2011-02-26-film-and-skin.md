@@ -2,6 +2,13 @@
 layout: post
 title: Film And Skin
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak Portra 160VC
+- skin
 ---
 You guys are insatiable - no sooner than I hit the post button on "what sucks about digital" and someone wants to know "hey - what do you mean digi-cam skin tones suck?".  Hmmmm, well, It's kinda hard to explain and I really don't have anything cooked up to "prove" it, I am lazy, but I do happen to have the folder of that 10 year expired drug store processed Kodak Portra 160VC sitting here so....
 

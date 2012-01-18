@@ -2,6 +2,15 @@
 layout: post
 title: Micro 4/3 Shooting Steady
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic GF1
+- Panasonic LX5
 ---
 I broke down and bought the EVF for the GF-1. I know that I said I wouldn't do it for a few months but I had to. You see, it again was better than free. I will explain that in a minute but first I will tell you why. The two things that I worry about being sans viewfinder are my personal preference, which I am trying to get over and more importantly - the ability to hold the stinking camera still when taking a picture.
 

@@ -2,6 +2,14 @@
 layout: post
 title: Things You Can Do With A Window
 comments: true
+categories:
+- Articles
+- Featured
+- Lighting
+tags:
+- lighting technique
+- Portrait Lighting
+- window light
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-006-07.jpg"><img class="alignleft size-medium wp-image-2146" title="2002-006-07" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-006-07-300x136.jpg" alt="" width="300" height="136" /></a>I know - we all know this and we all love our gear and our gadgets but sometimes less is actually more. Not always just sometimes. I thought I would remind everyone out there in photography land that sometimes the simplest approach can be the best. Take lighting for instance. I know it's all the rage for everyone to get a bunch of small strobes and do all kind of whacky things with them off camera, or to just make sure that you have a bunch of shadow detail everywhere with auto fill-flash. Take a break from all the complexity and the fiddling around every once in a while. You might be happy with the results.
 

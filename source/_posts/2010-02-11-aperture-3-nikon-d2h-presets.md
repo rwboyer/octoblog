@@ -2,6 +2,19 @@
 layout: post
 title: Aperture 3 - Nikon D2H Presets
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adjustment
+- adjustments
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon Capture NX2
+- Nikon D2h
+- Picture Controls
+- Presets
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3D2H.jpg"><img title="Ap3D2H.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3D2H.jpg" border="0" alt="Ap3D2H.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>This is for our friend Paul. He asked for some starting points for the D2H in Aperture so here are a few to get started. Just as a note - the D2H has perennially been one of the most difficult NEF files to dial-in due to continuous bizarre but subtle white balance issues in Aperture. This has been true since Aperture V1 but has improved over time. I have to say somewhere in the last few updates I could swear it got better but why? I think myself and Paul are probably the only ones that still shoot this camera on the planet. Yea the D3 is way better in a lot of ways but...
 

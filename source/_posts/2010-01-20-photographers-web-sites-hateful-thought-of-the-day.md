@@ -2,6 +2,12 @@
 layout: post
 title: Photographer's Web Sites - Hateful Thought Of The Day
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- flash
+- photographer's web sites
 ---
 I know I rant about this all the time but today after surfing a couple of different photographer's web sites I just have to let the steam vent a little (again). First off let me say - every site I visited the photographer's work was fantastic. I expected it to be. I have seen it before. The issue is the site itself. It is not that it is ugly, it's not. The issue is that somehow photographer's seem to be disconnected from the rest of the internet universe in terms of what is annoying when using the web.
 

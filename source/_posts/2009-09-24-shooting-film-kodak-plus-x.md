@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Film - Kodak Plus-X
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak
+- Plus-X
+- PMK
+- pyro
+- TRI-X
+- XTOL
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2000_027_30.jpg"><img title="2000_027_30.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2000_027_30.jpg" border="0" alt="2000_027_30.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Just a real quick post on my long overdue shooting film series, since I have been so big on shooting an M series film camera prior to taking the $9000 plunge for an M9 and meager Leica lens. Here is an old favorite of mine, always appropriate, renders skin tones well - a little too blue sensitive but hey that is what yellow filters were made for. Good ol' Kodak Plus-X Pan.
 

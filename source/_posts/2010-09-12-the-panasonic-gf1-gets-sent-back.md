@@ -2,6 +2,14 @@
 layout: post
 title: The Panasonic GF1 Get's Sent Back
 comments: true
+categories:
+- Articles
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Panasonic 20mm
+- Panasonic GF-1
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P1070239.jpg"><img class="alignleft size-medium wp-image-2378" title="P1070239" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P1070239-300x225.jpg" alt="" width="300" height="225" /></a>Yep - The GF1 is going back to Amazon but another one is on the way and should be here Monday or Tuesday. There was absolutely nothing wrong with the Camera. The problem was that after playing a lot with the 20mm f 1.7 lens I determined it was defective. The focus was super slow when it worked at all, both on the E-P1 and the GF1. The issue with slowness is that it's subjective. My E-P1 with the 14-42 lens was far far far faster than the GF1 with the 20mm. When I switched lenses the GF1 was as fast or faster than the E-P1. I will have to do more testing with the same lens on each camera because the focus motor speed definitely is more than half the equation here.
 

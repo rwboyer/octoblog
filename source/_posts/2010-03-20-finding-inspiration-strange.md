@@ -2,6 +2,15 @@
 layout: post
 title: Finding Inspiration - Strange
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Fuji
+- Instax
+- Polaroid
+- real film
+- simplicity
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/Instax.jpg"><img title="Instax.jpg" src="/wp-content/uploads/2010/03/.thumbs/.Instax.jpg" border="0" alt="Instax.jpg" hspace="10" vspace="10" width="94" height="150" align="left" /></a>This image is a scan from daughter No. 1's new camera. The camera is dead simple. No focus control, guess exposure, as in inside, sort of cloudy, sort of not cloudy, and sunny. That is the extent of it. The picture pops out the top. It's small but has a really interesting "look". She loves this thing - the Fuji Instax Mini.
 

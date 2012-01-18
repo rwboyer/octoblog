@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - Nikon And White Balance
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon
+- WB
+- white balance
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC0029.jpg"><img title="DSC0029.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC0029.jpg" border="0" alt="DSC0029.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>You can probably guess that I have had more than a few conversations regarding NEF color rendering lately. In the past I have ranted and raved about not only the color wrongness of Apples CoreImage RAW conversions for NEF files but also about the white balance. Over the years the situation has gotten a little better and a little better. It is still unbelievable to me that Apple is about the only vendor decoding NEF files that has not figured this out yet. The rest have so I am not buying it's Nikon's issue any more. Yea maybe Nikon does not do WB the way Apple wants it to be done but if you are going to play in the RAW conversion arena and say that you do NEF files then you should at least be on par with EVERY OTHER FREAKING VENDOR THAT SELLS PRODUCTS.
 

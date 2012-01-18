@@ -2,6 +2,13 @@
 layout: post
 title: Spring Fever
 comments: true
+categories:
+- Site News
+tags:
+- artistic process
+- inspiration
+- journal keeping
+- notes
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/06/DSC_0315___Version_2.jpg"><img title="DSC_0315___Version_2.jpg" src="/wp-content/uploads/2010/06/.thumbs/.DSC_0315___Version_2.jpg" border="0" alt="DSC_0315___Version_2.jpg" hspace="10" vspace="10" width="150" height="64" align="left" /></a>Forgive me for not updating the site in what seems like a decade. I would love to say that I have been hard at work on finishing up the Aperture 3 updates to my eBooks or producing a gaggle of Aperture 3 screencasts that are better and more reasonably priced than my more capitalistic colleagues but the fact is that I have been suffering from spring fever. Happens every year. I hope to be over it soon. On that note I have been at least jotting down all of the things that cross my mind to post regarding Aperture, photography, etc. What is it they say about "The faintest ink..."
 

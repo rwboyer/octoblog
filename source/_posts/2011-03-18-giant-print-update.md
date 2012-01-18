@@ -2,6 +2,12 @@
 layout: post
 title: Giant Print Update
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- post-production
+- printing
 ---
 So...
 

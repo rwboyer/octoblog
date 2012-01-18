@@ -2,6 +2,11 @@
 layout: post
 title: It's Been A While Since My Last Rant.
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Rant
 ---
 I know that all of you are wondering why it has been so very long since my last outburst on something photographic by calling bullshit out on something. Like interviews with photographers that talk incessantly about making every shot count and not taking too many images then at the end it comes up that he/she shot 30,000 images in less than a year to end up with 40 selects. Or a bogus horrendous magazine cover, etc.
 

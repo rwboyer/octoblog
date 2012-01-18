@@ -2,6 +2,19 @@
 layout: post
 title: 80% of Everything You Read About Photography Is Complete Nonsense
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 6x6
+- Agfa APX 100
+- Kodak PXP
+- medium format
+- photography
+- Plus-X
+- PMK pyro
+- pyro
+- rodinal
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_7994.jpg"><img title="DSC_7994.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_7994.jpg" border="0" alt="DSC_7994.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Had some interesting philosophical discussions this weekend via email and real in person live Sykpe person to person stuff to. Anyway I felt compelled to share this a few thoughts with loyal readers. Philosophically the motivation for this site for me is education of people that love making photographs. I really get a big charge when I see the "light bulb turn on" for someone that was not "getting it". I learned this a while back when I decided to hold a couple of workshops. I learned way before that that 80% of everything you read or hear about photography is nonsense. My main goal is to dispense with that as much as I can. This internet endeavor is NOT a showcase for my work. It is not about an end to end cradle to grave final image product. The images that I choose to display I choose to be illustrative of what I happen to be talking about at the moment.
 

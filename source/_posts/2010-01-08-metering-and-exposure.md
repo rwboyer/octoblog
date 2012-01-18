@@ -2,6 +2,13 @@
 layout: post
 title: Metering And Exposure
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- exposure
+- metering
+- stupid advise
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/1999_026_10.jpg"><img title="1999_026_10.jpg" src="/wp-content/uploads/2010/01/.thumbs/.1999_026_10.jpg" border="0" alt="1999_026_10.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I have talked about metering and exposure on and off along with the infamous "histogram" and how useless it is if you don't know what the scene looks like - or "should" look like. Today I am going to put some random thoughts out there for people that are addicted to "matrix metering" and auto exposure. I am also going to start off with a statement that is a bit controversial.
 

@@ -2,6 +2,18 @@
 layout: post
 title: What's Wrong With This Picture?
 comments: true
+categories:
+- Articles
+- General Photography
+- Lighting
+tags:
+- Color
+- fill
+- key light
+- Lighting
+- placement
+- strobe
+- what not to do
 ---
 Hey I know this guy is super duper popular for his introducing the everyman out there to using flash (even though he talks cheap and actually uses expensive things and big lights now or like 12 SB900's). I have to admit he has done some cool stuff way back but I just have to ask WTF lately?
 

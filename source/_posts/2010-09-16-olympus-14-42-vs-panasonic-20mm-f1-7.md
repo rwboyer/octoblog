@@ -2,6 +2,15 @@
 layout: post
 title: Olympus 14-42 vs Panasonic 20mm f/1.7
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic 20mm
 ---
 This is not a lens test it is a quick follow up on something I noted the other day regarding a difference in color rendition between the Olympus micro 4/3 kit lens and the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002IKLJVE%3Fie%3DUTF8%26ref_%3Ddp_olp_new_map%26qid%3D1284664621%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Panasonic 20mm f/1.7</a>, I refuse to use the word pancake, crap I just used it. Okay that is the last time I will use that, whey the heck does everyone want to call lenses pancakes?
 

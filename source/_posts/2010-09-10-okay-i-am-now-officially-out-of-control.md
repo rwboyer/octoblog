@@ -2,6 +2,13 @@
 layout: post
 title: Okay - I Am Now Officially Out Of Control
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- Micro 4:3
+- Panasonic GF-1
+- Panasonic LX5
 ---
 So, do you remember my last post from about 3 hours ago where I said that a Panasonic 20mm f 1.7 micro 4/3 lens was showing up tomorrow? It happens to be attached to a <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002MUAEX4%3Fie%3DUTF8%26coliid%3D%26ref_%3Dolp_tab_used%26me%3D%26qid%3D1284169307%26qid%3D1284169307%26sr%3D1-1%26sr%3D1-1%26seller%3D%26colid%3D%26condition%3Dused&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Panasonic GF1 camera</a> that is pretty much free as we established from that entry level lesson on rationalizing gear money. Okay - you do remember that, good. Well, I got to thinking about all that philanthropic work that I was going to do for all my fellow photo-oriented mankind and give you my take on the ups and downs of the Panasonic compact micro 4/3 versus the Olympus micro 4/3 systems. All that thinking lead me to believe that grabbing the 14-42 Panasonic lens was a must do so I could compare the two.
 

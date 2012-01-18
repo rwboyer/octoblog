@@ -2,6 +2,14 @@
 layout: post
 title: More On Pyro Developers
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Ilford Delta 100
+- pyro
+- Pyrocat HD
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/delta100-pyro.jpg"><img class="size-medium wp-image-2332 alignleft" title="delta100-pyro" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/delta100-pyro-300x239.jpg" alt="" width="300" height="239" /></a>Here is a really lousy shot from one of my 9 year old Delta 100 rolls that I found a while back. I have been using it to shoot "stupid stuff". Sort of what I use digital for in a lot of cases. I am a big advocate of shooting stupid stuff. You know - the kind of stuff you know won't work but it's fun anyway.
 

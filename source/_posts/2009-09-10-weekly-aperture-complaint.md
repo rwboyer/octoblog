@@ -2,6 +2,23 @@
 layout: post
 title: Weekly Aperture Complaint
 comments: true
+categories:
+- Apple Aperture
+- General Photography
+- Lighting
+tags:
+- announcement
+- Aperture
+- Apple
+- complain
+- dodge and burn
+- glamour
+- image manipulation
+- local adjustment
+- painting with light
+- Portrait Lighting
+- post-production
+- retouch
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/DSC0029.jpg"><img title="DSC0029.jpg" src="/wp-content/uploads/2009/09/.thumbs/.DSC0029.jpg" border="0" alt="DSC0029.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>Been really really busy lately so I haven't had time to complain about Apple and their apparent conspiracy to drive Aperture users completely out of their minds so I thought I would rant a little and maybe even provide a little helpful info for the uninitiated photo manipulator (retoucher/whatever). Yep another Apple announcement and not peep about Aperture. I didn't really expect one at the music event but it just is another tiny little mile-marker of no Aperture updates. Hey if Apple can put a freaking movie camera in a freaking nano why the heck can't I have a god dang Aperture update?
 

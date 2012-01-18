@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - Brushed Sharpening Export
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 3
+- Apple
+- Sharpening
 ---
 If you visit the Apple Aperture support forum you may have noticed a couple of long running threads regarding an issue with the Aperture sharpening quick brush. The angry mob believes that there is an issue where this brushed in sharpening is not being exported. Over the last two weeks I have worked with more than a few people that thought they were experiencing this "issue". Here are my findings.
 

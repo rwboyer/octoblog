@@ -2,6 +2,10 @@
 layout: post
 title: A Woman's Rant On Wedding Photography
 comments: true
+categories:
+- General Photography
+tags:
+- wedding photography
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2001-031-28.jpg"><img class="alignleft size-medium wp-image-2131" title="2001-031-28" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2001-031-28-300x200.jpg" alt="" width="300" height="200" /></a>You have to <a href="http://www.alosangeleslove.com/2010/08/what-to-look-for-in-photographer.html?spref=tw">check out this bride's rant on wedding photography</a>. She directs her venom at certain wedding photographers but my take is more on the practice as a whole. If you get past her obvious anger and emotion, she actually has a very strong philosophical point. She really really does. I am not in the wedding business nor do I ever plan on being in the wedding business. I honestly couldn't do it. Not because I am some sort of elitist but because it is too freaking hard to do the kind of job I would want to do. Actually it is a hard hard way to earn a living any way you slice it, unless you are one of a few "rock star" wedding photographers.
 

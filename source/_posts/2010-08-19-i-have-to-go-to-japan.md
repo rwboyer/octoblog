@@ -2,6 +2,13 @@
 layout: post
 title: I Have To Go To Japan
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- Nikon FM3a
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_1019-Version-3.jpg"><img class="alignleft size-medium wp-image-2150" title="DSC_1019 - Version 3" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC_1019-Version-3-300x136.jpg" alt="" width="300" height="136" /></a>I just love some of these Japanese photographers. They produce some of the coolest images with the most meager of gear. Should I learn the language first? I am actually serious about the Japan visit - even if just for a vacation and to see some of what I understand are a ton of photography exhibitions that are all over the place.
 

@@ -2,6 +2,12 @@
 layout: post
 title: What Is Photogenic?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Hasselblad
+- square images
 ---
 We have all heard this term, at least all of us english speaking natives. We may have even used it. I know I have on numerous occasions. For those of you reading that might not know what it means - I have an believable number of readers from around the globe - more than 40% from non-english speaking countries. That always surprises me considering my sarcasm might not translate to well... In which case that scares me into some semblance of responsibility occasionally. Back to the word "photogenic" - It means someone that looks good in photographic images. Typically it is hard to take a bad image of these people - hence the need for a word.
 

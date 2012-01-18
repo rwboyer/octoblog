@@ -2,6 +2,14 @@
 layout: post
 title: Out of the Funk - Shooting For Real - Again
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- film
+- Leica M
+- Noctilux
+- Olympus E-PL1
 ---
 So, long time readers might remember that I really haven't shot seriously in about 2 years or so. I really needed to take a long break. I had over done my chosen subject and vocation. So much so that I really didn't even feel like picking up a camera again. Not a good place to be given I love photography. That was a stupid thing to do - not shooting for a couple of years.
 

@@ -2,6 +2,18 @@
 layout: post
 title: Camera Bags - They Are Always Too Small
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
+- camera bags
+- cameras
+- cases
+- Gear
+- Hasselblad
+- Leica
+- lenses
 ---
 The title is not a complaint. It really isn't. It's an observation on having purchased and lived with more camera toting gear, bags, backpacks, satchels, wraps, straps, and cases than I care to remember. Every single one of them was quickly became too small. I was thinking about this today when I pulled out my Domke F-803 to grab a pamphlet that I jammed in the back pocket about a week ago. I just <a href="http://www.amazon.com/gp/product/B001RNPD42?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001RNPD42">ordered a new F-803, this one is in the new "ruggedwear" finish</a>. I assume it will be as durable as this one has been. Yea I know it doesn't look too too bad in this image but trust me I have worn holes in it and it's time. This one has been around the planet a couple of times and it really shows. The hooks are actually rusty.
 

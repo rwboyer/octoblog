@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 Zooming
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- work-flow
+- Workflow
+- zoom tool
 ---
 You have all probably figured this out by now but Aperture 3's image zoom tools are pretty cool. As part of the SuperSimpleStuff™ series I wanted to note one minor behavior that you may not have noticed based on a one on one session that I did where this came up.
 

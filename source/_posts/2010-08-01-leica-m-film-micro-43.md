@@ -2,6 +2,12 @@
 layout: post
 title: Leica M - Film - Micro 4/3
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- film
+- Leica M
 ---
 Some clarifications from my last post regarding my choices, why they are right for me, and my subject matter. 80% of my pictures are rendered as 8x10 or smaller usually in books of some sort either digital or books I make from prints that I do myself. The other 19% are in prints that are approximately 11x14 in size maybe longer if I do full frame and the last 1% are bigger than that - usually for temporary exhibition purposes where people are not right on top of them. I love the way all of my film performs at 11x14 - even TX and TMZ from 35mm. It looks great. If the image is good the final output is good.
 

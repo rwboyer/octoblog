@@ -2,6 +2,15 @@
 layout: post
 title: Sieff - A Follow-Up
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm
+- Black and White
+- Jeanloup Sieff
+- large format
+- medium format
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/default_ecard_sieff_01_0706191731_id_51257.jpg"><img title="default_ecard_sieff_01_0706191731_id_51257.jpg" src="/wp-content/uploads/2009/12/.thumbs/.default_ecard_sieff_01_0706191731_id_51257.jpg" border="0" alt="default_ecard_sieff_01_0706191731_id_51257.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Funny thing - I have had a ton of people come up and thank me for posting the little blurb regarding Jeanloup Sieff. Well not really "come up" but email me, message me, and even mention it in another forum. Seems that a lot of people really like his work, did find it inspirational, and here is the surprise - NEVER HEARD OF HIM BEFORE.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Aperture Quick Tip - Blue Folders and Projects
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Add new tag
+- Aperture 2
+- Aperture Blue Folder
+- Aperture Project
+- Organization
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/Aperture_QT_blue_folder.jpg"><img title="Aperture_QT_blue_folder.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.Aperture_QT_blue_folder.jpg" border="0" alt="Aperture_QT_blue_folder.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>If you create a folder while clicked on the library (or another blue folder) you get a blue folder. You can group projects together inside a blue folder as well as other blue folders. That's pretty evident but one of the other things that you can do is create other things like smart albums inside a blue folder that are not inside any one project. The really cool thing about smart albums in a blue folder is that the search criteria is restricted to only the projects that are also inside that blue folder. The same goes for searches in the browser. Try it. Drag a couple of your Aperture projects inside a new blue folder that you create and then click on the blue folder itself. You will notice that you will see all of the images inside all of the projects that are contained in the blue folder. If you do a search in the browser only images that are in projects contained in that folder show up. Nice.
 <!--more-->

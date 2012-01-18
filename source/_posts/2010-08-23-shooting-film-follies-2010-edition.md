@@ -2,6 +2,14 @@
 layout: post
 title: Shooting Film Follies - 2010 Edition
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
+- Black and White
+- film
+- inspiration
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/Delta100-print.jpg"><img class="alignleft size-medium wp-image-2183" title="Delta100-print" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/Delta100-print-300x241.jpg" alt="" width="300" height="241" /></a>I know - too much about film. Don't worry the only reason is I have had Aperture 3 on the brain for way way too long over the last few days going through the latest soon to be released (this week I promise) Organization eBook. So now that I took a break from that today I wanted to wrap up the ongoing mini-posts I have been doing on Delta 100.
 

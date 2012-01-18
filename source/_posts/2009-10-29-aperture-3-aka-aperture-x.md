@@ -2,6 +2,12 @@
 layout: post
 title: Aperture 3 aka Aperture X
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3. Aperture X
+- Apple
 ---
 As many of you may have heard over the last week or so a book appeared on Amazon that had Aperture X in the title. It was available for pre-order with availability in the Spring of 2010. This has led to a lot of chatter about an imminent release of the next major version of Aperture. The word on the street is the release will be rebranded as Aperture X to align it with OS X or something like that.
 

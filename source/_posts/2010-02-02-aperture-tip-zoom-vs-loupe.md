@@ -2,6 +2,19 @@
 layout: post
 title: Aperture Tip - Zoom vs Loupe
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Apple Aperture
+- compare mode
+- Loupe
+- performance
+- Stack Mode
+- work-flow
+- Workflow
+- Zoom
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/ApertureScreenSnapz005_1.jpg"><img title="ApertureScreenSnapz005_1.jpg" src="/wp-content/uploads/2010/02/.thumbs/.ApertureScreenSnapz005_1.jpg" border="0" alt="ApertureScreenSnapz005_1.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Until we see Aperture 3 I am going to try to get all you Aperture fans "ready" by trying to give you some useful stuff that you may not know or may not have thought about in the version that we all have right now. For some of you it might be a whole lot like getting a new version.
 

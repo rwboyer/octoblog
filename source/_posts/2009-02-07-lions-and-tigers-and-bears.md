@@ -2,6 +2,13 @@
 layout: post
 title: Lions and Tigers and Bears
 comments: true
+categories:
+- Site News
+tags:
+- Organization
+- Podcast
+- Video
+- work-flow
 ---
 <a href="/wp-content/uploads/2009/02/screen_capture.jpg"><img title="screen_capture.jpg" src="/wp-content/uploads/2009/02/.thumbs/.screen_capture.jpg" border="0" alt="screen_capture.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>My oh my. For the first time ever the email volume of questions, suggestions, requests, and reprisals has outstripped my capacity to answer them in a timely manner. What shall I do, I guess I will work hard this weekend to get through them.
 

@@ -2,6 +2,14 @@
 layout: post
 title: More On Moo
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
+- Creativity
+- Moo
+- print
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC0007-moo.jpg"><img class="alignleft size-medium wp-image-2280" title="DSC0007-moo" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/DSC0007-moo-300x120.jpg" alt="" width="300" height="120" /></a>Let me say if you are a photographer and you are not using Moo products you have to be crazy. It doesn't matter if you are the family photographer, a top of the game, wedding shooter, commercial, travel, landscape, whatever. Use them. For that matter even if you are not a photographer they are amazing. Come-on 50 or 100 high quality images with two sides of printing for 20 bucks depending on what size you order? Just do it.
 

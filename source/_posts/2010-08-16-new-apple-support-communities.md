@@ -2,6 +2,14 @@
 layout: post
 title: New Apple Support Communities
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Site News
+tags:
+- Apple
+- humor
+- support forums
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/GLMedia-338-Version-2.jpg"><img class="alignleft size-medium wp-image-2125" title="GLMedia 338 - Version 2" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/GLMedia-338-Version-2-300x136.jpg" alt="" width="300" height="136" /></a>Oooh - ooooh, I just can't wait for this to be out. Apple's latest wonderfulness, new support "communities". <a href="http://arstechnica.com/apple/news/2010/08/apple-rejiggering-support-forums-with-social-network-bent.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss&amp;comments=1#comments-bar">Read all about it here</a>. You'll never guess this next part - are you ready - it is going to be more "social". But wait there is more...
 

@@ -2,6 +2,15 @@
 layout: post
 title: Photographers For Inspiration - Sebastiao Salgado
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- inspiration
+- Photographers
+- sebastiao salgado
+- TRI-X
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/salgado_covers.jpg"><img title="salgado_covers.jpg" src="/wp-content/uploads/2010/01/.thumbs/.salgado_covers.jpg" border="0" alt="salgado_covers.jpg" hspace="10" vspace="10" width="150" height="98" align="left" /></a>Salgado is the journalistic photographer that to me symbolizes the art of journalistic photography. His images are everything a photograph can be. It isn't just one aspect of the image - it is everything. The concept, the story, the content, the light, the framing, the moment, the people. When I grow up I want to make images like Salgado. Journalistic images, like a photojournalist but I also want them to be fantastically beautiful art. I want them to be good journalism and I want them to be good art.
 

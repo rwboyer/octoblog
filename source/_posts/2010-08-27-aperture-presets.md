@@ -2,6 +2,13 @@
 layout: post
 title: Aperture Presets
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- preset
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/GLMedia-639-Version-3.jpg"><img class="alignleft size-medium wp-image-2255" title="GLMedia 639 - Version 3" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/GLMedia-639-Version-3-300x136.jpg" alt="" width="300" height="136" /></a>Or any other "presets" for that matter are not evil. I feel compelled to say that and get my official position out there after some mis-understandings of prior posts and a few emails regarding the subject after my "HDR preset" post went viral. First off, I do use presets, my own, not presets I buy. I however am not a fan of for sale presets. I will re-explain why in a second without the subtle sarcasm so I am clear along with some advice in setting up your own preset library.
 

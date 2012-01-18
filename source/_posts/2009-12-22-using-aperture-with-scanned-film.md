@@ -2,6 +2,19 @@
 layout: post
 title: Using Aperture With Scanned Film
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture 3
+- Aperture X
+- Apple
+- file size
+- film
+- scanned film
+- scanned images
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/scans.jpg"><img title="scans.jpg" src="/wp-content/uploads/2009/12/.thumbs/.scans.jpg" border="0" alt="scans.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Well, I have crossed over the threshold. I have received the same question enough that I cannot avoid posting something on the subject. I have been trying to avoid this and skirt it for some time now. Like forever. Truth is that my scanned film does not reside in Aperture. Nope. I would like it to reside there, all neatly cataloged and categorized but alas it just don't cut it. Yet.
 

@@ -2,6 +2,13 @@
 layout: post
 title: Kodak TXP RIP
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak TXP
+- PMK pyro
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-010-01-880.jpg"><img class="alignleft size-medium wp-image-2141" title="2002-010-01-880" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-010-01-880-300x136.jpg" alt="" width="300" height="136" /></a>I know it has been a while since kodak decided to stop making TRI-X Pro 320 in medium format. I think I am one of the only people on the planet that actually still shot the stuff, most folks think of TX or TRI-X 400 when they think of TRI-X at all, well at least the stuff that comes in rolls. I think they still make the TXP in sheet film but it is soooo expensive it's not funny and I tend to shoot subjects on sheet film that don't really have me reaching for TXP since speed is the least of my sheet film issues, then again maybe I'll use it for some figure studies or something.
 

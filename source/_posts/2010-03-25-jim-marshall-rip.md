@@ -2,6 +2,11 @@
 layout: post
 title: Jim Marshall - RIP
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Jim Marshall
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/00AHhO_20693984.jpg"><img title="00AHhO_20693984.jpg" src="/wp-content/uploads/2010/03/.thumbs/.00AHhO_20693984.jpg" border="0" alt="00AHhO_20693984.jpg" hspace="10" vspace="10" width="150" height="117" align="left" /></a>For those of you who haven't heard - Jim Marshall passed away. Never heard of him - check out his photos of rock legends. In my book his images are what photography is all about - fantastic stuff. Heck he is a rock legend himself.
 

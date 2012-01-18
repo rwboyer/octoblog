@@ -2,6 +2,16 @@
 layout: post
 title: Small Strobes - The Ups and Downs
 comments: true
+categories:
+- Articles
+- General Photography
+- Lighting
+tags:
+- CLS
+- Lighting
+- Nikon
+- small strobe
+- strobes
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/05/DSC_0081.jpg"><img title="DSC_0081.jpg" src="/wp-content/uploads/2009/05/.thumbs/.DSC_0081.jpg" border="0" alt="DSC_0081.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I occasionally do workshops, some of them on lighting. All of the rage these days are workshops, websites, and photographers extolling the virtues and showing people what you can do with small strobes. In otherwords "hot shoe" strobes. I thought that I would share a couple of thoughts on the subject of small strobes.
 

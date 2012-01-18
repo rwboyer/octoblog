@@ -2,6 +2,12 @@
 layout: post
 title: Nikon F3 - I think I Am Cornering The Market
 comments: true
+categories:
+- Site News
+tags:
+- film
+- Nikon
+- Nikon F3
 ---
 Just snagged another Nikon F3 body w/ MD4 motor drive for $100. I cannot believe these things are so cheap. They are a deal at the normal going eBay rate of $200 - #250 for a nice user condition camera. Of course the truly "mint" and "special" ones bring big bucks but the everyday "regular" ones in great shape are a steal. These things are so cheap that I feel kind of guilty snapping them all up. I have like 5 of them and just one will probably last a lifetime.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Yet Another Aperture eBook
 comments: true
+categories:
+- Aperture PDF Guides
+- Apple Aperture
+- Site News
+tags:
+- Aperture organization
+- Aperture PDF Guides
+- Apple Aperture
+- eBook
+- work-flow
+- Workflow
 ---
 Yep, another ebook. So soon? Hey I have been working on these for a long time. This eBook covers Aperture organization. There is a good chance that if you are reading this that you may already have the free Aperture Organization PDF that I have made available for about the last year. If so I am not trying to convince you to purchase this one.
 

@@ -2,6 +2,14 @@
 layout: post
 title: Film Gear Prices Going Up?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Nikon
+- Nikon FE
+- Nikon FM@
 ---
 I don't quote Ken Rockwell a whole lot in either private or public. We probably differ on more points that we agree when it comes to details but I generally agree with his intent. Heck he even declares that you should take him with a grain of salt - tongue-in-cheek kind of way. All that aside, I do run across a post of his while googling something that crosses my mind now and again.
 

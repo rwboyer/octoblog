@@ -2,6 +2,18 @@
 layout: post
 title: Aperture Workflow Tip - Album Picks
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- album
+- album pick
+- Aperture 2
+- Apple Aperture
+- new version
+- Plug-in
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/albumpick.jpg"><img title="albumpick.jpg" src="/wp-content/uploads/2010/01/.thumbs/.albumpick.jpg" border="0" alt="albumpick.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>While we are anxiously waiting to see if Aperture 3 will pop out somewhere in the midst of all the iTablet hoopla this week, I thought I would offer a small tip for your current Aperture workflow. This is one that is obvious once you hear it but can be extremely frustrating if you "expect" Aperture to work differently than it actually does.
 

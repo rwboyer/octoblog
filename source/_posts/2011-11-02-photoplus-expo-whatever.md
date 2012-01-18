@@ -2,6 +2,10 @@
 layout: post
 title: PhotoPlus Expo = Whatever
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 So, here is my report from NYC PhotoPlus. I know, I am a terrible reporter as this is old news considering that the event was at the end of last week and anyone that gives a rat's a<em></em> was probably being updated via 18 real time feeds. In any case I figured I would give my quite jaded 2 cents.
 

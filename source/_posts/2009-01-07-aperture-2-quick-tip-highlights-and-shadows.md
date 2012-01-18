@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 2 Quick Tip - Highlights and Shadows
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adjustment
+- Aperture
+- Aperture 2
+- Apple
+- highlights and shadows
+- image adjustments
+- image manipulation
+- RAW
 ---
 <a href="/wp-content/uploads/2009/01/AQT___Highlight_Shadow_2.jpg"><img title="AQT___Highlight_Shadow_2.jpg" src="/wp-content/uploads/2009/01/.thumbs/.AQT___Highlight_Shadow_2.jpg" border="0" alt="AQT___Highlight_Shadow_2.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>As anybody that reads this blog knows I rarely post any articles that relate to image adjustments. The reason for this is that I feel the web is chock full of how-to sites regarding image manipulation. Some good and some not so good. While I will continue to post mainly work-flow related articles I wanted to depart just a little bit and post something on a set of adjustment features contained inÂ  Aperture that I feel is superior and far more accessible than other products. Not only that but also having received a ton of feedback on the NEF adjustment posts I wanted to see if more readers would find a smattering of other image manipulation and adjustment articles at all useful. Today's topic is mainly the Highlights and Shadows adjustment block with a tiny little bit of Recovery mixed in as well.<!--more-->
 

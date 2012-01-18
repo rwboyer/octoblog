@@ -2,6 +2,11 @@
 layout: post
 title: The Panasonic LX5 - One Year On
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Panasonic LX5
 ---
 <a href="http://www.amazon.com/gp/product/B003WJR69E/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B003WJR69E">I still love my little LX5</a>. I know I have been a little down on digital lately. I don't mean to be, I still love film, and especially love the simple, effective, and often beautiful equipment used with film. I really do hope that some manufacturer (in additional to Leica) will eventially produce a simple, small, high quality digital camera with a big giant sensor. I hope even more that the trend toward really complicated, big, heavy, feature laden zooms gives way to lenses that actually <em>look</em> better. Right now only Leica seems to make such things at idiotically high prices. Not so long ago <em>everyone</em> did.
 

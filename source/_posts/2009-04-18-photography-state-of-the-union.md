@@ -2,6 +2,19 @@
 layout: post
 title: Photography - State of the Union
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+- Articles
+- General Photography
+tags:
+- Image noise
+- Kodachrome
+- National Geograpic
+- Nikon D1 series
+- Nikon D1x
+- Nikon D2h
+- Sharpening
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/DSC_9596.jpg"><img title="DSC_9596.jpg" src="/wp-content/uploads/2009/04/.thumbs/.DSC_9596.jpg" border="0" alt="DSC_9596.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I must be getting old. I continue to be amazed and at the same time horrified by the state of affairs with photography in general. I guess what I am amazed with is the degree of progress in terms of the technology. When the Nikon D1 was released I used one, I didn't own it but I had the opportunity to use an associate's camera on a number of occasions. In and around that time I was shooting a Nikon F5. <!--more-->I thought that the D1 and then the D1H, and then the D1X were interesting but they were nowhere near the camera the F5 was. The F5 was responsive, accurate, durable, etc. I guess the D1 series cameras were okay but again as picture taking devices they paled in comparison. For "serious" photography I was using my medium format gear. I have never been a photojournalist professionally but have always admired great photojournalistic work. I could see how someone that did grab shots for news papers and other publications where turnaround time is king and quality a distant second could trade-off a little bit in terms of the picture taking machine that was the F5 for one of the D1 series cameras, especially the D1H or D1X. The viewfinders were horrid, the battery life terrible, but they were head and shoulders above what came before and they were workable.
 

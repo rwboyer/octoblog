@@ -2,6 +2,9 @@
 layout: post
 title: Wordpress Hacker This Morning.
 comments: true
+categories:
+- Site News
+tags:
 ---
 I hate hackers - they are stupid (mostly) and generally not real productive at actually accomplishing anything except breaking things and causing unnecessary extra work for those that actually contribute to society.
 

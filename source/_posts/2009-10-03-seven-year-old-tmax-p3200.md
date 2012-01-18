@@ -2,6 +2,18 @@
 layout: post
 title: Seven Year Old TMAX P3200
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- darkroom
+- expired film
+- fog
+- Kodak TMAX P3200
+- Leica
+- m6
+- TMZ
+- unprocessed film
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2009_001_01.jpg"><img title="2009_001_01.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2009_001_01.jpg" border="0" alt="2009_001_01.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Well, I decided to put my money where my mouth is and shoot more film prior to taking the M9 plunge. I really haven't shot film in the last two years since my last move. Well I did shoot some medium format but that was color and was not my M series Leica. In preparation to start shooting seriously with the M series I ordered up a fresh batch of developer and fixer from Photographers Forumulary and it arrived today.
 

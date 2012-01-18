@@ -2,6 +2,16 @@
 layout: post
 title: Photographers For Inspiration - Irving Penn
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- art
+- Black and White
+- fashion
+- inspiration
+- Irving Penn
+- portrait
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/irvingpenn.jpg"><img title="irvingpenn.jpg" src="/wp-content/uploads/2010/01/.thumbs/.irvingpenn.jpg" border="0" alt="irvingpenn.jpg" hspace="10" vspace="10" width="149" height="150" align="left" /></a>Okay - back to old school. If you have not delved into Irving Penn's work, you should. Not just a quick fly by, or surf by. You cannot really get a sense of this guy looking at his images for about 1/2 second each. I was quite the radical - not just in his time. In any time. Again, it's all about the subtlety. His radical nature does not SCREAM at you. I guess that is why he was so successful for so many decades as both an artist and a commercial image maker.
 

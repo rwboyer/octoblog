@@ -2,6 +2,16 @@
 layout: post
 title: Aperture  3 - The Best And The Worst
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- 64-bit
+- Aperture 3
+- Apple Aperture
+- Faces
+- Places
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3BestWorst.jpg"><img title="Ap3BestWorst.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3BestWorst.jpg" border="0" alt="Ap3BestWorst.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>I have been using Aperture 3 intensively since it's release and there is a lot here. All the good stuff is still in there with some more good stuff piled on. That does not mean that the world is perfect. It's not. So here is a quick run down of some of my favorite new stuff and stuff that is bugging the crap out of me.
 

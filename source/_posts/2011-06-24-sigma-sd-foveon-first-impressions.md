@@ -2,6 +2,13 @@
 layout: post
 title: Sigma SD Foveon First Impressions
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
+- Foveon
+- Sigma SD14
 ---
 I have set my <a href="http://www.amazon.com/gp/product/B000J2AB94/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B000J2AB94">expectations of the Sigma SD14</a> so very low based on my experience with the DP1s that I am actually impressed with Sigma's very old DSLR. I do have some serious criticisms as cameras go but overall this is not a bad camera to actually use. My first chance to use the thing was late afternoon yesterday. I had some meetings in the morning, then rain, and then some really whacky daylight/cloudy lighting conditions - not very pretty for shooting my typical StupidCrap™ test images.
 

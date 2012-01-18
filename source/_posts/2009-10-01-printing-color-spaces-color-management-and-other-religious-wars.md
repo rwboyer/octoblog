@@ -2,6 +2,22 @@
 layout: post
 title: Printing, Color Spaces, Color Management and Other Religious Wars
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Adobe
+- Aperture
+- Apple
+- blurb.com
+- book
+- cmyk
+- color management
+- InDesgin
+- photoshop
+- printing
+- rgb
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/IDPDFblurb.jpg"><img title="IDPDFblurb.jpg" src="/wp-content/uploads/2009/10/.thumbs/.IDPDFblurb.jpg" border="0" alt="IDPDFblurb.jpg" hspace="10" vspace="10" width="150" height="134" align="left" /></a>Been doing a lot of correspondence lately with some poor souls that are lost in the evil wilderness between color management hocus-pocus, the bizarre alternate reality that is Aperture printing behavior, and Blurb.com. I hope that I didn't come off sounding dismissive of good color management practices or someone that thinks sRGB is the end all be all. I am not and have been dealing with end to end color management since the dark ages when it was "hard".
 

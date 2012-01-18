@@ -2,6 +2,14 @@
 layout: post
 title: The Joy of Photography
 comments: true
+categories:
+- Adobe Lightroom
+- Apple Aperture
+- General Photography
+tags:
+- old boats
+- photography
+- railroad station
 ---
 <a rel="lightbox" href="/wp-content/uploads/FromIweb/1999009_09.jpg"><img title="1999009_09.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.1999009_09.jpg" border="0" alt="1999009_09.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>Today while I was waiting for the light rail in one of the the grand old Pennsylvania railroad stations, a place that I have been in and around countless times, thinking as I alway do, "I have to bring my camera and take some shots of this place soon", guess what happend. I saw someone that actually brought his camera and who was actually taking pictures. I sat and watched him for a minute or two and felt compelled to wave to him as my train arrived and I boarded.
 

@@ -2,6 +2,19 @@
 layout: post
 title: Aperture - Something Nice To Say
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- adjustments
+- Apple Aperture
+- conversions
+- NEF
+- Organization
+- RAW
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/DSC0009.jpg"><img title="DSC0009.jpg" src="/wp-content/uploads/2010/01/.thumbs/.DSC0009.jpg" border="0" alt="DSC0009.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Okay - so I have been like a whining baby that last few days. Let me say a couple of positive things about Apple Aperture as we are winding the week down. The first thing that I want to say is that in my opinion it is still the best photographic tool in it's class by a large margin. This doesn't mean that it cannot stand some room for improvement. It can but...
 

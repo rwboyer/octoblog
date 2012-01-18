@@ -2,6 +2,10 @@
 layout: post
 title: TGIF - No Matter What the Week Was Like
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/05/144a9ky.jpg"><img title="144a9ky.jpg" src="/wp-content/uploads/2010/05/.thumbs/.144a9ky.jpg" border="0" alt="144a9ky.jpg" hspace="10" vspace="10" width="150" height="50" align="left" /></a>Hope all of you have a fantastic weekend. I certainly plan on it. I am actually going to shoot some images this weekend. Maybe even of a guitar. Maybe even work it into a screencast work-flow lesson for Aperture 3 next week. I am feeling quite energetic. If you are not shooting enough (happens to me a lot) what gets you motivated to shoot?
 

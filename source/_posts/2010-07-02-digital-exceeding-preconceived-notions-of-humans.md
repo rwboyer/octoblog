@@ -2,6 +2,16 @@
 layout: post
 title: Digital - Exceeding Preconceived Notions of Humans
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Apple
+- digital
+- HD
+- iPhone4
+- technology
+- Video
 ---
 I ran across this from a tweet from one of the very few people I follow on twitter. I am not much of a "twitterer". I rarely post anything and definitely don't spend my life recording what inane things I happen to be doing, which appears to be - mostly twittering for twitterers. Reminds me too much of phone conversations I overhear my teenage daughters having - "What are you doin' - nothin', what are you doin', oh - nothin', I'm bored - me too, what do you want to do - nothin'"
 

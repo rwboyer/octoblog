@@ -2,6 +2,13 @@
 layout: post
 title: Old Cameras Are Just So Cool
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- Micro 4:3
+- Olympus E-PL1
+- Rolleiflex
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020172-880.jpg"><img class="alignleft size-medium wp-image-2305" title="P9020172-880" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020172-880-300x136.jpg" alt="" width="300" height="136" /></a>Yea some new cameras are cool to. In fact that little E-P1 Olympus qualifies so far as a cool camera. I bought is for all the reasons that I gave. Small, carry it anywhere. No guilty feeling that the image quality is inherently poor (like most P+S). In other words to get over my own hang-ups about small digital cameras. I am keeping it because it seems to do a reasonable job and fits the bill to jamb in the bag with my Leica cameras. Heck worst case is that it is the worlds most sophisticated light meter. Well at least for ambient light. The other reason I am keeping it is it is just so friggin cool. I really don't mind using it in the same way I minded using other small digicams I have picked up over the years.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Film - Sharpening and Other Rabbit Holes
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- grain
+- Ilford HP5 plus
+- medium format
+- PMK pyro
+- pyro
+- Sharpening
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2002_006_11_low_res.jpg"><img title="2002_006_11_low_res.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2002_006_11_low_res.jpg" border="0" alt="2002_006_11_low_res.jpg" hspace="10" vspace="10" width="147" height="150" align="left" /></a>Have had time to catch up on a heck of a lot of email this weekend, as some of you have figured out by my recent posts. Seems I might be doing film and some of you a disservice in the way I have been presenting some of my film scans according to an astute reader that has a passion for shooting film. I guess my thought was that everybody knows everything about scanning film and what that "should" look like vs what an analog print looks like, etc, etc. Well just to make sure I will clarify a couple of things.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Lightroom 2 - D3X - Tether Hack
 comments: true
+categories:
+- Adobe Lightroom
+- Articles
+tags:
+- Apple
+- Automator
+- Camera Control Pro
+- d3x
+- Nikon
+- nikon camera
+- work-flow
 ---
 This post is for Scott over on the Nikonians site. It's a quick and dirty way to get tethered shooting working with the D3X and LR2 until Adobe has support for the camera RAW. The general approach will work for Aperture 2 users as well but they may as well just modify the already available script that most Canon shooters use.<!--more-->
 

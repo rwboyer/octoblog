@@ -2,6 +2,21 @@
 layout: post
 title: Aperture - White Balance and Noise
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- adjustments
+- Aperture
+- Apple
+- d2h
+- NEF
+- Nikon
+- noise
+- noise reduction
+- preset
+- white balance
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/GLMedia_2005_07_24_92.jpg"><img title="GLMedia_2005_07_24_92.jpg" src="/wp-content/uploads/2010/01/.thumbs/.GLMedia_2005_07_24_92.jpg" border="0" alt="GLMedia_2005_07_24_92.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>I don't talk about Aperture adjustments much but I had an Aperture user email me about two specific Aperture adjustments and some issues that he was having. What I suggested to him was actually a work-flow solution. Well a work-flow solution and a photographic philosophy solution as well. He was a Nikon shooter but this tip applies to a way to approach things for just about any kind of shooter. In fact it maybe something you should think about even if you don't use Aperture.
 

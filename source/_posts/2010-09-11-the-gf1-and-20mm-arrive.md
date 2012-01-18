@@ -2,6 +2,16 @@
 layout: post
 title: The GF1 And 20mm Arrive
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic 20mm
+- Panasonic GF-1
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9110417.jpg"><img class="alignleft size-medium wp-image-2361" title="P9110417" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9110417-300x136.jpg" alt="" width="300" height="136" /></a>The FedEx man finally came to deliver my Panasonic 20mm f 1.7 lens that happened to come with a free (see previous posts) GF1 camera in the box. What a deal. You'll have to wait to see a couple images and tests from the GF1 as the battery was completely dead except for the 5 minutes or so I spent confusing the crap out of myself with the menus. I do have to say my first impressions are that I like the E-P1 handling a bit better than the GF1 but we really won't know for sure until I figure it out.
 

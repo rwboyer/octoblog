@@ -2,6 +2,9 @@
 layout: post
 title: Victim of Irene
 comments: true
+categories:
+- Site News
+tags:
 ---
 
 

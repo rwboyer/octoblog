@@ -2,6 +2,15 @@
 layout: post
 title: Ilford PanF Plus - Shooting Real Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- Ilford
+- pan f plus
+- pyro
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2001_019_05.jpg"><img title="2001_019_05.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2001_019_05.jpg" border="0" alt="2001_019_05.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Just another in my series of shooting real film. This time Ilford PanF Plus, developed in PMK pyro. I was playing with this for a little while to see if it could do duty as my slow, sharp, fine grained film. The brief answer is no. At the time and still to this day I think Kodak TMAX 100 blows it out of the water in every way, including aesthetics. PanF does nothing for better than TMAX (or Delta 100 for that matter) and a whole lot of things way worse.
 

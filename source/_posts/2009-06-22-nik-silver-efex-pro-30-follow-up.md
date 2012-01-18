@@ -2,6 +2,15 @@
 layout: post
 title: Nik Silver Efex Pro 3.0 Follow-up
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 2
+- Black and White
+- Nik
+- Plug-in
+- Silver EFEX Pro 3
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_0267.jpg"><img title="DSC_0267.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_0267.jpg" border="0" alt="DSC_0267.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Seems that my mini-review of Nik Silver Efex for Aperture sparked a mild amount of interest from a couple of people that haven't done a whole lot of black and white conversions to date, are interested in the Silver Efex plug-in and wanted a little bit more info.Of course they pointed out the flaws in my quick and dirty review of the software. One guy even asked if I ever shoot any thing that I have to walk more than 10 feet from my desk to shoot. He was kidding (I hope).
 

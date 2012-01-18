@@ -2,6 +2,16 @@
 layout: post
 title: Micro 4/3 - Help Me I am Smitten
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic 20mm
+- Panasonic GF-1
 ---
 You guys/gals know how much I love my Leica gear due to the quality and the fact that I can fit everything I own - including stuff I don't need into a little tiny bag. You also know that I don't shy away from shooting film. You also may have picked up that I bought a compact digital to jamb in with my Leica kit. A cut-rate refurbished Olympus E-P1.
 

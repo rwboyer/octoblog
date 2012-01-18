@@ -2,6 +2,17 @@
 layout: post
 title: Leica M - A Camera You Can Have With You
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- delta 100
+- film
+- Ilford
+- Leica M
+- m6
+- XTOL
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2000_030_23.jpg"><img title="2000_030_23.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2000_030_23.jpg" border="0" alt="2000_030_23.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Wanted to follow up on shooting people close to you and having a camera with you. The Leica M is a fantastic camera to carry around with you. Be it M9 or M3. I always had mine with me and have some pretty amazing shots to prove it. A point and shoot digicam is better than nothing but it does a completely different job than the Lieca - really.
 

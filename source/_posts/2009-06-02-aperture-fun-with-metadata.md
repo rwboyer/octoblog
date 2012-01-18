@@ -2,6 +2,18 @@
 layout: post
 title: Aperture - Fun With Metadata
 comments: true
+categories:
+- Adobe Lightroom
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- EXIF
+- focal length
+- keyword
+- Metadata
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/proactive_metadata.jpg"><img title="proactive_metadata.jpg" src="/wp-content/uploads/2009/06/.thumbs/.proactive_metadata.jpg" border="0" alt="proactive_metadata.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>If you have been diligently adding your keywords, captions, location information, and other metadata using Aperture (or Lightroom, or Photo Mechanic, or any other photo browser for that matter) as you know it can be very useful for finding images fast. Even if you haven't been so disciplined adding your own metadata there are still some interesting and fun things you can do with Aperture on a crappy Saturday afternoon if you are not inspired to go out and shoot.
 

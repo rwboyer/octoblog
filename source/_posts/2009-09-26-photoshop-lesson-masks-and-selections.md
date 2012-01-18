@@ -2,6 +2,15 @@
 layout: post
 title: Photoshop Lesson - Masks and Selections
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- adjustment layer
+- mask
+- photoshop
+- photoshop techniques
+- selection
 ---
 Had a conversation with a reader the other day who asked me why I am so down on Photoshop. Hmmm... I'm not. I am down on the what passes for a photo today. I am down on Time magazine covers that look downright horrible, like the glamourized Glen Beck. I am down on what I will call image abuse perpetrated via Photoshop. I don't write a lot about PS because I think that there are way too many sites about how to screw your perfectly good images up with idiotic photoshop techniques. I also think there are enough really fantastic sites that try to do a good job explaining what a wonderful piece of technology that is PS CS y through z. Enough of the explanation.
 

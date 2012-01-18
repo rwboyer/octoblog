@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - Album Picks After The Fact
 comments: true
+categories:
+- Apple Aperture
+- Featured
+tags:
+- album pick
+- albums
+- Aperture 3
+- Apple Aperture
+- Organization
+- work-flow
+- Workflow
 ---
 I am a big fan of automatically stacking new versions created in Aperture. You can do that via preference settings. I am also a big fan of having a separate album for each different kind of version that you create from the same image master. One for black and white, one for special color treatments, one for 8x10 crops, etc, etc. I explain why this is a good thing about a thousand times in old posts and in the eBooks but what if you didn't do that and have a bunch of stacks with all sorts of versions in the stack with no rhyme or reason?
 

@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 - File Management
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- Apple Aperture
+- masters
+- Organization
+- work-flow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/AQT_File_Management.jpg"><img title="AQT_File_Management.jpg" src="/wp-content/uploads/2009/01/.thumbs/.AQT_File_Management.jpg" border="0" alt="AQT_File_Management.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Where and how Aperture keeps original image files, referred to as masters, is a topic of constant discussion and for some - constant confusion. I hope to shed some light on the topic for new users and maybe show some old dogs a couple of new tricks in the file management department. Starting at the beginning Aperture allows you to choose two different approaches to managing your original image files. The first way is called "managed" masters. If you choose to use "managed" masters Aperture will automatically copy all of your original images from their import location into it's own library, you don't have to worry about a thing. For some reason this scares people and makes them very uncomfortable. I have no idea why. The Aperture library is just a folder with an attribute that tells the finder not to let you see inside and accidentally screw it up with out doing something really special and complicated (right clicking). <!--more-->If you do not need multiple hard drives to store all of your images this may be the best way to get started. I promise you can get your images out no matter what. Don't worry. I use managed masters on my laptop all the time. It's convenient, cleanly, and fun, but more importantly it is really easy to back up to a vault while you are traveling.
 

@@ -2,6 +2,18 @@
 layout: post
 title: Do "Real" Photographers Still Shoot Film?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- canon g9
+- film
+- Leica
+- leica m6
+- media storm
+- Nikon
+- nikon d3
+- photojournalism
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_8493.jpg"><img title="DSC_8493.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_8493.jpg" border="0" alt="DSC_8493.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Not many - but this one does - or did for anÂ amazing documentary piece on MediaStorm. I have sung the praises of MediaStorm.org in at least one post regarding presentation of your images. I have always been a big fan of fantastic journalism, a fast disappearing art. If you have not checked out MediaStorm yet you really should. The stories are not only compelling but so are the images and presentation. I believe this is the real future of journalism, amazing stuff. Heck I even taught myself Final Cut after seeing MediaStorm a few years ago. If you don't want to go that far make due with iMovie for a bit - the '09 version is perfectly capable of producing fantastic product with a little bit of effort.
 

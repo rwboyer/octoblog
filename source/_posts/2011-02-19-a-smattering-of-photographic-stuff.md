@@ -2,6 +2,13 @@
 layout: post
 title: A Smattering Of Photographic Stuff
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Panasonic LX5
+- printing
 ---
 Just so you guys think I am not totally off my rocker here I did want to tell you that I do still think "digital" is great to. For instance - the following shot is an illustration I cranked out in about 2 seconds without even thinking about it using my lovely <a href="http://www.amazon.com/gp/product/B003WJR69E?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003WJR69E">Panasoic LX5</a> (aka Leica DLUX-5). As I have said before this little guy is AMAZING.
 

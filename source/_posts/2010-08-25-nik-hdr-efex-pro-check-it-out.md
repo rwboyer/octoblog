@@ -2,6 +2,11 @@
 layout: post
 title: Nik HDR Efex Pro - Check It Out
 comments: true
+categories:
+- Site News
+tags:
+- Nik HDR Efex Pro
+- Nik Software
 ---
 Yep I love Nik software. I guess it comes from being introduced to color control points in Nikon/Nik Capture NX. I find most of their products worthwhile if you have a need for local adjustments, color effects filters, the best black and white conversions, noise reduction, and specialized sharpening. Now Nik has entered the HDR game. As usual the list price is outrageous for a plug-in but knowing Nik if HDR is your "thing" their product is probably killer.
 

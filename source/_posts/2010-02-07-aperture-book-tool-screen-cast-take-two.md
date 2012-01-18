@@ -2,6 +2,17 @@
 layout: post
 title: Aperture Book Tool - Screen Cast Take Two
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture
+- Apple
+- Apple Aperture
+- book tool
+- experiment
+- screencast
+- text on images
 ---
 Okay, if your finely tuned senses can take my harsh treatment of digital YouTube media in their somehow lousier quality than my original 720p version, here is take two of that short screencast that I asked your opinion on a few days ago.
 

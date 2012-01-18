@@ -2,6 +2,14 @@
 layout: post
 title: Old Camera + New Film = New Camera
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Fuji X100
+- kodak ektar 100
+- Kodak Portra
 ---
 <a href="http://www.flickr.com/photos/milkieroad/tags/canonetql17giii/">I ran across this guy's Flickr photostream</a> in some random clicking today.I think his photographs are extremely interesting and attractive. Great stuff and worth a look for just about anyone into any sort of photography but especially if you are into documentary/art. This guy absolutely knows what the hell he is doing in terms of taking photographs.
 

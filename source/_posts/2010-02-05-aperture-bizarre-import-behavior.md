@@ -2,6 +2,15 @@
 layout: post
 title: Aperture - Bizarre Import Behavior
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Apple Aperture
+- help
+- Import
+- issue
+- one on one
 ---
 I have offered the <a href="http://photo.rwboyer.com/aperture-photography-one-on-one-assistance/">One On One service</a> for photographers and Aperture users for about a week now. So far so good. I have had the chance to meet a bunch of really nice people and give them a hand on topics ranging from beginning Aperture use to helping them solve some complex work-flow issues to helping them diagnose some interesting and bizarre issues that I have never seen before. All of the people that have signed up so far have expressed their wonderment at my apparent depth on the subject matter - heck I even recommended a retouch artist that I worked with in LA a while ago to someone for a new clothing line he is launching.
 

@@ -2,6 +2,11 @@
 layout: post
 title: Inspiration From Another Genre
 comments: true
+categories:
+- Site News
+tags:
+- Andy Timmons
+- Guitar Amps
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/05/DSC_1056.jpg"><img title="DSC_1056.jpg" src="/wp-content/uploads/2010/05/.thumbs/.DSC_1056.jpg" border="0" alt="DSC_1056.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>As part of my annual ritual in the spring - sort of my version of spring cleaning once it is warm enough for me to open the windows I have the perennial airing out of the amps. That and I cannot even move my semi-arthritic old man fingers well until it warms up.
 

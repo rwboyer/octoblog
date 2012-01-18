@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 And Alien Technology
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- disk management
+- SAN
+- storage
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2010/12/P1000845.jpg %}I have received about seven hundred and 2 thousand e-mails and one-on-one requests for help with Aperture 3. A lot of them have a two common themes. The first one is -" help my Aperture 3 has fallen and it can't get up". The second is - "How comes you never have no Aperture 3 problems?".
 

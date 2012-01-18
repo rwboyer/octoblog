@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Importing Existing Folder Organization
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Import
+- work-flow
+- Workflow
 ---
 I didn't know whether to call this Apertre 3 and film part 0.5 or something else. I choose something else because it's applicable no matter if you shoot film or not. Just a tidbit on importing master image files into Aperture 3 using under-utilized import functionality not available in the <em>normal</em> import window that you see when pressing that down arrow icon or popping up automatically when you connect a memory card.
 

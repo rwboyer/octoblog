@@ -2,6 +2,13 @@
 layout: post
 title: Nikon, Leica, and Other Announcements
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Canon
+- Leica S2
+- Nikon D300s
 ---
 I don't know about you but I am scratching my head over some of the latest announcements from Nikon, Leica, and Olympus. The least puzzling are the Nikon products, they are the least puzzling but also nothing to write home about. Not only are they nothing to write home about but they are also not going to get me to part with my hard earned cash.
 

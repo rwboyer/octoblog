@@ -2,6 +2,18 @@
 layout: post
 title: Shooting Film - Ilford HP5 plus
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 6x6
+- film
+- Hasselblad
+- Ilford HP5 plus
+- negative
+- pyro developer
+- scan
+- Zeiss 80mm
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2002_006_05_nx.jpg"><img title="2002_006_05_nx.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2002_006_05_nx.jpg" border="0" alt="2002_006_05_nx.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Let me start out by saying that Ilford HP5 plus was not one of my favorite films. I would much rather shoot TX or TXP, that's Kodak Tri-X in 35mm and medium format. The one and only one exception is HP5 plus in medium format or large format developed in one of a few different pyro developer formulations.
 

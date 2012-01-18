@@ -2,6 +2,15 @@
 layout: post
 title: Jeanloup Sieff Book - Get 'um While They Last
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- Black and White
+- books
+- fashion
+- inspiration
+- Jeanloup Sieff
 ---
 Some of you probably know that Jeanloup Sieff is one of my inspirations and has been since I was a young photographer in the 80's. His work spans decades and transcends his label as a "fashion photographer". Except for some of the well know iconic people that are in his images that for ever set a time - I feel that his work is as fresh and relevant as it was when it was first made.
 

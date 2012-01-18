@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 - Finding RAW Images
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- RAW
+- RAW+JPEG
+- work-flow
+- Workflow
 ---
 Here is one for the Aperture 3 SuperSimpleStuff™ series based on a question that I received about reprocessing RAW files. The question was how to efficiently select all all the RAW files that were previously unsupported...
 

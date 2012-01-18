@@ -2,6 +2,14 @@
 layout: post
 title: Sometimes All It Takes Is a Change In Perspective
 comments: true
+categories:
+- General Photography
+- Lighting
+tags:
+- Lighting
+- M43
+- Micro 4:3
+- Olympus E-P1
 ---
 If I were a real blogger I would go out of my way to set this kind of stuff up. Actually I do go out of my way to set this kind of stuff up but not being tuned in to using it as material for a written piece I don't shoot the bad angles. I only shoot the good ones or at least try to. My really late new years resolution is to take the bad shots and the good shots and try to explain the differences. Not in terms of the image - that's obvious but more in terms of exactly what I was thinking and what actions I actually took to make it better. Now all I got to do is remember to actually do that because it has become so automatic I rarely think about it with any degree of conscious thought.
 

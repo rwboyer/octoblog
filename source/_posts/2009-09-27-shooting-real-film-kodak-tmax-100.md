@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Real Film - Kodak TMAX 100
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- agfa apx 25
+- Black and White
+- contrast manipulation
+- film
+- Kodak
+- TMAX 100
+- TMX
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2000_006_01_low_res.jpg"><img title="2000_006_01_low_res.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2000_006_01_low_res.jpg" border="0" alt="2000_006_01_low_res.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>This film was one of the few modern black and white triumphs of Kodak. It is actually unbelievable. I have shot a ton of this stuff in both 35mm and medium format. I really was not that interested in the TMAX line when it appeared on the scene. Of course I did some cursory tests of TMX and it's siblings to get a feel for it but I never really dove in until availability of Agfa APX 25 started to become a problem in the states and ultimately disappeared. I loved APX 25 for certain subjects and for those subjects I had hard won proficiency that I was not willing to give up so easily. When the writing was on the wall of APX 25's demise I started searching in earnest for a replacement. After much shooting, testing, calibrating and evaluation turns out that Ilford PanF plus did not cut it but the big surprise was that TMX was a more than worthy replacement.
 

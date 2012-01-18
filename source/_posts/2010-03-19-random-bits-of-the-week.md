@@ -2,6 +2,14 @@
 layout: post
 title: Random Bits Of The Week
 comments: true
+categories:
+- Site News
+tags:
+- Aperture 3
+- Cinema Displays
+- eBook
+- printing
+- screencast
 ---
 So - long time no see folks. I have been a bit busy. I have been setting up a few screencasts for Aperture 3 as well as upgrading the infrastructure so deal with the download volume increases. I hope to have one available this weekend - I have finally settled on the format and pricing for them. They are all going to be "digestible"  in terms of run-time. No hour long dissertations and they may have some overlap in terms of content - not much just a little bit to make sure there is context in order for them to also stand alone. All of them will be based on things that I have shown people during workshops or one on one sessions that have universally been determined "extremely helpful" during those sessions.
 

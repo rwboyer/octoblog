@@ -2,6 +2,10 @@
 layout: post
 title: Film - Trials and Tribulations
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/badtx.jpg"><img title="badtx.jpg" src="/wp-content/uploads/2009/10/.thumbs/.badtx.jpg" border="0" alt="badtx.jpg" hspace="10" vspace="10" width="150" height="107" align="left" /></a>Just had to let you people know - did a second roll of ancient unprocessed film today. It is still drying. If there is anything remotely reproducible/scannable I will post it in an update. This time around it was 8 year old TRI-X. Fog, and guess what edge burning and general look as though I opened the camera with the film still loaded. This time it is worse.
 

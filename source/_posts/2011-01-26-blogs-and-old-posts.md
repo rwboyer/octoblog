@@ -2,6 +2,12 @@
 layout: post
 title: Blogs And Old Posts...
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Nikon D2h
+- photographic workshop
 ---
 One of the coolest things about maintaining a blog is that out of nowhere ancient posts get resurrected by somebody stumbling upon them and then posting a link somewhere. Of course this can sometimes be embarrassing when you spoke about something you feel differently about now. Sort of like those old 70's pictures your mom has of you.
 

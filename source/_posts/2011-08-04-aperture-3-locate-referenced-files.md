@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Locate Referenced Files
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- referenced master
+- work-flow
+- Workflow
 ---
 Part of the Aperture 3 - SuperSimpleStuff™ series.
 

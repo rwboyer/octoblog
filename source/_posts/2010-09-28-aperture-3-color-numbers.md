@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Color Numbers
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Loupe
+- work-flow
+- Workflow
 ---
 I have written more than a few times that I typically use the Z key to evaluate image detail for sharpness, noise, etc. Especially when comparing two similar images. I do this because it's faster for me than using the loupe tool. So does that leave the loupe tool sort of orphaned and unused, for me the answer is no. I use the Loupe tool mainly for color evaluation and manipulation.
 

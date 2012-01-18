@@ -2,6 +2,16 @@
 layout: post
 title: Kodak Ektachrome 100S Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm
+- chromatic abberation
+- F2AS
+- film
+- Kodak 100S
+- Nikon
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/1997003_31.jpg"><img title="1997003_31.jpg" src="/wp-content/uploads/2009/06/.thumbs/.1997003_31.jpg" border="0" alt="1997003_31.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>I loved this stuff when it came out in both the regular old S and the SW varieties. It completely replaced Kodachrome 64 for my personal use, as well as replaced regular Ektachrome Pro (EPP) and a bunch of different constantly changing Fuji stuff for my commissioned work. The new Ektachrome G films are similar and just as good, maybe even "better".
 

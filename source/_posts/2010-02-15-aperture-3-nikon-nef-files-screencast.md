@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - Nikon NEF Files - Screencast
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Capture NX2
+- NEF
+- Nikon
+- Picture Controls
+- RAW
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC_9372___NX2_Landscape.jpg"><img title="DSC_9372___NX2_Landscape.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC_9372___NX2_Landscape.jpg" border="0" alt="DSC_9372___NX2_Landscape.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Here is a short little video for those of you wanting to develop your own presets for NEF files in Aperture 3 that are closer to the way Capture NX2 renders your RAW files. I will continue to work on the cameras that I do not own as I get a decent sampling of images. So far a couple of people have sent me files - but a lot of people have requested presets. I am in need of additional samples for the D700, D300s, D3s, and D3x. If you have a lower end camera like a D5000 I need those as well. I have a couple but not really enough range to nail it.
 

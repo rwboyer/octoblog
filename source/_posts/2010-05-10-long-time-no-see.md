@@ -2,6 +2,14 @@
 layout: post
 title: Long Time No See...
 comments: true
+categories:
+- Apple Aperture
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- Guitars
+- women
 ---
 I have been quiet lately. Mostly because I have been idiotically busy with some other endeavors some of which are a wee bit more profitable than this web site. Not only that but I have also been playing my guitar (badly) since I started airing out my amps a week or so ago. Like usual I just about have my calluses back - almost. Now is about the time that I will get busy and distracted and all the crap will go back into storage for another year.
 

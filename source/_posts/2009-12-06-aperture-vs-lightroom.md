@@ -2,6 +2,19 @@
 layout: post
 title: Aperture vs. Lightroom - File Management Again
 comments: true
+categories:
+- Aperture vs Lightroom
+- Apple Aperture
+- Articles
+tags:
+- Adobe
+- Adobe Lightroom
+- Aperture
+- Aperture vs. Lighroom
+- Apple
+- file management
+- folder structure
+- Organization
 ---
 Woooo Whooo, I received my very first question from an <a href="http://photo.rwboyer.com/aperture-ebooks/">Aperture File Management eBook</a> customer. Of course I answered his specific question ASAP but something that I touch on in the book crossed my mind as well that I thought people considering Aperture vs. Lightroom at this point may want to consider. Even a few of you Aperture old timers may find this a little interesting.
 

@@ -2,6 +2,13 @@
 layout: post
 title: Aperture 3 Image Adjustment Controls
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- image adjustments
+- work-flow
 ---
 Part of the Aperture 3 SuperSimpleStuff™ series. You probably know that I don't talk a whole lot about image adjustments. I have reasons for that that I won't go through right now but suffice it to say they are the icing on the cake, not the actual cake. I wanted to post something that I hope will help people just starting out get over a hump that seems to be a common theme that I hear. You old timers stick around to - there may be a tidbit that can help you with your Aperture specific endeavors as well.
 

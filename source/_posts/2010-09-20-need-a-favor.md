@@ -2,6 +2,13 @@
 layout: post
 title: Need A Favor
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture 3
+- Apple Aperture
+- apple support forum
 ---
 Namely, some people say that I am getting too cranky in my old age. I guess this is true but...
 

@@ -2,6 +2,11 @@
 layout: post
 title: Wedding Photography - Some Thoughts
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+tags:
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2001-033-05-880.jpg"><img class="alignleft size-medium wp-image-2101" title="2001-033-05-880" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2001-033-05-880-300x136.jpg" alt="" width="300" height="136" /></a>I have been following a recent series of PDN articles on "experts" giving opinions to photographers on what images they should use to enter various markets. You may remember my somewhat jaded comments last time regarding the photojournalist entering the commercial / art market. I really wonder how many are reading this series for the same reasons I do. I am sure that some people are but my inquisitive nature causes me to really really want to know what the readership split is. For simplicities sake let's cut the audience into two broad categories - those that find the contradictions between the "experts" amusing and the idiotically motherhood and apple pie "advice" so non-specific and non-actionable it is worth a giggle or two - and the other category of those hanging on every word of opinion and advice so that they can get the magic secret and apply it immediately to their work, portfolio whatever.
 

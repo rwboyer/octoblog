@@ -2,6 +2,18 @@
 layout: post
 title: Shooting Film - Email Questions and Other Crap
 comments: true
+categories:
+- Site News
+tags:
+- Adox MCC 110
+- Black and White
+- Efke IR820
+- film
+- Foma
+- kodak ektar 100
+- Kodak TXP
+- prints
+- sample prints
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/04/2000_022_23.jpg"><img title="2000_022_23.jpg" src="/wp-content/uploads/2010/04/.thumbs/.2000_022_23.jpg" border="0" alt="2000_022_23.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>My crazy little experiment in providing samples of Adox MCC 110 has been successful. We'll it has been successful for my definition of accomplishing what I wanted to do - give people the opportunity to see real black and white paper in their own hands for cheap. My other definition of successful was that I could actually handle fulfilling the orders in the context of my own printing sessions. So far so good but I have been getting some questions about the sample prints - one of which I will address with and answer and the others I will address with a change to the sample print choices.
 

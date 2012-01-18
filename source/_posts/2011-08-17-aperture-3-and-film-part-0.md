@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 and Film - Part 0
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- film
+- work-flow
+- Workflow
 ---
 So I shoot film, and I use Aperture 3. More than a couple of people have asked me about my work-flow and how it relates to Aperture in my film process. Although I am more than glad to share it, I do have to put a disclaimer out there that my work-flow is somewhat of a mish-mash. This is due in part to the nature of the beast as well as the fact that I am somewhat of a mish-mash and my own internal organization makes sense to me but not nessesarily anyone else. With that being said, on with the show.
 

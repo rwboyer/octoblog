@@ -2,6 +2,14 @@
 layout: post
 title: Aperture - The Pesky Wrong Thumbnail Problem
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Apple Aperture
+- broken thumbnails
+- file management
+- mismatched thumbnails
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/ApertureScreen1.jpg"><img title="ApertureScreen1.jpg" src="/wp-content/uploads/2010/01/.thumbs/.ApertureScreen1.jpg" border="0" alt="ApertureScreen1.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>I have seen this issue and question on how to resolve it so much lately that I thought I would share a tidbit from my Aperture File Management eBook. If you have been using Aperture heavily for a while you have probably run into the problem where Aperture associates the wrong thumbnail image to a master image. I don't know the exact conditions that cause this to happen but I can tell you it is definitely some sort of concurrency bug in Aperture. Based on my non-clinical research and my own experience this issue rears it's ugly head when you are trying to do a whole lot at the same time within Aperture. Like running an import and moving files into/out of a project into another one, generating previews, etc.
 

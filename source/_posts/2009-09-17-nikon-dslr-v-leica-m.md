@@ -2,6 +2,14 @@
 layout: post
 title: Nikon DSLR v Leica M
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- DSLR
+- Leica
+- M series
+- Nikon
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/DSC_0348.jpg"><img title="DSC_0348.jpg" src="/wp-content/uploads/2009/09/.thumbs/.DSC_0348.jpg" border="0" alt="DSC_0348.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Had a couple of readers write in about my last post on the Leica M9. Specifically my classification of the Leica being a "small" camera. A picture is worth a thousand words so I quickly assembled a typical Nikon DSLR kit and then the equivalent Leica M series kit to show you side by side. As you can see the Leica kit is way, way, way smaller and I will assure you the images are way, way, way better. No compromise.
 

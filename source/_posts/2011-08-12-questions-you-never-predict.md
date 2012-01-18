@@ -2,6 +2,14 @@
 layout: post
 title: Questions You Never Predict
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- 50mm
+- film
+- Nikon
+- Nikon FM@
 ---
 My email in-box continues to astound me. Some of the questions and inquiries that I get are perfectly predictable from readers of my little corner of the web. Others I would never predict. Like the one asking me what the "whole picture looked like" for one of the little crops that I use for post icons in the blog design. In a lot of cases the icons are only tangentially related to the subject matter of a particular post. If there are images in the icon will be one of those images cropped. In cases were I choose not to include any images in the post itself I just randomly crop an image I have laying around my desktop.
 

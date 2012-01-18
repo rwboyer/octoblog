@@ -2,6 +2,13 @@
 layout: post
 title: The Upside Of Being Distracted With Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Fuji X100
+- Panasonic LX5
 ---
 Yes, I am distracted with film. Which in turn focuses me on making pictures instead of figuring out what digital crap I "need" next. When it comes to gear lust a quick hundred bucks or so usually satisfies the need via flea-bay. Check out the Awesome lens I snagged for TWENTY bucks. Yep - that's like a couple cups of coffee.
 

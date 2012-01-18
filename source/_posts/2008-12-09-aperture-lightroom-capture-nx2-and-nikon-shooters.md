@@ -2,6 +2,17 @@
 layout: post
 title: Aperture, Lightroom, Capture NX2, and Nikon Shooters
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Apple
+- Digital Negative
+- DNG
+- NEF RAW
+- Nikon
+- Nikon Capture NX2
+- Raw image format
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/DSC0106_NX2portrait.jpg"><img title="DSC0106_NX2portrait.jpg" src="/wp-content/uploads/2008/.thumbs/.DSC0106_NX2portrait.jpg" border="0" alt="DSC0106_NX2portrait.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>For some reason the most popular post on the site this week was one that I put up this past summer about the Adobe camera profiles for DNG and Lightroom 2. I received a ton of emails that basically asked "Why are you so enamored with the camera profiles?". Well here it is - I am primarily a Nikon shooter (Hasselblad when required) and I am lazy. One of the things that has annoyed me since day one with Apple's Aperture (even though I love it in other ways) is that they cannot seem to give a reasonable default RAW conversion that is anywhere close to anything that comes out of Capture NX or JPGs the camera puts out no matter what settings are set or not set on the camera. The situation has improved a little bit with the latest version of Apple's RAW in Aperture/OS X and is highly camera dependent. The situation has something to do with the tone curve applied and the way the WB info is handled as far as I can tell. Canon shooters are somewhat better off but still stuck with pretty much one dimensional default conversions.
 

@@ -2,6 +2,10 @@
 layout: post
 title: The Saga of My Aperture 3 eBooks
 comments: true
+categories:
+- Site News
+tags:
+- eBook
 ---
 Once upon a time I signed up for the Apple Aperture forum to ask a few questions about my new found love that was Aperture. This was way back when even the best hardware had a difficult time dealing with Aperture's concept of real time RAW processing and adjustment rendering. Much to my dismay I couldn't seem to get a whole lot of answers or opinions that I hadn't already figured out for myself. What the heck, I started answering some questions here and there.
 

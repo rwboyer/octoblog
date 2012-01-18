@@ -2,6 +2,14 @@
 layout: post
 title: Leica M - 9 Year Old Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Kodak Portra 160VC
+- leica m6
+- Olympus E-PL1
+- Summicron
 ---
 Remember a week ago when I was deliberating on small, light, high quality equipment to choose for some upcoming "real" photographic projects that I have planned? I think my initial thoughts might prove to be the answer. At least for me. I want high quality color, high quality B+W, and a very very small digital option that will all fit in my Domke F-809 bag. If you do not remember - here it is - two Leica M bodies (film bodies that I already own) a couple of Leica lenses (most I already own - probably) and a micr0 4/3 digital chucked in for good measure.
 

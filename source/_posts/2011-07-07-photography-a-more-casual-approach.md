@@ -2,6 +2,14 @@
 layout: post
 title: Photography A More Casual Approach
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 50mm
+- film
+- Nikon FE
+- Sigma SD14
 ---
 So I ended up shooting some images of my communities July 4th picnic. Typically my approach to any photographic project or endeavor is to focus on one subject and optimize for light and composition first then after that is covered I would more or less direct or construct the scene in front of my camera. You can probably see why I am not a landscape photographer with that kind of mindset.
 

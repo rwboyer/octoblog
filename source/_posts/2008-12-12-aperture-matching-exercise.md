@@ -2,6 +2,16 @@
 layout: post
 title: Aperture Matching Exercise.
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Color
+- NEF RAW
+- Nikon
+- Nikon Capture NX2
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/GLMedia_436.jpg"><img title="GLMedia_436.jpg" src="/wp-content/uploads/2008/.thumbs/.GLMedia_436.jpg" border="0" alt="GLMedia_436.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>Just a real quick question for all of the loyal readers or not so loyal, whatever the case may be. At the end of a long day I checked the download stats on the site and noticed an amazing number of people downloaded the NEF files from the last post. Did anyone try to match the NX2 or NX color renditions (flat color settings or portrait)? I personally would love to know two things from you and I am sure that the others that downloaded the files would also be interested as well given the emails that I received asking me for a recipe. So...
 

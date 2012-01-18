@@ -2,6 +2,17 @@
 layout: post
 title: Flash Player Issues On OS X?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Final Cut Pro X
+- flash
+- Nikon D7000
+- OS X
+- Video
+- vimeo
+- youtube
 ---
 As you might have noticed, I have been doing a lot of work with Final Cut Pro X and talking about video. In the past I have not give the time of day to video on my blog. Why all of a sudden all the FCP X and video posts? Well really two reasons. First I actually rather present still photos that are part of some project or story as a video when presenting it on the web or even to a group of people. Second I have some projects coming up where I will need to do quite a bit of this type of work. Third - Some of those projects will actually require me to make actual video footage. I have a bit of experience doing this way way back on both film and video cams as well as a bit of experience with non-linear editing. These requirements were actually a big part of my Nikon D7000 purchase decision. More about the DSLR video decision and why I choose the D7000 soon.
 

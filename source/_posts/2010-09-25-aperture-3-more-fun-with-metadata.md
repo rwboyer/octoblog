@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - More Fun With Metadata
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- smart albums
+- work-flow
+- Workflow
 ---
 I love metadata. It's like exercise, not fun but the results are great. I am by no means a metadata nazi or anything. I do just enough to get by. If I were a stock shooter I would do more - a lot more but I am not so I can get a way with it. This is another in my series of Aperture 3 super simple stuff posts and I figured I would blend in some creative ways to use the super simple stuff.
 

@@ -2,6 +2,19 @@
 layout: post
 title: Aperture - The Seven Deadly Sins
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Lighting
+- Site News
+tags:
+- adjustment
+- Aperture 2
+- Apple Aperture
+- previews
+- RAW
+- Wor
+- work-flow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/GLMedia_217.jpg"><img title="GLMedia_217.jpg" src="/wp-content/uploads/2009/01/.thumbs/.GLMedia_217.jpg" border="0" alt="GLMedia_217.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Well, not really seven, it's just a title that I like to use pertaining to a couple of things that you can do that really bog down Aperture's performance. After some encouragement from a new found iFriend Michael I have decided to wade into the murky and treacherous waters of managing performance in Aperture. To kick things off I thought that I would highlight the obvious (or not). Just one little "your mileage may vary" type of disclaimer first - remember that this kind of stuff is highly variable depending on the actual RAW files that you shoot, your system configuration, memory, VRAM, graphics processor (esp with Aperture), etc. What works great for one person with one set of RAW files will not work well for another.<!--more-->
 

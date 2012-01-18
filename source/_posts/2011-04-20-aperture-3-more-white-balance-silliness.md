@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - More White Balance Silliness
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- RAW
+- WB
+- white balance
+- work-flow
+- Workflow
 ---
 Disclaimer: I love Aperture 3 in more ways than I can count so understand that the following is in the context of how nuts it drives me to see something as good as Aperture 3 sullied by this sort of stupid shit, time and time again.
 

@@ -2,6 +2,16 @@
 layout: post
 title: Aperture Quick Tip - Lift and Stamp
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adjustment
+- Aperture
+- Aperture 2
+- Metadata
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2009/02/AQT_lift_stamp.jpg"><img title="AQT_lift_stamp.jpg" src="/wp-content/uploads/2009/02/.thumbs/.AQT_lift_stamp.jpg" border="0" alt="AQT_lift_stamp.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>A real quick tip for those of you that have not used the lift and stamp tools a lot. As everyone probably knows lift allows you to lift adjustments and metadata from one image and then stamp it to one or more images that you select after doing the "lift". I thought a brief discussion on some of the more subtle behaviors of this tool might be valuable if you haven't yet explored beyond and all or nothing approach to lifting and stamping.
 

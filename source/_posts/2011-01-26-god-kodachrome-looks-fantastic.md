@@ -2,6 +2,12 @@
 layout: post
 title: God Kodachrome Looks Fantastic
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodachrome
 ---
 For the last few months we have all been hearing about Kodak Kodachrome about thirty two times more frequently than the last 15 years. I guess because this time it's really gone. I loved the freaking stuff my self. Of course I had to stop shooting it for "paid work" because even clients would spec Fuji. For a lot of my personal shots I used Kodachrome continuously until my color gave way to digital in the early 2000's.
 

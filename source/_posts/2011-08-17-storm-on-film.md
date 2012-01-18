@@ -2,6 +2,13 @@
 layout: post
 title: Storm On Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Kodak Porra 160VC
+- Nikon
+- Nikon FE
 ---
 Anyone living in the DC to NYC corridor <em>knows</em> the nutty amount of rain that we received over the past weekend and beginning of the week. The last of it passed the other evening and as it began to clear at about twilight You could see it moving north / north east in the distance. As I may have mentioned about a million times before, I am no outdoorsey nature photographer kinda guy but I happened to have some old crappy film loaded up and decided to snap a few total guesstimated exposures as the storm travelled on.
 

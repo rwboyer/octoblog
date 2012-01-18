@@ -2,6 +2,16 @@
 layout: post
 title: Leica M9 - Thoughts On Lenses
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- budget
+- Leica
+- leica lens
+- m6
+- M9
+- rangefinders
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/09/2000_054_08.jpg"><img title="2000_054_08.jpg" src="/wp-content/uploads/2009/09/.thumbs/.2000_054_08.jpg" border="0" alt="2000_054_08.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>Have had a lot of interest and some interesting conversations fueled by my enthusiastic post greeting the recently released Leica M9. It appears that I am not the only one interested in the new M9. That's not surprising - what is surprising is that there seems to be way more people interested in the M9 that have never shot with a film version - like the M6, than I ever predicted. A lot of the conversations that I have had with folks that would be delving into rangefinders for the first time are about lenses - given how idiotically expensive Leica glass is.
 

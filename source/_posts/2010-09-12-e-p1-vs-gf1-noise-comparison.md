@@ -2,6 +2,14 @@
 layout: post
 title: E-P1 vs GF1 Noise Comparison
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic GF-1
 ---
 While I am waiting for my replacement <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002MUAEX4%3Fie%3DUTF8%26ref_%3Ddp_olp_new_map%26qid%3D1284329376%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Panasonic GF1</a> I thought you would find this amusing if you are trying to decide between the two cameras. Everyone wants to know about noise. Neither of these cameras bother me in that regard as I explained in <a href="http://photo.rwboyer.com/2010/09/06/olympus-e-p1-high-iso/">this post regarding E-P1</a>. In normal image making scenarios you would hope that this level of noise would be overwhelmed by detail and an interesting image. I won't make much of a judgement here - you decide what camera is better for yourself. These are Aperture screen shots so you can see what I see. I will say that the Olympus JPEG engine shines (again) with it's "normal" settings. The Panasonic JPEG engine is actually quite good but nowhere near as capable in the noise department.
 

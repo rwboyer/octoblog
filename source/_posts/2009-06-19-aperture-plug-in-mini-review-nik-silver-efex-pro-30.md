@@ -2,6 +2,16 @@
 layout: post
 title: Aperture Plug-in Mini Review - Nik Silver Efex Pro 3.0
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 2
+- Apple
+- Black and White
+- Nik
+- Plug-in
+- Silver EFEX Pro 3
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_0196__1_.jpg"><img title="DSC_0196__1_.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_0196__1_.jpg" border="0" alt="DSC_0196__1_.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I started Â out in photography with black and white. I still prefer making black and white photographs in both the traditional silver process, digital, and hybrid approaches. Having fessed up to that I will also disclose that I have tried just about every digital black and white product known to mankind. Honestly I have never been really impressed with any of them above and beyond what I can do with plain old Adobe Photoshop and would probably not recommend any of them to anybody. Nik Silver Efex Pro 3.0 is probably the best digital black and white converter that I have owned used or tried and I can recommend it to some people.
 

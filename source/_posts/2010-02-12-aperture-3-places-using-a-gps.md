@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 Places - Using A GPS
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- geotag
+- GPS
+- Places
 ---
 This is for Jason - How to use a handheld GPS and the Aperture 3 Places features to Geotag your images. Here is a quick 30 second clip showing you how stupidly simple it is. It was never "hard" but this is ridiculous.
 

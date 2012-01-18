@@ -2,6 +2,12 @@
 layout: post
 title: Some More Kodachrome
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodachrome
 ---
 Just some Random Crap™ that I had laying around my very very messy Mac desktop. Nothing special. Strait scans off my not too too wonderful scanner that I randomly scanned a while ago. I am not being facetious, I am actually emotionally affected here. Now that it's really the end for Kodachrome. I mean this is the first month that it was actually and really impossible to shoot and process.
 

@@ -2,6 +2,18 @@
 layout: post
 title: The Next Aperture?
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- Color
+- keyword
+- Metadata
+- Nikon
+- nx2
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/05/DSC_9596_standard.jpg"><img title="DSC_9596_standard.jpg" src="/wp-content/uploads/2009/05/.thumbs/.DSC_9596_standard.jpg" border="0" alt="DSC_9596_standard.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have resisted writing a post like this for quite a while. Mostly due to the fact that there are plenty of sources of complaints, wishlists, and prognostications about Aperture's features, what it needs, and how it should or shouldn't work. Somehow I feel like the sole Aperture cheerleader out there and am feeling a little lonely. Today I am going to vent a bit about what I feel Aperture needs. I am not going to do this from a how can we sell more copies perspective or repeat a lot of what I hear from people that appear to have used Aperture for about 3 hours and really do not grasp the software or for that matter repeat gripes about how difficult Aperture is to force into a backwards way of doing things. I am going to list what is going to cause me to replace Aperture as my primary workflow tool as someone that uses the product day in and day out. Caution! I may actually use some bad words from here on out.
 <ol>

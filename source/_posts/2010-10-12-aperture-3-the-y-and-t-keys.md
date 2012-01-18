@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - The Y and T Keys
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Metadata
+- work-flow
 ---
 Just want to connect a couple of dots for a few readers out there. I know all of you hear about how wonderful shortcut keys are in speeding your work-flow along from me and others, sort of like motherhood and apple pie. Well I just wanted to give you a tiny little bite sized piece of Aperture 3 super simple stuff today to give you an example of why. This is a strange one but I caught myself doing it out of reflex and decided to put up a quick post so I don't forget it.
 

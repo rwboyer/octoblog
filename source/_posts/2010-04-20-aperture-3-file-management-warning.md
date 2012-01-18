@@ -2,6 +2,13 @@
 layout: post
 title: Aperture 3 - File Management Warning
 comments: true
+categories:
+- Apple Aperture
+tags:
+- Aperture 3
+- Apple Aperture
+- backup
+- file management
 ---
 If you use referenced masters in Aperture 3 you are probably going to want to know about this. Especially if you use them on multiple volumes. Somewhere along the way, maybe with the initial release of Aperture 3, maybe later, I cannot be sure. Aperture stopped working the way it used to in Aperture 2 with respect to changing out a volume of referenced masters with a backup volume.
 

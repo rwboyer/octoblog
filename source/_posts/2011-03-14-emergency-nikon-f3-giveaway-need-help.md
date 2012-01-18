@@ -2,6 +2,15 @@
 layout: post
 title: EMERGENCY - Nikon F3 Giveaway NEED HELP
 comments: true
+categories:
+- Site News
+tags:
+- contest
+- Earthquake
+- film
+- give-away
+- Japan
+- Nikon F3
 ---
 I know this is short notice but an entry just came in for the <a href="http://photo.rwboyer.com/2011/02/06/nikon-f3-give-away/comment-page-2/#comment-23865">Nikon F3 giveaway</a> that merits my consideration to modify the contest and just declare this person the winner. I did want to put this post out before I decided to see what all of you that follow this blog thought. In no way do I want to disrespect or neglect the people that entered the contest or get anyone upset that is following the contest "just to see what happens".
 

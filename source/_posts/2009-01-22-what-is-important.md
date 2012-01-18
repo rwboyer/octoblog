@@ -2,6 +2,11 @@
 layout: post
 title: What is Important?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Lighting
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/DSC_9675.jpg"><img title="DSC_9675.jpg" src="/wp-content/uploads/2009/01/.thumbs/.DSC_9675.jpg" border="0" alt="DSC_9675.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>Interesting question. What is important - photographically. I guess if you make your livelihood from images, all of those that make money are pretty darn important. Even so... If you ask yourself the question "what images are important" as I have asked myself countless times while making images, while editing images, while being really bored and philosophical, and now amazingly enough, asked the same question by a reader that thinks that I might have the answer.
 

@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 2 vs. Adobe Lightroom 2
 comments: true
+categories:
+- Adobe Lightroom
+- Aperture vs Lightroom
+tags:
+- Adobe Lightroom
+- Aperture 2
+- Aperture vs Lightroom
+- Apple
+- DNG
+- organizational capabilities
+- strengths and weaknesses
+- Workflow
 ---
 <a href="/wp-content/uploads/FromIweb/aperture_fullscreen.jpg"><img title="aperture_fullscreen.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.aperture_fullscreen.jpg" border="0" alt="aperture_fullscreen.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>The answer to the question â€œwhat is better, Aperture or Lightroom?â€, as always, is.... It depends. I use both Aperture and Lightroom on a daily basis (as well as Nikon NX2, etc, etc) If I didnâ€™t need to know both of these products extremely well I would probably use Aperture 2 for my own photography (Just letting you know what my bias is). The answer that I always give to my private clients as well as participants in any of my workshops is this - Once you know what your priorities in a tool are, pick one based on your needs. Both are light years ahead of managing and processing your digital images the way you may have back in the dark ages before either of them existed. Now I know thatâ€™s not at all helpful so here are the strengths of both in a nutshell:
 <!--more-->

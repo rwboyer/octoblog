@@ -2,6 +2,9 @@
 layout: post
 title: Aperture, Simple or Complex
 comments: true
+categories:
+- Apple Aperture
+tags:
 ---
 I thought the last post would help with the emails but no....
 

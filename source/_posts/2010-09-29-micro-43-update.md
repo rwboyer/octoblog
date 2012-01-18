@@ -2,6 +2,15 @@
 layout: post
 title: Micro 4/3 Update
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
+- Panasonic GF1
+- Panasonic LX5
 ---
 I have been shooting with my itty bitty cameras for the last two weeks. Nothing special, the usual stupid stuff in a sort of get to know them sort of way. I thought I would give a brief report on some of my preferences and biases so far.
 <ul>

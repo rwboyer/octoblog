@@ -2,6 +2,12 @@
 layout: post
 title: Olympus E-P1 Focusing
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Micro 4:3
+- Olympus E-P1
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020184-880.jpg"><img class="alignleft size-medium wp-image-2308" title="P9020184-880" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9020184-880-300x136.jpg" alt="" width="300" height="136" /></a>About 4 people have asked me off-line "what about the focusing?". I don't have enough real world experience to say one way or another if it is going to work for me. I can say that it's not horrible. You can put it in a mode where the camera decides and that's not bad or you can put it in a mode where you decide the focus point. Both seem useful. Both seem pretty quick in situations that I am likely to actually want to make images. It focuses fine in situations where I need image stabilization at 1600 ISO at f 3.5 so that is probably fine.
 

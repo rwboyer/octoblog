@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 Nikon D7000 Presets - The Story
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon D7000
+- Presets
+- RAW
 ---
 Nope, not another excuse or explanation about my bogus post the other day... Just some answers to a bunch of questions that I received via email over the last week regarding the, how, what, why, where, on the D7000 presets for Aperture 3. So not in any order here we go...
 

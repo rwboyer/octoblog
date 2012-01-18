@@ -2,6 +2,14 @@
 layout: post
 title: New Series - Photographers For Inspiration
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- inspiration
+- Patrick Demarchelier
+- Photographers
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2001_037_10.jpg"><img title="2001_037_10.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2001_037_10.jpg" border="0" alt="2001_037_10.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>Before going off to do the Christmas thing I wanted to put a post out there that is sort of a "note to self" and an introduction to a series of posts that I will be putting up in the coming year. I have had countless conversations with readers on just about all things photographic. A lot of Apple Aperture stuff, Some Abobe LightRoom things, a PS question or two, cameras, film, lighting, you name it.
 

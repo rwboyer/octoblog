@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 Meets The Panasonic LX5
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Panasonic LX5
+- RAW
+- RAW+JPEG
+- RW2
 ---
 It's been a while since I have sung the praises of my itty bitty <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26ref_%3Dnb_sb_ss_i_0_13%26field-keywords%3Dpanasonic%2520lx5%26url%3Dsearch-alias%253Daps%26sprefix%3Dpanasonic%2520lx5&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Panasonic LX5</a>. Back when I got mine last summer my expectations were well tempered based on my search for a small camera that I could actually love in the past. As you might have noticed more than a few illustrations that I have posted have been shot with the LX5... Not that they are anything special but they look darn good for a little point and shoot in my opinion.
 

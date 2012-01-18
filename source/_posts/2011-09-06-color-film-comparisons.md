@@ -2,6 +2,13 @@
 layout: post
 title: Color Film Comparisons
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodak Portra 160VC
+- scanning
 ---
 You guys/gals know I like film right? Of course you do - probably too much for you digital only people. I know I know boring but I am telling you digital only shooters - I swear you may actually pick up a thing or two embedded in some of my film non-sense that I post. Just not from this post - this is just somewhere to stick this...
 

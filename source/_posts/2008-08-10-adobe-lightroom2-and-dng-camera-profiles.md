@@ -2,6 +2,18 @@
 layout: post
 title: Adobe Lightroom2 and DNG camera profiles
 comments: true
+categories:
+- Adobe Lightroom
+- Apple Aperture
+- Articles
+tags:
+- Adobe Lightroom
+- Aperture 2
+- Apple
+- DNG
+- Lightroom 2
+- Nikon Capture NX2
+- photoshop lightroom
 ---
 <a rel="lightbox" href="/wp-content/uploads/FromIweb/DSC_9396_NX2_PC_vivid.jpg"><img title="DSC_9396_NX2_PC_vivid.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.DSC_9396_NX2_PC_vivid.jpg" border="0" alt="DSC_9396_NX2_PC_vivid.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Let me start out by stating that I am an Aperture zealot. I jumped on board Aperture from day one and believe that the product's introduction was revolutionary. Heck it kicked Adobe in the head and woke the digital media giant into understanding what photographers really need, hence Photoshop Lightroom and now the (if I must say so) excellent Lightroom2. I can forgive Apple for the lame plugin implementation of dodge and burn, I can forgive no multi-adjustment presets, even if they do seem idiotically easy to implement. What I am starting to question is the Aperture development team's commitment to a  professional product. Maybe I will rant about that later, for now I just wanted to cover a new development that has been a minor annoyance for myself and other RAW shooters for a long time.<!--more-->
 

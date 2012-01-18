@@ -2,6 +2,14 @@
 layout: post
 title: iPad - Still Waiting For "The Killer" Photo App
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Aperture Lite
+- Apple
+- iPad
+- Killer App
 ---
 I have big hopes for the iPad. I really do. I will tell you one thing - it is fantastic for web/audio/video content consumption - eBooks? we'll see. I just am not attuned to the eBook consumption on the iPad yet. Love it for reference PDF's but not long format word for word reading of 1000's of pages. I am not there yet.
 

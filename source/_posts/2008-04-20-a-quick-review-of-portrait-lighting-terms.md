@@ -2,6 +2,10 @@
 layout: post
 title: A Quick Review of Portrait Lighting Terms
 comments: true
+categories:
+- Articles
+- Lighting
+tags:
 ---
 <a href="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009srgb.jpg"><img class="alignleft size-thumbnail wp-image-243" title="dsc_9009srgb" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/dsc_9009srgb.jpg" alt="" width="100" height="150" /></a>I shot this portrait as a demonstration to discuss lighting ratio and contrast effects in a workshop that I hold once a month. The point that I was demonstrating happened to be exposure values versus perceived tonal values in various parts of the image depending on local contrast. More on that subject another day. During the demonstration I used a couple of terms that were either unfamiliar to the participants or were perceived in a different way than I perceived them. In any event, a discussion followed that I thought was very useful and thought I would share a summary.<!--more-->
 First a couple of terms that are widely used when communicating a lighting setup, especially regarding portraits. They have been around for eons. The terms themselves are only useful in describing a general setup of the main or key light but I discovered they can actually be useful as a guide in variations on a theme. I would absolutely recommend against using terms as a hard and fast set of rules or formulas, instead using some of the concepts embodied in the terms as starting points.

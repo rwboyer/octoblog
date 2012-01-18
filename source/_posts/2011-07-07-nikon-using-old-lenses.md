@@ -2,6 +2,14 @@
 layout: post
 title: Nikon - Using Old Lenses
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- AI
+- film
+- Nikon
+- Non-AI
 ---
 I have received a couple of emails from new-ish Nikon users that had some questions about using older lenses. Here is RB's quick and dirty guide to using older lenses on newer cameras. Beware this is focused more towards the pro end of the camera spectrum rather than the inexpensive new Nikon DSLR's that only accept G type lenses without an Aperture ring. Assuming that your camera can mount lenses other than the brand new G lenses there is one key difference that you need to be aware of. This is an AI type lens vs a Non-AI type lens.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 2 Quick Tip - Album Picks and Image Versions
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Album
+- Apple
+- Organization
+- stacks
+- work-flow
 ---
 <a href="/wp-content/uploads/2008/AQT___Album_Picks.jpg"><img title="AQT___Album_Picks.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT___Album_Picks.jpg" border="0" alt="AQT___Album_Picks.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>As I have mentioned on about a thousand or so occasions Aperture's ability to have a different image or image version show up on top of a stack for each and every album that you create is a huge benefit to developing an efficient work-flow. For those of you that are unfamiliar with albums and album picks you may want to take a look at the organization PDF. One of the features that I use all the time is the fact that new versions created in the context of an album automatically become the album pick. One of the minor annoyances that I have with Aperture is that new versions created with an external editor or plug-in do not share this behavior. <!--more-->I am sure that I could figure out why someone at Apple thought this inconsistency was a good idea if I thought about it long enough but for me it seems like an accidental mis-feature. To add insult to injury the "set album pick" function is one of those couple of things that only affect the primary in a multiple selection no matter what mode Aperture happens to be in. Several people over on the Aperture Support Forum had similar issues with this mis-feature that I suggested some ways to minimize the pain and I thought that I would share my particular workaround here as well.
 

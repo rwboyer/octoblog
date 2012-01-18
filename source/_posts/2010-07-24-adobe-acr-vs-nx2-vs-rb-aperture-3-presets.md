@@ -2,6 +2,18 @@
 layout: post
 title: Adobe ACR vs NX2 vs RB Aperture 3 Presets
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Adobe ACR
+- Aperture
+- Apple Aperture 3
+- Capture NX2
+- NEF
+- Nikon
+- Presets
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/DSC_9596Ap3_DaylightD200std.jpg"><img title="DSC_9596Ap3_DaylightD200std.jpg" src="/wp-content/uploads/2010/07/.thumbs/.DSC_9596Ap3_DaylightD200std.jpg" border="0" alt="DSC_9596Ap3_DaylightD200std.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Disclaimer - I still think Adobe ACR and camera profiles are a decent way of going about the RAW conversion business and that Apple has it's collective head up it's you know what when it comes to NEF processing but...
 

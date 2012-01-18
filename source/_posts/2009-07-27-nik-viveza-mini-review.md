@@ -2,6 +2,18 @@
 layout: post
 title: Nik Viveza - Mini Review
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Aperture
+- Apple Ap
+- Nik
+- nikon nx
+- nx2
+- photoshop
+- Viveza
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_0315_Viveza.jpg"><img title="DSC_0315_Viveza.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_0315_Viveza.jpg" border="0" alt="DSC_0315_Viveza.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>I still use Adobe Photoshop, in fact I just upgraded to CS4 a little while ago but what I use it for is becoming more and more specialized and far less frequent. Maybe I will do a rundown on exactly what I use it for some other day. The reason that I use it far less than I used to is due to Nik Software, specifically Nik Viveza.
 

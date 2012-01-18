@@ -2,6 +2,14 @@
 layout: post
 title: Film Is No Slouch
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Hasselblad
+- kodak tmax 100
+- TMX
 ---
 I know I talk about film and digital. I am not "anti" either medium. I probably talk about film more than I "should" given that 99% of people reading this either don't shoot film or never have. I do this because I do believe it is a worthwhile endeavor for many many reasons - hence the <a href="http://photo.rwboyer.com/2011/02/04/nikon-f3-i-think-i-am-cornering-the-market/">F3 giveaway</a> that I will be putting together later this month. I shot film for longer than digital has been around. I still do and I still learn things in doing so. It's also a nice change of pace, a nice bit of freedom in many cases but make no mistake it's not just nostalgic and quaint.
 

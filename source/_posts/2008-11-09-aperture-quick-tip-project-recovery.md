@@ -2,6 +2,17 @@
 layout: post
 title: Aperture Quick Tip - Project Recovery
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Project
+- Apple
+- folders
+- Organization
+- package contents
 ---
 <a href="/wp-content/uploads/2008/Aperture_QT___Project_Recovery.jpg"><img title="Aperture_QT___Project_Recovery.jpg" src="/wp-content/uploads/2008/.thumbs/.Aperture_QT___Project_Recovery.jpg" border="0" alt="Aperture_QT___Project_Recovery.jpg" width="150" height="94" align="left" /></a>I really should title this tip something more like "Quick and Dirty Project Recovery When You Are In a Bind" or something like that. If you ever find yourself in the unenviable position of being on a tight deadline for a wedding, story, commercial client, whatever and you have a problem accessing your Aperture library you only have a few options that are supported by Apple. Option one - recover your entire library from a vault, time machine backup, or other backup if you have one (and you should). <!--more-->Option two - Try rebuilding your library using the well documented methods on Apple's web site. The problem with both of these is they can take a long time and you may still have some debugging or catch-up work to do after that process completes. So here is a quick work around to get you going that will also allow you to keep all of the work you do while using the work around situation when you get your main library back up and healthy.
 

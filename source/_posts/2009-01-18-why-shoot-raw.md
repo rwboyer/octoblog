@@ -2,6 +2,15 @@
 layout: post
 title: Why Shoot RAW
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Aperture 2
+- Apple Aperture
+- NEF RAW
+- RAW
+- RAW+JPG
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/DSC_7945___Version_6.jpg"><img title="DSC_7945___Version_6.jpg" src="/wp-content/uploads/2009/01/.thumbs/.DSC_7945___Version_6.jpg" border="0" alt="DSC_7945___Version_6.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>I have received a bunch of feedback on a couple of articles regarding NEF processing in Aperture. More than a few were questioning the value of shooting RAW files at all if the camera does such a good job processing JPG files with in camera settings. I thought that I would share a couple of my thoughts on this along with a contrived example for the non-believers out there.
 

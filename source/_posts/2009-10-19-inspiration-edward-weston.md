@@ -2,6 +2,14 @@
 layout: post
 title: Inspiration - Edward Weston
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- art
+- Black and White
+- Edward Weston
+- inspiration
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/615KQ7TK7TL._SL500_AA240_.jpg"><img title="615KQ7TK7TL._SL500_AA240_.jpg" src="/wp-content/uploads/2009/10/.thumbs/.615KQ7TK7TL._SL500_AA240_.jpg" border="0" alt="615KQ7TK7TL._SL500_AA240_.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>I wanted to share with some of you that my not have experienced Edward Weston's Photographs that were one of the inspirations for me when I was young. Some famous some not so famous. These are the primary reason I love black and white photography. From an aesthetic point of view I gravitate much more towards Edward Weston or Seiff or Irving Penn or Richard Avedon than I do Ansel Adams.
 

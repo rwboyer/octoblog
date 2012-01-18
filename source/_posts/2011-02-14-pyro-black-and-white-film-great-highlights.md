@@ -2,6 +2,14 @@
 layout: post
 title: Pyro + Black and White Film = Great Highlights
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- pyro
+- Pyrocat HD
 ---
 I posted a CrappyWorkPrint™ of my normal StupidCrap™ test subjects a while ago and went on to explain some of the virtues of using a pyro developer. It seems that there was at least a tiny bit of interest in what the heck I was talking about. Probably more curiosity than practicality. Anyway I received a couple questions about what is what on that post and decide to synthesize the answers in to a few clarifications and a post.
 

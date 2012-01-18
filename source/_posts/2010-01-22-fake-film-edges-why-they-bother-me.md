@@ -2,6 +2,15 @@
 layout: post
 title: Fake Film Edges - Why They Bother Me
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- art
+- fake
+- film edges
+- RAW
+- rebate
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_7994.jpg"><img title="DSC_7994.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_7994.jpg" border="0" alt="DSC_7994.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>Without getting way too philosophical on photographic lies and truth as this discussion is best had with really close friends while drinking - I want to offer up some thoughts on fake film borders or rebate. When I see these on a photograph that is clearly digital - the wrong aspect ration for the film - and edge lettering that is clearly done in photoshop it is an instant turn off for me. It's probably even worse when it is "well done".
 

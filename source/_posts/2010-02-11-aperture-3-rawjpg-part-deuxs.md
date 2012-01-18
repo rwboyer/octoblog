@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 RAW+JPG Part Deux
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- RAW+JPG
+- work-flow
+- Workflow
 ---
 The other day I was complaining about some of the new Aperture 3 "features". One of those being the changes to the way Aperture handles RAW+JPG. I wanted to post an update to the old workflow suggestion that I had with the Aperture 3 equivalent. I also wanted to clarify some of my earlier comments as they were terse and not fully articulated.
 

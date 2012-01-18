@@ -2,6 +2,13 @@
 layout: post
 title: Photography - State of the Union
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- books
+- megapixels
+- prints
 ---
 It's that time again, time for my not so regular rant on Photography's state of the union. Well maybe not rant but search for understanding. My inspiration was a fellow photographer that I met wielding s brand spanking new state of the art 20 some megapixel DSLR. It wasn't his first DSLR. Some really nice glass to. I actually had an M6 with me but it was inside a small bag.
 

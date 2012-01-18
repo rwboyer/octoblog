@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 2 Quick Tip - Book Printing With Any Service
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture Book Tool
+- Apple
+- book layout
+- book printing
+- using books
+- work-flow
+- Workflow
 ---
 <a href="/wp-content/uploads/2008/Aperture_QT___Book_Service.jpg"><img style="border: 0pt none ; margin: 10px;" title="Aperture_QT___Book_Service.jpg" src="/wp-content/uploads/2008/.thumbs/.Aperture_QT___Book_Service.jpg" border="0" alt="Aperture_QT___Book_Service.jpg" width="150" height="94" align="left" /></a>Sorry for the long time away from the site, one of those busy weeks. Well on with the show. I received way more feedback and questions on my last Aperture quick tip regarding using books for project notes than I would have ever expected. A lot of the feed back was related to using Aperture books for services other than Apple's book printing service. After responding to a bunch of very specific questions in email I thought it might be useful to provide a more general overview of how to use Aperture's book layout features with any service that you would like to use so here goes.
 

@@ -2,6 +2,12 @@
 layout: post
 title: Really Funny Stuff - Must Read
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- humor
+- inspiration
 ---
 Sorry for the foul mood and negativity of my last two posts - that is what dealing with the government does to me. On a lighter note but still on topic relative to not only the last two posts but a lot of the subtext in more than a few of my posts. Here are a few posts that you have to read, if these don't make you chuckle, I don't know what would. File this under funny because you know it's true.
 

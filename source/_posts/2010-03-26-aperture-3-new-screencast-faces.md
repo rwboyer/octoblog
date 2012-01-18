@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 - New Screencast - Faces
 comments: true
+categories:
+- Apple Aperture
+- Site News
+tags:
+- Aperture 3
+- Apple
+- Apple Aperture
+- screencast
+- work-flow
+- Workflow
 ---
 Okay - so here is something that might surprise you. I am actually using Faces - not to the extent that <a href="http://bergsmavisuals.com/blog/apple-aperture/organization/the-cases-for-faces-in-aperture-3/">Matthew Bergsma</a> is - check him out but I am using it none the less. I still thing Apple has a lot of work to do with the UI but here are my suggestions on some of the ways to use Faces most effectively.
 

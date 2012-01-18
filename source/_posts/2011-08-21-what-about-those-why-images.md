@@ -2,6 +2,10 @@
 layout: post
 title: What About Those "Why?" Images
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 As a few of you know, I have been finding my way out of a commercial way of looking at things for quite some time now. I have a couple of projects that I am working on that I am not even close to be ready to <em>show</em>. All of them are so far from my old way of working that I cannot believe it. One of the things that I do to somehow change my mentality of shooting is to shoot StupidCrap™. This is short hand for anything that crosses my path that interests me in the least, in any way. Subject matter, form, light, anything, even stuff that I can't really identify as to <em>why</em> it interests me. When I do this, I really make an effort <em>not</em> to put too much effort into it. I know that sounds strange - to me it's totally foreign, as most of my photographic lifetime has been put into every increasing <em>effort</em>.
 

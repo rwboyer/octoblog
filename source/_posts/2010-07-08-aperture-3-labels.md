@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 - Labels
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 3
+- labels
+- Metadata
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/Ap3labels.jpg"><img title="Ap3labels.jpg" src="/wp-content/uploads/2010/07/.thumbs/.Ap3labels.jpg" border="0" alt="Ap3labels.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>There were three things on the enormous Aperture 3 feature list that caused me some excitement at first glance. they are probably not what you are thinking, they were color labels along with the ability to read and write IPTC metadata to image masters. This probably does not sound too too exciting but for me it was, and it should have been to a lot of others.
 

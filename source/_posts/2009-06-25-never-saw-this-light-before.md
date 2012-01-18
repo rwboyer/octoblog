@@ -2,6 +2,16 @@
 layout: post
 title: Never Saw This Light Before
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- atmospheric effects
+- critique group
+- flickr
+- inspiration
+- landscape
+- rays of the sun
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_0292.jpg"><img title="DSC_0292.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_0292.jpg" border="0" alt="DSC_0292.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have been having a couple of conversations with various e-buddies about laziness, inspiration, cameras, film, and just getting off my ass to make some images. One of the reasons that I don't do much commercial work any more is that it is so easy to become jaded with photography. Once you feel that you can make a picture of anything anytime you want because you have to it is easy to slip into a place where you have no desire to.
 

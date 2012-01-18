@@ -2,6 +2,13 @@
 layout: post
 title: Film Friday
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Color
+- film
+- Nikon D7000
 ---
 Just got around to looking at some shots testing my first roll of Ektar 100 from a while back - yes yes I am slow and loose track of things easily. Thought I would leave you with this for the weekend. Just happened to be shooting my D7000 as a "known quantity" while seeing what stupid things I can do with Ektar 100 in 35mm. Like most of you I have this strange sort of anxiety about shooting "important" things with something you never used before. Like usual I just shot some stupid stuff about 3 feet from my front door. Hey at least I gathered the energy to go outside.
 

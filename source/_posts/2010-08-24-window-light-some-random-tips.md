@@ -2,6 +2,18 @@
 layout: post
 title: Window Light - Six Tips
 comments: true
+categories:
+- Articles
+- Featured
+- General Photography
+- Lighting
+tags:
+- Agfa APX 100
+- Black and White
+- Hasselblad
+- rodinal
+- window light
+- Zeiss
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-005-09.jpg"><img class="alignleft size-medium wp-image-2190" title="2002-005-09" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/2002-005-09-300x239.jpg" alt="" width="300" height="239" /></a>You can't tell from the comments but the most popular post last week by far was the tiny little post on window light that I put up on the site. This is all stuff that "we" already know but tend to forget about and don't practice it as time goes by and little TTL flashes creep into the mix and experiments with HDR cram our brains, and, and. I thought it would be useful to every once in a while call a time out for all that and get back to some basic simple stuff that anyone can do almost anywhere, with any equipment and produce some great results that are a little off the beaten track from the eye-poping, retina burning, wild ride, "lighting effects" that are assaulting us all daily.
 

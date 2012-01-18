@@ -2,6 +2,14 @@
 layout: post
 title: Olympus E-P1 Focusing Follow Up
 comments: true
+categories:
+- Featured
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9040276-Version-2.jpg"><img class="alignleft size-medium wp-image-2316" title="OLYMPUS DIGITAL CAMERA" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/P9040276-Version-2-300x136.jpg" alt="" width="300" height="136" /></a>I decided to play around and shoot something today that I have never shot before. Butterflies. Nothing special but I did have a purpose. I really wanted to build up my confidence in the E-P1 focusing system from a speed and accuracy standpoint. I am paranoid about such things. Not overly so but I do like to know what to expect and what limitations I am working with. The photo at the top is a crop of the full width of the out of camera jpg. No messing around - settings were "normal" all the way around. I did use the choose your own autofocus point but I wasn't especially careful. Auto WB and exposure did the heavy lifting. I just got as close as I could without scaring the little critters away. They are a bit more skittish than I imagined.
 

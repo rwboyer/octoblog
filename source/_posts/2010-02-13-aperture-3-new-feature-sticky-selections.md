@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - New Feature - Sticky Selections?
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- New Features
+- Selections
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3Selection.jpg"><img title="Ap3Selection.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3Selection.jpg" border="0" alt="Ap3Selection.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>It might be me, I could be getting senile or something but I just noticed what I think is a new feature that does not seem to show up in the list of 200+ new features. It is one of those little things and this one although quiet is actually really cool. After pushing Aperture 3 and putting a lot of new features through their paces to discover depth (I love Aperture's depth - there is always more than meets the eye), I stumbled onto "sticky selections"
 

@@ -2,6 +2,12 @@
 layout: post
 title: Just Plunked Down My 300 Bucks For FCPX
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Final Cut Pro X
+- Video
 ---
 Yep,
 

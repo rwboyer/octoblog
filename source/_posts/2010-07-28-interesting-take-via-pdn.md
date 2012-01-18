@@ -2,6 +2,12 @@
 layout: post
 title: Interesting Take Via PDN
 comments: true
+categories:
+- General Photography
+tags:
+- art
+- Creativity
+- photojournalism
 ---
 'Member we had that photojournalism, class 1, 2, and 3 wordy discussion the other day. Well <a href="http://www.pdnonline.com/pdn/content_display/photo-news/photojournalism/e3i7deb554f2e0e8b2f97259de6564a8b39">this is completely tangential but I found it interesting</a>. "Expert buyers" give advice to a PJ type photographer that wants to repackage what he does and has shot for "commercial" buyers. You may find it interesting.
 

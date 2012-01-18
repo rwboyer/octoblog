@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 Adjustment Controls
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- curves
+- image adjustments
+- post-production
 ---
 I get a bunch of emails that go something like "Hey RB, why no posts on image manipulation using Aperture?". Well... A couple of reasons come to mind. The first of which is that I don't do a lot of manipulation and adjustment on my personal images. More than half the time I use the OoC JPEG. This has more to do with what I like than anything else. Believe me, I have had more cumulative hours of wrenching and hammering images into completely different beings than what they started out as than I care to remember. Consider it aversion therapy via commercial fashion.
 

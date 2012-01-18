@@ -2,6 +2,13 @@
 layout: post
 title: Aperture 3 - Ansel Adams Preset
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Presets
 ---
 So where is the download button? Not quite yet. I knew this was going to happen. For you web aware people - look at what searches are really popular. So now we have the Aperture preset market. Yea - I have put a couple of them up for download. Do I charge money for them? But hey traffic=money.
 

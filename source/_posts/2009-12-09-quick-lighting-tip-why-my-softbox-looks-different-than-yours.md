@@ -2,6 +2,18 @@
 layout: post
 title: Quick Lighting Tip - Why My Softbox Looks Different Than Yours
 comments: true
+categories:
+- Articles
+- General Photography
+- Lighting
+tags:
+- fill light
+- flash
+- Lighting
+- lighting ratio
+- reflectors
+- softbox
+- strobes
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/GLMedia_2005_09_22_1723.jpg"><img title="GLMedia_2005_09_22_1723.jpg" src="/wp-content/uploads/2009/12/.thumbs/.GLMedia_2005_09_22_1723.jpg" border="0" alt="GLMedia_2005_09_22_1723.jpg" hspace="10" vspace="10" width="99" height="150" align="left" /></a>Yep every once in a while I write a post about photographic lighting. I only do this when I stumble across something that I think my answer a lot of questions really quickly. I much prefer the "hands on approach" that I use in workshops that I do every once in a while. I prefer this because you can learn more in 5 minutes actually relating to the distances/spaces/angles in person than you can in a lifetime of looking at diagrams and descriptions and resulting images. I guess video is a little better but nothing like being there.
 

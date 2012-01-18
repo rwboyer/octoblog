@@ -2,6 +2,17 @@
 layout: post
 title: Nikon - Aperture and War Against Bit-twiddling
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Apple
+- Color
+- NEF
+- Nikon
+- nx2
+- RAW
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/05/DSC_0102_orig.jpg"><img title="DSC_0102_orig.jpg" src="/wp-content/uploads/2009/05/.thumbs/.DSC_0102_orig.jpg" border="0" alt="DSC_0102_orig.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Just a quick follow-up post regarding a bunch of email conversations I have had regarding my last post about what me, me, me wants in the next version of Aperture. I have engaged in a number of interesting and not so interesting conversations regarding that post. I cannot begin to cover all of them at the moment but I had so many regarding my number one issue, NEF RAW processing, that I thought I would share a couple thoughts.
 

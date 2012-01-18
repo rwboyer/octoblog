@@ -2,6 +2,9 @@
 layout: post
 title: Saturday Morning Aperture Humor.
 comments: true
+categories:
+- Apple Aperture
+tags:
 ---
 Remember our ongoing conversations about Aperture support forums? Thought all of you may get a laugh out of this one.
 

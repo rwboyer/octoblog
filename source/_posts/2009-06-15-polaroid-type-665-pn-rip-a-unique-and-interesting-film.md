@@ -2,6 +2,15 @@
 layout: post
 title: Polaroid Type 665 PN - RIP - A Unique and Interesting Film
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- medium format
+- polaroid films
+- Polaroid Type 55
+- Polaroid Type 665
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2001_665_01_full.jpg"><img title="2001_665_01_full.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2001_665_01_full.jpg" border="0" alt="2001_665_01_full.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Polaroid Type 665 is pretty much Type 55 in a medium format pack. A little background for those not familiar with Polaroid materials. I never really shot Polaroid materials as my primary medium. Some people have made a career out of it. Most of us old-timers did use it to check lighting and confirm everything was just right before letting it rip. After seening someone or other's gallery show done entirely using Poloaroid Type 55 I decided to give it a try and used it as my proofing and test shots from then on out. Here is why.
 

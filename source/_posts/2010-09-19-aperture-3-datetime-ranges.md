@@ -2,6 +2,15 @@
 layout: post
 title: Aperture 3 - Date/Time Ranges
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Featured
+tags:
+- Aperture 3
+- Apple Aperture
+- work-flow
+- Workflow
 ---
 I receive so many questions regarding Aperture 3 via email it's not funny. Some of them are actually extremely complicated but you would be surprised how many are very simple things. I typically don't post about this kind of stuff because I have been using Aperture so long that for me it appears that "everybody knows that". I guess I am wrong so I am going to try a series of "Aperture 3 - Super Simple Stuff" kinds of things based on things I respond to in email, etc.
 

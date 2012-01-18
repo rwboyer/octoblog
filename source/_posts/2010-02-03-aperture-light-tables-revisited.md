@@ -2,6 +2,18 @@
 layout: post
 title: Aperture - Light Tables Revisited
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- album
+- Aperture
+- Aperture books
+- Apple Aperture
+- books
+- design
+- layout
+- light table
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/ApertureScreenSnapz006.jpg"><img title="ApertureScreenSnapz006.jpg" src="/wp-content/uploads/2010/02/.thumbs/.ApertureScreenSnapz006.jpg" border="0" alt="ApertureScreenSnapz006.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>One of the least used features of Aperture - The lowly old light table. It's an album that lets you chuck a bunch of images up on a paste board and resize them relative to each other. Oh it does let you drag them around as well. That's about it. I won't go into explaining them as in how to use the couple of self evident controls they have available. That is easy enough to figure out on your own. What I will do is tell you a little bit about how I use them and share something a buddy of mine started using them for.
 

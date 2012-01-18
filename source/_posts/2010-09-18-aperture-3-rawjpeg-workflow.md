@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 RAW+JPEG Workflow
 comments: true
+categories:
+- Apple Aperture
+- Featured
+- General Photography
+tags:
+- Aperture 3
+- Apple Aperture
+- RAW+JPEG
+- work-flow
+- Workflow
 ---
 A couple of readers sent me some email regarding RAW+JPEG work-flow questions. Most of them were very specific to their particular needs so I won't go into the gory details of my replies to them. Too boring. I will publish some additional thoughts here and there as time permits because what I consider an obvious work-flow is not so obvious to a lot of Aperture users out there. That and the RAW+JPEG option is something that a lot of people haven't explored that much.
 

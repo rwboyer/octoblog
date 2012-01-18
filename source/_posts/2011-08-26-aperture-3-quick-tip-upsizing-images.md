@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 Quick Tip - Upsizing images.
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- work-flow
+- Workflow
 ---
 This question comes up all the time. "Can I upsize the pixel dimensions of an image using Aperture 3?". The SuperSimpleStuff™ answer is yes. Here's how...
 <ul>

@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 - Adjustment Control Thoughts
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- curves
+- image adjustments
 ---
 Hmmm, that was fast. An astute reader noticed that one of my screen shots in the Aperture 3 full screen mode post used the black point slider. It never ceases to amaze me that the questions that sort of thing generates are completely unpredictable to me. Her email wanted to know what that control did. I am going to answer that question here along with what I hope are the answers to a bunch of other questions that a lot of people have regarding Aperture's adjustment controls. For that matter any image adjustments. I also hope to answer the "why" you might want to use one versus the other when choosing what adjustments to apply.
 

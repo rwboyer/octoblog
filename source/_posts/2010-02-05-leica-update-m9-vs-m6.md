@@ -2,6 +2,19 @@
 layout: post
 title: Leica Update - M9 vs M6
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm summicron
+- 50mm summicron
+- film
+- Kodak
+- leica m6
+- Leica M9
+- TMax 3200
+- TMZ
+- TRI-X
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/2001_031_28.jpg"><img title="2001_031_28.jpg" src="/wp-content/uploads/2010/02/.thumbs/.2001_031_28.jpg" border="0" alt="2001_031_28.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>Remember way way back I was excited about the Leica M9. Well I was and I still am - sort of. If I have a need for something like a Leica but I must have digital output for some reason I will probably consider an M9. I am glad that it exists in the world. If I was a PJ and had to get images out right now I would definitely use one for a lot of my work. I am not so I decided that before I went and plunked down $8000 I would dust off my old M6 kit and shoot with it for a while to see what happened.
 

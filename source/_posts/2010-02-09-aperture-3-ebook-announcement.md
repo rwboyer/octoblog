@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 3 - eBook Announcement
 comments: true
+categories:
+- Aperture PDF Guides
+- Apple Aperture
+- Site News
+tags:
+- Aperture 3
+- Aperture PDF Guides
+- Apple Aperture
+- eBook
+- education
+- screencast
+- Video
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3.jpg"><img title="Ap3.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3.jpg" border="0" alt="Ap3.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Okay so I said I was not going to do this but I am going to offer an upgrade price. If you purchased ANY of my Aperture eBooks I am going to offer a low low upgrade price. It doesn't matter when you purchased it you will get an upgrade. I don't want to fool around with dates and fairness and all that.
 

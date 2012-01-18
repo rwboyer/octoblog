@@ -2,6 +2,10 @@
 layout: post
 title: Histograms and Using Your Head
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
 ---
 <a rel="lightbox" href="http://photo.rwboyer.com/wp-content/uploads/2008/09/histogram.jpg"><img class="alignleft size-thumbnail wp-image-251" title="histogram" src="http://photo.rwboyer.com/wp-content/uploads/2008/09/histogram.jpg" alt="" width="150" height="95" /></a>If you saw a histogram like this one on the back of your camera what would you think? Mull it over while I yammer on about what a histogram is.
 A histogram is a graph representing the relative number of pixels of a particular tonal value and in the case above a color value as well. Great what the heck does that mean. For now we'll stick with tonal values for simplicity. Tonal value 0 would be all the way on the left and it is dark. Tonal value 255 would be all the way on the right and it is light. Tonal value 128 would be in the middle and is... well... medium. If the pixels in an image were all black there would be a line going strait up to the top of the histogram all the way on the left. If all the pixels were white that line would be at the right. If they were different values but close together there would be more of a mountain kind of shape in the histogram at what ever tonal value where they fell. The steeper the mountain the closer the pixels are in tone. The more gentle the slope the farther apart in tone the pixels are.<!--more-->

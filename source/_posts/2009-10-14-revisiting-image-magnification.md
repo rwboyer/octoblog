@@ -2,6 +2,14 @@
 layout: post
 title: Revisiting Image Magnification
 comments: true
+categories:
+- General Photography
+tags:
+- film
+- image magnification
+- medium format
+- nikon d3
+- Nikon D3x
 ---
 A short while ago I wrote something about image magnification, film scanning, sharpening etc. The <a href="http://photo.rwboyer.com/2009/10/02/megapixels-image-magnification-and-why-you-probably-dont-need-a-new-camera/">original post</a> was making a point that looking at some of the unsharpened film scans at 100% that I presented while discussing various characteristics of film has nothing to do with image sharpness on the film, in any reasonable sized print, or in comparison with any DX/FX sized camera sensor available.
 

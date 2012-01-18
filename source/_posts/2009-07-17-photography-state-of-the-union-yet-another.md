@@ -2,6 +2,14 @@
 layout: post
 title: Photography State of the Union - Yet Another Rant
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- family photo albums
+- lenswork
+- photo magazine
+- photography publications
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_0315v2.jpg"><img title="DSC_0315v2.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_0315v2.jpg" border="0" alt="DSC_0315v2.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I am always on the lookout for new photo publications that I might enjoy so you can imagine how excited I was when I learned of a new publication that sounded right up my alley. The synopsis went something like "A brand new photo magazine, each issue includes 20 unbound photographs from 20 photographers accompanied by essays on photography and interviews." Something like that.
 

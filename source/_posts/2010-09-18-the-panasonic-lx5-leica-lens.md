@@ -2,6 +2,12 @@
 layout: post
 title: The Panasonic LX5 Leica Lens
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Leica
+- Panasonic LX5
 ---
 Okay so I have had this camera for a couple of days and given a few initial thoughts. One of the things that I have not commented on is image quality apart from saying that RAW is actually worthwhile with the LX5. I am still not prepared to discuss image quality in any depth as I have not used the camera under a variety of conditions and have done no controlled evaluations as of yet. Gimme a break I have three brand new cameras to play with at the moment.
 

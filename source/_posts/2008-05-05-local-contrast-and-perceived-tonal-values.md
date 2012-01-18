@@ -2,6 +2,10 @@
 layout: post
 title: Local Contrast and Perceived Tonal Values
 comments: true
+categories:
+- Articles
+- Lighting
+tags:
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/09/dsc_9009srgb.jpg"><img title="dsc_9009srgb.jpg" src="/wp-content/uploads/2008/09/.thumbs/.dsc_9009srgb.jpg" border="0" alt="dsc_9009srgb.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>I have talked a bit about this shot in a couple of previous articles but never explained why I set up such a ridiculous shot for my workshop in the first place. To follow along and eliminate any ambiguity or to confirm what the words in this installment are saying, feel free to load the linked image into your favorite software that can display luminance values of specific areas of the image.
 

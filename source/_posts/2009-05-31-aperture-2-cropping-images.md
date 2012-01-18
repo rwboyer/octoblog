@@ -2,6 +2,20 @@
 layout: post
 title: Aperture 2 Cropping Images
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- albums
+- Aperture
+- Aperture 2
+- Apple
+- image crop
+- Organization
+- stacks
+- versions
+- work-flow
+- Workflow
 ---
 <a onclick="ps_imagemanager_popup(this.href,'screen_capture.jpg','1920','1200');return false" href="/wp-content/uploads/2009/05/screen_capture.jpg" onfocus="this.blur()"><img title="screen_capture.jpg" src="/wp-content/uploads/2009/05/.thumbs/.screen_capture.jpg" border="0" alt="screen_capture.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>I have explained this technique to speed up your work-flow about a million times over on the Aperture support forums as well as via email. I thought I would post it here hoping it may be helpful to a few readers as well as saving my time from having to re-re-re-rewrite it over and over again.
 

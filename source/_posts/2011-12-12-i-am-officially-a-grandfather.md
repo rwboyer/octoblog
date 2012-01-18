@@ -2,6 +2,14 @@
 layout: post
 title: I Am Officially A Grandfather
 comments: true
+categories:
+- Site News
+tags:
+- matrix metering
+- Nikon D7000
+- Portable Flash
+- skin tones
+- TTL
 ---
 My apologies for keeping away for so so very long. I guess it's been about two weeks, that is like centuries in internet time. I do have a very good excuse. My oldest daughter gave birth to her very first child and my very first grandchild. Yes - I am a grandfather.
 

@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Film - Pyro Clarification And Notes
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Ilford HP5 plus
+- Kodak
+- Plus-X
+- PMK
+- pyro
+- TMZ
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2000_067_15_full.jpg"><img title="2000_067_15_full.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2000_067_15_full.jpg" border="0" alt="2000_067_15_full.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>I have put a number of posts in the "shooting film" series. By a large margin the posts that have generated the most questions and correspondence have been the couple of films that I have posted so far that have been developed in pyro. If memory serves, I believe that the only two have been Ilford HP5 plus in PMK pyro and Kodak Plus-X also developed in PMK pyro. The Plus-X wasn't even in the shooting film series - It was in the a random rant about "80% of what you read or hear is nonsense" post.
 

@@ -2,6 +2,14 @@
 layout: post
 title: The Olympus E-P1 Is Here
 comments: true
+categories:
+- Articles
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Olympus E-P1
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/08/P8310023-880.jpg"><img class="alignleft size-medium wp-image-2286" title="OLYMPUS DIGITAL CAMERA" src="http://photo.rwboyer.com/wp-content/uploads/2010/08/P8310023-880-300x136.jpg" alt="" width="300" height="136" /></a>That was quick - like two days. Anyway the UPS man showed up and here it is. I tore it out of the box slammed the battery in and guess what? No SD cards - yes I know you have to buy them, I ordered a couple of 8GB cards the same day, maybe they'll be here later. I did scrounge up an ancient 256MB SD card at the bottom of a drawer and shot of couple of grab shots to make sure it worked. So here is my first couple impressions - way more later.
 <ol>

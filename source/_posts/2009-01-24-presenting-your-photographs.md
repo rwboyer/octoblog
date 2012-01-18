@@ -2,6 +2,15 @@
 layout: post
 title: Presenting Your Photographs
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- previews
+- Video
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/01/DSC_4020.jpg"><img title="DSC_4020.jpg" src="/wp-content/uploads/2009/01/.thumbs/.DSC_4020.jpg" border="0" alt="DSC_4020.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>I am not yet a huge fan of the web as a presentation medium for my photography. No I am not old fashioned and I didn't say that I was not a fan of digital presentation. For some reason I just am not a huge fan of web galleries, online portfolios and the like. As you may have noticed I don't have a bunch of galleries posted. When it comes to presenting my photographs you can probably tell if you have read more than two posts on my blog that I love books. I also love display sized prints, especially when I can present them as a group and the presentation as a whole is well done. The right room, the right lighting, the right context, etc.
 

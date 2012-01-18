@@ -2,6 +2,14 @@
 layout: post
 title: More On The GF1 And LX5
 comments: true
+categories:
+- General Photography
+- Micro 4:3
+tags:
+- M43
+- Micro 4:3
+- Panasonic GF1
+- Panasonic LX5
 ---
 So... I went to my neighborhood Octoberfest yesterday. Actually it was more Septemberfest and the main event was a chili cook-off. Hey what did you expect in rural Maryland. We do things a little different here. I shot a couple of images with the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002MUAEX4%3Fie%3DUTF8%26ref_%3Dsr_1_1_olp%26s%3Delectronics%26qid%3D1285519516%26sr%3D1-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">GF1</a> and <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB003WJR69E%3Fie%3DUTF8%26ref_%3Dsr_1_1_olp%26s%3Dgateway%26qid%3D1285519472%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">LX5</a> and treated them both like point and shoots. You know the drill, auto everything, Program mode, etc. They weren't in dummy mode but close to it. I didn't even bother choosing focus points for any of the images I snapped.
 

@@ -2,6 +2,12 @@
 layout: post
 title: Photoshop CS5 Follow-Up
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Adobe
+- Photoshop CS5
 ---
 I do not write a lot about Photoshop - honestly I do not use it for anything remotely sophisticated now. I make stupid logos, use it for a plug-in/filter consolidation platform as I described, a couple of printing tools that I find essential - like genuine fractals, but for the most part no big deal retouching.
 

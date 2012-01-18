@@ -2,6 +2,17 @@
 layout: post
 title: Aperture Tip - Interface Customization.
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Apple
+- laptop
+- personal preference
+- Screen
+- screen space
+- UI
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/11/full.jpg"><img title="full.jpg" src="/wp-content/uploads/2009/11/.thumbs/.full.jpg" border="0" alt="full.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>I was actually working with Aperture on my beautiful new Macbook Pro unibody yesterday and rediscovered one of the joys of using the software. I never really forgot about it, I just had a renewed appreciation for it's wonderfulness. I thought I would share and reintroduce some of the subtle but really useful touches that Aperture provides that allow you to work more productively while we are all waiting for that Aperture 3/Aperture X goodness.
 

@@ -2,6 +2,19 @@
 layout: post
 title: Shooting Film - Scanning Film and Other Horrors
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- analog
+- contrast manipulation
+- film
+- film grain
+- large format
+- magnification
+- medium format
+- resize
+- scan
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/11/2009_008_11_lvl_grey.jpg"><img title="2009_008_11_lvl_grey.jpg" src="/wp-content/uploads/2009/11/.thumbs/.2009_008_11_lvl_grey.jpg" border="0" alt="2009_008_11_lvl_grey.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Had a couple of interesting phone conversations that started with emails from some readers that are considering shooting some film. A couple of experiences that they had in the past turned them off to it so they had a couple of questions. While they were all fine and dandy with the cost argument when wanting to up their quality game the big concern was their intent to scan the film and their experience was that scanned film looked like s**t and totally undermined what quality they may have gotten by moving up in capture size/reduced magnification.
 

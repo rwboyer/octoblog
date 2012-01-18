@@ -2,6 +2,12 @@
 layout: post
 title: D7000 Thoughts and Other Stuff
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- Nikon
+- Nikon D7000
 ---
 So, I have been playing around with my new Nikon D7000 and I have to say this is by far my favorite DX sensor sized camera that I have owned. Yes it has it's flaws but it's good, especially considering the $1000 price tag. Really good. In fact the it's the first Nikon that I have used that the video actually looks and more importantly <em>works</em> competetively with other maker's DSLR video offerings. I know I will probably hear from the canon or panasonic folk about how much <em>better</em> their choice is for whatever hairsplitting reasons they have but make no mistake this may be the first Nikon DSLR where you actually you buy it for all of the traditional Nikon strengths and then discover how amazingly good the video is.
 

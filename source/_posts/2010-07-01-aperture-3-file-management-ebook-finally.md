@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 File Management eBook - Finally
 comments: true
+categories:
+- Aperture PDF Guides
+- Apple Aperture
+- Site News
+tags:
+- Aperture
+- Aperture 3
+- Apple
+- eBook
+- file management
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/06/GLMedia_491.jpg"><img title="GLMedia_491.jpg" src="/wp-content/uploads/2010/06/.thumbs/.GLMedia_491.jpg" border="0" alt="GLMedia_491.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>Wooooo hoooooooo, heeeeeee haaaa. Finally I am finished the updates for the definitive guide to Aperture 3 file management. Sorry for how long it took, I thought that it would be easy but I was wrong. I told you about my little bout with the dreaded spring fever but that's not the whole story. Not only my perennial distraction caused by the mix of warm weather, blue sky, water, pollen, flowers, etc. caused the lethargic release of the update. It was also a matter of how much work that I did not expect to do. Yea Aperture 3 works the same way Aperture 2 did - except for a lot of subtle differences. I took them in stride while using Aperture 3, quite naturally as a long time Aperture devotee but when it came to writing them down. That's another matter altogether.
 

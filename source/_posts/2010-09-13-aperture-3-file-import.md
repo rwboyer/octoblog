@@ -2,6 +2,18 @@
 layout: post
 title: Aperture 3 File Import
 comments: true
+categories:
+- Apple Aperture
+- Articles
+- Featured
+tags:
+- Aperture 3
+- Apple Aperture
+- Import
+- RAW
+- RAW+JPEG
+- work-flow
+- Workflow
 ---
 I am a big fan of shooting RAW+JPEG. I don't worry about it, I don;t make decisions about it. I just set my camera to RAW+JPEG and never think about it again. I use my out of camera JPEG files most of the time unless I have a good reason to use the RAW files. I like that I can change the look of them with ease. Most of my new cameras produce fantastic looking JPEG files be it black and white, auto noise reduction, simulated film "looks" whatever.
 

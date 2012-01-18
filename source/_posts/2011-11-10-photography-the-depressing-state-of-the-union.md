@@ -2,6 +2,12 @@
 layout: post
 title: Photography - The (Depressing) State of the Union
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- fashion
+- photoshop
 ---
 It's a bit chilly here in Maryland today. Leaves are falling off the trees, meaning winter is coming. I hate the winter. Oh, I also had to go to the DMV today. I guess that this particular combination of things has me in a rather foul mood so please take the following ramble understanding that I mean no harm or ill will towards any particular individual. Take it more as a bad mood fueled take on things I find baffling as a whole.
 

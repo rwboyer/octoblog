@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 and Sharpening. 
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- printing
+- Sharpening
+- work-flow
+- Workflow
 ---
 This is going to be a two faceted post. Based on the title you can assume some magic <em>secrets</em> pertaing to Aperture 3's sharpening tools. Well I will comment on those but to give you some context before I get to Aperture, I will discuss sharpening in general. Althought sharpening as pertains to digital imaging has been discussed ad nausium, I still find the vast majority of digital photographers really don't have a good handle on what's what in the world of sharpening based on the number of questions I get in comments and even more in emails.
 

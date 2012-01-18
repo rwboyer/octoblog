@@ -2,6 +2,13 @@
 layout: post
 title: Things I Hate
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- fine art photography
+- photographic art
+- photographic artists
 ---
 As most of you do - I also like to keep up to date on things going on with Photography. All sides and aspects of it. Even if I do not participate in one genre or another. Even if my preferences are completely opposed to a particular style, or material, or technique, I have a healthy respect for things that are not my cup of tea and have a genuine interest in keeping up with what is going on - photographically. The only way to do that is that I have to keep an open mind and give things a chance even if my first reaction is one of dismissal. Every once in a while my initial reaction is absolutely wrong, most of the time it is right. That is the price you pay in time and psychological aggravation to allow yourself to be open to new things and to continue learning in the great journey of life.
 

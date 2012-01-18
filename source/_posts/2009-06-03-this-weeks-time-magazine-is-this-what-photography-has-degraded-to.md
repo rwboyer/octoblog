@@ -2,6 +2,14 @@
 layout: post
 title: This Week's Time Magazine - Is This What Photography Has Degraded To?
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- aweful
+- Bad portraits
+- bad taste
+- time magazine
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_7989.jpg"><img title="DSC_7989.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_7989.jpg" border="0" alt="DSC_7989.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>WTF? I don't even know where to begin. I don't know who is responsible for this atrocity. I have seen some dogs lately in terms of things that are supposed to be photographs on the cover of Time Magazine but this takes the prize for the most aweful. Is this the art director's fault, is this what he or she wanted?
 

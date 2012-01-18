@@ -2,6 +2,11 @@
 layout: post
 title: So You Think I Am A Complete Lunatic?
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
 ---
 I have received more than one email that in one way or another asked about the state of my mental health. Some of them not so nice. Of course these were related to the use of the F word. No the other four letter F word - FILM. I could write about digital shit all day and night 24x7 and suggest every piece of equipment and software known to mankind. I could probably contradict my recommendations 24 hours later and nobody would ever question it.
 

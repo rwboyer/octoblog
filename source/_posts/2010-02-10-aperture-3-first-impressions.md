@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 3 - First Impressions
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adjustments
+- Aperture 3
+- Apple Aperture
+- Faces
+- performance
+- Places
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Ap3Places.jpg"><img title="Ap3Places.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Ap3Places.jpg" border="0" alt="Ap3Places.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>I have used Aperture 3 since yesterday morning and stayed up until the wee hours. I will obviously post a lot of first impressions but I wanted to get this one out while it is still fresh. Overall this is way more than I expected as an update. There are some things in my wish list that are not there and some nice surprises. Some of my comments are first impressions and I may change my opinion as time goes on.
 

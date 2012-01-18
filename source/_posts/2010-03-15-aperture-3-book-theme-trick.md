@@ -2,6 +2,17 @@
 layout: post
 title: Aperture 3 - Book Theme Trick
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- Book design
+- book themes
+- book tool
+- Frames
+- Photobox
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/FrameResize.jpg"><img title="FrameResize.jpg" src="/wp-content/uploads/2010/03/.thumbs/.FrameResize.jpg" border="0" alt="FrameResize.jpg" hspace="10" vspace="10" width="150" height="92" align="left" /></a>You might remember a post from way way back that I wrote on how to inject a custom set of typefaces and sizes into an Apple designed book theme. It involved getting your hands dirty inside the Apple provided theme files using a text editor. Not hard and certainly not "dangerous" in any way as long as you work on a copy of the theme in your local library folder. Of course there are a ton of things that you can do to customize themes in this way. Heck you can even add a bunch of new image filters if you want.
 

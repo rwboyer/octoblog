@@ -2,6 +2,15 @@
 layout: post
 title: Zone System Clarifications For Newbies
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- film
+- portrait
+- skin tones
+- zone system
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/11/2002_006_05.jpg"><img title="2002_006_05.jpg" src="/wp-content/uploads/2009/11/.thumbs/.2002_006_05.jpg" border="0" alt="2002_006_05.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Had a few conversations with people still shooting film based on that crappy interview that I did. Quite a few of them had some questions about whether I use the Zone system for exposure and development as well as some questions about the Zone system. I thought I would share the crux of a couple of things that were revelations to them as well as myself about 20-25 years ago. Even if you don't shoot film there are a couple of things that you might find helpful in your digital endeavors.
 

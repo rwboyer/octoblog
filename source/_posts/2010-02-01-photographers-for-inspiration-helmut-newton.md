@@ -2,6 +2,13 @@
 layout: post
 title: Photographers For Inspiration - Helmut Newton
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- Helmut Newton
+- inspiration
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/kylie_bax_helmut_newton.jpg"><img title="kylie_bax_helmut_newton.jpg" src="/wp-content/uploads/2010/02/.thumbs/.kylie_bax_helmut_newton.jpg" border="0" alt="kylie_bax_helmut_newton.jpg" hspace="10" vspace="10" width="149" height="150" align="left" /></a>One of my all time favorites. My work is heavily influenced by Helmut Newton. Like Salgado (which I admire but is not a giant influence in my own endeavors), when I think I am doing okay - I revisit some of Newtons vast archive of decades of photography. That sets me strait with how much further I have to grow and I get back to work again.
 

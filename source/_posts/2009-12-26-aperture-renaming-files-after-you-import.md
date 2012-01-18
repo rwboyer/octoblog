@@ -2,6 +2,21 @@
 layout: post
 title: Aperture - Renaming Files After You Import
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- batch change
+- managed masters
+- Metadata
+- referenced masters
+- relocate master
+- version name
+- work-flow
+- Workflow
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/name_counter.jpg"><img title="name_counter.jpg" src="/wp-content/uploads/2009/12/.thumbs/.name_counter.jpg" border="0" alt="name_counter.jpg" hspace="10" vspace="10" width="150" height="90" align="left" /></a>A lot of photographers out there depend on a file naming convention for their work-flow. They also depend on version names in Aperture tying back to that unique file name of the master image. Don't ask me why this is such a big big deal for some photographers work-flow. I don't really get it but accept it as necessary for some Aperture users. Some Aperture users have this all figured out and they have their work-flow down and wrapped up. Others don't and have a "big issue" with Aperture and file naming/version naming, fighting with it every step of the way.
 

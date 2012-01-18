@@ -2,6 +2,25 @@
 layout: post
 title: Aperture - Importing Your Images
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Apple
+- Apple Aperture
+- blue folder
+- hierarchy
+- Import
+- managed
+- masters
+- organize
+- project
+- referenced
+- work-flow
+- Workflow
+- yellow folder
 ---
 <a href="/wp-content/uploads/2009/04/Aperture_import.jpg"><img title="Aperture_import.jpg" src="/wp-content/uploads/2009/04/.thumbs/.Aperture_import.jpg" border="0" alt="Aperture_import.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Sounds like a basic thing and it is. If you are using Aperture you know how to import images, hit the little down arrow import icon, choose import images... from the file menu, or use command-I. Pretty basic. I have received quite a few questions regarding importing so I thought I would share a couple of the finer points that can speed up your work-flow. Did you know that there are three different ways to import into Aperture that do three distinctly different things? I am not speaking of the three ways to invoke import images, or managed vs. referenced. <!--more-->I am talking about some of the other choices in the file-&gt;import menu.
 

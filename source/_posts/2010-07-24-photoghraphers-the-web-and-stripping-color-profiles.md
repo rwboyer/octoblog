@@ -2,6 +2,9 @@
 layout: post
 title: Photographers, The Web, and Stripping Color Profiles?
 comments: true
+categories:
+- General Photography
+tags:
 ---
 I will bet you can guess that this is yet another rant. Can any of you reading this post please, please, please, oh please answer some simple question? It is a two part question.
 

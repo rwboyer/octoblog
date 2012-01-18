@@ -2,6 +2,13 @@
 layout: post
 title: The Archetype of My Last Post - Aperture-holes
 comments: true
+categories:
+- Apple Aperture
+tags:
+- Aperture 3
+- Apple Aperture
+- apple support forum
+- humor
 ---
 Remember the post I put up the other day - you know me whining about the chaotic state of affairs over on that web site. I just had to post a link to this one. Typically this would get my sarcastic snarky treatment but it's Monday and I want to start the week off on the right foot.
 

@@ -2,6 +2,13 @@
 layout: post
 title: Look What The Cat Drug In Today - Nikon Lessons
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- FM2
+- Nikon
+- Nikon FM@
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/DSC_1019___Version_2.jpg"><img title="DSC_1019___Version_2.jpg" src="/wp-content/uploads/2010/03/.thumbs/.DSC_1019___Version_2.jpg" border="0" alt="DSC_1019___Version_2.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Actually I should call this eBay lessons or something. You probably know by now I am a habitual eBay surfer.  I watch like a gillion items a month and buy about 1 thing every two months or so. I always buy really low risk stuff - return policy - etc. Never any high dollar stuff and I limit the stuff I even look at, well, at least even intend to maybe buy to things that are cool and nice but... Nobody pays a lot of attention to - no "collector" stuff. No stuff that EVERYONE wants. I limit myself to things that are "like" what everyone wants but more common.
 

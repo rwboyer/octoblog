@@ -2,6 +2,14 @@
 layout: post
 title: Aperture Books - Hardcover Title Font
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 2
+- Aperture Book Tool
+- Apple
+- spine title
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/Page_01.jpeg"><img title="Page_01.jpeg" src="/wp-content/uploads/2009/04/.thumbs/.Page_01.jpeg" border="0" alt="Page_01.jpeg" hspace="10" vspace="10" width="150" height="104" align="left" /></a>Just wanted to share a tidbit regarding Aperture hardcover book titles that another reader and I worked on via email last week. I took a couple of guesses about the strange and opaque process that happens after clicking "buy book" and my new online buddy Florian came up with a work-around for his issue that I thought was really cool.
 <!--more-->First a little background. Florian was making a really great looking book with a combination of street images and architecture from a few European cities that he recently traveled to. His end goal was to obtain an Apple produced hardcover book in his hands. No big deal right? Well sort of, first off he put a ton of time into it and it shows. Maybe he will be gracious enough to share an online version with the rest of the readers. Anyway the theme that he selected, like most themes, had a very large title font for the front cover. The title of the book is "Paris| Barcelona | Lisbon". Florian's concern was that the PDF he was examining had an extra bit in it that was to be printed on the book spine and it "looked" far far too big. His problem was that there was no obvious way to control the size of the title text on the spine.

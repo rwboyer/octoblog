@@ -2,6 +2,14 @@
 layout: post
 title: Fantastic Ink Jet Paper
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- Black and White
+- Ink Jet
+- Museo
+- silver rag
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_0320.jpg"><img title="DSC_0320.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_0320.jpg" border="0" alt="DSC_0320.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have been doing a lot of black and white lately. God I love not having to go with the whims and tastes of commercial clients. Okay here is the news, I have recently switched the paper that I use for producing inkjet prints. While I am still in the testing stages for general use papers I have found the "one" that I plan on using for black and white digital output.
 

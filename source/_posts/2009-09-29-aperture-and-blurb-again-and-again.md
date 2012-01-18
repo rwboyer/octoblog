@@ -2,6 +2,20 @@
 layout: post
 title: Aperture and Blurb - Again and Again
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- adobe indesign
+- Aperture
+- Apple
+- blurb.com
+- booksmart
+- cmyk
+- color management
+- hp indigo
+- Indesign
+- srgb
 ---
 I cannot believe that this subject is so popular. I also cannot believe that so many people are so paranoid of an sRGB output. I guess I am glad to see a lot of interest in printing and I think both Apple books and Blurb.com are a fantastic way to showcase your work - far better than just jamming them up on the web.
 

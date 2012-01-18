@@ -2,6 +2,13 @@
 layout: post
 title: Print Production
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- big print
+- Durst
+- printing
 ---
 I help people with their own photography. One of the things that I do is help to design and produce prints. This is great since I believe that prints are a much more gratifying end result to the photographic endeavor than say looking at them on your computer. Last week I took a trip to visit a firm that produces all types of display work for the Smithsonian. Myself and <a href="http://blog.lesterpickerphoto.com/">Les Picker</a> plan on using some of their unique capabilities for upcoming display installations.
 

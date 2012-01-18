@@ -2,6 +2,13 @@
 layout: post
 title: More On Personal Photographic Projects
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Nikon FE
+- projects
 ---
 As most of you know, it's been a long time since I have actually photographed anything that could remotely be called a project. To burn't out from anything remotely feeling like a project or even sounding like one. I have kept an ongoing list of things that have crossed my mind that might make for interesting personal projects.
 

@@ -2,6 +2,16 @@
 layout: post
 title: The RB Community Photo Critique Group
 comments: true
+categories:
+- General Photography
+- Site News
+tags:
+- critique
+- critique group
+- discourse
+- flickr
+- photo enthusiasts
+- rb community
 ---
 Well folks, even though there was a total lack of interest based on the poll numbers I have opened the RB community photo critique group for business. I even posted one of my love/hate images as the first thread to kick it off.
 

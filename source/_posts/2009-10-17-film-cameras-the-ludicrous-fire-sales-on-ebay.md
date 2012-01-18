@@ -2,6 +2,17 @@
 layout: post
 title: Film Cameras - The Ludicrous Fire Sales on EBay
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- contax
+- film
+- Hasselblad
+- Leica
+- Nikon
+- olympus
+- Zeiss
 ---
 Just for giggles I have been casually looking at random camera deals on EBay over the last couple of days. No real direction or intent, just things that struck my fancy at the time and some random searches, etc. I cannot believe what you can buy in film cameras of all shapes and sizes for next to nothing now. I need another camera like I need a hole in the head but I may not be able to pass some of this stuff up if I am on the computer at the right time. Heck I could give this stuff away to needy kids or something and they would be shooting higher quality than most of the digital yo-yo's spending big bucks.
 

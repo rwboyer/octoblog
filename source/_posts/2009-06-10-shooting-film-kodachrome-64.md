@@ -2,6 +2,17 @@
 layout: post
 title: Shooting Film - Kodachrome 64
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- film
+- Kodachrome
+- Kodachrome 64
+- Kodak
+- Nikon
+- Nikon 85 F1.4
+- Nikon F2AS
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/1999011_04.jpg"><img title="1999011_04.jpg" src="/wp-content/uploads/2009/06/.thumbs/.1999011_04.jpg" border="0" alt="1999011_04.jpg" hspace="10" vspace="10" width="102" height="150" align="left" /></a>For the longest time that I can remember when I shot 35mm film it was either Kodachrome 64 or Kodachrome 200. A couple of paying jobs, some stuff for stock photography, a lot of travel, and all of my personal color photos where on just two types of Kodachrome. It was either that or black and white.
 

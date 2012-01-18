@@ -2,6 +2,21 @@
 layout: post
 title: Small Strobes - Quick and Dirty Lesson
 comments: true
+categories:
+- Articles
+- General Photography
+- Lighting
+tags:
+- ambient
+- flash
+- Lighting
+- matrix metering
+- metering
+- Nikon
+- SB800
+- strobe
+- TTL
+- wireless
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC_0724.jpg"><img title="DSC_0724.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC_0724.jpg" border="0" alt="DSC_0724.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have written more than a couple of times of the ills of using matrix or evaluative metering along with TTL flash. Personally my opinion is that these "innovations" no matter how wondrous are more trouble and more work than they are worth. This has nothing to do with me not understanding how the controls and camera work. Of course they are useful in situations where you really really have to be quick and you have no time to think and you have to get the shot and you've only got one shot at it.
 

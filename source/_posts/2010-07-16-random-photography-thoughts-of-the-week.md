@@ -2,6 +2,15 @@
 layout: post
 title: Random Photography Thoughts of The Week
 comments: true
+categories:
+- General Photography
+tags:
+- Aperture
+- Aperture 3
+- Apple
+- Metadata
+- Nikon 24mm TS
+- Nikon D5000
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/Les0020.jpg"><img title="Les0020.jpg" src="/wp-content/uploads/2010/07/.thumbs/.Les0020.jpg" border="0" alt="Les0020.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>You may know that I don't gush over equipment often. In fact I know I have too much "stuff" so even though there are a few lust items - mostly ridiculous things that I have wanted since my youth like that giant ParaFB. Take it seriously when I say that there is a lens I have come across that has my attencion. The image at the top was made by a friend of mine, you can tell because it is outside and not 10 feet away from my front door, oh and it doesn't have people in it which means it is somewhere in the middle of nowhere - not my favorite type of hangout.
 

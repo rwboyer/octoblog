@@ -2,6 +2,15 @@
 layout: post
 title: Shooting Real Film - Dead Serious
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- custom prints
+- film
+- hp indigo
+- kodak ektar 100
+- medium format
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2000_032_23.jpg"><img title="2000_032_23.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2000_032_23.jpg" border="0" alt="2000_032_23.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>I have had a lot of conversations via email and even a couple over the phone/skype regarding my relatively recent push for people to shoot film. I wanted to share some of the thoughts that I have had and some realizations regarding those conversations. The very first thought and clarification is that I love digital - I really really do but I do not think that digital capture is the only way to go. In fact I really think that for most people it is not the way to go, at least not all the time.
 

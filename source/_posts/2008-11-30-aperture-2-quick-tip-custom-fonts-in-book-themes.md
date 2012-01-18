@@ -2,6 +2,16 @@
 layout: post
 title: Aperture 2 Quick Tip - Custom Fonts In Book Themes
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture
+- Aperture 2
+- Aperture Book Tool
+- Apple
+- book themes
+- Typeface
 ---
 <a href="/wp-content/uploads/2008/AQT___books___fonts.jpg"><img title="AQT___books___fonts.jpg" src="/wp-content/uploads/2008/.thumbs/.AQT___books___fonts.jpg" border="0" alt="AQT___books___fonts.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>WARNING - This tip is not for the feint of heart, it's more for those that like to tinker with things and are not satisfied with the state of affairs with the Aperture Books feature. I have received so many emails regarding a couple of the Aperture book articles that I have posted recently that I decided to publish a work-around for changing the fonts that I use all the time. I actually like some of the predefined book themes that Aperture ships with but... hate the default fonts. Instead of monkeying around with manually changing the font styles for every freaking text box in a book there is a fairly simple way to change the fonts with Apertures book themes so that they are completely reusable. You just need to get you hands a little dirty with a few of Aperture's inner gears.
 

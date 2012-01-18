@@ -2,6 +2,14 @@
 layout: post
 title: Leica Conundrum Or Lens Anxiety
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 21mm
+- film
+- Leica
+- super-wide
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/1999013_01.jpg"><img title="1999013_01.jpg" src="/wp-content/uploads/2010/03/.thumbs/.1999013_01.jpg" border="0" alt="1999013_01.jpg" hspace="10" vspace="10" width="150" height="99" align="left" /></a>As a lot of you probably know I do love my rangefinder cameras and thought that I would probably buy an M9 by this point. I am not at all interested in an M8. Well before I plopped down my hard earned money I decided to shoot for a while with my old film Leica's instead - just to see if I really could justify an M9 purchase.
 

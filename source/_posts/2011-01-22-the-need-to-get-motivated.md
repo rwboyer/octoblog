@@ -2,6 +2,13 @@
 layout: post
 title: The Need To Get Motivated
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- personal work
+- projects
+- winter
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2011/01/DSC_9386.jpg %}I suffer some some really strange and horrible afflictions. The first of which is that winter time depresses me. I hate everything about it. I hate the way it looks, I hate the way if feels. I don't like the angle of the sun. I don't like the short days. I don't even like the names of the months in the Northern hemisphere. Last year I tried a to do a wintertime project on trees. I made some decent shots. I did it on film. I made some progress but honestly I was so lazy I never finished. Did I continue it this year - No.
 

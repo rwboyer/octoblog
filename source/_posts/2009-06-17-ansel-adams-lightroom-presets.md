@@ -2,6 +2,14 @@
 layout: post
 title: Ansel Adams Lightroom Presets
 comments: true
+categories:
+- Articles
+- General Photography
+- Site News
+tags:
+- ansel adams
+- lightroom presets
+- zone system
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_0207.jpg"><img title="DSC_0207.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_0207.jpg" border="0" alt="DSC_0207.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Like most other people that publish a website either for business, pleasure, or creative outlet I monitor where visitors to the site come from. If this were a commercial site I would do this to fine tune what is making me money. I look at where visitors come from and how they ended up here for amusement, satisfaction of my curiosity, and every once in a while to assess what kind of posts I might publish based on keywords that people use to get here.
 

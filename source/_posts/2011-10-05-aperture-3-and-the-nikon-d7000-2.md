@@ -2,6 +2,14 @@
 layout: post
 title: Aperture 3 and the Nikon D7000
 comments: true
+categories:
+- Apple Aperture
+- Articles
+tags:
+- Aperture 3
+- Apple Aperture
+- NEF
+- Nikon D7000
 ---
 Once upon a time somebody complained about how far off Aperture 3's NEF processing was. That was me. Actually I complained about it incesantly since Aperture V1. My very very very first post to the Apple Aperture community forum way way back years ago was about how far off Aperture's RAW decode was in terms of color from that of Nikon's.
 

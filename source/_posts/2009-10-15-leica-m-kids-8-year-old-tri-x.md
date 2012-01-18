@@ -2,6 +2,20 @@
 layout: post
 title: Leica M - Kids - 8 Year Old TRI-X
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 50mm
+- Black and White
+- film
+- kids
+- Kodak
+- Leica M9
+- Lieca M6
+- M series
+- Summicron
+- TRI-X
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/10/2009_003_25.jpg"><img title="2009_003_25.jpg" src="/wp-content/uploads/2009/10/.thumbs/.2009_003_25.jpg" border="0" alt="2009_003_25.jpg" hspace="10" vspace="10" width="150" height="100" align="left" /></a>Someone was seeking some advice regarding the Leica M9 and shooting his kids in one of the post comments a while back. I thought I would share some of the images from that last roll of eight year old Kodak Tri-X that I developed a couple of days ago. The images in the original post and these were some of the the images on that roll.
 

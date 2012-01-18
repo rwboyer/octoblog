@@ -2,6 +2,18 @@
 layout: post
 title: Friday - Random State of the Union Thoughts
 comments: true
+categories:
+- Articles
+- General Photography
+tags:
+- 35mm f1.8 G
+- APS-C
+- Fuji X100
+- Kodak
+- Nikon
+- Nikon D7000
+- Pentax
+- Sony NEX
 ---
 After yesterday's stream of consciousness post on my near miss with the <a href="http://www.amazon.com/gp/product/B0043RS864/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B0043RS864">X100 and my D7000</a> impulse buy post I thought I would post some of the other things going through my mind on the state of the union in digital capture devices. Here are a few...
 <ul>
