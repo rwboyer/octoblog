@@ -3,12 +3,11 @@ layout: post
 title: Aperture - Something Nice To Say
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - adjustments
 - Apple Aperture
+- Articles
 - conversions
+- General Photography
 - NEF
 - Organization
 - RAW

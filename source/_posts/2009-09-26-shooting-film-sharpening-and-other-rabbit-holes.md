@@ -4,8 +4,8 @@ title: Shooting Film - Sharpening and Other Rabbit Holes
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - grain
 - Ilford HP5 plus
 - medium format

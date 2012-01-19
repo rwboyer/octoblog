@@ -3,9 +3,9 @@ layout: post
 title: Aperture 2 Quick Tip - Nik Viveza For $119
 comments: true
 categories:
+- Aperture
 - Apple Aperture
 - Articles
-- Aperture
 - Nik Viveza
 - Nikon
 - Nikon Capture NX2

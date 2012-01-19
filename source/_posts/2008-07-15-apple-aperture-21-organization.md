@@ -3,14 +3,14 @@ layout: post
 title: Apple Aperture 2.1 Organization
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Album
 - Aperture Blue Folder
+- Aperture PDF Guides
 - Apple
+- Apple Aperture
+- Articles
 - folders
 - Organization
 - PDF Articles

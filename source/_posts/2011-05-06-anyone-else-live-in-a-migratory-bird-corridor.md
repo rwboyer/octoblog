@@ -3,9 +3,9 @@ layout: post
 title: Anyone Else Live In A Migratory Bird Corridor?
 comments: true
 categories:
+- Adobe
 - Articles
 - General Photography
-- Adobe
 - Panasonic LX5
 - photoshop
 ---

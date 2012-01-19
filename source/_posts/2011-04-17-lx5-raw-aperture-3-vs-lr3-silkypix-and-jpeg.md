@@ -3,12 +3,11 @@ layout: post
 title: LX5 RAW - Aperture 3 vs. LR3, Silkypix, and JPEG
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Adobe ACR
 - Adobe Lightroom
 - Aperture 3
 - Apple Aperture
+- Articles
 - Panasonic LX5
 - RAW
 - RW2

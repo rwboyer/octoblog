@@ -3,9 +3,9 @@ layout: post
 title: Photoshop CS4 - I Finally Broke Down and Gave Adobe My Money
 comments: true
 categories:
-- Site News
 - Adobe
 - Photoshop CS4
+- Site News
 ---
 Well I finally did it. After years of holding out on Adobe I finally broke down and upgraded my Adobe CS to CS4. Yep I have held out since upgrading to CS, not CS2, not CS3, plain old CS. I really was disappointed with CS, I really didn't see the point after I upgraded from PS 7. I guess it was a little better but cost a lot of money. Then came C2. By the time I had time to even consider upgrading I had Intel based Macs. There was no way I was going to pay for and upgrade that ran in emulation mode on my new machines at the same speed that It ran on my old machines. No freaking way. By the time CS3 came around there was nothing in it compelling for me, I didn't do nearly as much commercial work as I used to and had no personal projects that screamed for anything it did. I guess smart objects would have been a time and space saver IF I was jacking around making cartoons for public consumption but I wasn't at the time.
 

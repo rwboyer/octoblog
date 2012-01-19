@@ -3,9 +3,9 @@ layout: post
 title: Some Photography That Doesn't Suck
 comments: true
 categories:
-- General Photography
 - fantastic photography
 - fashion show
+- General Photography
 - marcus bleasdale
 - photojournalist
 ---

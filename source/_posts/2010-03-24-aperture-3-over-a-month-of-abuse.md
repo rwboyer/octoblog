@@ -3,10 +3,10 @@ layout: post
 title: Aperture 3 - Over A Month Of Abuse
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple
+- Apple Aperture
+- Articles
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/03/DSC_9551.jpg"><img title="DSC_9551.jpg" src="/wp-content/uploads/2010/03/.thumbs/.DSC_9551.jpg" border="0" alt="DSC_9551.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>No Aperture 3 has not been abusing me - It has been the other way around. I do have to say it was a bit of a rocky first month but most of the catastrophic issues have been resolved. Yes there are some annoying bugs but nothing that is a show stopper for me. I am confident that even those annoyances will be resolved soon. The bottom line is that I am working faster than ever in Aperture 3 and that is good enough for me to declare it a win.
 

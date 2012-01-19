@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Lighting
-- Lighting
 - M43
 - Micro 4:3
 - Olympus E-P1

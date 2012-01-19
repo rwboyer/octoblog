@@ -3,11 +3,11 @@ layout: post
 title: Aperture Quick Tip - Lift and Stamp
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adjustment
 - Aperture
 - Aperture 2
+- Apple Aperture
+- Articles
 - Metadata
 - work-flow
 - Workflow

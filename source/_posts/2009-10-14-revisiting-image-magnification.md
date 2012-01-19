@@ -3,8 +3,8 @@ layout: post
 title: Revisiting Image Magnification
 comments: true
 categories:
-- General Photography
 - film
+- General Photography
 - image magnification
 - medium format
 - nikon d3

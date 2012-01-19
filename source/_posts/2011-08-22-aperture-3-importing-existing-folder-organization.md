@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Importing Existing Folder Organization
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Import
 - work-flow
 - Workflow

@@ -4,8 +4,6 @@ title: Aperture2 vs. Lightroom2 - Stacks
 comments: true
 categories:
 - Adobe Lightroom
-- Aperture vs Lightroom
-- Adobe Lightroom
 - Aperture
 - Aperture vs Lightroom
 - Apple

@@ -3,11 +3,11 @@ layout: post
 title: Aperture Tip - Autostack
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - autostack
 - Stack Mode
 - stacks

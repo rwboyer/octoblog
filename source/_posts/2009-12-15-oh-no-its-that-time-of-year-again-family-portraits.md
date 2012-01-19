@@ -3,10 +3,10 @@ layout: post
 title: Oh No! It's That Time of Year Again. Family Portraits
 comments: true
 categories:
-- Site News
 - christmas
 - holidays
 - portraits
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2000_034_15.jpg"><img title="2000_034_15.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2000_034_15.jpg" border="0" alt="2000_034_15.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Yikes, family portraits scare me. They really really do. Every year at this time of year various family members, friends, and neighbors ask me to do their family portraits. Hey you take pictures don't you? You have a really nice camera. Would you mind doing a family portrait of us. Hey what can I say? Sure... No problem.
 

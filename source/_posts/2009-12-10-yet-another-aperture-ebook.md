@@ -3,13 +3,11 @@ layout: post
 title: Yet Another Aperture eBook
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Site News
 - Aperture organization
 - Aperture PDF Guides
 - Apple Aperture
 - eBook
+- Site News
 - work-flow
 - Workflow
 ---

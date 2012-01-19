@@ -3,12 +3,11 @@ layout: post
 title: Wanna Know How Aperture 3 Runs On An Air?
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- Micro 4:3
 - Aperture 3
 - Apple Aperture
+- Articles
 - MacBook Air
+- Micro 4:3
 ---
 Have you people wondered or maybe fantasized about running Aperture 3 on one of the new MacBook Air's when you are in the field? So have I. Of course I have a couple of ulterior motives here. First off the I have plans for the MacBook Air even if Aperture 3 on it turns out to be a complete dog. I plan on using it for writing, coding, <a href="http://rwboyer.github.com/">tech stuff</a> - all mostly text. The one thing I do know is that just about anything remotely recent will crunch my text/writing seven ways from Sunday instantaneously without working even breathing hard.
 

@@ -4,8 +4,8 @@ title: Christmas Wishlist For Santa
 comments: true
 categories:
 - Articles
-- General Photography
 - Equipment
+- General Photography
 - photography
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/1999002_11.jpg"><img title="1999002_11.jpg" src="/wp-content/uploads/2008/.thumbs/.1999002_11.jpg" border="0" alt="1999002_11.jpg" hspace="10" vspace="10" width="150" height="102" align="left" /></a>For the Holiday season I thought I would post a lighthearted look at things that have been on my Christmas wishlist that I have never found under my tree on Christmas morning. Keep in mind most of these things are really insane and would probably do nothing to make my photography any better or more rewarding, well some of them might insprire me to make some photographs that I could make anyway. These are things that I have photographic gear lust for, maybe just plain old really nice object lust but they happen to be related to photography and therefore maybe - possibly - could be rationalized into the need category. Also keep in mind I have wanted some of this stuff (or the equivalent) since I was a teenager.

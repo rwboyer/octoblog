@@ -3,10 +3,10 @@ layout: post
 title: Random Photography Thoughts of The Week
 comments: true
 categories:
-- General Photography
 - Aperture
 - Aperture 3
 - Apple
+- General Photography
 - Metadata
 - Nikon 24mm TS
 - Nikon D5000

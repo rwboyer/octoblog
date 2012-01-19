@@ -3,10 +3,10 @@ layout: post
 title: Aperture Tip - Interface Customization.
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - laptop
 - personal preference
 - Screen

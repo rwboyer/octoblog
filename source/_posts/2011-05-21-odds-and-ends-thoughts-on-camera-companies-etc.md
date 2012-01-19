@@ -3,8 +3,8 @@ layout: post
 title: Odds And Ends - Thoughts On Camera Companies, etc.
 comments: true
 categories:
-- General Photography
 - film
+- General Photography
 - Hasselblad
 - medium format
 - Micro 4:3

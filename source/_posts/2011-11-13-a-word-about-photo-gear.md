@@ -4,8 +4,8 @@ title: A Word About Photo Gear
 comments: true
 categories:
 - Articles
-- General Photography
 - Gear
+- General Photography
 - Lighting
 - reflectors
 ---

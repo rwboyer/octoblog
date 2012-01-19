@@ -3,12 +3,11 @@ layout: post
 title: Aperture 2 - File Management
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
 - Apple Aperture
+- Articles
 - masters
 - Organization
 - work-flow

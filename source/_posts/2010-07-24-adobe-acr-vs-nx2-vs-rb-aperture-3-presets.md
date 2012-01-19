@@ -3,13 +3,13 @@ layout: post
 title: Adobe ACR vs NX2 vs RB Aperture 3 Presets
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Adobe ACR
 - Aperture
+- Apple Aperture
 - Apple Aperture 3
+- Articles
 - Capture NX2
+- General Photography
 - NEF
 - Nikon
 - Presets

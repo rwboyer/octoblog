@@ -3,10 +3,10 @@ layout: post
 title: 80% of Everything You Read About Photography Is Complete Nonsense
 comments: true
 categories:
-- Articles
-- General Photography
 - 6x6
 - Agfa APX 100
+- Articles
+- General Photography
 - Kodak PXP
 - medium format
 - photography

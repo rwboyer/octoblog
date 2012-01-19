@@ -3,12 +3,12 @@ layout: post
 title: Aperture 2 Cropping Images
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - albums
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - image crop
 - Organization
 - stacks

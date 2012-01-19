@@ -4,10 +4,10 @@ title: Final Cut Pro X?
 comments: true
 categories:
 - Articles
-- General Photography
 - final cut
 - Final Cut Pro
 - Final Cut Pro X
+- General Photography
 - Nikon D7000
 ---
 Yesterday I briefly brought up the stepped up video capabilities of my new Nikon D7000. As you might have assumed, I am not particularly interested in DSLR video for my personal projects but since I get it for free on a camera I own I may just give it a little bit of effort and time.

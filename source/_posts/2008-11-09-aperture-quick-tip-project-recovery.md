@@ -3,12 +3,12 @@ layout: post
 title: Aperture Quick Tip - Project Recovery
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Project
 - Apple
+- Apple Aperture
+- Articles
 - folders
 - Organization
 - package contents

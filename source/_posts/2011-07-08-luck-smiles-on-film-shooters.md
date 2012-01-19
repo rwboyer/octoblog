@@ -3,10 +3,10 @@ layout: post
 title: Luck Smiles On Film Shooters
 comments: true
 categories:
-- General Photography
-- Site News
 - film
+- General Photography
 - Kodak Portra 160
+- Site News
 ---
 Yes, shooting film brings good luck. When was the last time you paid for one thing digital and got five? Well the mail delivery person showed up today with a film order from Adorama - I actually ordered through Amazon but the order was fulfilled by Adoroma. I ordered 1 pro-pack of Kodak Portra 160 35mm and got n5 pro-packs so that's 25 rolls for the price of 5.
 

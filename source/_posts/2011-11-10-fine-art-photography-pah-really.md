@@ -4,9 +4,9 @@ title: Fine Art Photography - Pah, Really
 comments: true
 categories:
 - Articles
-- General Photography
 - fine art
 - fine art photography
+- General Photography
 ---
 Every wonder why I am so brutal when mentioning the contemporary "art" community? Here it the reason. It's also why I hold suspect anyone that likes to use the meaningless term "fine art" prefixed to photography. This is not to say that anyone who does sucks - I know plenty of people that use that prefix that are really really good. I still make fun of them - mostly my friends. I do this in truth to illuminate myself as to their particular thought process and the best answer I can come up with is that some a$$hole did it and now people feel that they have to use it to somehow make sure everyone knows that they don't have somehow inferior photography in contrast to "fine art". Nobody said these words to me but that is my own para-meaning-phrase of what explanations I have been given in nicer words during quite sober conversations.
 

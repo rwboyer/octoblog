@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Lighting
-- Lighting
 - Panasonic LX5
 ---
 For the most part I am a people shooter. I am about as interested in shooting images of static things that don't interact with me as I am in watching the proverbial grass grow. Today my buddy <a href="http://blog.lesterpickerphoto.com/">Les Picker</a> enlisted my assistance in shooting some location/interior shots of his latest installation of wall art in a new restaurant prior to them firing up lunch service.

@@ -5,7 +5,6 @@ comments: true
 categories:
 - Articles
 - General Photography
-- Micro 4:3
 - M43
 - Micro 4:3
 - Olympus E-P1

@@ -4,8 +4,8 @@ title: Cameras I Wanted To Love but Couldn't
 comments: true
 categories:
 - Articles
-- General Photography
 - Contax G
+- General Photography
 - Sigma DP1s
 ---
 This may seem a little off topic but let's categorize it under the "rants" section (note to self - need "rants" category). I have been messing about with cameras and photo kit for a long time, as in 30+ years. Along the way I have run into and even bought cameras and equipment that I really tried hard to love and just couldn't. I am not talking about reading a bunch of hype and building my expectations up soooooo much that I was bound to be disappointed. That has happened too but I classify that as a "my own damn fault" kind of issue not a product issue.

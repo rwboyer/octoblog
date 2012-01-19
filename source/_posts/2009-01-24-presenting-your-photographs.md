@@ -3,11 +3,11 @@ layout: post
 title: Presenting Your Photographs
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - previews
 - Video
 ---

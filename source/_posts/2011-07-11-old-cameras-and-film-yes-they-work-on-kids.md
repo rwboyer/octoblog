@@ -3,10 +3,10 @@ layout: post
 title: Old Cameras And Film - Yes They Work On Kids
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - film
+- General Photography
 - kids
 - Nikon FE
 ---

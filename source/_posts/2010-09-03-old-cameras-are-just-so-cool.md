@@ -5,7 +5,6 @@ comments: true
 categories:
 - General Photography
 - Micro 4:3
-- Micro 4:3
 - Olympus E-PL1
 - Rolleiflex
 ---

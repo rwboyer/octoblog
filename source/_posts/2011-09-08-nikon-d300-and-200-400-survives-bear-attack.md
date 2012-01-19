@@ -4,8 +4,8 @@ title: Nikon D300 and 200-400 Survives Bear Attack
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Nikon D300
 - Nikon FE
 ---

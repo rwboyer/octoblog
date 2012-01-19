@@ -4,8 +4,8 @@ title: Kodak TXP RIP
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak TXP
 - PMK pyro
 ---

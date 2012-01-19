@@ -3,10 +3,10 @@ layout: post
 title: Aperture 2 Quick Tip - Custom Image Sequence
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
+- Apple Aperture
+- Articles
 - Organization
 - stacks
 - work-flow

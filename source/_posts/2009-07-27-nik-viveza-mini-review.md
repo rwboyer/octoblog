@@ -3,11 +3,11 @@ layout: post
 title: Nik Viveza - Mini Review
 comments: true
 categories:
+- Aperture
+- Apple Ap
 - Apple Aperture
 - Articles
 - General Photography
-- Aperture
-- Apple Ap
 - Nik
 - nikon nx
 - nx2

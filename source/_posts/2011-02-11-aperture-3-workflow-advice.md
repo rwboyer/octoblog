@@ -3,11 +3,10 @@ layout: post
 title: Aperture 3 Workflow Advice
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - albums
 - Aperture 3
 - Apple Aperture
+- Articles
 - image stack
 - stacks
 - work-flow

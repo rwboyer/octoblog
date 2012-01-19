@@ -3,11 +3,11 @@ layout: post
 title: The Next Aperture?
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - Color
 - keyword
 - Metadata

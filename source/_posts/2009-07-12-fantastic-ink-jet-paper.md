@@ -4,8 +4,8 @@ title: Fantastic Ink Jet Paper
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - Ink Jet
 - Museo
 - silver rag

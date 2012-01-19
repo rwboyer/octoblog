@@ -3,9 +3,9 @@ layout: post
 title: Nik Silver Efex Pro 3.0 Follow-up
 comments: true
 categories:
+- Aperture 2
 - Apple Aperture
 - Articles
-- Aperture 2
 - Black and White
 - Nik
 - Plug-in

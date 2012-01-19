@@ -3,11 +3,11 @@ layout: post
 title: My New Favorite Apple Thing - My Magic Mouse
 comments: true
 categories:
-- Site News
 - Apple
 - magic mouse
 - scrolling
 - sculpture
+- Site News
 ---
 A friend gave me a new magic mouse around Christmas. I just wanted to say that after a month or so this thing has to be one of the best Apple toys ever. I am sure that I would have bought one myself - eventually. Actually I am sure I would have bought a new Mac that came with one in the box. I am not likely to buy a mouse for 70 bucks just because I am bored but I have to tell you guys, if you don't have one - you need one.
 

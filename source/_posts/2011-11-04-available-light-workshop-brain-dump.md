@@ -4,10 +4,10 @@ title: Available Light Workshop - Brain Dump
 comments: true
 categories:
 - Articles
-- General Photography
-- Site News
 - available light
+- General Photography
 - Lighting
+- Site News
 - window light
 - workshop
 ---

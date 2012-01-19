@@ -3,9 +3,9 @@ layout: post
 title: New MacBook Pro - I Am Very Very Happy
 comments: true
 categories:
-- Site News
 - Aperture
 - MacBook Pro 15
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC_9879.jpg"><img title="DSC_9879.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC_9879.jpg" border="0" alt="DSC_9879.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Quick update. Just took delivery via FedEx of a brand new MacBook Pro 15 yesterday morning. I have not been this happy with a new machine since my PowerBook G4 Ti in 2001 or maybe my dual 1.42 Ghz PowerMac G4 with 2 GB of RAM in 2002. Of course I have had the consistent march of ever more powerful machines. I was happy with my PowerMac G5 (solo) and my PowerBook G4 Al 1.25 Ghz with 2 GB but they were incremental and gave me a little bit more of the same. The 2001 PowerBook was like nothing else out there from every point of view - a quantum leap. Same with the PowerMac G4 dual and 2 GB (compared with the machine it replaced).
 

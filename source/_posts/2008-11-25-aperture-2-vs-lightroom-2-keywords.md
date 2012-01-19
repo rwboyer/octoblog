@@ -4,10 +4,9 @@ title: Aperture 2 vs. Lightroom 2 - Keywords
 comments: true
 categories:
 - Adobe Lightroom
-- Aperture vs Lightroom
-- Adobe Lightroom
 - Aperture
 - Aperture 2
+- Aperture vs Lightroom
 - Apple
 - hierarchy
 - keyword

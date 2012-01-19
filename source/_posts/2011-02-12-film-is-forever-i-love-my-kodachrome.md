@@ -4,8 +4,8 @@ title: Film Is Forever - I Love My Kodachrome
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodachrome
 ---
 I have tens of thousands of slides that I shot. Virtually none are scanned.Every once in a while I will pop open a box of "rejects". I know they are "rejects" because they are in a box and not filed. Of course the box and each slide has metadata in the form of a date stamp. The really cool thing about looking at some of these is finding images that I rejected based on things that at the time seemed important but I never threw film away NEVER.

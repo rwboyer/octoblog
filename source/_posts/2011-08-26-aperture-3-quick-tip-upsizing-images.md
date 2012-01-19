@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Quick Tip - Upsizing images.
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - work-flow
 - Workflow
 ---

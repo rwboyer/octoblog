@@ -3,11 +3,11 @@ layout: post
 title: Aperture 2 Quick Tip - Book Printing With Any Service
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture Book Tool
 - Apple
+- Apple Aperture
+- Articles
 - book layout
 - book printing
 - using books

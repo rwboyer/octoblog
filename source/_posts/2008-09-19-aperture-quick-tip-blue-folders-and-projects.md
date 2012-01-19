@@ -3,12 +3,12 @@ layout: post
 title: Aperture Quick Tip - Blue Folders and Projects
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Add new tag
 - Aperture 2
 - Aperture Blue Folder
 - Aperture Project
+- Apple Aperture
+- Articles
 - Organization
 - work-flow
 - Workflow

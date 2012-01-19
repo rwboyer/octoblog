@@ -3,13 +3,13 @@ layout: post
 title: Shooting Film - Efke 100
 comments: true
 categories:
-- Articles
-- General Photography
 - 120
 - 8x10
+- Articles
 - Black and White
 - Efke R100
 - film
+- General Photography
 - medium format
 - Pyrocat HD
 ---

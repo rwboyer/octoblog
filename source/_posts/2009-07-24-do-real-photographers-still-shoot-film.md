@@ -4,9 +4,9 @@ title: Do "Real" Photographers Still Shoot Film?
 comments: true
 categories:
 - Articles
-- General Photography
 - canon g9
 - film
+- General Photography
 - Leica
 - leica m6
 - media storm

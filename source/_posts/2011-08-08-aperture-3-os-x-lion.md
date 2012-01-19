@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - OS X Lion 
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Nik
 - OS X Lion
 ---

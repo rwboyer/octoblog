@@ -5,8 +5,8 @@ comments: true
 categories:
 - Articles
 - General Photography
-- Micro 4:3
 - HD
+- Micro 4:3
 - Olympus E-P1
 - Video
 ---

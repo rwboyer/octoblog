@@ -3,12 +3,12 @@ layout: post
 title: Shooting Film - Scanning Film and Other Horrors
 comments: true
 categories:
-- Articles
-- General Photography
 - analog
+- Articles
 - contrast manipulation
 - film
 - film grain
+- General Photography
 - large format
 - magnification
 - medium format

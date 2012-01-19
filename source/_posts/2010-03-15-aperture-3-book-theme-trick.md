@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Book Theme Trick
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Book design
 - book themes
 - book tool

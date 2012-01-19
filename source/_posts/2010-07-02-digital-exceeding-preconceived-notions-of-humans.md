@@ -3,10 +3,10 @@ layout: post
 title: Digital - Exceeding Preconceived Notions of Humans
 comments: true
 categories:
-- Articles
-- General Photography
 - Apple
+- Articles
 - digital
+- General Photography
 - HD
 - iPhone4
 - technology

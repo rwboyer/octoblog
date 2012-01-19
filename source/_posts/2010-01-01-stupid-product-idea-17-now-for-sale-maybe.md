@@ -3,15 +3,15 @@ layout: post
 title: Stupid Product Idea #17 - Now For Sale (Maybe)
 comments: true
 categories:
-- General Photography
-- Site News
 - analog photography
 - Black and White
 - Developer
 - film
+- General Photography
 - materials
 - paper
 - print
+- Site News
 ---
 I have had about 700 people email me questions about various films/developers/papers/lenses and equipment that I happen to comment on here at the old random photography blog that is sometimes chockfull of Aperture goodness. A heck of a lot of those questions are about film, paper, prints, and developer materials for film photography. Hey I may be one of the few that love the stuff but I have become acutely aware that there are many more photographers and even consumers of photography that are also interested in film and traditional photographic materials.
 

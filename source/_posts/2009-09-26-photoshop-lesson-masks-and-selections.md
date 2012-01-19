@@ -3,9 +3,9 @@ layout: post
 title: Photoshop Lesson - Masks and Selections
 comments: true
 categories:
+- adjustment layer
 - Articles
 - General Photography
-- adjustment layer
 - mask
 - photoshop
 - photoshop techniques

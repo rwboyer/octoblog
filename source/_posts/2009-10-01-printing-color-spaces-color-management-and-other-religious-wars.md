@@ -3,16 +3,16 @@ layout: post
 title: Printing, Color Spaces, Color Management and Other Religious Wars
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Adobe
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - blurb.com
 - book
 - cmyk
 - color management
+- General Photography
 - InDesgin
 - photoshop
 - printing

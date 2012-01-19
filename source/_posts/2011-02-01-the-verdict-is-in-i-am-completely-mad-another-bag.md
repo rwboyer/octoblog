@@ -3,10 +3,10 @@ layout: post
 title: The Verdict Is In - I Am Completely Mad - Another Bag
 comments: true
 categories:
-- Site News
 - camera bags
 - laptop bags
 - MacBook Air
+- Site News
 ---
 Actually 3 bags - you heard me correctly - THREE new bags/cases. If I continue at this pace I will have more cases for things than I actually have things. This is absolutely insane. I am not even talking about camera bags at this point. These are other kinds of bags and cases.
 

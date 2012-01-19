@@ -4,9 +4,9 @@ title: Interesting Film Shooter
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - Leica M
 ---
 That publishes on Blurb.com - sounds like a great combo.

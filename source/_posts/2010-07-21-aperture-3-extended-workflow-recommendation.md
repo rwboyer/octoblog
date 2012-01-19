@@ -3,17 +3,17 @@ layout: post
 title: Aperture 3 - Extended Workflow Recommendation
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Adobe
 - Aperture
 - Aperture 3
 - Apple
+- Apple Aperture
+- Articles
 - Color EFX Pro
 - CS4
 - CS5
 - DFine
+- General Photography
 - Nik Software
 - photoshop
 - Sharpener Pro

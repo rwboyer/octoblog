@@ -3,11 +3,11 @@ layout: post
 title: The Sieff Book - My Apologies
 comments: true
 categories:
-- General Photography
-- Site News
 - Black and White
 - book
+- General Photography
 - Jeanloup Sieff
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/2000_064_07.jpg"><img title="2000_064_07.jpg" src="/wp-content/uploads/2010/01/.thumbs/.2000_064_07.jpg" border="0" alt="2000_064_07.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>No I am not obsessing on Seiff again but I had to post a quick apology to those of you that are still reading the post and looking for the book that I recommended. If you have not followed my articles for a while you may get the impression that I am some sort of elitist that only recommends very very expensive "stuff". My general MO is good value as in my suggestions for low cost solutions to photographic endeavors. Hey take a look at my eBook prices and my price for a sample print.
 

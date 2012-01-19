@@ -4,9 +4,9 @@ title: Zone System Clarifications For Newbies
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - portrait
 - skin tones
 - zone system

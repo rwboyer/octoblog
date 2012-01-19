@@ -3,10 +3,10 @@ layout: post
 title: I Am Officially A Grandfather
 comments: true
 categories:
-- Site News
 - matrix metering
 - Nikon D7000
 - Portable Flash
+- Site News
 - skin tones
 - TTL
 ---

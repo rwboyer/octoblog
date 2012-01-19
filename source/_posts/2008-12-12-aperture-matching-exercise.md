@@ -3,10 +3,10 @@ layout: post
 title: Aperture Matching Exercise.
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
+- Apple Aperture
+- Articles
 - Color
 - NEF RAW
 - Nikon

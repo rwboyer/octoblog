@@ -3,9 +3,9 @@ layout: post
 title: We Have A Winner - The Nikon F3
 comments: true
 categories:
-- Site News
 - give-away
 - Nikon F3
+- Site News
 ---
 Just a quick update. Back to the original plan at the urging of Charles. So I went through all the entries, put them in a big pot (metaphorically speaking), and selected the winner at random.
 

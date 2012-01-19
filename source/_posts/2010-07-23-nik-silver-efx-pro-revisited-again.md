@@ -4,8 +4,8 @@ title: Nik Silver EFX Pro Revisited Again
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - Nik Silver EFX Pro
 - photoshop
 ---

@@ -4,9 +4,9 @@ title: Ready For The Holidays?
 comments: true
 categories:
 - Articles
-- General Photography
 - Children
 - christmas
+- General Photography
 - Panasonic LX5
 ---
 My holiday traditions have changed radically over my lifetime. I thought I would share some real world holiday trials and tribulations with my photographically inclined readers. I have three daughters as some of you might know. They are all teenagers now but I have as you would expect a bit of experience making photographs of children. If it's my children on my schedule, it's a labor of love but I know what it takes to do "good" photographs of children and it's not an exercise that can really be scheduled and forced.

@@ -3,10 +3,10 @@ layout: post
 title: Aperture 2 and NEF RAW Recipies
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
+- Apple Aperture
+- Articles
 - d2h
 - NEF RAW
 - Nikon

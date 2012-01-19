@@ -3,9 +3,9 @@ layout: post
 title: Photographer's Secret Subjects - That Other Thing You Shoot
 comments: true
 categories:
+- apug
 - Articles
 - General Photography
-- apug
 - Kodak
 - leica m6
 - pyro

@@ -4,9 +4,9 @@ title: Photographers For Inspiration - Horst
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - fashion
+- General Photography
 - Horst
 - inspiration
 - portraiture

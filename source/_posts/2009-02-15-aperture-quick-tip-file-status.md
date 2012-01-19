@@ -3,12 +3,11 @@ layout: post
 title: Aperture Quick Tip - File Status
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
 - Apple Aperture
+- Articles
 - hud
 - masters
 - Metadata

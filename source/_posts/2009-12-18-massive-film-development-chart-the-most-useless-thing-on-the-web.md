@@ -4,10 +4,10 @@ title: Massive Film Development Chart - The Most Useless Thing On The Web
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - development
 - film
+- General Photography
 - Kodak
 - Plus-X
 - PXP

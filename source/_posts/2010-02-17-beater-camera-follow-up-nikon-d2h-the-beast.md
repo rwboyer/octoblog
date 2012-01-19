@@ -4,11 +4,11 @@ title: Beater Camera Follow Up - Nikon D2H - The Beast
 comments: true
 categories:
 - Articles
-- General Photography
 - Color
 - d2h
 - D2x
 - D3
+- General Photography
 - Nikon
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC0130.jpg"><img title="DSC0130.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC0130.jpg" border="0" alt="DSC0130.jpg" hspace="10" vspace="10" width="150" height="140" align="left" /></a>I have had a number of interesting email conversations with some fellow Nikon shooters. Some who use Aperture and some who Don't. A lot of people that I have had conversations with are sending me NEF files so that I can develop some presets for cameras that I do not own. I thank you and promise to get to it very very soon. I am working on a bunch of cameras right now.

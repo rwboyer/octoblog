@@ -4,8 +4,8 @@ title: Photographers For Inspiration - Sebastiao Salgado
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - inspiration
 - Photographers
 - sebastiao salgado

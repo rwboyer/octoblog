@@ -3,14 +3,14 @@ layout: post
 title: Shooting Film ?
 comments: true
 categories:
-- Articles
-- General Photography
 - Agfa APX 100
 - agfa rodinal
+- Articles
 - Black and White
 - dmax
 - film
 - film scanner
+- General Photography
 - nostalgia
 - portraits
 - sharpness

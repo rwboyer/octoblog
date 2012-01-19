@@ -4,11 +4,10 @@ title: Adobe Lightroom2 and DNG camera profiles
 comments: true
 categories:
 - Adobe Lightroom
-- Apple Aperture
-- Articles
-- Adobe Lightroom
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - DNG
 - Lightroom 2
 - Nikon Capture NX2

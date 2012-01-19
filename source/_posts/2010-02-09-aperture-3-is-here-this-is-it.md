@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Is Here - This Is It
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple Aperture
+- Site News
 ---
 Okay I just saw a tweet from a <a href="http://www.macworld.com/article/146231/2010/02/aperture3.html">MacWorld</a> article that Aperture 3 is here. This is it. I was right this morning. I felt it in my bones. Sorry for the quick rumor to validation cycle.
 

@@ -4,8 +4,8 @@ title: Large Prints And Other Ephemera
 comments: true
 categories:
 - Articles
-- General Photography
 - film grain
+- General Photography
 - prints
 ---
 So, I am helping a photographer friend with an installation of his prints. It's not a gallery, not a show, but a commercial installation in a high-end restaurant. Most of the installation is in close quarters and requires nothing but "normal" sized prints. The typical 16"x24" and 20"x30". Now to me these are BIG prints. In most circumstances I would not make something bigger than this as art just out of my own personal sense of taste and context.

@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 - New Screencast - Faces
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple
 - Apple Aperture
 - screencast
+- Site News
 - work-flow
 - Workflow
 ---

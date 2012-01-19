@@ -4,8 +4,8 @@ title: Film Is No Slouch
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Hasselblad
 - kodak tmax 100
 - TMX

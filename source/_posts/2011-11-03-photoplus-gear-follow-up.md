@@ -4,10 +4,10 @@ title: PhotoPlus Gear - Follow Up
 comments: true
 categories:
 - Articles
-- General Photography
-- Uncategorized
 - film
+- General Photography
 - olympus OM
+- Uncategorized
 ---
 My <a href="http://photo.rwboyer.com/2011/11/02/photoplus-expo-whatever/">little rant yesterday</a> on the state of affairs at PhotoPlus may have been a little over the top and a little too anti-gear. Let me clarify just a bit of my thoughts briefly. As photographers we all share a special relationships with the tools that allow us to make images. I admit this freely. If your camera doesn't feel good you will not be at your best when using it. If you don't get along with it very well, it is not going to be a productive relationship. Using different cameras causes you to make different images. It really does. You have no choice in many many cases. In other cases this might be a bit more subliminal but there none the less.
 

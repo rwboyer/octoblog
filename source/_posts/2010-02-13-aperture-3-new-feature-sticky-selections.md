@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - New Feature - Sticky Selections?
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - New Features
 - Selections
 ---

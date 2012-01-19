@@ -3,11 +3,11 @@ layout: post
 title: Aperture Quick Tip - Stack Mode
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Project
+- Apple Aperture
+- Articles
 - stacks
 - work-flow
 - Workflow

@@ -3,11 +3,11 @@ layout: post
 title: Aperture 2 Organization Tip - More On Stacks and Albums
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 2
 - Aperture Album
 - Aperture Project
+- Apple Aperture
+- Articles
 - Stack Mode
 - Workflow
 ---

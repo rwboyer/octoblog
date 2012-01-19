@@ -4,7 +4,6 @@ title: The Panasonic GF1 Get's Sent Back
 comments: true
 categories:
 - Articles
-- Micro 4:3
 - M43
 - Micro 4:3
 - Panasonic 20mm

@@ -4,10 +4,10 @@ title: Keeping it Simple
 comments: true
 categories:
 - Articles
-- General Photography
-- Lighting
 - background light
+- General Photography
 - gradation
+- Lighting
 - Portrait Lighting
 - portraits
 - rembrandt

@@ -4,9 +4,8 @@ title: Small Strobes - The Ups and Downs
 comments: true
 categories:
 - Articles
-- General Photography
-- Lighting
 - CLS
+- General Photography
 - Lighting
 - Nikon
 - small strobe

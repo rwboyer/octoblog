@@ -4,9 +4,9 @@ title: Ilford PanF Plus - Shooting Real Film
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - Ilford
 - pan f plus
 - pyro

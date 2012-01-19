@@ -4,9 +4,9 @@ title: Shooting Real Film - Dead Serious
 comments: true
 categories:
 - Articles
-- General Photography
 - custom prints
 - film
+- General Photography
 - hp indigo
 - kodak ektar 100
 - medium format

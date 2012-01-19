@@ -3,11 +3,11 @@ layout: post
 title: Aperture 2 Quick Tip - Shooting RAW+JPG
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - RAW
 - RAW+JPG
 - stacks

@@ -3,11 +3,11 @@ layout: post
 title: Aperture and Blurb - Again
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adobe rgb
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - book tool
 - cmyk
 - rgb

@@ -4,8 +4,8 @@ title: Color Film Comparisons
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak Portra 160VC
 - scanning
 ---

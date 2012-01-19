@@ -4,8 +4,8 @@ title: Polaroid Type 665 PN - RIP - A Unique and Interesting Film
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - medium format
 - polaroid films
 - Polaroid Type 55

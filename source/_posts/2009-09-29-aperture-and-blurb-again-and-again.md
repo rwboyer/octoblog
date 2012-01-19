@@ -3,11 +3,11 @@ layout: post
 title: Aperture and Blurb - Again and Again
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adobe indesign
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - blurb.com
 - booksmart
 - cmyk

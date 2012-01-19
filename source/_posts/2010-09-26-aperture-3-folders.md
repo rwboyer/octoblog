@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Folders
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - folders
 - work-flow
 - Workflow

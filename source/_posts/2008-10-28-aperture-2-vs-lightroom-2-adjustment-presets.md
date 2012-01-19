@@ -4,7 +4,6 @@ title: Aperture 2 vs. Lightroom 2 - Adjustment Presets
 comments: true
 categories:
 - Adobe Lightroom
-- Aperture vs Lightroom
 - Aperture
 - Aperture 2
 - Aperture vs Lightroom

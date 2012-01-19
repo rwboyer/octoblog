@@ -4,10 +4,10 @@ title: Shooting Film Follies 2009
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - Efke R100
 - film
+- General Photography
 - Kodak
 - leica m6
 - pyro

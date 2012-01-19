@@ -4,8 +4,6 @@ title: Aperture2 vs. Lightroom2 - Aperture Forum Post
 comments: true
 categories:
 - Adobe Lightroom
-- Aperture vs Lightroom
-- Adobe Lightroom
 - Aperture
 - Aperture 2
 - Aperture vs Lightroom

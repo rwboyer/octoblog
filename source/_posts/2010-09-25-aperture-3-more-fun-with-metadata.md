@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - More Fun With Metadata
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - smart albums
 - work-flow
 - Workflow

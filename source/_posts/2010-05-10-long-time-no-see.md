@@ -3,10 +3,9 @@ layout: post
 title: Long Time No See...
 comments: true
 categories:
-- Apple Aperture
-- General Photography
 - Aperture 3
 - Apple Aperture
+- General Photography
 - Guitars
 - women
 ---

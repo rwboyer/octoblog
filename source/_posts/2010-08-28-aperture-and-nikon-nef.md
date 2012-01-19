@@ -3,10 +3,9 @@ layout: post
 title: Aperture And Nikon NEF
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Leica M9. color
 - NEF
 - Nikon

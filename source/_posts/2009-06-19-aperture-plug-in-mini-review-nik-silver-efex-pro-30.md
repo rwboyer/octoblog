@@ -3,10 +3,10 @@ layout: post
 title: Aperture Plug-in Mini Review - Nik Silver Efex Pro 3.0
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - Black and White
 - Nik
 - Plug-in

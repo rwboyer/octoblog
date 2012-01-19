@@ -3,10 +3,9 @@ layout: post
 title: Aperture - Book Tool Collage
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Apple Aperture
+- Articles
 - book tool
 - collage
 ---

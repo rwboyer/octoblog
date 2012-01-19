@@ -3,13 +3,13 @@ layout: post
 title: Shooting Film - Ilford Delta100 In PMK Pyro
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm
+- Articles
 - Black and White
 - Delta100
 - film
 - film scan
+- General Photography
 - Ilford
 - Leica
 - PMK

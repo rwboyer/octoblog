@@ -4,8 +4,8 @@ title: Shooting Film - Kodachrome 64
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodachrome
 - Kodachrome 64
 - Kodak

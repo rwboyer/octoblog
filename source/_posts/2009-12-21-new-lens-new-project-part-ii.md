@@ -4,9 +4,9 @@ title: New Lens - New Project Part II
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - large format
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2009_0003_1200dpi_7_1.jpg"><img title="2009_0003_1200dpi_7_1.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2009_0003_1200dpi_7_1.jpg" border="0" alt="2009_0003_1200dpi_7_1.jpg" hspace="10" vspace="10" width="150" height="120" align="left" /></a>Been playing with that new (antique) lens doing a lot of test shots of stupid crap in preparation for my brand spanking new epic portrait project. I do a lot of testing and preparation work - also known as a way to rationalize procrastination and feel "busy" and "productive". At the end of the day I would be just as busy and way more productive if I did my crappy test shots of the subject of my actual project. Maybe I will try that someday. Is there really a big difference wasting time with testing things vs. wasting time testing with the actual subject of a project? You will figure out the same things but there is a chance that you will actually make some work that you wanted to make even if by accident. Some how there is a psychological advantage to screwing up shots of crappy stupid stuff than screwing up shots of your actual project.

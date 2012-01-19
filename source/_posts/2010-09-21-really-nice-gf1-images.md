@@ -4,7 +4,6 @@ title: Really Nice GF1 Images
 comments: true
 categories:
 - General Photography
-- Micro 4:3
 - M43
 - Micro 4:3
 - Panasonic GF1

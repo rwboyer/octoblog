@@ -3,10 +3,10 @@ layout: post
 title: Adox MCC 110 Print Sample Update
 comments: true
 categories:
-- Site News
 - Adox MCC 110
 - Black and White
 - prints
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/2000020_002.jpg"><img title="2000020_002.jpg" src="/wp-content/uploads/2010/01/.thumbs/.2000020_002.jpg" border="0" alt="2000020_002.jpg" hspace="10" vspace="10" width="150" height="97" align="left" /></a>Well, I guess I am not crazy for thinking that at least a couple people would want print samples. I may still be crazy for thinking that I can do this for $8.99 and keep my sanity. We will see - the jury is still out. Just wanted to post a brief update and answer a couple of questions that people had on the print samples. So here we go.
 

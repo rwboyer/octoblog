@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - New Project Import Export And Merging
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - export
 - file management
 - Import

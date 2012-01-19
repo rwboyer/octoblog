@@ -3,10 +3,10 @@ layout: post
 title: Winter Project - Trees
 comments: true
 categories:
-- Articles
-- General Photography
 - Adox MCC 110
+- Articles
 - Black and White
+- General Photography
 - kodak tmax 100
 - prints
 - project

@@ -4,9 +4,9 @@ title: Jeanloup Sieff - Follow-up #2
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - fashion
+- General Photography
 - inspiration
 - Jeanloup Sieff
 - portrait

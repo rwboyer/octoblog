@@ -4,10 +4,10 @@ title: What Do You Think of My New Lens?
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - efke
 - film
+- General Photography
 - large format
 - portrait
 - Wollensak

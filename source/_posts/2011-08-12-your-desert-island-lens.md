@@ -3,9 +3,9 @@ layout: post
 title: Your Desert Island Lens?
 comments: true
 categories:
+- 50mm
 - Articles
 - General Photography
-- 50mm
 - lenses
 ---
 Here is the question - if you were <em>stuck </em>with only one lens of one focal length which one would that be. I am only talking about focal length here in terms of angle of view - not the <em>real</em> focal length. For arguments sake lets discuss this in 35mm equivalent terms since everybody is familiar with that and most software and cameras will do the EXIF conversion for you. I guess the question of both your mind's eye and what you think would be best in some combination of what focal lengths you <a href="http://photo.rwboyer.com/2010/09/25/aperture-3-more-fun-with-metadata/">actually use the most as I mention here as an interesting study</a> for you to do some introspection.

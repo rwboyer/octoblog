@@ -3,9 +3,9 @@ layout: post
 title: Aperture 3 Image Adjustment Controls
 comments: true
 categories:
+- Aperture 3
 - Apple Aperture
 - Articles
-- Aperture 3
 - image adjustments
 - work-flow
 ---

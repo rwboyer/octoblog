@@ -3,12 +3,12 @@ layout: post
 title: Shooting Real Film - Kodak TMAX 100
 comments: true
 categories:
-- Articles
-- General Photography
 - agfa apx 25
+- Articles
 - Black and White
 - contrast manipulation
 - film
+- General Photography
 - Kodak
 - TMAX 100
 - TMX

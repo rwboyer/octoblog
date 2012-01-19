@@ -3,12 +3,12 @@ layout: post
 title: Aperture 2 Quick Tip - Highlights and Shadows
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adjustment
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - highlights and shadows
 - image adjustments
 - image manipulation

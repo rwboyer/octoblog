@@ -4,7 +4,6 @@ title: Olympus E-P1 Image Stabilization
 comments: true
 categories:
 - General Photography
-- Micro 4:3
 - image stabilization
 - M43
 - Micro 4:3

@@ -4,8 +4,8 @@ title: Photographers For Inspiration - Helmut Newton
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - Helmut Newton
 - inspiration
 ---

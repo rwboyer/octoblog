@@ -4,10 +4,10 @@ title: Time For Some New Gear
 comments: true
 categories:
 - Articles
-- Site News
 - iMac
 - MacBook Air
 - MacBook Pro
+- Site News
 ---
 Every 12 months or so I get the itch for some new Mac gear. It's been a little less time since I got my MacBook Air - the 11" jobby. I am still loving it and my 15" MacBook Pro has not left the building in since I got it. So... what should I get? You might say something like "why get anything?". Well ever since the Sandy Bridge intel Macs came out I have had a craving. Big time.
 

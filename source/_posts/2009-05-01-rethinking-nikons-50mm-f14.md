@@ -3,10 +3,10 @@ layout: post
 title: Rethinking Nikon's 50mm f1.4
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - Equipment
+- General Photography
 - manual focus
 - Nikon
 - prime lenses

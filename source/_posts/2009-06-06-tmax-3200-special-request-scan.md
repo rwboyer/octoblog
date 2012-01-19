@@ -3,9 +3,9 @@ layout: post
 title: TMax 3200 - Special Request Scan
 comments: true
 categories:
+- film scan
 - General Photography
 - Site News
-- film scan
 - TMax 3200
 - TMZ
 ---

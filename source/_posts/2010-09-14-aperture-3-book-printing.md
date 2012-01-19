@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 Book Printing
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Aperture b
 - Aperture PDF Guides
 - Apple Aperture
+- Articles
 - Blurb
 ---
 Sometimes I forget how the web works. Briefly - anything "new" is great, anything old sucks (according to google). Since the vast majority of people out there use Google not just to find information but to navigate the web as one big site I thought I would re-publish some of the notes on using Aperture's book tool with other printers. So here is a handy index to notes compiled so far.

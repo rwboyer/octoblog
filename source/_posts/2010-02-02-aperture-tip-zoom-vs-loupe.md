@@ -3,10 +3,9 @@ layout: post
 title: Aperture Tip - Zoom vs Loupe
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Apple Aperture
+- Articles
 - compare mode
 - Loupe
 - performance

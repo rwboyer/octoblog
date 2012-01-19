@@ -4,9 +4,9 @@ title: Old Camera + New Film = New Camera
 comments: true
 categories:
 - Articles
-- General Photography
 - film
 - Fuji X100
+- General Photography
 - kodak ektar 100
 - Kodak Portra
 ---

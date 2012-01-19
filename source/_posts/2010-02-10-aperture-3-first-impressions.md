@@ -3,11 +3,10 @@ layout: post
 title: Aperture 3 - First Impressions
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adjustments
 - Aperture 3
 - Apple Aperture
+- Articles
 - Faces
 - performance
 - Places

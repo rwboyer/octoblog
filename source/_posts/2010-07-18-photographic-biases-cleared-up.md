@@ -4,9 +4,9 @@ title: Photographic Biases - Cleared Up
 comments: true
 categories:
 - Articles
-- General Photography
 - digital
 - film
+- General Photography
 - HDR
 - Portable Flash
 ---

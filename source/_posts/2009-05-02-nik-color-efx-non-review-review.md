@@ -3,12 +3,11 @@ layout: post
 title: Nik Color EFX Non-Review Review
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - adjustment
 - Apple Aperture
+- Articles
 - enhancements
+- General Photography
 - Nik
 - Nikon Capture NX2
 - photoshop

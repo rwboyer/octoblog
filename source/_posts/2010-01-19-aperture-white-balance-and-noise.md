@@ -3,13 +3,13 @@ layout: post
 title: Aperture - White Balance and Noise
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - adjustments
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - d2h
+- General Photography
 - NEF
 - Nikon
 - noise

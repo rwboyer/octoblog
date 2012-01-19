@@ -3,10 +3,10 @@ layout: post
 title: Nikon 50mm F1.4 - I Just Snagged It For $99
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - film
+- General Photography
 - Nikon
 ---
 Yep - I love surfing eBay every once in a while. I might even be able to make a living doing it if I had the attention span of an adult. I swear I only log in once a month at the most (averaged throughout a year). Every time I end up buying some sort of bargain. I spend no more than five minutes. I usually do it when some object crosses my mind for a random reason. I search for the item and then look at a grand total of two pages. The first is buy-now just listed page - only place you find giant buy now bargains. The second page is auction-only ending soonest. That's it. If I see a bargain I buy it.

@@ -3,10 +3,10 @@ layout: post
 title: Oh My God - Aperture 3 Could Actually Be Real
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple
+- Apple Aperture
+- Site News
 ---
 Based on super secret research of my own and jumping to a lot of conclusions I really really think Aperture 3 is here - or will be maybe tomorrow. Here is the scoop. As many of you know I am about the only Aperture guy that actually participates in the Apple forums in any regular or frequent way. The other guys are mercenary and will not help anyone if they are not getting paid. Forget that for a moment, I don't want to rant too much.
 

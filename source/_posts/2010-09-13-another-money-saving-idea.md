@@ -3,10 +3,9 @@ layout: post
 title: Another Money "Saving" Idea
 comments: true
 categories:
-- General Photography
-- Micro 4:3
 - Camera Bag
 - Domke F-5XB
+- General Photography
 - Micro 4:3
 ---
 <a rel="prettyPhoto" href="http://photo.rwboyer.com/wp-content/uploads/2010/09/5XBWaxed.jpg"><img class="alignleft size-medium wp-image-2395" title="5XBWaxed" src="http://photo.rwboyer.com/wp-content/uploads/2010/09/5XBWaxed-300x244.jpg" alt="" width="300" height="244" /></a>This is officially third in a serious of rationalization lessons for acquiring photo gear since I went on the binge last week. This lesson/idea is actually also a follow up to my "all camera bags are too small" post from a while ago. Actually they are all exactly the right size. This time around I am shifting that whole notion into reverse.  I just acquired a new bag - yes another one. It is the <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Foffer-listing%2FB002BH3XXQ%3Fie%3DUTF8%26ref_%3Dsr_1_1_olp%26qid%3D1284410226%26sr%3D8-1%26condition%3Dnew&amp;tag=rbde-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957" target="_blank">Domke F-5XB</a>. The point of this purchase was multi-faceted and as you will see when I walk you through the rationalization the primary money saving idea is reenforced with all the other good things that happen.

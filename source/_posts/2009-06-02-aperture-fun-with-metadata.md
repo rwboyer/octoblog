@@ -4,11 +4,11 @@ title: Aperture - Fun With Metadata
 comments: true
 categories:
 - Adobe Lightroom
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - EXIF
 - focal length
 - keyword

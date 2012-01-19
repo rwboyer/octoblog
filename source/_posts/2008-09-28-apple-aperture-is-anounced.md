@@ -3,10 +3,10 @@ layout: post
 title: October 19, 2005 Apple Aperture is Announced
 comments: true
 categories:
-- Apple Aperture
-- General Photography
 - Aperture
 - Apple
+- Apple Aperture
+- General Photography
 ---
 <a rel="lightbox" href="/wp-content/uploads/2008/09/DSC_8498.jpg"><img title="DSC_8498.jpg" src="/wp-content/uploads/2008/09/.thumbs/.DSC_8498.jpg" border="0" alt="DSC_8498.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>A follow up from the "Joy" post. Just a couple of thoughts while doing some testing of the site prior to moving the permanent domain name. I clearly remember the day I got one of those pretty email adverts from Apple announcing the launch of Aperture. I was sitting at my desk slogging though about 1200 images that I had shot that day doing the usual torturous routine of bringing up the RAW images in whatever application was the least of all evils in terms of making comparisons and evaluations trying to sort out what I actually wanted to use. Copying them to another folder to convert them into another format. Then copying them to another folder to do some color work. Then copying them to another folder to do some PS work. Then.... Maybe you know the cumbersome routine or maybe are still doing things that way.
 Desperately looking for any distraction away from the tedium, I snapped to attention when the familiar sound of mail.app indicated what must be an urgent matter to attend to in my email. Thank god, an excuse to take a break from this. There in the inbox was the screen shot of Aperture. I actually read the message and clicked the link. <!--more-->The stuff they were talking about, stacks, real-time RAW viewing, compare mode, speed, on, and on. The focus was on what we all have to do with the images that we shoot. Scattered around the edges was some mention of adjustments and things but the focus was the work flow, organization, etc. It took me all of 124 milliseconds to "get it" this was exactly what I needed. SOLD, where do I sign up.

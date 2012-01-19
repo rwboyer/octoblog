@@ -3,9 +3,9 @@ layout: post
 title: Lions and Tigers and Bears
 comments: true
 categories:
-- Site News
 - Organization
 - Podcast
+- Site News
 - Video
 - work-flow
 ---

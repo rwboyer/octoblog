@@ -3,10 +3,10 @@ layout: post
 title: Photographs vs. On-Screen Display
 comments: true
 categories:
-- Articles
-- General Photography
 - aesthetic
+- Articles
 - film
+- General Photography
 - post processing
 - printing
 ---

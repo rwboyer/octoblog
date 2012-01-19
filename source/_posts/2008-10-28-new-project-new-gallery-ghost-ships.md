@@ -3,13 +3,13 @@ layout: post
 title: New Project New Gallery - Ghost Ships
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- Site News
 - Aperture
 - Aperture 2
 - Aperture Book Tool
+- Apple Aperture
+- Articles
 - flickr
+- Site News
 ---
 Don't do many galleries here or for that matter anywhere else. I am experimenting with flickr and flickr integration with Wordpress. The last thing I feel like doing is maintaining 62 photo galleries all over the web-o-chaos in addition to real paying jobs so I thought I would share a weird little side project that I have been working on and may actually finish sooner or later.<!--more-->
 

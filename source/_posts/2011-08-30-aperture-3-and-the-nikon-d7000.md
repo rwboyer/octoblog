@@ -3,13 +3,12 @@ layout: post
 title: Aperture 3 and The Nikon D7000
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple Aperture
 - NEF
 - Nikon
 - Nikon D7000
+- Site News
 ---
 I few days ago, way back before the hurricane, I <a href="http://photo.rwboyer.com/2011/08/26/new-nikon-specific-aperture-3-product-quiz/">posted a survey</a> to determine if there were people interested in a set of Aperture 3 presets for the <a href="http://www.amazon.com/gp/product/B0042X9LC4/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B0042X9LC4">Nikon D7000</a> that emulated Nikon Picture Controls. Based on the results I am going to go forward and put these together. Not today though, I have a touch of some sort of summertime flu and I am miserable and not in the proper mood to approach anything that seems like it needs some sort of coherency.
 

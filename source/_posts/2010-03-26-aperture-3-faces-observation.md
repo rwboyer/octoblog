@@ -3,10 +3,10 @@ layout: post
 title: Aperture 3 - Faces Observation
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple
+- Apple Aperture
+- Articles
 - Faces
 ---
 Just wanted to share an observation that I had with my own Aperture library regarding Faces. I have installed the latest greatest 3.0.2 update and while it fixes a lot of things and appears to be much more stable - even with my limited 5 or 6 hours of use - the one thing it does not seem to help with is the "missing" face issue.

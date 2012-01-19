@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Finding RAW Images
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - RAW
 - RAW+JPEG
 - work-flow

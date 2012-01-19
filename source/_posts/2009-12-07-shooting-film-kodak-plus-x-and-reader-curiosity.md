@@ -4,9 +4,9 @@ title: Shooting Film - Kodak Plus-X and Reader Curiosity
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - Kodak
 - Plus-X
 - PMK

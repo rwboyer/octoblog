@@ -4,8 +4,6 @@ title: Aperture 2 vs. Adobe Lightroom 2
 comments: true
 categories:
 - Adobe Lightroom
-- Aperture vs Lightroom
-- Adobe Lightroom
 - Aperture 2
 - Aperture vs Lightroom
 - Apple

@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Nikon D7000 Presets - The Story
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - NEF
 - Nikon D7000
 - Presets

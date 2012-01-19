@@ -3,13 +3,13 @@ layout: post
 title: Aperture 3 File Management eBook - Thank You
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Site News
 - Aperture
 - Aperture 3
+- Aperture PDF Guides
 - Apple
+- Apple Aperture
 - eBook
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/07/DSC_1103___Version_2.jpg"><img title="DSC_1103___Version_2.jpg" src="/wp-content/uploads/2010/07/.thumbs/.DSC_1103___Version_2.jpg" border="0" alt="DSC_1103___Version_2.jpg" hspace="10" vspace="10" width="101" height="150" align="left" /></a>It has been about a week since I released the Aperture 3 update of my file management eBook. I have been overwhelmed at the response of people that already purchased the last version that have upgraded to the new version for the low low price of a buck. Some of you that got the upgrade offer have actually paid the full price on purpose - for no good reason except generosity. I wanted to write a quick note to thank everyone for their continued support that bothered to upgrade.
 

@@ -3,11 +3,11 @@ layout: post
 title: Aperture Tip - Previews
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - albums
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - Blurb
 - booksmart
 - media browser

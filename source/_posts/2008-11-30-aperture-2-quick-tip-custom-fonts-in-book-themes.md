@@ -3,12 +3,12 @@ layout: post
 title: Aperture 2 Quick Tip - Custom Fonts In Book Themes
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Book Tool
 - Apple
+- Apple Aperture
+- Articles
 - book themes
 - Typeface
 ---

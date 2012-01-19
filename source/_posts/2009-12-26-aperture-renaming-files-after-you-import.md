@@ -3,11 +3,11 @@ layout: post
 title: Aperture - Renaming Files After You Import
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - batch change
 - managed masters
 - Metadata

@@ -3,11 +3,11 @@ layout: post
 title: Aperture 2 Quick Tip - Managing Previews
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
 - work-flow
 - Workflow
 ---

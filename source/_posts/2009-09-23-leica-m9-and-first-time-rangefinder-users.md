@@ -4,8 +4,8 @@ title: Leica M9 and First Time Rangefinder Users
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Leica M9
 - M2
 - M3

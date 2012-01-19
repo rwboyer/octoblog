@@ -3,10 +3,10 @@ layout: post
 title: Nikon - Aperture and War Against Bit-twiddling
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Apple
+- Apple Aperture
+- Articles
 - Color
 - NEF
 - Nikon

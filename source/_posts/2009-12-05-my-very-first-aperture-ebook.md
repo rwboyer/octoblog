@@ -3,14 +3,14 @@ layout: post
 title: My Very First Aperture eBook
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Site News
 - Aperture
 - Aperture 2
+- Aperture PDF Guides
 - Apple
+- Apple Aperture
 - eBook
 - file management
+- Site News
 - work-flow
 - Workflow
 ---

@@ -4,8 +4,8 @@ title: Leica M9 - Thoughts On Lenses
 comments: true
 categories:
 - Articles
-- General Photography
 - budget
+- General Photography
 - Leica
 - leica lens
 - m6

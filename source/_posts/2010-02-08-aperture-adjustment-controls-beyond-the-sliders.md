@@ -3,12 +3,11 @@ layout: post
 title: Aperture Adjustment Controls - Beyond The Sliders
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adjustments
 - Aperture
 - Aperture 2
 - Apple Aperture
+- Articles
 - Color
 - exposure
 - noise reduction

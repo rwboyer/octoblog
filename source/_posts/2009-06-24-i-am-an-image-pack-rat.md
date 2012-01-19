@@ -4,8 +4,8 @@ title: I Am An Image Pack-Rat - Why I Almost Never Get Rid of Images
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak
 - Plus-X
 - PMK

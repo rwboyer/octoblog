@@ -3,10 +3,10 @@ layout: post
 title: Nikon Cheap Date
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - film
+- General Photography
 - Nikon FE
 ---
 The mailman came today and it was like christmas. I love this stuff, all for $100 from an eBay auction. If you want to learn a lot about photography, be capable of making extremely good looking images once you do, and you have very very little money this kind of thing is the ticket. Look what $100 buys you...

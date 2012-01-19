@@ -3,9 +3,9 @@ layout: post
 title: Aperture, Lightroom, Capture NX2, and Nikon Shooters
 comments: true
 categories:
+- Apple
 - Apple Aperture
 - Articles
-- Apple
 - Digital Negative
 - DNG
 - NEF RAW

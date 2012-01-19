@@ -4,8 +4,8 @@ title: Look What The Cat Drug In Today - Nikon Lessons
 comments: true
 categories:
 - Articles
-- General Photography
 - FM2
+- General Photography
 - Nikon
 - Nikon FM@
 ---

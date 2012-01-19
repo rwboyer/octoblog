@@ -4,9 +4,9 @@ title: More On Final Cut Pro X
 comments: true
 categories:
 - Articles
-- General Photography
 - FCP X
 - Final Cut Pro
+- General Photography
 - Video
 ---
 So I have been beating my head in learning the new FCP. I am not doing this just for fun and games. I actually have a couple of projects coming up where I must decide what software to use to put them together. It has been 2 or 3 years since I did anything serious with video that "counted".  I had to make a decision to go down the FCP X road which is brand new. Go down the FCP 7 route which I know has some limited lifetime but could definitely accomplish what I needed to do, or use this as a spring board to something else. Anyway you sliced it it was going to be a fairly big job for me.

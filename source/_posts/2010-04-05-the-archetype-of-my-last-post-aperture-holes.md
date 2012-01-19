@@ -3,7 +3,6 @@ layout: post
 title: The Archetype of My Last Post - Aperture-holes
 comments: true
 categories:
-- Apple Aperture
 - Aperture 3
 - Apple Aperture
 - apple support forum

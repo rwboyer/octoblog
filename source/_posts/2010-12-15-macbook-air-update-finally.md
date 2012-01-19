@@ -3,11 +3,10 @@ layout: post
 title: MacBook Air Update - Finally
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - 11.6
 - Aperture 3
 - Apple Aperture
+- Articles
 - MacBook Air
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2010/11/P1000305.jpg %}Okay, I have had a few weeks with the new 11.6 inch MacBook Air. I guess you people are wondering if I ended up shooting myself in the head after trying to use it with Aperture 3 or if I was so enamored with it that I no longer felt the need to communicate through the blog anymore. The answer is more towards the nirvana side of things than to the the shoot-self-in-head side of things.

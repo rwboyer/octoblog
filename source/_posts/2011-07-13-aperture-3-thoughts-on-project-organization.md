@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Thoughts On Project Organization
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Organization
 - work-flow
 - Workflow

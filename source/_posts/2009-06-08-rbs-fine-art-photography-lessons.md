@@ -5,9 +5,9 @@ comments: true
 categories:
 - Aperture vs Lightroom
 - Articles
+- fine art
 - General Photography
 - Lighting
-- fine art
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/DSC0072.jpg"><img title="DSC0072.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC0072.jpg" border="0" alt="DSC0072.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Just to test the waters here I thought I would post a basic tutorial on how to get started in "fine art" photography. If there is enough interest I will go into some of the more advanced techniques for both this style and cover some other styles as well. I wanted to start simple as not to intimidate anyone considering this is really serious stuff as the term "fine art" is intimidating enough.
 

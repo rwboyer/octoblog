@@ -5,8 +5,8 @@ comments: true
 categories:
 - Articles
 - General Photography
-- Lighting
 - light stands
+- Lighting
 - strobe heads
 - strobes
 ---

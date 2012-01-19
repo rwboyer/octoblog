@@ -3,12 +3,12 @@ layout: post
 title: Aperture 2 Quick Tip - Album Picks and Image Versions
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Album
 - Apple
+- Apple Aperture
+- Articles
 - Organization
 - stacks
 - work-flow

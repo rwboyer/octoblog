@@ -3,10 +3,10 @@ layout: post
 title: New Aperture Screencast - Stacks and Albums
 comments: true
 categories:
-- Site News
 - Aperture 3
 - Apple Aperture
 - screencast
+- Site News
 - Stacks and Albums
 ---
 I have probably written more on Apple Aperture's stacks and albums than on any other topic. I use stacks and albums for just about everything in terms of organizing my images and streamlining my work-flow. What surprised me is that some of the people that have read the posts here on stacks and albums still were having a tough time understanding how stacks and albums work together.

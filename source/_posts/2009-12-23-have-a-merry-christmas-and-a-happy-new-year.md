@@ -3,8 +3,8 @@ layout: post
 title: Have A Merry Christmas And A Happy New Year
 comments: true
 categories:
-- Site News
 - christmas
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2009_010_21.jpg"><img title="2009_010_21.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2009_010_21.jpg" border="0" alt="2009_010_21.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Or Happy Holidays for the politically infantile. Anyway I wanted to wish you all the best in case I don't post anything else before Christmas. I will probably talk at you prior to the new year. I have a bunch of stuff in my handy dandy notebook that I want to prattle  on about. So here are a couple of random Christmasy images to serve as a substitute for actual Christmas cards for all the readers out there.
 

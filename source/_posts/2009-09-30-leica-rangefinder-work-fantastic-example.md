@@ -3,10 +3,10 @@ layout: post
 title: Leica Rangefinder Work - Fantastic Example
 comments: true
 categories:
-- Site News
 - Leica
 - m6
 - M9
+- Site News
 - TMAX 400
 - TMY
 ---

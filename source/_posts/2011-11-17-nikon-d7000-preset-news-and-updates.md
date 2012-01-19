@@ -3,12 +3,12 @@ layout: post
 title: Nikon D7000 Preset News and Updates
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Adobe ACR
+- Apple Aperture
 - DNG
 - film
 - Presets
+- Site News
 ---
 There have been quite a few people that have been participating in the beta version of my <a href="http://photo.rwboyer.com/2011/11/09/nikon-d7000-presets-for-aperture-3/">D7000 Picture Control Presets for Aperture 3</a>. More than I expected with all the caveats that I put out there. A few of them have written me with comments and critique - I plan on incorporating that critique into updates if possible and if it does not conflict with other peoples results...
 

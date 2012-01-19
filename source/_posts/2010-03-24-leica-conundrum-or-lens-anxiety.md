@@ -3,10 +3,10 @@ layout: post
 title: Leica Conundrum Or Lens Anxiety
 comments: true
 categories:
-- Articles
-- General Photography
 - 21mm
+- Articles
 - film
+- General Photography
 - Leica
 - super-wide
 ---

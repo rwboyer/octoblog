@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Adjustments - Chromatic Aberration
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Capture NX2
 - Chromatic Aberration
 - Nikon

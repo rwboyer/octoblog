@@ -3,10 +3,9 @@ layout: post
 title: Nice Take On Aperture 3 Post Processing
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - post processing
 - Presets
 ---

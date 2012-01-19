@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 Adjustment Controls
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Aperture 3
 - Apple Aperture
+- Articles
 - curves
+- General Photography
 - image adjustments
 - post-production
 ---

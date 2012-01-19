@@ -4,8 +4,8 @@ title: New Series - Photographers For Inspiration
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
+- General Photography
 - inspiration
 - Patrick Demarchelier
 - Photographers

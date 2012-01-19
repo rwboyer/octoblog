@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 And Alien Technology
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - disk management
 - SAN
 - storage

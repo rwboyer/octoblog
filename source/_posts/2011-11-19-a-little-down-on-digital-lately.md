@@ -3,10 +3,9 @@ layout: post
 title: A Little Down On Digital Lately
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - RAW
 ---
 I have been a tad hard on digital imaging lately. I wanted to put that into context. The context is that I am a photographer and image maker first and foremost. For better or for worse we photographers are married to our tools and the people that make them. The reason I have been a little down on digital lately is because I am a heavy user of digital. I don't sit away in my little corner of the universe isolated from all things digital - obviously. Not only am I a heavy user of digital capture devices and digital imaging processing software. I am a customer. Yes I have spent huge sums of money on digital imaging gear and post processing software and all that goes with it.

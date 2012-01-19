@@ -4,8 +4,8 @@ title: Nikon DSLR v Leica M
 comments: true
 categories:
 - Articles
-- General Photography
 - DSLR
+- General Photography
 - Leica
 - M series
 - Nikon

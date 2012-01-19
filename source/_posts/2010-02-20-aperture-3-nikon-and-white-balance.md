@@ -3,11 +3,10 @@ layout: post
 title: Aperture 3 - Nikon And White Balance
 comments: true
 categories:
+- Aperture 3
 - Apple Aperture
 - Articles
 - General Photography
-- Aperture 3
-- Apple Aperture
 - NEF
 - Nikon
 - WB

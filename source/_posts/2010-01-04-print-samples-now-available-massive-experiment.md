@@ -3,14 +3,14 @@ layout: post
 title: Print Samples Now Available - Massive Experiment
 comments: true
 categories:
-- General Photography
-- Site News
 - adox
 - agfa
 - Black and White
 - classic 111
+- General Photography
 - mcc 110
 - print
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/1999_021_08small.jpg"><img title="1999_021_08small.jpg" src="/wp-content/uploads/2010/01/.thumbs/.1999_021_08small.jpg" border="0" alt="1999_021_08small.jpg" hspace="10" vspace="10" width="120" height="150" align="left" /></a>Okay - Here they are. Real honest to goodness hand made black and white prints on real honest to goodness bayarta coated fiber based silver gelatin paper. This is an experiment. If it goes well and I can continue to do it without killing myself I will expand it to cover more materials or whatever other suggestions or ideas popup. If I cannot do it and remain sane I will cancel it and fulfill any pending orders.
 

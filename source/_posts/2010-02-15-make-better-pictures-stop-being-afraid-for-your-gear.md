@@ -4,9 +4,9 @@ title: Make Better Pictures - Stop Being Afraid For Your Gear
 comments: true
 categories:
 - Articles
-- General Photography
 - Equipment
 - Gear
+- General Photography
 - Nikon
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC_0145.jpg"><img title="DSC_0145.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC_0145.jpg" border="0" alt="DSC_0145.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I never worried about hurting my gear too much. I am not saying that I beat it up on purpose or was careless with any of it. I treat it with respect. That being said I am going to give you some advice on making better pictures as well as a case to use you biggest piece of crap camera to do it.

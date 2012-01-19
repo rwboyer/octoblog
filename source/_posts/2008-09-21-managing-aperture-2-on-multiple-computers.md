@@ -3,9 +3,9 @@ layout: post
 title: Managing Aperture 2 on Multiple Computers
 comments: true
 categories:
+- Aperture 2
 - Apple Aperture
 - Articles
-- Aperture 2
 - work-flow
 - Workflow
 ---

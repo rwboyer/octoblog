@@ -4,8 +4,8 @@ title: The Pull of The Foveon Was Too Much
 comments: true
 categories:
 - Articles
-- General Photography
 - Foveon
+- General Photography
 - Sigma SD14
 ---
 I wrote yesterday about having a strange nagging desire for another Foveon based camera due to my attraction to the couple images that I shot with that dog of a camera, the DP1s prior to returning it. I knew I would not be getting another one of the DP series cameras as they are <a href="http://photo.rwboyer.com/2011/01/31/cameras-i-wanted-to-love-but-couldnt/">horrible devices to actually use</a> in more ways than I can articulate. So I was thinking of an SD15, those cameras are below a 1000 bucks new at this point.

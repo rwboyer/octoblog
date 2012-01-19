@@ -3,12 +3,12 @@ layout: post
 title: Humor - Creativity - Limitations
 comments: true
 categories:
-- General Photography
-- Site News
 - art
 - Creativity
+- General Photography
 - humor
 - limitations
+- Site News
 ---
 I put up a long post yesterday that does a half baked job at summarizing a conversation had with one photographer - and similar conversations with dozens of them. Usually while drinking. Just so you don't think I am all work and no play - or too too serious, I thought I would summarize another conversation as well, this one is short.
 

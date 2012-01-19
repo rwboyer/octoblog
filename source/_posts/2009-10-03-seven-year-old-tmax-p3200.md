@@ -4,10 +4,10 @@ title: Seven Year Old TMAX P3200
 comments: true
 categories:
 - Articles
-- General Photography
 - darkroom
 - expired film
 - fog
+- General Photography
 - Kodak TMAX P3200
 - Leica
 - m6

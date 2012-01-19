@@ -3,9 +3,9 @@ layout: post
 title: This Stuff Is Always Good For A Laugh - Hilter on Kodachrome
 comments: true
 categories:
-- Site News
 - film
 - Kodachrome
+- Site News
 ---
 I do believe the very first one of these was the D3X pricing rant but some of the me to's are amusing as well. Mad Hitler is always good for a laugh. Oh in case you missed it Kodachrome has been gone for a little while now.<!--more-->
 

@@ -3,10 +3,10 @@ layout: post
 title: Shooting Film - Ilford HP5 plus
 comments: true
 categories:
-- Articles
-- General Photography
 - 6x6
+- Articles
 - film
+- General Photography
 - Hasselblad
 - Ilford HP5 plus
 - negative

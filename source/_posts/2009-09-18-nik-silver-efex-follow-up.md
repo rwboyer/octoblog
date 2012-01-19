@@ -3,12 +3,12 @@ layout: post
 title: Nik Silver EFEX Follow-up
 comments: true
 categories:
-- Articles
-- General Photography
 - Aperture
+- Articles
 - Black and White
 - contrast ratio
 - fantastic light
+- General Photography
 - Nik
 - prints
 - sliver efex

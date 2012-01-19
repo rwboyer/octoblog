@@ -3,11 +3,10 @@ layout: post
 title: Aperture  3 - The Best And The Worst
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - 64-bit
 - Aperture 3
 - Apple Aperture
+- Articles
 - Faces
 - Places
 - Workflow

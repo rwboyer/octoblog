@@ -3,10 +3,10 @@ layout: post
 title: Photography A More Casual Approach
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - film
+- General Photography
 - Nikon FE
 - Sigma SD14
 ---

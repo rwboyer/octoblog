@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 Nikon D7000 Presets - The Saga Continues
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple Aperture
 - Nikon D7000
 - Presets
+- Site News
 ---
 Okay - so I have been screwing around with the presets that I envisioned releasing to all of you Aperture 3 users for months. In case you think that I have been slacking off here - think different. I have come to the conclusion that I cannot release a product that I feel comfortable with. Namely a product that I would find acceptable as a consumer if I was expecting a quick and easy way to duplicate Nikon NX2 or OOC JPEG Picture Control settings.
 

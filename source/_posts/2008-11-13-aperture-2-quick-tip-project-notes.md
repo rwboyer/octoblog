@@ -3,12 +3,12 @@ layout: post
 title: Aperture 2 Quick Tip - Project Notes
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture Blue Folder
 - Aperture Book Tool
+- Apple Aperture
+- Articles
 - folders
 - Organization
 - Workflow

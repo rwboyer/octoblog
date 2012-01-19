@@ -3,11 +3,11 @@ layout: post
 title: Sigma SD14 - Some Foveon Love On The Cheap
 comments: true
 categories:
-- Articles
-- General Photography
 - ACR
 - Adobe ACR
+- Articles
 - Foveon
+- General Photography
 - Sigma SD14
 ---
 And today we have...

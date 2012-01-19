@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 - Nikon D2H Presets
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - adjustment
 - adjustments
 - Aperture 3
 - Apple Aperture
+- Articles
 - NEF
 - Nikon Capture NX2
 - Nikon D2h

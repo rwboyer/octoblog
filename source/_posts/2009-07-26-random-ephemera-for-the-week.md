@@ -3,16 +3,15 @@ layout: post
 title: Random Ephemera For The Week
 comments: true
 categories:
-- Apple Aperture
-- General Photography
-- Site News
 - Aperture
 - Apple
 - Apple Aperture
 - Canon
+- General Photography
 - iPhone headphones
 - MacBook Pro Unibody
 - printing
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/07/DSC_0300___Version_2__1_.jpg"><img title="DSC_0300___Version_2__1_.jpg" src="/wp-content/uploads/2009/07/.thumbs/.DSC_0300___Version_2__1_.jpg" border="0" alt="DSC_0300___Version_2__1_.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>Just wanted to share a couple of random tidbits from the week of stuff that I learned or relearned or haven't thought about for a while that some of you may find useful. Like most of you I figure things out by intent or accident about 700 times a day and always say "I should write that down" - I never do but I say it anyway. This week I decided that at least I would pass along a couple Apple/Photo/Aperture related things that a couple of you may enjoy. Your milage could vary.
 

@@ -3,8 +3,8 @@ layout: post
 title: Monday Boredom Blahs And Warning
 comments: true
 categories:
-- Site News
 - Moo
+- Site News
 ---
 As you know this site is more of a labor of love than it is a money making machine for me. I did start selling the eBooks at what I considered the best value around about 9 months ago. The feedback that I have received has been very positive along with some kind advice that I should hire a proof-reader. Yeah right, my budget is exactly zero. I do want to tell you that I appreciate every single person that has decided to purchase an eBook. I really really do. It does help offset some of the costs or running the place. So onto the warning.
 

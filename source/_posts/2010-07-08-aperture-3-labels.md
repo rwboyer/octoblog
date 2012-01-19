@@ -3,10 +3,10 @@ layout: post
 title: Aperture 3 - Labels
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 3
+- Apple Aperture
+- Articles
 - labels
 - Metadata
 - work-flow

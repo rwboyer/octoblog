@@ -3,17 +3,16 @@ layout: post
 title: Aperture RAW Processing - The Not So Ugly Truth
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - adjustments
 - Apple Aperture
+- Articles
 - Capture One Pro
 - Color
 - contrast
 - Conversion
 - conversions
 - D700
+- General Photography
 - NEF
 - RAW
 - saturation

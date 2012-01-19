@@ -3,10 +3,10 @@ layout: post
 title: 2011 The Year Of Really Good Small Cameras?
 comments: true
 categories:
-- General Photography
-- Micro 4:3
 - Fuji X100
+- General Photography
 - Leica
+- Micro 4:3
 - Olympus E-P1
 - Panasoic GF1
 ---

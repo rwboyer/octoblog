@@ -3,14 +3,14 @@ layout: post
 title: Aperture vs. Lightroom - File Management Again
 comments: true
 categories:
-- Aperture vs Lightroom
-- Apple Aperture
-- Articles
 - Adobe
 - Adobe Lightroom
 - Aperture
+- Aperture vs Lightroom
 - Aperture vs. Lighroom
 - Apple
+- Apple Aperture
+- Articles
 - file management
 - folder structure
 - Organization

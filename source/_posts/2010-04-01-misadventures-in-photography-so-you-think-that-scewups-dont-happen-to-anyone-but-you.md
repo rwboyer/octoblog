@@ -3,11 +3,11 @@ layout: post
 title: Misadventures In Photography
 comments: true
 categories:
-- Articles
-- General Photography
 - 4x5
+- Articles
 - Black and White
 - film
+- General Photography
 - large format
 - Wollensak
 ---

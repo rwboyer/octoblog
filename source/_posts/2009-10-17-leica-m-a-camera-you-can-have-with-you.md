@@ -4,10 +4,10 @@ title: Leica M - A Camera You Can Have With You
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - delta 100
 - film
+- General Photography
 - Ilford
 - Leica M
 - m6

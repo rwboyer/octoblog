@@ -3,11 +3,11 @@ layout: post
 title: Leica Update - M9 vs M6
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm summicron
 - 50mm summicron
+- Articles
 - film
+- General Photography
 - Kodak
 - leica m6
 - Leica M9

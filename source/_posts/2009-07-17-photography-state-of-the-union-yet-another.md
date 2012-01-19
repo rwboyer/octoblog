@@ -4,8 +4,8 @@ title: Photography State of the Union - Yet Another Rant
 comments: true
 categories:
 - Articles
-- General Photography
 - family photo albums
+- General Photography
 - lenswork
 - photo magazine
 - photography publications

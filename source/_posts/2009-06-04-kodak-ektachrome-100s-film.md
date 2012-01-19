@@ -3,12 +3,12 @@ layout: post
 title: Kodak Ektachrome 100S Film
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm
+- Articles
 - chromatic abberation
 - F2AS
 - film
+- General Photography
 - Kodak 100S
 - Nikon
 ---

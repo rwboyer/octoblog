@@ -3,8 +3,8 @@ layout: post
 title: My Strange Masochistic Foveon Desire
 comments: true
 categories:
-- General Photography
 - Foveon
+- General Photography
 - Sigma DP1s
 ---
 A while ago <a href="http://photo.rwboyer.com/2010/09/21/guess-what-the-cat-drug-in-a-foveon/">I bought a Sigma DP1s on a lark</a> just because the price was so so low on Amazon. At the time I paid 300 bucks for the thing brand spanking new. I wish I would have bought ten of them just to resell as it seems the price has gone back up in a big way since that time.

@@ -3,13 +3,13 @@ layout: post
 title: Shooting Film Means You Must Plan...
 comments: true
 categories:
-- General Photography
-- Site News
 - film
 - Fuji
+- General Photography
 - Kodak Portra 160VC
 - Kodak Portra 400
 - Nikon
+- Site News
 ---
 Yes - I shoot film. I have been winding my way through a few long outdated bricks of Kodak Portra 160 VC. Love that stuff. As luck would have it I blew through my last roll this week and was simultaneously elected the event photographer for my communities Fourth of July celebration. Hmmmm...
 

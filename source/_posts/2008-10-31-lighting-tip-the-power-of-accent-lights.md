@@ -4,7 +4,6 @@ title: Lighting Tip - The Power of Accent Lights
 comments: true
 categories:
 - Articles
-- Lighting
 - background light
 - Lighting
 - softbox

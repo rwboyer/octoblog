@@ -3,8 +3,8 @@ layout: post
 title: F3 - Giveaway Update And A Question
 comments: true
 categories:
-- Site News
 - Nikon F3
+- Site News
 ---
 The smacked ass UPS driver delivered Nikon F3 No. 6 to a house down the road from me. Luckily I have honest neighbors. We'll let them continue to look, the sender/seller and myself as punishment.
 

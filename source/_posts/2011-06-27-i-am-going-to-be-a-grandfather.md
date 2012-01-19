@@ -3,13 +3,13 @@ layout: post
 title: I Am Going To Be A Grandfather
 comments: true
 categories:
-- Articles
-- General Photography
-- Site News
 - 50mm
+- Articles
 - film
+- General Photography
 - Kodak Portra 400
 - Nikon FM@
+- Site News
 ---
 Yep, No crap. As most parents would be, I am excited and worried all at the same time but I won't go into that. I will go into a little bit on how this relates to our collective photographic life. Specifically what to do and how to prepare yourself and the parents to be. Maybe a new camera or lens? What if they aren't really that photographically inclined? Maybe but one thing I am sure of is that you cannot ever have enough images of your family. The second thing I am sure of is that it's not a bad idea to use film, even if it's not your exclusive image capture medium - definitely use it.
 

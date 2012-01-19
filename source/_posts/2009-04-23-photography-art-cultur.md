@@ -3,11 +3,11 @@ layout: post
 title: Photography - I Love Art, I Cannot Stand The Art 'Culture'
 comments: true
 categories:
-- Articles
-- General Photography
 - Add new tag
 - art culture
+- Articles
 - auction record
+- General Photography
 - Lighting
 - limited edition
 - photography

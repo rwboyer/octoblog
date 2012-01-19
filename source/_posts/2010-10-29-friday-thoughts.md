@@ -3,9 +3,9 @@ layout: post
 title: Friday Thoughts
 comments: true
 categories:
-- Site News
 - Notebooks
 - quotes
+- Site News
 ---
 Sorry for leaving all of you Aperture users hanging for so long without a peep from me on all things Aperture 3.1 related. Also sorry to disappoint you with this post as I have nothing much to say about the upgrade... YET. I will tell you that I have had NO issues on any of my machines since upgrading and that from my perspective most people that have are probably not letting the upgrade process actually finish. It takes a while even though it's hard to tell that it's running - shame on Apple for not making this immediately apparent.
 

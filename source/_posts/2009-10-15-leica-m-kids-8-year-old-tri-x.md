@@ -3,11 +3,11 @@ layout: post
 title: Leica M - Kids - 8 Year Old TRI-X
 comments: true
 categories:
-- Articles
-- General Photography
 - 50mm
+- Articles
 - Black and White
 - film
+- General Photography
 - kids
 - Kodak
 - Leica M9

@@ -3,7 +3,6 @@ layout: post
 title: Aperture 3 - File Management Warning
 comments: true
 categories:
-- Apple Aperture
 - Aperture 3
 - Apple Aperture
 - backup

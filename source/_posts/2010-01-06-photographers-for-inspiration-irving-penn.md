@@ -3,11 +3,11 @@ layout: post
 title: Photographers For Inspiration - Irving Penn
 comments: true
 categories:
-- Articles
-- General Photography
 - art
+- Articles
 - Black and White
 - fashion
+- General Photography
 - inspiration
 - Irving Penn
 - portrait

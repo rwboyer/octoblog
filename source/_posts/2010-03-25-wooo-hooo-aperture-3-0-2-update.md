@@ -3,10 +3,9 @@ layout: post
 title: Wooo Hooo - Aperture 3.0.2 Update.
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture 3
 - Apple Aperture
+- Site News
 - Update
 ---
 If you haven't checked your updates today - you might want to. I told you these things would be coming out fast and furious now that the Aperture team is not so busy with the writing Aperture 3 in the first place. We'll have to see what this fixes but I will bet you it is more than the description tells us - like usual.

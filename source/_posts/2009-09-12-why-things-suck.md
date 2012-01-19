@@ -3,8 +3,8 @@ layout: post
 title: Why Things Suck
 comments: true
 categories:
-- Site News
 - funky mood
+- Site News
 ---
 I am in an extremely bad and funky mood today, so if you are not in the mood to commiserate on planetary and possibly intergalactic suck-y-ness then you may want to move on. So why do things suck? We'll after thinking about it for like 30 seconds, things suck because people are idiots combined with the recent evolution of just about everything being too cheap and too easy. I am not talking about a specific person, I am generally pretty tolerant in one on one cases, I am speaking about populations - just about any population, be it "photographers", "software developers", Â movie directors, whites, blacks, asians, republicans, democrats, etc.
 

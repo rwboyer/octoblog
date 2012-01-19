@@ -4,7 +4,6 @@ title: More On The GF1 And LX5
 comments: true
 categories:
 - General Photography
-- Micro 4:3
 - M43
 - Micro 4:3
 - Panasonic GF1

@@ -4,8 +4,8 @@ title: A Smattering Of Photographic Stuff
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Panasonic LX5
 - printing
 ---

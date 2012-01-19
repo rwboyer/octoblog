@@ -3,12 +3,11 @@ layout: post
 title: Aperture and Metadata Display
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Articles
 - Aperture 2
 - Aperture PDF Guides
 - Apple
+- Apple Aperture
+- Articles
 - interface customization
 - Metadata
 - Workflow

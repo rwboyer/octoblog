@@ -3,10 +3,10 @@ layout: post
 title: Aperture 2 Quick Tip - Naming Exported Images
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
+- Apple Aperture
+- Articles
 - file naming conventions
 - image versions
 - images sequences

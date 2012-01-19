@@ -3,10 +3,9 @@ layout: post
 title: MacBook Air Update
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - MacBook Air
 ---
 I know all  of you are waiting with bated breath to hear how well or poorly my new mini-me MacBook Air does with Aperture 3. The reason for the delay is simply FedEx/Federal Government cock-ups. Yes, it was committed for delivery on Weds but was swallowed up by the dreaded "clearance delay". Whenever you see that big red status on the FedEx tracking page, you could be in for a significant wait... Depending.

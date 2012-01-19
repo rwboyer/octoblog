@@ -3,15 +3,14 @@ layout: post
 title: Alternatives To The Mainstream
 comments: true
 categories:
-- Adobe Lightroom
-- Apple Aperture
-- Articles
-- General Photography
 - ACDSee
 - Adobe Lightroom
 - Aperture
 - Aperture 2
 - Apple
+- Apple Aperture
+- Articles
+- General Photography
 - Lightroom 2
 - Photo Mechanic
 - work-flow

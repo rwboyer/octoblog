@@ -3,10 +3,10 @@ layout: post
 title: Nikon - Using Old Lenses
 comments: true
 categories:
-- Articles
-- General Photography
 - AI
+- Articles
 - film
+- General Photography
 - Nikon
 - Non-AI
 ---

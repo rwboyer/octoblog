@@ -4,8 +4,8 @@ title: Shooting Film - Pyro Clarification And Notes
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Ilford HP5 plus
 - Kodak
 - Plus-X

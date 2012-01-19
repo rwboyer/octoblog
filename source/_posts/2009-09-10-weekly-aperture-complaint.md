@@ -3,16 +3,16 @@ layout: post
 title: Weekly Aperture Complaint
 comments: true
 categories:
-- Apple Aperture
-- General Photography
-- Lighting
 - announcement
 - Aperture
 - Apple
+- Apple Aperture
 - complain
 - dodge and burn
+- General Photography
 - glamour
 - image manipulation
+- Lighting
 - local adjustment
 - painting with light
 - Portrait Lighting

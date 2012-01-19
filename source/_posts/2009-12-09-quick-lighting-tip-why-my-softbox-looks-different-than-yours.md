@@ -4,10 +4,9 @@ title: Quick Lighting Tip - Why My Softbox Looks Different Than Yours
 comments: true
 categories:
 - Articles
-- General Photography
-- Lighting
 - fill light
 - flash
+- General Photography
 - Lighting
 - lighting ratio
 - reflectors

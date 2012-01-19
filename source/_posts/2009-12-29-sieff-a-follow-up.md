@@ -3,10 +3,10 @@ layout: post
 title: Sieff - A Follow-Up
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm
+- Articles
 - Black and White
+- General Photography
 - Jeanloup Sieff
 - large format
 - medium format

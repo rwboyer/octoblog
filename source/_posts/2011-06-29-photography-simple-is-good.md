@@ -4,8 +4,8 @@ title: Photography - Simple Is Good
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak Portra 160VC
 - leica m6
 - Leica M9

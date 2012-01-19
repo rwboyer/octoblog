@@ -4,8 +4,8 @@ title: Oh Crap I Am On A Binge - Another Lens
 comments: true
 categories:
 - Articles
-- General Photography
 - Foveon
+- General Photography
 - Sigma SD14
 ---
 You know that camera I ordered yesterday, the Sigma SD14. It came today. Yep, even with standard shipping. The <a href="http://www.amazon.com/gp/product/B0018ZDGAW/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B0018ZDGAW">50mm 1.4 EX DG</a> lens that I ordered didn't even ship yet. So what is a guy to do? For me, I still had a couple hundred bucks of found money laying around from not buying something else that was more expensive (see how that works?). I bought a <a href="http://www.amazon.com/gp/product/B00009N5IR/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B00009N5IR">Sigma 28 1.8 EX DG</a>. These things are dirt cheap. Now the focus is slow but who cares. The whole Sigma AF thing is crap in any case. I expidited the shipping and we'll see which one gets here first. I hope one of them arrives soon or might have to order something else absurd that I really can't afford and definitely don't need.

@@ -4,7 +4,6 @@ title: E-P1 vs GF1 Noise Comparison
 comments: true
 categories:
 - General Photography
-- Micro 4:3
 - M43
 - Micro 4:3
 - Olympus E-P1

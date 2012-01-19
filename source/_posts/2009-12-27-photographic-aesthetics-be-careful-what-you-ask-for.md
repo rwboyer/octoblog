@@ -3,12 +3,12 @@ layout: post
 title: Photographic Aesthetics - Be Careful What You Ask For
 comments: true
 categories:
-- Articles
-- General Photography
-- Lighting
 - aesthetic
+- Articles
 - beauty dish
 - detail
+- General Photography
+- Lighting
 - lighting ratio
 - resolution
 - tonal differentiation

@@ -4,8 +4,8 @@ title: More On Personal Photographic Projects
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Nikon FE
 - projects
 ---

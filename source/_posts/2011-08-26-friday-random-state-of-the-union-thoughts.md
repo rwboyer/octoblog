@@ -3,11 +3,11 @@ layout: post
 title: Friday - Random State of the Union Thoughts
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm f1.8 G
 - APS-C
+- Articles
 - Fuji X100
+- General Photography
 - Kodak
 - Nikon
 - Nikon D7000

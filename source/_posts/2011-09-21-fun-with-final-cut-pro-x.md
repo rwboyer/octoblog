@@ -4,9 +4,9 @@ title: Fun With Final Cut Pro X
 comments: true
 categories:
 - Articles
-- General Photography
 - FCP X
 - Final Cut Pro X
+- General Photography
 - Video
 ---
 Hey, I'm a guy, so when I get a brand spanking new, extremely complicated device like a new piece of software I don't read anything about it - like the instructions. I dive right in and do non-clinical testing. After I got done with <em>real</em> work today I chucked my very very first FCP X test together. Does it suck? Yes. Do I know what I am doing yet? Ummm, No. I can tell you that I learned a heck of a lot about the software in my tiny little bit of testing so it can't be that tuff to learn.

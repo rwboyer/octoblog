@@ -4,9 +4,9 @@ title: Kodak Ektalure Paper - Misadventures In Analog Photography
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - kodak ektalure
 - lith developer
 - paper

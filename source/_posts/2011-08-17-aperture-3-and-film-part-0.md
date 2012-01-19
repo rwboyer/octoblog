@@ -3,12 +3,11 @@ layout: post
 title: Aperture 3 and Film - Part 0
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Aperture 3
 - Apple Aperture
+- Articles
 - film
+- General Photography
 - work-flow
 - Workflow
 ---

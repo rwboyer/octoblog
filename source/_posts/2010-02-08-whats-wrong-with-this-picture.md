@@ -4,10 +4,9 @@ title: What's Wrong With This Picture?
 comments: true
 categories:
 - Articles
-- General Photography
-- Lighting
 - Color
 - fill
+- General Photography
 - key light
 - Lighting
 - placement

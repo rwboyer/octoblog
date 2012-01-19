@@ -4,8 +4,8 @@ title: Finding Inspiration - Strange
 comments: true
 categories:
 - Articles
-- General Photography
 - Fuji
+- General Photography
 - Instax
 - Polaroid
 - real film

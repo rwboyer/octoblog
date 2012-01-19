@@ -3,11 +3,11 @@ layout: post
 title: Fake Film Edges - Why They Bother Me
 comments: true
 categories:
-- Articles
-- General Photography
 - art
+- Articles
 - fake
 - film edges
+- General Photography
 - RAW
 - rebate
 ---

@@ -4,7 +4,6 @@ title: Great Portraits - Simple Lighting
 comments: true
 categories:
 - Articles
-- Lighting
 - gradation
 - great portraits
 - Lighting

@@ -3,9 +3,9 @@ layout: post
 title: Off Topic - Steve Jobs On Microsoft
 comments: true
 categories:
-- Site News
 - Apple
 - microsoft
+- Site News
 - steve jobs
 ---
 I know most of you are Apple users - my logs tell me so. Actually my analytics tells me 92.3% of you are Apple users. Hence I thought you might get a kick out of this while waiting for either the demise of Aperture or the second coming. I saw this about a million years ago on real TV somewhere - isn't YouTube great for finding things you kinda remember you kinda saw once upon a time.

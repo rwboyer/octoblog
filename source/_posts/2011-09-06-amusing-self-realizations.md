@@ -4,8 +4,8 @@ title: Amusing Self-realizations
 comments: true
 categories:
 - Articles
-- General Photography
 - commercial photography
+- General Photography
 - philosophy
 ---
 Ever have some amusing self-realizations? It doesn't happen often, when it does I am usually amused. This happens every once in a while - I had a friend some time ago that I often confounded, confused, frustrated, and angered because the way my head works and how I arrive at conclusions were so very different than the way she got to the same place. S0 why were we friends? Because of the very notion that we arrived at the same place. I never really took any of her frustration at my thought processes seriously. In fact I didn't really even understand what the hell she was talking about since my inner workings were so blatantly obvious to me and her thought processes were also blatantly obvious to me as well. So I really didn't "get it" that she didn't "get it" when it came to my completely insufficient explanations of my inner gear grinding.

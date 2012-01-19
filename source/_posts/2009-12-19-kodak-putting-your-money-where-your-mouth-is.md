@@ -4,9 +4,9 @@ title: Kodak - Putting Your Money Where Your Mouth Is
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - Kodak
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/12/2009_008_03_flat_rgb_1.jpg"><img title="2009_008_03_flat_rgb_1.jpg" src="/wp-content/uploads/2009/12/.thumbs/.2009_008_03_flat_rgb_1.jpg" border="0" alt="2009_008_03_flat_rgb_1.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>I posted a brief note on my follies searching for an 8x10 sheet film that was "cheaper" than my favorites from Kodak. I was testing Efke R100/PL100 due to the fact that I can get it for about half what I pay for Kodak. I started with the 120 R100 and also have a small box of 50 sheets of 4x5 PL100. I was not going to shell out $100 just to test. So here is what I have found.

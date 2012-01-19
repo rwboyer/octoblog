@@ -4,10 +4,10 @@ title: Never Saw This Light Before
 comments: true
 categories:
 - Articles
-- General Photography
 - atmospheric effects
 - critique group
 - flickr
+- General Photography
 - inspiration
 - landscape
 - rays of the sun

@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Places - Using A GPS
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - geotag
 - GPS
 - Places

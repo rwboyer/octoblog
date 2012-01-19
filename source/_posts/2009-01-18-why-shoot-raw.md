@@ -3,10 +3,10 @@ layout: post
 title: Why Shoot RAW
 comments: true
 categories:
-- Articles
-- General Photography
 - Aperture 2
 - Apple Aperture
+- Articles
+- General Photography
 - NEF RAW
 - RAW
 - RAW+JPG

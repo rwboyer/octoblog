@@ -3,12 +3,11 @@ layout: post
 title: Aperture Workflow Tip - Album Picks
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - album
 - album pick
 - Aperture 2
 - Apple Aperture
+- Articles
 - new version
 - Plug-in
 - work-flow

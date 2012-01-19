@@ -4,9 +4,9 @@ title: Things That Suck About Digital Photography
 comments: true
 categories:
 - Articles
-- General Photography
 - digital cameras
 - film
+- General Photography
 - manual focus
 ---
 That's a fairly harsh title. I am not sure if it is totally accurate in my meaning either. In any case let's just go with that title and expand the meaning a little with a few additional sentences. First addition - automatic functions that go hand in hand with digital also suck. Yes, of course you can turn them off or not use them but wait a  second and see what I am talking about here. All of this is coming from my continual self conflict in shooting with cameras I love - mostly film cameras vs. shooting digital with cameras I don't love so much and trying to get to the bottom of why I feel this way.

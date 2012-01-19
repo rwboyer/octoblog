@@ -3,9 +3,9 @@ layout: post
 title: A Tale of Two Images
 comments: true
 categories:
+- ACR
 - Articles
 - General Photography
-- ACR
 - landscape
 - NEF
 - Nikon D200

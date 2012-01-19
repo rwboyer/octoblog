@@ -6,7 +6,6 @@ categories:
 - Articles
 - General Photography
 - Lighting
-- Lighting
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/06/2001_051_23_nogain.jpg"><img title="2001_051_23_nogain.jpg" src="/wp-content/uploads/2009/06/.thumbs/.2001_051_23_nogain.jpg" border="0" alt="2001_051_23_nogain.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>We all know that mid-day is not the greatest time of day to be outside making images. Well maybe not everyone but most people that have been using a camera for more than a week. One reaction is either the conscious or subconscious decision not to make images during the mid-day doldrums. The other is to instantly turn on the auto fill flash - heck most consumer cameras automatically do this for you. For some of you searching to make better images at mid-day you can also go read up at some other sites on how to make use of old used hotshoe flashes for $4.25 and save a lot of money while looking at example images made in the Sahara desert with 14 assistants and 12 ganged SB-900 flashes, and a bunch of large diffusers, stands, etc.
 

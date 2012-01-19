@@ -3,11 +3,11 @@ layout: post
 title: The GF1 And LX5 Are Here!
 comments: true
 categories:
-- General Photography
 - ACR
 - Adobe Lightroom
 - Aperture 3
 - Apple Aperture
+- General Photography
 - Panasonic LX5
 - RAW
 - RAW+JPEG

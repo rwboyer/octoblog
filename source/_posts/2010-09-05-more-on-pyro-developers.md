@@ -4,8 +4,8 @@ title: More On Pyro Developers
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Ilford Delta 100
 - pyro
 - Pyrocat HD

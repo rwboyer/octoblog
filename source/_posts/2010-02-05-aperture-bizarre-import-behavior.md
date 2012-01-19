@@ -5,7 +5,6 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-- Apple Aperture
 - help
 - Import
 - issue

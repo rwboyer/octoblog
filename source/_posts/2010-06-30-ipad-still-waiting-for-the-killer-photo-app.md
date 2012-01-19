@@ -3,10 +3,10 @@ layout: post
 title: iPad - Still Waiting For "The Killer" Photo App
 comments: true
 categories:
-- Articles
-- General Photography
 - Aperture Lite
 - Apple
+- Articles
+- General Photography
 - iPad
 - Killer App
 ---

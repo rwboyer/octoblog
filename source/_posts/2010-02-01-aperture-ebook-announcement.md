@@ -3,14 +3,13 @@ layout: post
 title: Aperture eBook Announcement
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture
 - Aperture 2
 - Aperture 3
 - Apple Aperture
 - book tool
 - eBook
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/DSC_9697___Version_2__1_.jpg"><img title="DSC_9697___Version_2__1_.jpg" src="/wp-content/uploads/2010/02/.thumbs/.DSC_9697___Version_2__1_.jpg" border="0" alt="DSC_9697___Version_2__1_.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>I have received a bunch of encouragement and suggestions from people that have downloaded my Aperture eBooks. I thank everyone for their input. I do take it to heart. I have also received some questions about the "coming soon" eBooks.
 

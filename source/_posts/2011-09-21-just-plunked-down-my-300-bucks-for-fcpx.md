@@ -4,8 +4,8 @@ title: Just Plunked Down My 300 Bucks For FCPX
 comments: true
 categories:
 - Articles
-- General Photography
 - Final Cut Pro X
+- General Photography
 - Video
 ---
 Yep,

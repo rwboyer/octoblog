@@ -3,8 +3,8 @@ layout: post
 title: Guess What The Cat Drug In - A Foveon
 comments: true
 categories:
-- General Photography
 - Foveon
+- General Photography
 - Sigma DP1s
 - small cameras
 ---

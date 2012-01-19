@@ -3,9 +3,8 @@ layout: post
 title: Aperture 3 And Micro 4/3
 comments: true
 categories:
-- Apple Aperture
-- Micro 4:3
 - Aperture 3
+- Apple Aperture
 - M43
 - Micro 4:3
 - Olympus E-P1

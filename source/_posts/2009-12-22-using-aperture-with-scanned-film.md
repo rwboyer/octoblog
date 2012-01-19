@@ -3,13 +3,13 @@ layout: post
 title: Using Aperture With Scanned Film
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture
 - Aperture 2
 - Aperture 3
 - Aperture X
 - Apple
+- Apple Aperture
+- Articles
 - file size
 - film
 - scanned film

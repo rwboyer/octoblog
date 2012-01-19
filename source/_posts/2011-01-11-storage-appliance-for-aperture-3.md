@@ -3,10 +3,9 @@ layout: post
 title: Storage Appliance For Aperture 3
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - file management
 - storage
 ---

@@ -3,13 +3,12 @@ layout: post
 title: Color Spaces And Aperture 3
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- General Photography
 - Aperture 3
 - Apple Aperture
+- Articles
 - color management
 - color space
+- General Photography
 ---
 I have received a ton of questions regarding Aperture 3 color spaces over the last week or so. Been busy so I haven't posted a whole lot - sorry. Anyway... I am going to try to answer a gaggle of questions, throwing some Apple specific tidbits, and hopefully give you a healthy dose of confidence regarding color in one fell swoop of Super Simple Stuff™.
 

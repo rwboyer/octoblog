@@ -4,9 +4,9 @@ title: Pyro + Black and White Film = Great Highlights
 comments: true
 categories:
 - Articles
-- General Photography
 - Black and White
 - film
+- General Photography
 - pyro
 - Pyrocat HD
 ---

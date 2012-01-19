@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 and Sharpening. 
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - printing
 - Sharpening
 - work-flow

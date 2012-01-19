@@ -4,8 +4,8 @@ title: Metering And Exposure
 comments: true
 categories:
 - Articles
-- General Photography
 - exposure
+- General Photography
 - metering
 - stupid advise
 ---

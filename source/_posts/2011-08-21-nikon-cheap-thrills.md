@@ -4,8 +4,8 @@ title: Nikon Cheap Thrills
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak Portra 160VC
 - lenses
 - Nikon

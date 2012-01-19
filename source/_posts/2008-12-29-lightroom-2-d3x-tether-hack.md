@@ -4,8 +4,8 @@ title: Lightroom 2 - D3X - Tether Hack
 comments: true
 categories:
 - Adobe Lightroom
-- Articles
 - Apple
+- Articles
 - Automator
 - Camera Control Pro
 - d3x

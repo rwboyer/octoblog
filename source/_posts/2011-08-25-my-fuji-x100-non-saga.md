@@ -4,8 +4,8 @@ title: My Fuji X100 Non-Saga
 comments: true
 categories:
 - Articles
-- General Photography
 - Fuji X100
+- General Photography
 - Nikon D7000
 ---
 <a href="http://photo.rwboyer.com/2011/08/12/your-desert-island-lens/">Remember that lens poll from a week or so back that I posted</a>? I already mentioned that I had an ulterior motive - namely my own personal decision on dropping the cash for a <a href="http://www.amazon.com/gp/product/B0043RS864/ref=as_li_ss_tl?ie=UTF8&amp;tag=rbde-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B0043RS864">Fuji X100</a>. I came to a resolution on that matter and I wanted to share my own personal thought process with you as well as how the poll is related in some strange askew way to that decision.

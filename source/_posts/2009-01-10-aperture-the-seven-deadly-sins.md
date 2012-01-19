@@ -3,15 +3,14 @@ layout: post
 title: Aperture - The Seven Deadly Sins
 comments: true
 categories:
-- Apple Aperture
-- Articles
-- Lighting
-- Site News
 - adjustment
 - Aperture 2
 - Apple Aperture
+- Articles
+- Lighting
 - previews
 - RAW
+- Site News
 - Wor
 - work-flow
 ---

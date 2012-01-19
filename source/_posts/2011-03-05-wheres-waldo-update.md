@@ -4,9 +4,9 @@ title: Where's Waldo Update
 comments: true
 categories:
 - General Photography
-- Site News
 - Nikon F3
 - printing
+- Site News
 - work-flow
 - Workflow
 - workshop

@@ -4,8 +4,8 @@ title: Photographs vs. Illustration
 comments: true
 categories:
 - Articles
-- General Photography
 - bad taste
+- General Photography
 - photojournalism
 - photoshop
 - post-production

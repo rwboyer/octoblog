@@ -3,11 +3,10 @@ layout: post
 title: Small Strobes - Quick and Dirty Lesson
 comments: true
 categories:
-- Articles
-- General Photography
-- Lighting
 - ambient
+- Articles
 - flash
+- General Photography
 - Lighting
 - matrix metering
 - metering

@@ -4,8 +4,8 @@ title: Photography - State of the Union
 comments: true
 categories:
 - Articles
-- General Photography
 - books
+- General Photography
 - megapixels
 - prints
 ---

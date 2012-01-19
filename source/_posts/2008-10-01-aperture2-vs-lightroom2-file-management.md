@@ -5,8 +5,6 @@ comments: true
 categories:
 - Adobe Lightroom
 - Aperture vs Lightroom
-- Adobe Lightroom
-- Aperture vs Lightroom
 - Apple
 - Apple Aperture
 - master image

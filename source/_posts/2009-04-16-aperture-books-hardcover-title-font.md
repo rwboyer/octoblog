@@ -3,11 +3,11 @@ layout: post
 title: Aperture Books - Hardcover Title Font
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 2
 - Aperture Book Tool
 - Apple
+- Apple Aperture
+- Articles
 - spine title
 ---
 <a rel="lightbox" href="/wp-content/uploads/2009/04/Page_01.jpeg"><img title="Page_01.jpeg" src="/wp-content/uploads/2009/04/.thumbs/.Page_01.jpeg" border="0" alt="Page_01.jpeg" hspace="10" vspace="10" width="150" height="104" align="left" /></a>Just wanted to share a tidbit regarding Aperture hardcover book titles that another reader and I worked on via email last week. I took a couple of guesses about the strange and opaque process that happens after clicking "buy book" and my new online buddy Florian came up with a work-around for his issue that I thought was really cool.

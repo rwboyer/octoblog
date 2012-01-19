@@ -3,12 +3,12 @@ layout: post
 title: Breaking News - iTablet, iLife 10, iPhone OS4.
 comments: true
 categories:
-- Apple Aperture
-- Site News
 - Aperture
 - Aperture 3
 - Apple
+- Apple Aperture
 - iAperture
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/1999_026_10.jpg"><img title="1999_026_10.jpg" src="/wp-content/uploads/2010/01/.thumbs/.1999_026_10.jpg" border="0" alt="1999_026_10.jpg" hspace="10" vspace="10" width="100" height="150" align="left" /></a>Fox News says...
 

@@ -4,8 +4,8 @@ title: Yea - I Am A Sucker For These Rants
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Kodak Portra 160VC
 - Rant
 ---

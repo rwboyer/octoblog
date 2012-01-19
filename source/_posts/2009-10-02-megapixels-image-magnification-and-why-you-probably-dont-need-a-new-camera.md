@@ -4,8 +4,8 @@ title: Megapixels and Image Magnification
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - HP5 plus
 - medium format
 - megapixels

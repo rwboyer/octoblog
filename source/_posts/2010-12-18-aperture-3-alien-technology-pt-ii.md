@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 - Alien Technology Pt. II
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - SAN
 ---
 {% img http://photo.rwboyer.com/wp-content/uploads/2010/12/kids-in-cray1.jpg %}All I can see is "color me surprised". <a href="http://photo.rwboyer.com/2010/12/15/aperture-3-and-alien-technology/">That little poll I put out after a long and winding diatribe</a> has received way way more response than I expected. What's more is that a whopping 70% of respondents actually want to read a long boring eBook about the nitty gritty of forking around with all the bits and pieces of putting together a home-grown alien technology™ storage area network. I am also surprised at the number of people that think they might want to buy a black-box that just works. I had no idea there were that many people that are outrunning the simple way of doing things.

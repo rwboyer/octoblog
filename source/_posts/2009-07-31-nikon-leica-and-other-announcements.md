@@ -4,8 +4,8 @@ title: Nikon, Leica, and Other Announcements
 comments: true
 categories:
 - Articles
-- General Photography
 - Canon
+- General Photography
 - Leica S2
 - Nikon D300s
 ---

@@ -3,11 +3,11 @@ layout: post
 title: New Acquisition - Black And White And Other Thoughts
 comments: true
 categories:
-- Articles
-- General Photography
 - 35mm
+- Articles
 - Black and White
 - film
+- General Photography
 - HC110
 - Kodak TRI-X
 - Nikon FM2

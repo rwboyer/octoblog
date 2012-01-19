@@ -5,8 +5,8 @@ comments: true
 categories:
 - Apple Aperture
 - Articles
-- General Photography
 - camera rig
+- General Photography
 - Nikon D2h
 - phographer tools
 ---

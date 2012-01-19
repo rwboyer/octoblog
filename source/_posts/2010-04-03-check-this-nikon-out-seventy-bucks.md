@@ -3,8 +3,8 @@ layout: post
 title: Check This Nikon Out - Seventy Bucks
 comments: true
 categories:
-- General Photography
 - film
+- General Photography
 - manual focus
 - Nikon
 - Nikon FM@

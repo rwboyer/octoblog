@@ -4,8 +4,8 @@ title: Film Gear Prices Going Up?
 comments: true
 categories:
 - Articles
-- General Photography
 - film
+- General Photography
 - Nikon
 - Nikon FE
 - Nikon FM@

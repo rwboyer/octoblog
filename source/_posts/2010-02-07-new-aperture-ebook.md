@@ -3,9 +3,6 @@ layout: post
 title: New Aperture eBook
 comments: true
 categories:
-- Aperture PDF Guides
-- Apple Aperture
-- Site News
 - Aperture
 - Aperture PDF Guides
 - Apple Aperture
@@ -13,6 +10,7 @@ categories:
 - book tool
 - booksmart
 - eBook
+- Site News
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/02/Booktool.jpg"><img title="Booktool.jpg" src="/wp-content/uploads/2010/02/.thumbs/.Booktool.jpg" border="0" alt="Booktool.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Well it took a while but it's here. A new Aperture eBook. This one covers the Aperture book tool. If you have been following my posts you probably know how much I love making things with photos and how great I think the Aperture book tool is.
 

@@ -3,12 +3,12 @@ layout: post
 title: McNally Uses Aperture - Who Knew?
 comments: true
 categories:
-- Aperture vs Lightroom
-- Articles
 - Adobe
 - Adobe Lightroom
 - Aperture
+- Aperture vs Lightroom
 - Apple
+- Articles
 - Capture NX2
 - McNally
 - NEF

@@ -4,9 +4,9 @@ title: Flash Player Issues On OS X?
 comments: true
 categories:
 - Articles
-- General Photography
 - Final Cut Pro X
 - flash
+- General Photography
 - Nikon D7000
 - OS X
 - Video

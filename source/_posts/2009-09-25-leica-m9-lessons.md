@@ -3,9 +3,9 @@ layout: post
 title: Leica M9 Lessons
 comments: true
 categories:
+- ansel adams
 - Articles
 - General Photography
-- ansel adams
 - Leica M9
 - rangefinder
 ---

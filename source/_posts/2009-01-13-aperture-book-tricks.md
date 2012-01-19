@@ -3,11 +3,10 @@ layout: post
 title: Aperture Book Tricks
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 2
 - Aperture Book Tool
 - Apple Aperture
+- Articles
 ---
 <a href="/wp-content/uploads/2009/01/AQT___Text_on_Images.jpg"><img title="AQT___Text_on_Images.jpg" src="/wp-content/uploads/2009/01/.thumbs/.AQT___Text_on_Images.jpg" border="0" alt="AQT___Text_on_Images.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>About every seven minutes a question comes up on the Apple Aperture support forum that boils down to "How do I put text on images using Aperture". If I happen to see it I usually will try to walk the poor hapless victim through using the Aperture book feature to do it. I felt it might be useful for me to do that here for a couple of reasons. The first being - putting text on images with Aperture, the second and probably more important is perhaps getting people to think outside the box regarding how you might wire together a couple of Aperture's features to suit your own needs. Third - I love the book feature.<!--more-->
 

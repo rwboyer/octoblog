@@ -3,10 +3,9 @@ layout: post
 title: Aperture 3 Meets The Panasonic LX5
 comments: true
 categories:
-- Apple Aperture
-- Articles
 - Aperture 3
 - Apple Aperture
+- Articles
 - Panasonic LX5
 - RAW
 - RAW+JPEG
