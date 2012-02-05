@@ -3,7 +3,6 @@ layout: post
 title: Aperture 3 - Nikon D2H Presets
 comments: true
 categories:
-- adjustment
 - adjustments
 - Aperture 3
 - Apple Aperture

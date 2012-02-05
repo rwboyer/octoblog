@@ -7,7 +7,6 @@ categories:
 - Apple Aperture
 - Articles
 - book tool
-- collage
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/Snapz_Pro_XScreenSnapz003.jpg"><img title="Snapz_Pro_XScreenSnapz003.jpg" src="/wp-content/uploads/2010/01/.thumbs/.Snapz_Pro_XScreenSnapz003.jpg" border="0" alt="Snapz_Pro_XScreenSnapz003.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>An Aperture user over on the Apple discussion board wanted a way to print out "crops" of a single picture so that you you could print them out on 4x6 inch paper and paste them together to make a big picture. I interpreted this as an "art" project so I suggested the Aperture Book tool.
 

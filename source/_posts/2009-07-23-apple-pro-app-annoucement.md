@@ -3,7 +3,6 @@ layout: post
 title: Apple Pro App Annoucement
 comments: true
 categories:
-- annoucement
 - Aperture
 - Apple
 - Apple Aperture

@@ -3,7 +3,7 @@ layout: post
 title: Aperture Quick Tip - Lift and Stamp
 comments: true
 categories:
-- adjustment
+- adjustments
 - Aperture
 - Aperture 2
 - Apple Aperture

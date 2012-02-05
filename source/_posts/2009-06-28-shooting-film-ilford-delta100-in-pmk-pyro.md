@@ -6,7 +6,7 @@ categories:
 - 35mm
 - Articles
 - Black and White
-- Delta100
+- delta 100
 - film
 - film scan
 - General Photography

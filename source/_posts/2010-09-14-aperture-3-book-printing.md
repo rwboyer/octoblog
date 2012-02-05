@@ -4,7 +4,7 @@ title: Aperture 3 Book Printing
 comments: true
 categories:
 - Aperture 3
-- Aperture b
+- Aperture books
 - Aperture PDF Guides
 - Apple Aperture
 - Articles

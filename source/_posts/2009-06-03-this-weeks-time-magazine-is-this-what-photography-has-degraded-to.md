@@ -3,7 +3,6 @@ layout: post
 title: This Week's Time Magazine - Is This What Photography Has Degraded To?
 comments: true
 categories:
-- aweful
 - Bad portraits
 - bad taste
 - General Photography

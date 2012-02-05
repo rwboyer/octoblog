@@ -7,7 +7,7 @@ categories:
 - Apple Aperture
 - Articles
 - Capture NX2
-- Collor
+- color
 - NEF
 - Nikon
 - RAW

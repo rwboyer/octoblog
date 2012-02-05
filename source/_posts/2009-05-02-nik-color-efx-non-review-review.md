@@ -3,7 +3,7 @@ layout: post
 title: Nik Color EFX Non-Review Review
 comments: true
 categories:
-- adjustment
+- adjustments
 - Apple Aperture
 - Articles
 - enhancements

@@ -3,7 +3,6 @@ layout: post
 title: Weekly Aperture Complaint
 comments: true
 categories:
-- announcement
 - Aperture
 - Apple
 - Apple Aperture

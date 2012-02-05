@@ -5,7 +5,7 @@ comments: true
 categories:
 - 35mm
 - Articles
-- chromatic abberation
+- chromatic aberration
 - F2AS
 - film
 - General Photography

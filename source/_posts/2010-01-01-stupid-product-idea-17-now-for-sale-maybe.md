@@ -3,7 +3,6 @@ layout: post
 title: Stupid Product Idea #17 - Now For Sale (Maybe)
 comments: true
 categories:
-- analog photography
 - Black and White
 - Developer
 - film

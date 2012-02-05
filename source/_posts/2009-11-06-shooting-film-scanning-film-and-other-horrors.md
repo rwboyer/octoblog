@@ -3,9 +3,7 @@ layout: post
 title: Shooting Film - Scanning Film and Other Horrors
 comments: true
 categories:
-- analog
 - Articles
-- contrast manipulation
 - film
 - film grain
 - General Photography

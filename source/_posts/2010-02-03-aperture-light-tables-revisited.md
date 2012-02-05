@@ -3,7 +3,7 @@ layout: post
 title: Aperture - Light Tables Revisited
 comments: true
 categories:
-- album
+- albums
 - Aperture
 - Aperture books
 - Apple Aperture

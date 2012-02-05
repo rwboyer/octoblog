@@ -7,16 +7,15 @@ categories:
 - Apple Aperture
 - Articles
 - Capture One Pro
-- Color
+- color
 - contrast
-- Conversion
 - conversions
 - D700
 - General Photography
 - NEF
 - RAW
 - saturation
-- Sharpening
+- sharpening
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/ApertureVC1.jpg"><img title="ApertureVC1.jpg" src="/wp-content/uploads/2010/01/.thumbs/.ApertureVC1.jpg" border="0" alt="ApertureVC1.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>I just went through an exercise with a reader that was doing all his RAW NEF conversions in Capture One Pro prior to importing into Aperture because the RAW conversion was so much "better". The reality is that Aperture RAW processing is really really good. It just is neutral/flat out of the camera and juiced way way up by default without doing anything "out of the box" with Capture One Pro. Really.
 

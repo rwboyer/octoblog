@@ -3,7 +3,6 @@ layout: post
 title: MacBook Air Update - Finally
 comments: true
 categories:
-- 11.6
 - Aperture 3
 - Apple Aperture
 - Articles

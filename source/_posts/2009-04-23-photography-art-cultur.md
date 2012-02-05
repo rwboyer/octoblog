@@ -6,7 +6,6 @@ categories:
 - Add new tag
 - art culture
 - Articles
-- auction record
 - General Photography
 - Lighting
 - limited edition

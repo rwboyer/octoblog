@@ -4,7 +4,7 @@ title: The Sieff Book - My Apologies
 comments: true
 categories:
 - Black and White
-- book
+- books
 - General Photography
 - Jeanloup Sieff
 - Site News
