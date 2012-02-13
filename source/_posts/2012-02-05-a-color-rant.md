@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Tiny Rant On Color
+comments: true
 categories:
 - General Photography
 - color
@@ -9,7 +10,10 @@ Over the last couple of weeks I have posted a number of thoughts on color and co
 
 As I have already demonstrated tiny little adjustments not normally associated with changes to color in post can shift color around all over the map. Additionally, you may have deduced from the discussion on device profiles that in many ways reproducing "accurate" color can be an impossibility. We'll get more into that a little down the road. The whole point of this series of post is to give some of you a pragmatic approach to controlling color and hopefully remove some anxiety that a lot of photographers have with digital color reproduction. This is all in the name of de-mystification of the techno-crap and helping you to achieve what you yourself consider pleasing and beautiful from start to finish.
 
-Now for the rant part - it's been a little while. You may recall a previous rant on the state of photography podcasts and how full of crap a lot of them can be. You may think that I go off the rails every time I come across inconsistancies in what is portrayed as photographic "how-to's", instructional material, descriptions of lighting, process, etc. I don't. The relative frequency of how often I see this photo-hog-wash vs when I comment on it is about 0.0001%. From my perspective 95.9872% of everything out there is absolute bullshit. 
+<!--more-->
+
+Now for the rant part - it's been a little while. You may recall 
+[a previous rant](http://photo.rwboyer.com/2008/09/14/podcast-rant/) on the state of photography podcasts and how full of crap a lot of them can be. You may think that I go off the rails every time I come across inconsistancies in what is portrayed as photographic "how-to's", instructional material, descriptions of lighting, process, etc. I don't. The relative frequency of how often I see this photo-hog-wash vs when I comment on it is about 0.0001%. From my perspective 95.9872% of everything out there is absolute bullshit. 
 
 Some of it has to be intentional - some of it is unexplainable. I am not talking about *mistakes*, mistakes and inaccuracies happen, they are part of the human condition. I am referring to the almost constant regurgitaiton of misleading and worse than useless drivel that for some reason seems to be entrenched in just about everything uttered, spoken, written, published, or commented on as related to how to get from point A to the finished photograph. Some of it is pretty darn subtle which is even more dangerous and misleading.
 
