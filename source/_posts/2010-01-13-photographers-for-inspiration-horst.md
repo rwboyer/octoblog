@@ -9,7 +9,7 @@ categories:
 - General Photography
 - Horst
 - inspiration
-- portraiture
+- portrait
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/01/yw563.jpg"><img title="yw563.jpg" src="/wp-content/uploads/2010/01/.thumbs/.yw563.jpg" border="0" alt="yw563.jpg" hspace="10" vspace="10" width="118" height="150" align="left" /></a>Here is an oldie but goodie. You have probably seen at least one photograph by Horst in your lifetime, even if you had no idea who made it. You probably even remember it if you run across it again now that you know who it is. I looked at Horst the first time in my teens and have returned to his work over and over again. As with all of the photographers that I introduce in this series I never seem to get tired of the work.
 

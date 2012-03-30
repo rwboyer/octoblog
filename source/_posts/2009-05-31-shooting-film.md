@@ -12,7 +12,7 @@ categories:
 - film scanner
 - General Photography
 - nostalgia
-- portraits
+- portrait
 - sharpness
 - Zeiss
 ---
