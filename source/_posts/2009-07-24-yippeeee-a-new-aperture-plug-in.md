@@ -6,7 +6,6 @@ categories:
 - Aperture
 - Apple
 - Apple Aperture
-- free crap
 - Plug-in
 - Site News
 - twitter

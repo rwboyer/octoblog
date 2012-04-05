@@ -3,7 +3,6 @@ layout: post
 title: Aperture 2 Quick Tip - Referenced Masters and Previews
 comments: true
 categories:
-- Add new tag
 - Aperture
 - Aperture 2
 - Apple Aperture

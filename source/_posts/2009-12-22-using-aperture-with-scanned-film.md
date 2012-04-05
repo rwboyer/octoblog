@@ -6,7 +6,6 @@ categories:
 - Aperture
 - Aperture 2
 - Aperture 3
-- Aperture X
 - Apple
 - Apple Aperture
 - Articles

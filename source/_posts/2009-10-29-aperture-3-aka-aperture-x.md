@@ -3,7 +3,7 @@ layout: post
 title: Aperture 3 aka Aperture X
 comments: true
 categories:
-- Aperture 3. Aperture X
+- Aperture 3
 - Apple
 - Apple Aperture
 - Articles

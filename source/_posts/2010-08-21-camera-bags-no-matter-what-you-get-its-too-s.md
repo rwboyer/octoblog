@@ -7,7 +7,7 @@ categories:
 - Featured
 - General Photography
 tags:
-- camera bags
+- camera bag
 - cameras
 - cases
 - Gear

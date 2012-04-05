@@ -4,7 +4,7 @@ title: Things I Hate
 comments: true
 categories:
 - Articles
-- fine art photography
+- fine art
 - General Photography
 - photographic art
 - photographic artists

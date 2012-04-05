@@ -3,7 +3,7 @@ layout: post
 title: The Verdict Is In - I Am Completely Mad - Another Bag
 comments: true
 categories:
-- camera bags
+- camera bag
 - laptop bags
 - MacBook Air
 - Site News

@@ -5,7 +5,6 @@ comments: true
 categories:
 - critique
 - critique group
-- discourse
 - flickr
 - General Photography
 - photo enthusiasts

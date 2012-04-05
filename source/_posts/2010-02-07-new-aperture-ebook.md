@@ -6,7 +6,7 @@ categories:
 - Aperture
 - Aperture PDF Guides
 - Apple Aperture
-- blurb.com
+- blurb
 - book tool
 - booksmart
 - eBook

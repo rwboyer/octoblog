@@ -3,7 +3,6 @@ layout: post
 title: Aperture Quick Tip - Blue Folders and Projects
 comments: true
 categories:
-- Add new tag
 - Aperture 2
 - Aperture Blue Folder
 - Aperture Project

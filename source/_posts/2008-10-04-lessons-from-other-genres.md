@@ -3,7 +3,6 @@ layout: post
 title: Lessons From Other Genres
 comments: true
 categories:
-- Add new tag
 - Articles
 - General Photography
 - genres

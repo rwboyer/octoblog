@@ -3,7 +3,6 @@ layout: post
 title: Photography - I Love Art, I Cannot Stand The Art 'Culture'
 comments: true
 categories:
-- Add new tag
 - art culture
 - Articles
 - General Photography

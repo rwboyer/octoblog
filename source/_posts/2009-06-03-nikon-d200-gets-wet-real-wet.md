@@ -4,7 +4,6 @@ title: Nikon D200 Gets Wet, Real Wet
 comments: true
 categories:
 - D200
-- dead fish
 - General Photography
 - lot of water
 - Nikon

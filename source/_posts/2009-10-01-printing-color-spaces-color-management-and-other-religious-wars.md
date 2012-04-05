@@ -8,12 +8,12 @@ categories:
 - Apple
 - Apple Aperture
 - Articles
-- blurb.com
+- blurb
 - book
 - cmyk
 - color management
 - General Photography
-- InDesgin
+- InDesign
 - photoshop
 - printing
 - rgb
