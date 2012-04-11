@@ -8,7 +8,7 @@ categories:
 - Hasselblad
 - medium format
 - Micro 4:3
-- Nikon
+- Nikon D7000
 - Panasonic 20mm
 - Panasonic GF-1
 ---

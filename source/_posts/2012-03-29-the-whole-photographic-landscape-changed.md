@@ -8,7 +8,7 @@ categories:
 - printing
 - print
 - Nikon
-- D7000
+- Nikon D7000
 - D800
 - D4
 - fuji
