@@ -9,7 +9,10 @@ categories:
 - General Photography
 - Lighting
 ---
-<a rel="lightbox" href="/wp-content/uploads/2009/06/DSC0072.jpg"><img title="DSC0072.jpg" src="/wp-content/uploads/2009/06/.thumbs/.DSC0072.jpg" border="0" alt="DSC0072.jpg" hspace="10" vspace="10" width="150" height="150" align="left" /></a>Just to test the waters here I thought I would post a basic tutorial on how to get started in "fine art" photography. If there is enough interest I will go into some of the more advanced techniques for both this style and cover some other styles as well. I wanted to start simple as not to intimidate anyone considering this is really serious stuff as the term "fine art" is intimidating enough.
+
+{% img /wp-content/uploads/2009/06/DSC0072.jpg %}
+
+Just to test the waters here I thought I would post a basic tutorial on how to get started in "fine art" photography. If there is enough interest I will go into some of the more advanced techniques for both this style and cover some other styles as well. I wanted to start simple as not to intimidate anyone considering this is really serious stuff as the term "fine art" is intimidating enough.
 
 Okay let's dive right in and get right to the meat of it. You can start with any old image I happen to like naked people and this is one of the tougher subjects to get right and really demands a lot of the things that this lesson covers. You can start out with a tree, or a roll of toilet paper if you want but make sure that it is old or broken. Naked people don't have to be old or broken as an exception to the rule. So hereÂ  goes:
 <ol>
