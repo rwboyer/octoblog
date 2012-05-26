@@ -7,7 +7,7 @@ categories:
 - General Photography
 - manual focus
 - Nikon
-- Nikon FM@
+- Nikon FM
 ---
 <a rel="lightbox" href="/wp-content/uploads/2010/04/DSC_1037___Version_2.jpg"><img title="DSC_1037___Version_2.jpg" src="/wp-content/uploads/2010/04/.thumbs/.DSC_1037___Version_2.jpg" border="0" alt="DSC_1037___Version_2.jpg" hspace="10" vspace="10" width="150" height="101" align="left" /></a>This has to be the best condition, least used, camera I have ever seen that was not bought and hoarded by a "collector".  This is a Nikon FM, not an FM2 which means that it was made between 1977 and 1982. That is really old and this is a black paint version - yep that is black paint over brass - not plastic and not anodized. Typically cameras that have had more than a couple rolls of film through them and actually shot have "brassing" this one has NONE. Unbelievable. Regular FM's in black are a whole lot fewer than chrome - black examples this clean are ultra rare.
 

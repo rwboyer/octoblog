@@ -10,7 +10,7 @@ categories:
 - leica m6
 - Leica M9
 - Nikon FE
-- Nikon FM@
+- Nikon FM
 ---
 Yesterday <a href="http://photo.rwboyer.com/2011/06/28/new-nikon-digital-camera-annoucement/">I wrote a spoof post announcing a new Nikon DSLR</a> with an image of a Nikon FE and a 60's vintage 50mm f 1.4 lens. I wanted it to cost somewhere south of 1000 bucks, have extremely simple controls, and very limited options. All kidding aside - I might buy something like this if the price were right. I definitely know that there would be a substantial number of people that would buy it for $5000 as well. How do I know that? Look at the number of people who buy the $7000-$8000 Leica M9 with about the same set of features. I of course did not. Why should I - I have a couple of M cameras that are perfectly good and continue to use. Do I have the NEED to upload my images the moment they are made? No. Do I like the way various films render color and tone better than digital in a lot of cases? Yes.
 
