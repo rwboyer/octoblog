@@ -13,6 +13,8 @@ I bring up how much I like contact sheets fairly often. I find them amazing thin
 
 In most cases I will print a contact sheet using one of a few different tools that make this easy. I also continue to print the actual images at relatively small sizes on the sheet. Maybe not quite as small as they would be if the were 35mm film but certainly not any fewer than 10 images on an 8.5x11 sheet of paper. In cases where I cannot print a contact sheet, like when I am working with another photographer, I simulate using one by doing an initial evaluation looking at a grid view of smallish thumbnails in Adobe Bridge, Lightroom, or Aperture.
 
+<!--more-->
+
 I like evaluating them in context to one another. I also find that I am less likely to be enamored and distracted by micro-technical-crap (what most of the conversation regarding image quality is today) that are mostly irrelevant to the *quality* of the image. This is why I like them from a practical viewpoint. 
 
 From a viewpoint on how practicing on producing a good contact sheet might help you improve your photography [I offered an exercise a few weeks ago](http://photo.rwboyer.com/2012/04/27/friday-photographic-challenge/). I wonder if anyone tried it. If you did and were horrified by the results that is not a bad thing. Keep doing it until your virtual contact sheets of 36 images are actually good. You might actually find it easier to do this if you use real film and have a hard constraint of 36 images for any given endeavor or mini-project. I certainly do.
