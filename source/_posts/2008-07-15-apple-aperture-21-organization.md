@@ -20,7 +20,7 @@ categories:
 ---
 <a href="/wp-content/uploads/FromIweb/screen_capture.jpg"><img title="screen_capture.jpg" src="/wp-content/uploads/FromIweb/.thumbs/.screen_capture.jpg" border="0" alt="screen_capture.jpg" hspace="10" vspace="10" width="150" height="94" align="left" /></a>Update - This post was the original post from a discussion I had in the Apple support forum a long long time ago. I did put a free PDF together that was downloaded about 10,000 times. I had so many suggestions and questions that I decided to make a much larger more comprehensive version. It covers far far more and provides a ton of useful work-flow tips and examples on how to be extremely efficient. Even if you have been using Aperture for years you will probably find a lot of things in the new Organization eBook that you might not have even thought about. Sadly the new version is not free but I can tell you that I surveyed everything else out there and you will not find a better or more advanced discussion of Aperture's organizational capabilities. Here is the link to the new illustrated more comprehensive Guide to Aperture 2 Organization eBook PDF:
 
-<a href="http://photo.rwboyer.com/aperture-ebooks/">Aperture eBooks</a>
+[Aperture eBooks](http://store.rwboyer.com/)
 
 Oh one more thing - just because it is only five bucks doesn't mean it's not better than other way more expensive resources. It is - in most cases you will learn more from this guide than reading everything else out there in print and on the web. This is not a regurgitation of the Aperture documentation and this is not a book for dummies. Consider me an extremely value conscious Robin Hood.
 

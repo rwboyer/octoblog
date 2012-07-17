@@ -21,6 +21,6 @@ Okay what kind of stuff did I add - mostly just tidbits. Like how to deal with t
 
 Seriously if you understood everything I wrote on organization on this site you don't need it. If you want some of it explained a little differently and all put together in one spot it might be what you are looking for. If you don't have the old Aperture Organization Guide - You need this!
 
-<a href="http://photo.rwboyer.com/aperture-ebooks/">Get your brand spanking new Aperture eBooks while they last right here</a>.
+[Get your brand spanking new Aperture eBooks while they last right here](http://store.rwboyer.com/).
 
 RB

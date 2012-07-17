@@ -22,7 +22,7 @@ I think it is good for people that have never used the book tool as well as thos
 
 Even though I provide a few step by step examples to reinforce the topics discussed, I included some bonus content as well. A couple of screencasts that walk through the first few examples and one of the Automator workflows that I discuss, just so you don't have to use Automator itself if you don't want to.
 
-Take a look <a href="http://photo.rwboyer.com/aperture-ebooks/">Aperture eBooks</a>.
+Take a look [Aperture eBooks](http://store.rwboyer.com/).
 
 Enjoy
 

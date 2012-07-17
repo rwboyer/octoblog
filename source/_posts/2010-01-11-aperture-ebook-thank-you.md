@@ -11,7 +11,6 @@ tags:
 - Aperture
 - eBook
 - PDF guides
-featured: /wp-content/uploads/2010/01/2000-067-10-880-260x100.jpg
 ---
 {% img right http://photo.rwboyer.com/wp-content/uploads/2010/01/2000-067-10_1.jpg %} I just wanted to give a quick Thank You to all of you that have given support and feedback about the first couple of Aperture eBooks. I am glad that all of you that have written me have found them worthwhile and more than you expected. I also appreciate all of the ideas and suggestions given regarding future eBooks on Aperture.
 
@@ -42,5 +41,7 @@ Derek Story's excellent DVD from *Lynda.com* gave me a solid foundation in Apert
 {% endblockquote %}
 
 Okay okay enough already - Thank you all. Now I have to get back to the darkroom where I am continually humbled by simple particles of silver that are not so generous with the feedback and are much more intolerant and demanding task masters than all of you.
+
+Oh, in case you didn't see the link at the top of the page you can [get the Aperture 3 eBooks here](http://store.rwboyer.com/).
 
 RB
