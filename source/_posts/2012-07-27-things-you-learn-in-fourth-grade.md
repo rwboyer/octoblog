@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinks You Learn In Fourth Grade
+title: Things You Learn In Fourth Grade
 comments: true
 categories:
 - General Photography
