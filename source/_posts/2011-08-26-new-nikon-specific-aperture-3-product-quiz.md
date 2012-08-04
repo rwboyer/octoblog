@@ -18,6 +18,6 @@ If there is a demand out there I will be glad to put the time in to post presets
 
 So here goes - anyone interested in paying a couple bucks for Nikon D7000 Picture Control presets for Aperture 3? These will be camera specific - not those ones you see that allegedly cover all cameras that really don't cover any of them well.
 
-[poll id="28"]
+[The Nikon Picture Control presets for Aperture 3 are here.](http://store.rwboyer.com)
 
 RB

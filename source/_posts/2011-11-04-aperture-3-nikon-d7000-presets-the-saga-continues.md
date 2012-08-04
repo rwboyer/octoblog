@@ -19,6 +19,6 @@ So... I give up. No one set of "standard, vivid, neutral, portrait, and landscap
 
 About the only thing that might at all be interesting to you as a consolation prize is the gamma/contrast curves that I use to match Nikon Picture controls - unfortunately this only goes half way. If anyone is interested in just the gamma/contrast/saturation presets without the color I will go through the trouble of posting them for purchase for like a buck or something (need to pay for bandwidth somehow...) please let me know - and sorry I cannot move this particular mountain...
 
-[poll id="29"]
+[The final Nikon Picture Control presets for Aperture 3 are here.](http://store.rwboyer.com)
 
 RB

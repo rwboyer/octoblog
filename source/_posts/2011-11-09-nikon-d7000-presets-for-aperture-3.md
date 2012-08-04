@@ -21,8 +21,6 @@ If you decide that you want these presets please understand that I consider thes
 
 Here goes...
 
-Remember - after the transaction please use the link "return to merchant" in order to download the presets.
-<h2>Only $4.99 - With Free Updates!</h2>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> <input name="cmd" type="hidden" value="_s-xclick" /> <input name="hosted_button_id" type="hidden" value="447BGCUXRWBC2" /> <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /><img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" alt="" width="1" height="1" />
+[You can get the Nikon presets for Aperture 3 here](http://store.rwboyer.com)
 
-</form>RB
+RB

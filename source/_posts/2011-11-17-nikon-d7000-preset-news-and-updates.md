@@ -23,6 +23,6 @@ What does this have to do with presets? Well I have a bunch of presets that I us
 
 I have also sort of mimicked these DNG profiles in Aperture as much as possible - which is not the same but good enough for a visual impression. Here is the question - are any of you interested in the DNG profiles for film simulation? How about the not quite as good Aperture 3 presets that correspond to those? The DNG profiles are camera specific so they will only work for Nikon and any other cameras that I develop them for. The Aperture 3 presets are not really that specific. Let me know if you are interested in these - I don't want to go through the considerable effort of packaging them in a friendly form if I am the only one that likes the way film renders color.
 
-[poll id="31"]
+[Nikon presets for Aperture 3 are here.](http://store.rwboyer.com)
 
 RB

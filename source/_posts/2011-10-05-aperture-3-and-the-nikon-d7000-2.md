@@ -9,7 +9,7 @@ categories:
 - NEF
 - Nikon D7000
 ---
-Once upon a time somebody complained about how far off Aperture 3's NEF processing was. That was me. Actually I complained about it incesantly since Aperture V1. My very very very first post to the Apple Aperture community forum way way back years ago was about how far off Aperture's RAW decode was in terms of color from that of Nikon's.
+Once upon a time somebody complained about how far off Aperture 3's NEF processing was. That was me. Actually I complained about it incessantly since Aperture V1. My very very very first post to the Apple Aperture community forum way way back years ago was about how far off Aperture's RAW decode was in terms of color from that of Nikon's.
 
 Fast forward. I get a brand new Nikon D7000 and no surprise, Aperture 3's color is still way off. The blue's are too cyan, the greens are too yellow, the yellows are too green, etc, etc. Pretty much the same formula that has been NEF processing in Aperture since the dawn of time. Yes the amount they are off, the degree to which they render in terms of saturation and density are again different but they are still the same general recipe.
 
