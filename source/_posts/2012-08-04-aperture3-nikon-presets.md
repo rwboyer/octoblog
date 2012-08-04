@@ -8,7 +8,7 @@ categories:
 - Aperture 3
 - Presets
 ---
-{% img  /images/2012/07/Nikon.jpg %}
+{% img  /images/2012/07/nikon.jpg %}
 
 I rarely do any sort of self-promotion or hard sales pushes for products that I offer here, it's just not my thing. Heck I don't even have any sort of auto linker for a few of the affiliate programs that I participate in. No cookie stuffing, no rows of seizure inducing flashing click-me icons in the sidebar etc. Don't expect things like that anytime soon - just not my style.
 

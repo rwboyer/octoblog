@@ -1,27 +1,37 @@
 ---
 layout: post
-title: Nikon Presets For Aperture 3
+title: Things You Learn In Fourth Grade
 comments: true
 categories:
 - General Photography
-- Apple Aperture
-- Aperture 3
-- Presets
+- Printing
+- Design
 ---
-{% img  /images/2012/07/Nikon.jpg %}
+{% img  /images/2012/07/DSCF4340.jpg %}
 
-I rarely do any sort of self-promotion or hard sales pushes for products that I offer here, it's just not my thing. Heck I don't even have any sort of auto linker for a few of the affiliate programs that I participate in. No cookie stuffing, no rows of seizure inducing flashing click-me icons in the sidebar etc. Don't expect things like that anytime soon - just not my style.
-
-Having said that I do want to mention briefly mention a couple of things that do have to do with products I have for sale along with a few updates. Specifically related to things I have changed on the site over the last few weeks. They are not obvious so I thought I would take a minute to explain them.
+Just a quick update on the large installation project I am working on. As you know I like making things that you can actually touch - like prints. Hence my involvement with this project. I thought a couple of you might find this not only amusing but also a possible kick start to things rattling around in your head.
 
 <!--more-->
 
-First - availability and location of my infamous Nikon D7000 presets for Aperture 3. For a very long time I have had these buried inside a post that is almost impossible to find among the dozens of posts I have related to the D7000. This was on purpose as I really wanted to limit distribution of them until I received what I consider an appropriate amount of feedback from people that used them. It's been a long time but I think I have reached that point so… [The Nikon Picture Control presets are now available in my tiny little store](http://store.rwboyer.com). 
+One of the pieces that we are producing for the project is an extremely large mural. To be precise the mural will be 9 feet high and 30 feet wide in the form of wall paper. Although that particular wall is the centerpiece, there is a similar wall at the opposite end of the room as well as 3 columns that need adornment as well. Two of the columns are 4 feet on each side and one of them three feet on each side.
 
-The feedback I have received about the D7000 presets has been positive and in some cases surprising. I seems that there have been more than a few people that have downloaded them specifically to use with Nikon DSLR's other than the D7000. Guess what - they like them and from some of the results they have shared with me they seem to work just as well with all newer Nikon cameras. Specifically just about anything that came after the Nikon D3100. Namely the Nikon D3100, D3200, D5100, D800, etc. There also have been people that have liked what they do for the D700 as well. I can tell you they will be way off for anything prior to Nikon cameras with *Picture Control* so don't even try them. From what I have seen they do work reasonably well with any Nikon DSLR that has *Picture Control* but are optimized and a little different for cameras made after the D3100.
+It took quite a bit of work and multiple excursions to produce the image to meet our goals. One of the goals was that the mural had *photographic* detail even when standing right next to it. Without going into every specific challenge and detail of the planning and shooting we settled on a target resolution of 200dpi when enlarged to wall size. Let me save you the math of the situation - that required about two dozen individual pieces be stitched together (a multi row pano) - shot with a D800, 300mm lens from about a mile away.
 
-Running a distant second I have attempted to go through the entire site with a fine toothed comb to weed out any of the old direct paypal links for my Aperture 3 ebooks. When I chucked WordPress out on it's ass at the end of 2011 there was some fallout - and a few people that purchased my eBooks found them through very very old pages that no longer worked properly causing some level of distress - mostly for me as I had to deliver the eBooks manually. After a lot of tedious work, any eBook related pages should now link to the new and officially approved [store](http://store.rwboyer.com) or specific store pages.
+Once we had finalized the decision on a cityscape at twilight for the big image but had quite a few debates on how to handle the columns. One of the options in the list of things being discussed was to simply use the same image as the large wall. Some careful line-of-site calculations given the dimensions of the room and location of the columns provided an twist to that solution. Specifically to give the image a 3D look by using precise pieces of the larger image and placing them carefully on the columns so that the images lined up carefully at specific points of view within the space as well as gave an illusion of changing as you walked from one side to the other and various sides of the column revealed themselves as you moved your point of view. 
 
-We now return to our regularly scheduled programming.
+One of the personal challenges I had with the design was how to make other people - namely the people in charge of the project and facilities to really *get it*. The featured artist() for the installation much rather be out and about in the wilder places in the world than messing about with this kind of thing and has worked with me enough to go along for the ride when I say things like "trust me - this will be cool". Not so much for the administrators and project managers where this will be installed.
+
+After thinking about it for a few minutes and lamenting the time it would take to build a virtual 3d version of the room using Photoshop and a few other tools - something we had never planned on - a simple solution presented itself. Something most of us did in primary school. What we needed was a diorama. Maybe not as high-tech as a 3d VR rendering but quite possibly more effective. It took only a few minutes to print out and paste together the components pictured at the top of the post at the scale of 1 inch = 1 foot. I thought that scale would make it easy for the facility people to lay it out themselves based on the blueprint dimensions.
+
+Please excuse the substandard photography, the shooting conditions were, ummmmm, less than optimal. I even included a human sized figure to better see the scale of the room against the artwork.
+
+{% img  /images/2012/07/DSCF4325.jpg %}
+
+Here is a slightly different view after I engineered a self standing figurine from a paperclip.
+
+{% img  /images/2012/07/DSCF4338.jpg %}
+
+Sadly the carefully selected figure was not used in the presentation. Heck the photographer wouldn't even use a plastic dinosaur. In any case the diorama was a hit and all design work was approved and is going forward. I'm making additional pieces to add to their collection this week to show the opposite wall and additional column. I think that solution is pretty creative as well to tie this all together.
 
 RB
+
