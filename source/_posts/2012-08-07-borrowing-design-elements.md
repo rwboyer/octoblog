@@ -33,8 +33,6 @@ The embedded strip with the denomination of the note. My take using this paper w
 
 The word "TEN" printed at a low opacity that is actually made up of little tiny repeating "original" text offset at angle. This is actually hard to see in these photographs because it verges on needing a magnifying glass in real life. That low opacity "TEN" provides the background for the next couple of elements. The signature but instead of a reproduciton signature - this is a real one done by the photographer - and one of those security hologram stickers that is tamper proof.
 
-{% img  /images/2012/07/nikon.jpg %}
-
 The treatment of the assocated image is also very subtle with a slightly larger very low opacity version with an oval fade serving as a container for the smaller full opacity version. The image title, location, and small paragraph of material specifications, etc. are all done in various shades of a very serious gray and a corresponding very serious serif font.
 
 I'm not saying that my take on it is the best - or even as good as it could be. I just wanted to share some of the way my gears grind hoping that it might help you think in a different direction on some of your design and production endeavors. At least I know these won't look like any other photographers's COAs.
