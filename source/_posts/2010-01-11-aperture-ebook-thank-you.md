@@ -11,6 +11,7 @@ tags:
 - Aperture
 - eBook
 - PDF guides
+featured: /wp-content/uploads/2010/01/2000-067-10-880.jpg
 ---
 {% img right http://photo.rwboyer.com/wp-content/uploads/2010/01/2000-067-10_1.jpg %} I just wanted to give a quick Thank You to all of you that have given support and feedback about the first couple of Aperture eBooks. I am glad that all of you that have written me have found them worthwhile and more than you expected. I also appreciate all of the ideas and suggestions given regarding future eBooks on Aperture.
 
