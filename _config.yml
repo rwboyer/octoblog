@@ -72,6 +72,10 @@ twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
 
+# Twitter-card
+twitter_site: '@rwboyer'
+twitter_creator: '@rwboyer'
+
 # Google +1
 google_plus_one: false
 google_plus_one_size: medium
