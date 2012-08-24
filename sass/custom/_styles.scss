@@ -17,21 +17,26 @@ body > header {
 body > header hgroup {
   height: 40px;
   position: absolute;
+  padding-top:  5px;
 }
 
 body > header h1 {
   display: inline;
   font-size: 1.2em;
-  line-height: 1.2em;
-  vertical-align: bottom; 
+  vertical-align: middle;
+  margin: auto;
 }
 
 body > header hgroup ul.main-navigation {
   display: inline;
+  margin-top:0px;
   margin-bottom: 0px;
   margin-left: 0px;
+  padding-top:0; 
   padding-left: 10px;
   text-align: left;
+  vertical-align: middle;
+  margin: auto;
 }
 
 body header hgroup li {
@@ -39,15 +44,12 @@ body header hgroup li {
   padding-left: 10px;
   font-size: 0.8em;
   line-height: 1.2em;
-  vertical-align: bottom;
   list-style: none;
 }
 
 body header hgroup a {
-  font-size: 0.8em;
-  line-height: 1.2em;
+  font-family: "anivers-sc";
   text-decoration: none;
-  vertical-align: bottom;
 }
 body header hgroup a:link { color: #DEDEDE; }
 body header hgroup a:visited { color: #DEDEDE; }
@@ -56,24 +58,28 @@ body header hgroup a { @include transition(color .3s); }
 
 body > header hgroup form {
   display: inline;
-  vertical-align: bottom; 
+  vertical-align: middle;
+  margin: auto;
 }
 
 body > header hgroup fieldset {
   display: inline;
-  vertical-align: bottom; 
+  //vertical-align: bottom; 
 }
 
 body > header hgroup input {
   display: inline;
-  vertical-align: bottom; 
+  //vertical-align: bottom; 
 }
 
 body > nav{
   background: #FFFFFF;
   visibility: hidden;
 }
-
+#content article{
+  font-size: 1.4em;
+  font-weight: 400;
+}
 #content .blog-index article h1.entry-title {
   font-size: 1.2em;
 }
@@ -82,8 +88,19 @@ body > nav{
   font-size: 1.2em;
 }
 
-#blog-archives h1{
-  font-size: 1.2em;
+#content .meta{
+  font-size: 0.6em;
+}
+
+#blog-archives {
+  font-size: 0.6em;
+  footer, a.category{
+    font-family: "chaparral-pro-web";
+  }
+}
+
+aside h1{
+  font-family: "anivers-sc";
 }
 
 aside.sidebar img.side{
